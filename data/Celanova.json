@@ -4426,5 +4426,23 @@
         "IA7": "212.426978226235",
         "IA7_min": null,
         "IA7_max": null
+    },
+    {
+        "fecha": "2021-07-25",
+        "codigo_municipio": "32024",
+        "municipio": "Celanova",
+        "habitantes": "5649",
+        "casos_14d": "26",
+        "casos_14d_min": null,
+        "casos_14d_max": null,
+        "IA14": "460.258452823509",
+        "IA14_min": null,
+        "IA14_max": null,
+        "casos_7d": "15",
+        "casos_7d_min": null,
+        "casos_7d_max": null,
+        "IA7": "265.533722782793",
+        "IA7_min": null,
+        "IA7_max": null
     }
 ]

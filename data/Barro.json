@@ -4426,5 +4426,23 @@
         "IA7": "434.782608695652",
         "IA7_min": null,
         "IA7_max": null
+    },
+    {
+        "fecha": "2021-07-25",
+        "codigo_municipio": "36002",
+        "municipio": "Barro",
+        "habitantes": "3680",
+        "casos_14d": "20",
+        "casos_14d_min": null,
+        "casos_14d_max": null,
+        "IA14": "543.478260869565",
+        "IA14_min": null,
+        "IA14_max": null,
+        "casos_7d": "14",
+        "casos_7d_min": null,
+        "casos_7d_max": null,
+        "IA7": "380.434782608696",
+        "IA7_min": null,
+        "IA7_max": null
     }
 ]

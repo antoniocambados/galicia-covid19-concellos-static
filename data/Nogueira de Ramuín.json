@@ -4426,5 +4426,23 @@
         "IA7": null,
         "IA7_min": "50.05005005005",
         "IA7_max": "450.45045045045"
+    },
+    {
+        "fecha": "2021-07-25",
+        "codigo_municipio": "32052",
+        "municipio": "Nogueira de Ramu\u00edn",
+        "habitantes": "1998",
+        "casos_14d": "12",
+        "casos_14d_min": null,
+        "casos_14d_max": null,
+        "IA14": "600.600600600601",
+        "IA14_min": null,
+        "IA14_max": null,
+        "casos_7d": null,
+        "casos_7d_min": "1",
+        "casos_7d_max": "9",
+        "IA7": null,
+        "IA7_min": "50.05005005005",
+        "IA7_max": "450.45045045045"
     }
 ]

@@ -4426,5 +4426,23 @@
         "IA7": "273.972602739726",
         "IA7_min": null,
         "IA7_max": null
+    },
+    {
+        "fecha": "2021-07-25",
+        "codigo_municipio": "15036",
+        "municipio": "Ferrol",
+        "habitantes": "66065",
+        "casos_14d": "323",
+        "casos_14d_min": null,
+        "casos_14d_max": null,
+        "IA14": "488.912434723379",
+        "IA14_min": null,
+        "IA14_max": null,
+        "casos_7d": "180",
+        "casos_7d_min": null,
+        "casos_7d_max": null,
+        "IA7": "272.458941951109",
+        "IA7_min": null,
+        "IA7_max": null
     }
 ]

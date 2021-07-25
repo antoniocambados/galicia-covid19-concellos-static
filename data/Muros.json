@@ -4426,5 +4426,23 @@
         "IA7": "537.634408602151",
         "IA7_min": null,
         "IA7_max": null
+    },
+    {
+        "fecha": "2021-07-25",
+        "codigo_municipio": "15053",
+        "municipio": "Muros",
+        "habitantes": "8556",
+        "casos_14d": "65",
+        "casos_14d_min": null,
+        "casos_14d_max": null,
+        "IA14": "759.700794763908",
+        "IA14_min": null,
+        "IA14_max": null,
+        "casos_7d": "52",
+        "casos_7d_min": null,
+        "casos_7d_max": null,
+        "IA7": "607.760635811127",
+        "IA7_min": null,
+        "IA7_max": null
     }
 ]

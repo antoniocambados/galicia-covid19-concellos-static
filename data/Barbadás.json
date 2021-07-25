@@ -4426,5 +4426,23 @@
         "IA7": "443.96122134638",
         "IA7_min": null,
         "IA7_max": null
+    },
+    {
+        "fecha": "2021-07-25",
+        "codigo_municipio": "32008",
+        "municipio": "Barbad\u00e1s",
+        "habitantes": "11037",
+        "casos_14d": "110",
+        "casos_14d_min": null,
+        "casos_14d_max": null,
+        "IA14": "996.64763975718",
+        "IA14_min": null,
+        "IA14_max": null,
+        "casos_7d": "45",
+        "casos_7d_min": null,
+        "casos_7d_max": null,
+        "IA7": "407.719488991574",
+        "IA7_min": null,
+        "IA7_max": null
     }
 ]

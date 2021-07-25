@@ -4426,5 +4426,23 @@
         "IA7": "397.285217679192",
         "IA7_min": null,
         "IA7_max": null
+    },
+    {
+        "fecha": "2021-07-25",
+        "codigo_municipio": "15006",
+        "municipio": "Arz\u00faa",
+        "habitantes": "6041",
+        "casos_14d": "39",
+        "casos_14d_min": null,
+        "casos_14d_max": null,
+        "IA14": "645.588478728687",
+        "IA14_min": null,
+        "IA14_max": null,
+        "casos_7d": "23",
+        "casos_7d_min": null,
+        "casos_7d_max": null,
+        "IA7": "380.731666942559",
+        "IA7_min": null,
+        "IA7_max": null
     }
 ]

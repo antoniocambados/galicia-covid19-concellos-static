@@ -4426,5 +4426,23 @@
         "IA7": null,
         "IA7_min": "23.5404896421846",
         "IA7_max": "211.864406779661"
+    },
+    {
+        "fecha": "2021-07-25",
+        "codigo_municipio": "15014",
+        "municipio": "Cabana de Berganti\u00f1os",
+        "habitantes": "4248",
+        "casos_14d": null,
+        "casos_14d_min": "1",
+        "casos_14d_max": "9",
+        "IA14": null,
+        "IA14_min": "23.5404896421846",
+        "IA14_max": "211.864406779661",
+        "casos_7d": null,
+        "casos_7d_min": "1",
+        "casos_7d_max": "9",
+        "IA7": null,
+        "IA7_min": "23.5404896421846",
+        "IA7_max": "211.864406779661"
     }
 ]

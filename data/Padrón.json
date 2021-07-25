@@ -4426,5 +4426,23 @@
         "IA7": "166.984732824427",
         "IA7_min": null,
         "IA7_max": null
+    },
+    {
+        "fecha": "2021-07-25",
+        "codigo_municipio": "15065",
+        "municipio": "Padr\u00f3n",
+        "habitantes": "8384",
+        "casos_14d": "25",
+        "casos_14d_min": null,
+        "casos_14d_max": null,
+        "IA14": "298.187022900763",
+        "IA14_min": null,
+        "IA14_max": null,
+        "casos_7d": "15",
+        "casos_7d_min": null,
+        "casos_7d_max": null,
+        "IA7": "178.912213740458",
+        "IA7_min": null,
+        "IA7_max": null
     }
 ]

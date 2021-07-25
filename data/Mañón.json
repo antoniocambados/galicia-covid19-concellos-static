@@ -4426,5 +4426,23 @@
         "IA7": null,
         "IA7_min": "73.7463126843658",
         "IA7_max": "663.716814159292"
+    },
+    {
+        "fecha": "2021-07-25",
+        "codigo_municipio": "15044",
+        "municipio": "Ma\u00f1\u00f3n",
+        "habitantes": "1356",
+        "casos_14d": null,
+        "casos_14d_min": "1",
+        "casos_14d_max": "9",
+        "IA14": null,
+        "IA14_min": "73.7463126843658",
+        "IA14_max": "663.716814159292",
+        "casos_7d": null,
+        "casos_7d_min": "1",
+        "casos_7d_max": "9",
+        "IA7": null,
+        "IA7_min": "73.7463126843658",
+        "IA7_max": "663.716814159292"
     }
 ]

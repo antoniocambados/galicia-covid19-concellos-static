@@ -4426,5 +4426,23 @@
         "IA7": "278.662420382166",
         "IA7_min": null,
         "IA7_max": null
+    },
+    {
+        "fecha": "2021-07-25",
+        "codigo_municipio": "32069",
+        "municipio": "Ribadavia",
+        "habitantes": "5024",
+        "casos_14d": "22",
+        "casos_14d_min": null,
+        "casos_14d_max": null,
+        "IA14": "437.898089171975",
+        "IA14_min": null,
+        "IA14_max": null,
+        "casos_7d": "13",
+        "casos_7d_min": null,
+        "casos_7d_max": null,
+        "IA7": "258.757961783439",
+        "IA7_min": null,
+        "IA7_max": null
     }
 ]

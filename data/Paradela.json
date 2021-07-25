@@ -4426,5 +4426,23 @@
         "IA7": null,
         "IA7_min": "56.2113546936481",
         "IA7_max": "505.902192242833"
+    },
+    {
+        "fecha": "2021-07-25",
+        "codigo_municipio": "27042",
+        "municipio": "Paradela",
+        "habitantes": "1779",
+        "casos_14d": "10",
+        "casos_14d_min": null,
+        "casos_14d_max": null,
+        "IA14": "562.113546936481",
+        "IA14_min": null,
+        "IA14_max": null,
+        "casos_7d": null,
+        "casos_7d_min": "1",
+        "casos_7d_max": "9",
+        "IA7": null,
+        "IA7_min": "56.2113546936481",
+        "IA7_max": "505.902192242833"
     }
 ]

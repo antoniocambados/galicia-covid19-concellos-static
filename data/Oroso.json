@@ -4426,5 +4426,23 @@
         "IA7": "186.666666666667",
         "IA7_min": null,
         "IA7_max": null
+    },
+    {
+        "fecha": "2021-07-25",
+        "codigo_municipio": "15060",
+        "municipio": "Oroso",
+        "habitantes": "7500",
+        "casos_14d": "30",
+        "casos_14d_min": null,
+        "casos_14d_max": null,
+        "IA14": "400",
+        "IA14_min": null,
+        "IA14_max": null,
+        "casos_7d": "15",
+        "casos_7d_min": null,
+        "casos_7d_max": null,
+        "IA7": "200",
+        "IA7_min": null,
+        "IA7_max": null
     }
 ]

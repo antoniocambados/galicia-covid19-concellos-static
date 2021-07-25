@@ -4426,5 +4426,23 @@
         "IA7": null,
         "IA7_min": "18.5013876040703",
         "IA7_max": "166.512488436633"
+    },
+    {
+        "fecha": "2021-07-25",
+        "codigo_municipio": "32075",
+        "municipio": "San Cibrao das Vi\u00f1as",
+        "habitantes": "5405",
+        "casos_14d": "24",
+        "casos_14d_min": null,
+        "casos_14d_max": null,
+        "IA14": "444.033302497687",
+        "IA14_min": null,
+        "IA14_max": null,
+        "casos_7d": null,
+        "casos_7d_min": "1",
+        "casos_7d_max": "9",
+        "IA7": null,
+        "IA7_min": "18.5013876040703",
+        "IA7_max": "166.512488436633"
     }
 ]

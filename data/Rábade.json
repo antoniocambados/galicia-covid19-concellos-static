@@ -4426,5 +4426,23 @@
         "IA7": null,
         "IA7_min": "66.6222518321119",
         "IA7_max": "599.600266489007"
+    },
+    {
+        "fecha": "2021-07-25",
+        "codigo_municipio": "27056",
+        "municipio": "R\u00e1bade",
+        "habitantes": "1501",
+        "casos_14d": "10",
+        "casos_14d_min": null,
+        "casos_14d_max": null,
+        "IA14": "666.222518321119",
+        "IA14_min": null,
+        "IA14_max": null,
+        "casos_7d": null,
+        "casos_7d_min": "1",
+        "casos_7d_max": "9",
+        "IA7": null,
+        "IA7_min": "66.6222518321119",
+        "IA7_max": "599.600266489007"
     }
 ]

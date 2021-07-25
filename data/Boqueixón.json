@@ -4426,5 +4426,23 @@
         "IA7": null,
         "IA7_min": "23.696682464455",
         "IA7_max": "213.270142180095"
+    },
+    {
+        "fecha": "2021-07-25",
+        "codigo_municipio": "15012",
+        "municipio": "Boqueix\u00f3n",
+        "habitantes": "4220",
+        "casos_14d": null,
+        "casos_14d_min": "1",
+        "casos_14d_max": "9",
+        "IA14": null,
+        "IA14_min": "23.696682464455",
+        "IA14_max": "213.270142180095",
+        "casos_7d": null,
+        "casos_7d_min": "1",
+        "casos_7d_max": "9",
+        "IA7": null,
+        "IA7_min": "23.696682464455",
+        "IA7_max": "213.270142180095"
     }
 ]

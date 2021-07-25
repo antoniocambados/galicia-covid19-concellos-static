@@ -4426,5 +4426,23 @@
         "IA7": "276.677697607552",
         "IA7_min": null,
         "IA7_max": null
+    },
+    {
+        "fecha": "2021-07-25",
+        "codigo_municipio": "27031",
+        "municipio": "Monforte de Lemos",
+        "habitantes": "18433",
+        "casos_14d": "88",
+        "casos_14d_min": null,
+        "casos_14d_max": null,
+        "IA14": "477.404654695383",
+        "IA14_min": null,
+        "IA14_max": null,
+        "casos_7d": "58",
+        "casos_7d_min": null,
+        "casos_7d_max": null,
+        "IA7": "314.653067867412",
+        "IA7_min": null,
+        "IA7_max": null
     }
 ]

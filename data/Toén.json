@@ -4426,5 +4426,23 @@
         "IA7": null,
         "IA7_min": "42.4628450106157",
         "IA7_max": "382.165605095541"
+    },
+    {
+        "fecha": "2021-07-25",
+        "codigo_municipio": "32081",
+        "municipio": "To\u00e9n",
+        "habitantes": "2355",
+        "casos_14d": "10",
+        "casos_14d_min": null,
+        "casos_14d_max": null,
+        "IA14": "424.628450106157",
+        "IA14_min": null,
+        "IA14_max": null,
+        "casos_7d": null,
+        "casos_7d_min": "1",
+        "casos_7d_max": "9",
+        "IA7": null,
+        "IA7_min": "42.4628450106157",
+        "IA7_max": "382.165605095541"
     }
 ]

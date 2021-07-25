@@ -4426,5 +4426,23 @@
         "IA7": "469.434492982239",
         "IA7_min": null,
         "IA7_max": null
+    },
+    {
+        "fecha": "2021-07-25",
+        "codigo_municipio": "32054",
+        "municipio": "Ourense",
+        "habitantes": "105233",
+        "casos_14d": "1129",
+        "casos_14d_min": null,
+        "casos_14d_max": null,
+        "IA14": "1072.85737363755",
+        "IA14_min": null,
+        "IA14_max": null,
+        "casos_7d": "428",
+        "casos_7d_min": null,
+        "casos_7d_max": null,
+        "IA7": "406.716524284207",
+        "IA7_min": null,
+        "IA7_max": null
     }
 ]

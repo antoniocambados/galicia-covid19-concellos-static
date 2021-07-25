@@ -4426,5 +4426,23 @@
         "IA7": "113.22696860525",
         "IA7_min": null,
         "IA7_max": null
+    },
+    {
+        "fecha": "2021-07-25",
+        "codigo_municipio": "32032",
+        "municipio": "Xinzo de Limia",
+        "habitantes": "9715",
+        "casos_14d": "32",
+        "casos_14d_min": null,
+        "casos_14d_max": null,
+        "IA14": "329.387545033453",
+        "IA14_min": null,
+        "IA14_max": null,
+        "casos_7d": "11",
+        "casos_7d_min": null,
+        "casos_7d_max": null,
+        "IA7": "113.22696860525",
+        "IA7_min": null,
+        "IA7_max": null
     }
 ]
