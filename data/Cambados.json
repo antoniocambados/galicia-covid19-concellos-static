@@ -4444,5 +4444,23 @@
         "IA7": "654.831199068685",
         "IA7_min": null,
         "IA7_max": null
+    },
+    {
+        "fecha": "2021-07-26",
+        "codigo_municipio": "36006",
+        "municipio": "Cambados",
+        "habitantes": "13744",
+        "casos_14d": "182",
+        "casos_14d_min": null,
+        "casos_14d_max": null,
+        "IA14": "1324.21420256112",
+        "IA14_min": null,
+        "IA14_max": null,
+        "casos_7d": "89",
+        "casos_7d_min": null,
+        "casos_7d_max": null,
+        "IA7": "647.55529685681",
+        "IA7_min": null,
+        "IA7_max": null
     }
 ]

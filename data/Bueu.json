@@ -4444,5 +4444,23 @@
         "IA7": "258.139728536931",
         "IA7_min": null,
         "IA7_max": null
+    },
+    {
+        "fecha": "2021-07-26",
+        "codigo_municipio": "36004",
+        "municipio": "Bueu",
+        "habitantes": "12009",
+        "casos_14d": "67",
+        "casos_14d_min": null,
+        "casos_14d_max": null,
+        "IA14": "557.914897160463",
+        "IA14_min": null,
+        "IA14_max": null,
+        "casos_7d": "33",
+        "casos_7d_min": null,
+        "casos_7d_max": null,
+        "IA7": "274.793904571571",
+        "IA7_min": null,
+        "IA7_max": null
     }
 ]

@@ -4444,5 +4444,23 @@
         "IA7": "179.219303230319",
         "IA7_min": null,
         "IA7_max": null
+    },
+    {
+        "fecha": "2021-07-26",
+        "codigo_municipio": "36042",
+        "municipio": "Ponteareas",
+        "habitantes": "22877",
+        "casos_14d": "75",
+        "casos_14d_min": null,
+        "casos_14d_max": null,
+        "IA14": "327.840188835949",
+        "IA14_min": null,
+        "IA14_max": null,
+        "casos_7d": "43",
+        "casos_7d_min": null,
+        "casos_7d_max": null,
+        "IA7": "187.961708265944",
+        "IA7_min": null,
+        "IA7_max": null
     }
 ]

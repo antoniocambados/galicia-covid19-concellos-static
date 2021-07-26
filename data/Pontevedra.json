@@ -4444,5 +4444,23 @@
         "IA7": "529.935323802527",
         "IA7_min": null,
         "IA7_max": null
+    },
+    {
+        "fecha": "2021-07-26",
+        "codigo_municipio": "36038",
+        "municipio": "Pontevedra",
+        "habitantes": "83029",
+        "casos_14d": "809",
+        "casos_14d_min": null,
+        "casos_14d_max": null,
+        "IA14": "974.358356718737",
+        "IA14_min": null,
+        "IA14_max": null,
+        "casos_7d": "442",
+        "casos_7d_min": null,
+        "casos_7d_max": null,
+        "IA7": "532.344120728902",
+        "IA7_min": null,
+        "IA7_max": null
     }
 ]

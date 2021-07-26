@@ -4444,5 +4444,23 @@
         "IA7": "445.907208833209",
         "IA7_min": null,
         "IA7_max": null
+    },
+    {
+        "fecha": "2021-07-26",
+        "codigo_municipio": "15011",
+        "municipio": "Boiro",
+        "habitantes": "18838",
+        "casos_14d": "210",
+        "casos_14d_min": null,
+        "casos_14d_max": null,
+        "IA14": "1114.76802208302",
+        "IA14_min": null,
+        "IA14_max": null,
+        "casos_7d": "76",
+        "casos_7d_min": null,
+        "casos_7d_max": null,
+        "IA7": "403.439855610999",
+        "IA7_min": null,
+        "IA7_max": null
     }
 ]

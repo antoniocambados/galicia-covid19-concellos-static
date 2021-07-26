@@ -4444,5 +4444,23 @@
         "IA7": null,
         "IA7_min": "36.2844702467344",
         "IA7_max": "326.56023222061"
+    },
+    {
+        "fecha": "2021-07-26",
+        "codigo_municipio": "27060",
+        "municipio": "Taboada",
+        "habitantes": "2756",
+        "casos_14d": "10",
+        "casos_14d_min": null,
+        "casos_14d_max": null,
+        "IA14": "362.844702467344",
+        "IA14_min": null,
+        "IA14_max": null,
+        "casos_7d": null,
+        "casos_7d_min": "1",
+        "casos_7d_max": "9",
+        "IA7": null,
+        "IA7_min": "36.2844702467344",
+        "IA7_max": "326.56023222061"
     }
 ]

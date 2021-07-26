@@ -4444,5 +4444,23 @@
         "IA7": "387.847446670976",
         "IA7_min": null,
         "IA7_max": null
+    },
+    {
+        "fecha": "2021-07-26",
+        "codigo_municipio": "15066",
+        "municipio": "O Pino",
+        "habitantes": "4641",
+        "casos_14d": "36",
+        "casos_14d_min": null,
+        "casos_14d_max": null,
+        "IA14": "775.694893341952",
+        "IA14_min": null,
+        "IA14_max": null,
+        "casos_7d": "32",
+        "casos_7d_min": null,
+        "casos_7d_max": null,
+        "IA7": "689.506571859513",
+        "IA7_min": null,
+        "IA7_max": null
     }
 ]

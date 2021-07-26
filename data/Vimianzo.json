@@ -4444,5 +4444,23 @@
         "IA7": "155.873600680176",
         "IA7_min": null,
         "IA7_max": null
+    },
+    {
+        "fecha": "2021-07-26",
+        "codigo_municipio": "15092",
+        "municipio": "Vimianzo",
+        "habitantes": "7057",
+        "casos_14d": "31",
+        "casos_14d_min": null,
+        "casos_14d_max": null,
+        "IA14": "439.280147371404",
+        "IA14_min": null,
+        "IA14_max": null,
+        "casos_7d": "11",
+        "casos_7d_min": null,
+        "casos_7d_max": null,
+        "IA7": "155.873600680176",
+        "IA7_min": null,
+        "IA7_max": null
     }
 ]

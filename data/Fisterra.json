@@ -4444,5 +4444,23 @@
         "IA7": "424.808836023789",
         "IA7_min": null,
         "IA7_max": null
+    },
+    {
+        "fecha": "2021-07-26",
+        "codigo_municipio": "15037",
+        "municipio": "Fisterra",
+        "habitantes": "4708",
+        "casos_14d": "37",
+        "casos_14d_min": null,
+        "casos_14d_max": null,
+        "IA14": "785.89634664401",
+        "IA14_min": null,
+        "IA14_max": null,
+        "casos_7d": "17",
+        "casos_7d_min": null,
+        "casos_7d_max": null,
+        "IA7": "361.087510620221",
+        "IA7_min": null,
+        "IA7_max": null
     }
 ]

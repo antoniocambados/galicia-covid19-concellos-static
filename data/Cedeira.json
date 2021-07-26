@@ -4444,5 +4444,23 @@
         "IA7": "286.144578313253",
         "IA7_min": null,
         "IA7_max": null
+    },
+    {
+        "fecha": "2021-07-26",
+        "codigo_municipio": "15022",
+        "municipio": "Cedeira",
+        "habitantes": "6640",
+        "casos_14d": "21",
+        "casos_14d_min": null,
+        "casos_14d_max": null,
+        "IA14": "316.265060240964",
+        "IA14_min": null,
+        "IA14_max": null,
+        "casos_7d": "18",
+        "casos_7d_min": null,
+        "casos_7d_max": null,
+        "IA7": "271.084337349398",
+        "IA7_min": null,
+        "IA7_max": null
     }
 ]

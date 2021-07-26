@@ -4444,5 +4444,23 @@
         "IA7": null,
         "IA7_min": "81.4332247557003",
         "IA7_max": "732.899022801303"
+    },
+    {
+        "fecha": "2021-07-26",
+        "codigo_municipio": "32039",
+        "municipio": "Laza",
+        "habitantes": "1228",
+        "casos_14d": null,
+        "casos_14d_min": "1",
+        "casos_14d_max": "9",
+        "IA14": null,
+        "IA14_min": "81.4332247557003",
+        "IA14_max": "732.899022801303",
+        "casos_7d": null,
+        "casos_7d_min": "1",
+        "casos_7d_max": "9",
+        "IA7": null,
+        "IA7_min": "81.4332247557003",
+        "IA7_max": "732.899022801303"
     }
 ]

@@ -4444,5 +4444,23 @@
         "IA7": "0",
         "IA7_min": null,
         "IA7_max": null
+    },
+    {
+        "fecha": "2021-07-26",
+        "codigo_municipio": "27035",
+        "municipio": "Negueira de Mu\u00f1iz",
+        "habitantes": "215",
+        "casos_14d": "0",
+        "casos_14d_min": null,
+        "casos_14d_max": null,
+        "IA14": "0",
+        "IA14_min": null,
+        "IA14_max": null,
+        "casos_7d": "0",
+        "casos_7d_min": null,
+        "casos_7d_max": null,
+        "IA7": "0",
+        "IA7_min": null,
+        "IA7_max": null
     }
 ]

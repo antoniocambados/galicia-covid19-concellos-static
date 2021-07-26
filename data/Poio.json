@@ -4444,5 +4444,23 @@
         "IA7": "392.225734691488",
         "IA7_min": null,
         "IA7_max": null
+    },
+    {
+        "fecha": "2021-07-26",
+        "codigo_municipio": "36041",
+        "municipio": "Poio",
+        "habitantes": "17082",
+        "casos_14d": "164",
+        "casos_14d_min": null,
+        "casos_14d_max": null,
+        "IA14": "960.074932677672",
+        "IA14_min": null,
+        "IA14_max": null,
+        "casos_7d": "71",
+        "casos_7d_min": null,
+        "casos_7d_max": null,
+        "IA7": "415.642196464114",
+        "IA7_min": null,
+        "IA7_max": null
     }
 ]

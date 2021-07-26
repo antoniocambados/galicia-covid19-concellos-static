@@ -4444,5 +4444,23 @@
         "IA7": "373.057704154973",
         "IA7_min": null,
         "IA7_max": null
+    },
+    {
+        "fecha": "2021-07-26",
+        "codigo_municipio": "36045",
+        "municipio": "Redondela",
+        "habitantes": "29218",
+        "casos_14d": "186",
+        "casos_14d_min": null,
+        "casos_14d_max": null,
+        "IA14": "636.593880484633",
+        "IA14_min": null,
+        "IA14_max": null,
+        "casos_7d": "113",
+        "casos_7d_min": null,
+        "casos_7d_max": null,
+        "IA7": "386.747895133137",
+        "IA7_min": null,
+        "IA7_max": null
     }
 ]

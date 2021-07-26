@@ -4444,5 +4444,23 @@
         "IA7": "0",
         "IA7_min": null,
         "IA7_max": null
+    },
+    {
+        "fecha": "2021-07-26",
+        "codigo_municipio": "32007",
+        "municipio": "Ba\u00f1os de Molgas",
+        "habitantes": "1519",
+        "casos_14d": null,
+        "casos_14d_min": "1",
+        "casos_14d_max": "9",
+        "IA14": null,
+        "IA14_min": "65.8327847267939",
+        "IA14_max": "592.495062541146",
+        "casos_7d": "0",
+        "casos_7d_min": null,
+        "casos_7d_max": null,
+        "IA7": "0",
+        "IA7_min": null,
+        "IA7_max": null
     }
 ]

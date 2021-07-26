@@ -4444,5 +4444,23 @@
         "IA7": null,
         "IA7_min": "25.2716704574172",
         "IA7_max": "227.445034116755"
+    },
+    {
+        "fecha": "2021-07-26",
+        "codigo_municipio": "15020",
+        "municipio": "Carnota",
+        "habitantes": "3957",
+        "casos_14d": "10",
+        "casos_14d_min": null,
+        "casos_14d_max": null,
+        "IA14": "252.716704574172",
+        "IA14_min": null,
+        "IA14_max": null,
+        "casos_7d": "10",
+        "casos_7d_min": null,
+        "casos_7d_max": null,
+        "IA7": "252.716704574172",
+        "IA7_min": null,
+        "IA7_max": null
     }
 ]

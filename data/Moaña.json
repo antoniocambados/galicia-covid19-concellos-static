@@ -4444,5 +4444,23 @@
         "IA7": "293.82957884427",
         "IA7_min": null,
         "IA7_max": null
+    },
+    {
+        "fecha": "2021-07-26",
+        "codigo_municipio": "36029",
+        "municipio": "Moa\u00f1a",
+        "habitantes": "19399",
+        "casos_14d": "109",
+        "casos_14d_min": null,
+        "casos_14d_max": null,
+        "IA14": "561.884633228517",
+        "IA14_min": null,
+        "IA14_max": null,
+        "casos_7d": "55",
+        "casos_7d_min": null,
+        "casos_7d_max": null,
+        "IA7": "283.519769060261",
+        "IA7_min": null,
+        "IA7_max": null
     }
 ]

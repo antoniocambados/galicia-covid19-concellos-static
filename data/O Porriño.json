@@ -4444,5 +4444,23 @@
         "IA7": "347.64207980653",
         "IA7_min": null,
         "IA7_max": null
+    },
+    {
+        "fecha": "2021-07-26",
+        "codigo_municipio": "36039",
+        "municipio": "O Porri\u00f1o",
+        "habitantes": "19848",
+        "casos_14d": "126",
+        "casos_14d_min": null,
+        "casos_14d_max": null,
+        "IA14": "634.824667472793",
+        "IA14_min": null,
+        "IA14_max": null,
+        "casos_7d": "81",
+        "casos_7d_min": null,
+        "casos_7d_max": null,
+        "IA7": "408.101571946796",
+        "IA7_min": null,
+        "IA7_max": null
     }
 ]

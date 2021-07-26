@@ -4444,5 +4444,23 @@
         "IA7": null,
         "IA7_min": "19.60399921584",
         "IA7_max": "176.43599294256"
+    },
+    {
+        "fecha": "2021-07-26",
+        "codigo_municipio": "15902",
+        "municipio": "Oza-Cesuras",
+        "habitantes": "5101",
+        "casos_14d": "14",
+        "casos_14d_min": null,
+        "casos_14d_max": null,
+        "IA14": "274.45598902176",
+        "IA14_min": null,
+        "IA14_max": null,
+        "casos_7d": null,
+        "casos_7d_min": "1",
+        "casos_7d_max": "9",
+        "IA7": null,
+        "IA7_min": "19.60399921584",
+        "IA7_max": "176.43599294256"
     }
 ]

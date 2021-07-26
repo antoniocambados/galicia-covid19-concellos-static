@@ -4444,5 +4444,23 @@
         "IA7": "364.349775784753",
         "IA7_min": null,
         "IA7_max": null
+    },
+    {
+        "fecha": "2021-07-26",
+        "codigo_municipio": "27030",
+        "municipio": "Mondo\u00f1edo",
+        "habitantes": "3568",
+        "casos_14d": "21",
+        "casos_14d_min": null,
+        "casos_14d_max": null,
+        "IA14": "588.565022421525",
+        "IA14_min": null,
+        "IA14_max": null,
+        "casos_7d": "10",
+        "casos_7d_min": null,
+        "casos_7d_max": null,
+        "IA7": "280.269058295964",
+        "IA7_min": null,
+        "IA7_max": null
     }
 ]

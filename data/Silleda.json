@@ -4444,5 +4444,23 @@
         "IA7": "184.183262346034",
         "IA7_min": null,
         "IA7_max": null
+    },
+    {
+        "fecha": "2021-07-26",
+        "codigo_municipio": "36052",
+        "municipio": "Silleda",
+        "habitantes": "8687",
+        "casos_14d": "29",
+        "casos_14d_min": null,
+        "casos_14d_max": null,
+        "IA14": "333.832163002187",
+        "IA14_min": null,
+        "IA14_max": null,
+        "casos_7d": "13",
+        "casos_7d_min": null,
+        "casos_7d_max": null,
+        "IA7": "149.648900656153",
+        "IA7_min": null,
+        "IA7_max": null
     }
 ]

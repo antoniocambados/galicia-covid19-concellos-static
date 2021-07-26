@@ -4444,5 +4444,23 @@
         "IA7": "372.795682732967",
         "IA7_min": null,
         "IA7_max": null
+    },
+    {
+        "fecha": "2021-07-26",
+        "codigo_municipio": "15030",
+        "municipio": "A Coru\u00f1a",
+        "habitantes": "245711",
+        "casos_14d": "1531",
+        "casos_14d_min": null,
+        "casos_14d_max": null,
+        "IA14": "623.089727362633",
+        "IA14_min": null,
+        "IA14_max": null,
+        "casos_7d": "900",
+        "casos_7d_min": null,
+        "casos_7d_max": null,
+        "IA7": "366.283967750732",
+        "IA7_min": null,
+        "IA7_max": null
     }
 ]

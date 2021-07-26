@@ -4444,5 +4444,23 @@
         "IA7": "291.481454492458",
         "IA7_min": null,
         "IA7_max": null
+    },
+    {
+        "fecha": "2021-07-26",
+        "codigo_municipio": "32085",
+        "municipio": "Ver\u00edn",
+        "habitantes": "13723",
+        "casos_14d": "72",
+        "casos_14d_min": null,
+        "casos_14d_max": null,
+        "IA14": "524.666618086424",
+        "IA14_min": null,
+        "IA14_max": null,
+        "casos_7d": "52",
+        "casos_7d_min": null,
+        "casos_7d_max": null,
+        "IA7": "378.925890840195",
+        "IA7_min": null,
+        "IA7_max": null
     }
 ]

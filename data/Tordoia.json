@@ -4444,5 +4444,23 @@
         "IA7": null,
         "IA7_min": "30.3122158229767",
         "IA7_max": "272.80994240679"
+    },
+    {
+        "fecha": "2021-07-26",
+        "codigo_municipio": "15084",
+        "municipio": "Tordoia",
+        "habitantes": "3299",
+        "casos_14d": "10",
+        "casos_14d_min": null,
+        "casos_14d_max": null,
+        "IA14": "303.122158229767",
+        "IA14_min": null,
+        "IA14_max": null,
+        "casos_7d": null,
+        "casos_7d_min": "1",
+        "casos_7d_max": "9",
+        "IA7": null,
+        "IA7_min": "30.3122158229767",
+        "IA7_max": "272.80994240679"
     }
 ]
