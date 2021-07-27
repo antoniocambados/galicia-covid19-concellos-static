@@ -4462,5 +4462,23 @@
         "IA7": "517.989640207196",
         "IA7_min": null,
         "IA7_max": null
+    },
+    {
+        "fecha": "2021-07-27",
+        "codigo_municipio": "36021",
+        "municipio": "Gondomar",
+        "habitantes": "14286",
+        "casos_14d": "144",
+        "casos_14d_min": null,
+        "casos_14d_max": null,
+        "IA14": "1007.97984040319",
+        "IA14_min": null,
+        "IA14_max": null,
+        "casos_7d": "77",
+        "casos_7d_min": null,
+        "casos_7d_max": null,
+        "IA7": "538.989220215596",
+        "IA7_min": null,
+        "IA7_max": null
     }
 ]

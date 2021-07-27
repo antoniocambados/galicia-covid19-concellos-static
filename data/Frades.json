@@ -4462,5 +4462,23 @@
         "IA7": null,
         "IA7_min": "42.7533133817871",
         "IA7_max": "384.779820436084"
+    },
+    {
+        "fecha": "2021-07-27",
+        "codigo_municipio": "15038",
+        "municipio": "Frades",
+        "habitantes": "2339",
+        "casos_14d": "10",
+        "casos_14d_min": null,
+        "casos_14d_max": null,
+        "IA14": "427.533133817871",
+        "IA14_min": null,
+        "IA14_max": null,
+        "casos_7d": null,
+        "casos_7d_min": "1",
+        "casos_7d_max": "9",
+        "IA7": null,
+        "IA7_min": "42.7533133817871",
+        "IA7_max": "384.779820436084"
     }
 ]

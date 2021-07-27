@@ -4462,5 +4462,23 @@
         "IA7": null,
         "IA7_min": "36.9685767097967",
         "IA7_max": "332.71719038817"
+    },
+    {
+        "fecha": "2021-07-27",
+        "codigo_municipio": "32045",
+        "municipio": "Maside",
+        "habitantes": "2705",
+        "casos_14d": "12",
+        "casos_14d_min": null,
+        "casos_14d_max": null,
+        "IA14": "443.62292051756",
+        "IA14_min": null,
+        "IA14_max": null,
+        "casos_7d": null,
+        "casos_7d_min": "1",
+        "casos_7d_max": "9",
+        "IA7": null,
+        "IA7_min": "36.9685767097967",
+        "IA7_max": "332.71719038817"
     }
 ]

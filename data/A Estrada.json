@@ -4462,5 +4462,23 @@
         "IA7": "146.491527906636",
         "IA7_min": null,
         "IA7_max": null
+    },
+    {
+        "fecha": "2021-07-27",
+        "codigo_municipio": "36017",
+        "municipio": "A Estrada",
+        "habitantes": "20479",
+        "casos_14d": "60",
+        "casos_14d_min": null,
+        "casos_14d_max": null,
+        "IA14": "292.983055813272",
+        "IA14_min": null,
+        "IA14_max": null,
+        "casos_7d": "29",
+        "casos_7d_min": null,
+        "casos_7d_max": null,
+        "IA7": "141.608476976415",
+        "IA7_min": null,
+        "IA7_max": null
     }
 ]

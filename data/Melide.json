@@ -4462,5 +4462,23 @@
         "IA7": "472.589792060492",
         "IA7_min": null,
         "IA7_max": null
+    },
+    {
+        "fecha": "2021-07-27",
+        "codigo_municipio": "15046",
+        "municipio": "Melide",
+        "habitantes": "7406",
+        "casos_14d": "76",
+        "casos_14d_min": null,
+        "casos_14d_max": null,
+        "IA14": "1026.19497704564",
+        "IA14_min": null,
+        "IA14_max": null,
+        "casos_7d": "33",
+        "casos_7d_min": null,
+        "casos_7d_max": null,
+        "IA7": "445.584661085606",
+        "IA7_min": null,
+        "IA7_max": null
     }
 ]

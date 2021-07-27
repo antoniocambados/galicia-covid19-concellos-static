@@ -4462,5 +4462,23 @@
         "IA7": null,
         "IA7_min": "52.2739153162572",
         "IA7_max": "470.465237846315"
+    },
+    {
+        "fecha": "2021-07-27",
+        "codigo_municipio": "32047",
+        "municipio": "A Merca",
+        "habitantes": "1913",
+        "casos_14d": null,
+        "casos_14d_min": "1",
+        "casos_14d_max": "9",
+        "IA14": null,
+        "IA14_min": "52.2739153162572",
+        "IA14_max": "470.465237846315",
+        "casos_7d": null,
+        "casos_7d_min": "1",
+        "casos_7d_max": "9",
+        "IA7": null,
+        "IA7_min": "52.2739153162572",
+        "IA7_max": "470.465237846315"
     }
 ]

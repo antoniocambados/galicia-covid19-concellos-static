@@ -4462,5 +4462,23 @@
         "IA7": null,
         "IA7_min": "16.1290322580645",
         "IA7_max": "145.161290322581"
+    },
+    {
+        "fecha": "2021-07-27",
+        "codigo_municipio": "15048",
+        "municipio": "Mi\u00f1o",
+        "habitantes": "6200",
+        "casos_14d": "13",
+        "casos_14d_min": null,
+        "casos_14d_max": null,
+        "IA14": "209.677419354839",
+        "IA14_min": null,
+        "IA14_max": null,
+        "casos_7d": null,
+        "casos_7d_min": "1",
+        "casos_7d_max": "9",
+        "IA7": null,
+        "IA7_min": "16.1290322580645",
+        "IA7_max": "145.161290322581"
     }
 ]

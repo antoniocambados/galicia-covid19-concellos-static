@@ -4462,5 +4462,23 @@
         "IA7": null,
         "IA7_min": "21.381227282446",
         "IA7_max": "192.431045542014"
+    },
+    {
+        "fecha": "2021-07-27",
+        "codigo_municipio": "36015",
+        "municipio": "Cuntis",
+        "habitantes": "4677",
+        "casos_14d": "16",
+        "casos_14d_min": null,
+        "casos_14d_max": null,
+        "IA14": "342.099636519136",
+        "IA14_min": null,
+        "IA14_max": null,
+        "casos_7d": null,
+        "casos_7d_min": "1",
+        "casos_7d_max": "9",
+        "IA7": null,
+        "IA7_min": "21.381227282446",
+        "IA7_max": "192.431045542014"
     }
 ]

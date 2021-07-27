@@ -4462,5 +4462,23 @@
         "IA7": null,
         "IA7_min": "23.9291696578129",
         "IA7_max": "215.362526920316"
+    },
+    {
+        "fecha": "2021-07-27",
+        "codigo_municipio": "36032",
+        "municipio": "Mora\u00f1a",
+        "habitantes": "4179",
+        "casos_14d": "14",
+        "casos_14d_min": null,
+        "casos_14d_max": null,
+        "IA14": "335.00837520938",
+        "IA14_min": null,
+        "IA14_max": null,
+        "casos_7d": null,
+        "casos_7d_min": "1",
+        "casos_7d_max": "9",
+        "IA7": null,
+        "IA7_min": "23.9291696578129",
+        "IA7_max": "215.362526920316"
     }
 ]

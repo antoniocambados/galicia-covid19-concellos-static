@@ -4462,5 +4462,23 @@
         "IA7": "0",
         "IA7_min": null,
         "IA7_max": null
+    },
+    {
+        "fecha": "2021-07-27",
+        "codigo_municipio": "32089",
+        "municipio": "Vilar de Barrio",
+        "habitantes": "1307",
+        "casos_14d": null,
+        "casos_14d_min": "1",
+        "casos_14d_max": "9",
+        "IA14": null,
+        "IA14_min": "76.5110941086458",
+        "IA14_max": "688.599846977812",
+        "casos_7d": "0",
+        "casos_7d_min": null,
+        "casos_7d_max": null,
+        "IA7": "0",
+        "IA7_min": null,
+        "IA7_max": null
     }
 ]

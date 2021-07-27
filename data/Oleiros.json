@@ -4462,5 +4462,23 @@
         "IA7": "335.412335412335",
         "IA7_min": null,
         "IA7_max": null
+    },
+    {
+        "fecha": "2021-07-27",
+        "codigo_municipio": "15058",
+        "municipio": "Oleiros",
+        "habitantes": "36075",
+        "casos_14d": "247",
+        "casos_14d_min": null,
+        "casos_14d_max": null,
+        "IA14": "684.684684684685",
+        "IA14_min": null,
+        "IA14_max": null,
+        "casos_7d": "116",
+        "casos_7d_min": null,
+        "casos_7d_max": null,
+        "IA7": "321.552321552322",
+        "IA7_min": null,
+        "IA7_max": null
     }
 ]

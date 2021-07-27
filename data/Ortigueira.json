@@ -4462,5 +4462,23 @@
         "IA7": "352.671486510316",
         "IA7_min": null,
         "IA7_max": null
+    },
+    {
+        "fecha": "2021-07-27",
+        "codigo_municipio": "15061",
+        "municipio": "Ortigueira",
+        "habitantes": "5671",
+        "casos_14d": "27",
+        "casos_14d_min": null,
+        "casos_14d_max": null,
+        "IA14": "476.106506788926",
+        "IA14_min": null,
+        "IA14_max": null,
+        "casos_7d": "19",
+        "casos_7d_min": null,
+        "casos_7d_max": null,
+        "IA7": "335.0379121848",
+        "IA7_min": null,
+        "IA7_max": null
     }
 ]

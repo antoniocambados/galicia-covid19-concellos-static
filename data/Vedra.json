@@ -4462,5 +4462,23 @@
         "IA7": null,
         "IA7_min": "19.8570293884035",
         "IA7_max": "178.713264495631"
+    },
+    {
+        "fecha": "2021-07-27",
+        "codigo_municipio": "15089",
+        "municipio": "Vedra",
+        "habitantes": "5036",
+        "casos_14d": "14",
+        "casos_14d_min": null,
+        "casos_14d_max": null,
+        "IA14": "277.998411437649",
+        "IA14_min": null,
+        "IA14_max": null,
+        "casos_7d": "11",
+        "casos_7d_min": null,
+        "casos_7d_max": null,
+        "IA7": "218.427323272438",
+        "IA7_min": null,
+        "IA7_max": null
     }
 ]

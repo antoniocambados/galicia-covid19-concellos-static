@@ -4462,5 +4462,23 @@
         "IA7": null,
         "IA7_min": "29.5159386068477",
         "IA7_max": "265.643447461629"
+    },
+    {
+        "fecha": "2021-07-27",
+        "codigo_municipio": "27040",
+        "municipio": "Palas de Rei",
+        "habitantes": "3388",
+        "casos_14d": "18",
+        "casos_14d_min": null,
+        "casos_14d_max": null,
+        "IA14": "531.286894923259",
+        "IA14_min": null,
+        "IA14_max": null,
+        "casos_7d": "10",
+        "casos_7d_min": null,
+        "casos_7d_max": null,
+        "IA7": "295.159386068477",
+        "IA7_min": null,
+        "IA7_max": null
     }
 ]

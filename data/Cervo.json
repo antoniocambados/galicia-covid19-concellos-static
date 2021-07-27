@@ -4462,5 +4462,23 @@
         "IA7": "449.491365034303",
         "IA7_min": null,
         "IA7_max": null
+    },
+    {
+        "fecha": "2021-07-27",
+        "codigo_municipio": "27013",
+        "municipio": "Cervo",
+        "habitantes": "4227",
+        "casos_14d": "42",
+        "casos_14d_min": null,
+        "casos_14d_max": null,
+        "IA14": "993.61249112846",
+        "IA14_min": null,
+        "IA14_max": null,
+        "casos_7d": "21",
+        "casos_7d_min": null,
+        "casos_7d_max": null,
+        "IA7": "496.80624556423",
+        "IA7_min": null,
+        "IA7_max": null
     }
 ]

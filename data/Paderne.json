@@ -4462,5 +4462,23 @@
         "IA7": null,
         "IA7_min": "41.7710944026733",
         "IA7_max": "375.93984962406"
+    },
+    {
+        "fecha": "2021-07-27",
+        "codigo_municipio": "15064",
+        "municipio": "Paderne",
+        "habitantes": "2394",
+        "casos_14d": null,
+        "casos_14d_min": "1",
+        "casos_14d_max": "9",
+        "IA14": null,
+        "IA14_min": "41.7710944026733",
+        "IA14_max": "375.93984962406",
+        "casos_7d": null,
+        "casos_7d_min": "1",
+        "casos_7d_max": "9",
+        "IA7": null,
+        "IA7_min": "41.7710944026733",
+        "IA7_max": "375.93984962406"
     }
 ]

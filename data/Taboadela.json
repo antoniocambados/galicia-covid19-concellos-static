@@ -4462,5 +4462,23 @@
         "IA7": null,
         "IA7_min": "69.9790062981106",
         "IA7_max": "629.811056682995"
+    },
+    {
+        "fecha": "2021-07-27",
+        "codigo_municipio": "32079",
+        "municipio": "Taboadela",
+        "habitantes": "1429",
+        "casos_14d": null,
+        "casos_14d_min": "1",
+        "casos_14d_max": "9",
+        "IA14": null,
+        "IA14_min": "69.9790062981106",
+        "IA14_max": "629.811056682995",
+        "casos_7d": null,
+        "casos_7d_min": "1",
+        "casos_7d_max": "9",
+        "IA7": null,
+        "IA7_min": "69.9790062981106",
+        "IA7_max": "629.811056682995"
     }
 ]

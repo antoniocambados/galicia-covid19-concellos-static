@@ -4462,5 +4462,23 @@
         "IA7": "466.910272025985",
         "IA7_min": null,
         "IA7_max": null
+    },
+    {
+        "fecha": "2021-07-27",
+        "codigo_municipio": "36901",
+        "municipio": "A Illa de Arousa",
+        "habitantes": "4926",
+        "casos_14d": "41",
+        "casos_14d_min": null,
+        "casos_14d_max": null,
+        "IA14": "832.318311002842",
+        "IA14_min": null,
+        "IA14_max": null,
+        "casos_7d": "22",
+        "casos_7d_min": null,
+        "casos_7d_max": null,
+        "IA7": "446.609825416159",
+        "IA7_min": null,
+        "IA7_max": null
     }
 ]

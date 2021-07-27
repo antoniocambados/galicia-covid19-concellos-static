@@ -4462,5 +4462,23 @@
         "IA7": "347.705146036161",
         "IA7_min": null,
         "IA7_max": null
+    },
+    {
+        "fecha": "2021-07-27",
+        "codigo_municipio": "32072",
+        "municipio": "A R\u00faa",
+        "habitantes": "4314",
+        "casos_14d": "21",
+        "casos_14d_min": null,
+        "casos_14d_max": null,
+        "IA14": "486.787204450626",
+        "IA14_min": null,
+        "IA14_max": null,
+        "casos_7d": "14",
+        "casos_7d_min": null,
+        "casos_7d_max": null,
+        "IA7": "324.524802967084",
+        "IA7_min": null,
+        "IA7_max": null
     }
 ]

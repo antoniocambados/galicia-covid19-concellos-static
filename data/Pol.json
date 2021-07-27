@@ -4462,5 +4462,23 @@
         "IA7": null,
         "IA7_min": "62.1504039776258",
         "IA7_max": "559.353635798633"
+    },
+    {
+        "fecha": "2021-07-27",
+        "codigo_municipio": "27046",
+        "municipio": "Pol",
+        "habitantes": "1609",
+        "casos_14d": null,
+        "casos_14d_min": "1",
+        "casos_14d_max": "9",
+        "IA14": null,
+        "IA14_min": "62.1504039776258",
+        "IA14_max": "559.353635798633",
+        "casos_7d": null,
+        "casos_7d_min": "1",
+        "casos_7d_max": "9",
+        "IA7": null,
+        "IA7_min": "62.1504039776258",
+        "IA7_max": "559.353635798633"
     }
 ]

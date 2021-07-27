@@ -4462,5 +4462,23 @@
         "IA7": "0",
         "IA7_min": null,
         "IA7_max": null
+    },
+    {
+        "fecha": "2021-07-27",
+        "codigo_municipio": "27055",
+        "municipio": "Samos",
+        "habitantes": "1278",
+        "casos_14d": null,
+        "casos_14d_min": "1",
+        "casos_14d_max": "9",
+        "IA14": null,
+        "IA14_min": "78.2472613458529",
+        "IA14_max": "704.225352112676",
+        "casos_7d": null,
+        "casos_7d_min": "1",
+        "casos_7d_max": "9",
+        "IA7": null,
+        "IA7_min": "78.2472613458529",
+        "IA7_max": "704.225352112676"
     }
 ]

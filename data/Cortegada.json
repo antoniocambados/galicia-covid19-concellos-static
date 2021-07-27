@@ -4462,5 +4462,23 @@
         "IA7": null,
         "IA7_min": "92.1658986175115",
         "IA7_max": "829.493087557604"
+    },
+    {
+        "fecha": "2021-07-27",
+        "codigo_municipio": "32027",
+        "municipio": "Cortegada",
+        "habitantes": "1085",
+        "casos_14d": null,
+        "casos_14d_min": "1",
+        "casos_14d_max": "9",
+        "IA14": null,
+        "IA14_min": "92.1658986175115",
+        "IA14_max": "829.493087557604",
+        "casos_7d": null,
+        "casos_7d_min": "1",
+        "casos_7d_max": "9",
+        "IA7": null,
+        "IA7_min": "92.1658986175115",
+        "IA7_max": "829.493087557604"
     }
 ]

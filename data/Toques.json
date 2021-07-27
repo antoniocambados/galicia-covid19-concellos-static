@@ -4462,5 +4462,23 @@
         "IA7": null,
         "IA7_min": "88.9679715302491",
         "IA7_max": "800.711743772242"
+    },
+    {
+        "fecha": "2021-07-27",
+        "codigo_municipio": "15083",
+        "municipio": "Toques",
+        "habitantes": "1124",
+        "casos_14d": "12",
+        "casos_14d_min": null,
+        "casos_14d_max": null,
+        "IA14": "1067.61565836299",
+        "IA14_min": null,
+        "IA14_max": null,
+        "casos_7d": null,
+        "casos_7d_min": "1",
+        "casos_7d_max": "9",
+        "IA7": null,
+        "IA7_min": "88.9679715302491",
+        "IA7_max": "800.711743772242"
     }
 ]
