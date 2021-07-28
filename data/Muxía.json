@@ -4480,5 +4480,23 @@
         "IA7": null,
         "IA7_min": "21.4730513205927",
         "IA7_max": "193.257461885334"
+    },
+    {
+        "fecha": "2021-07-28",
+        "codigo_municipio": "15052",
+        "municipio": "Mux\u00eda",
+        "habitantes": "4657",
+        "casos_14d": "16",
+        "casos_14d_min": null,
+        "casos_14d_max": null,
+        "IA14": "343.568821129483",
+        "IA14_min": null,
+        "IA14_max": null,
+        "casos_7d": "11",
+        "casos_7d_min": null,
+        "casos_7d_max": null,
+        "IA7": "236.203564526519",
+        "IA7_min": null,
+        "IA7_max": null
     }
 ]

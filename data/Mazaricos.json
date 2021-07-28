@@ -4480,5 +4480,23 @@
         "IA7": null,
         "IA7_min": "25.7400257400257",
         "IA7_max": "231.660231660232"
+    },
+    {
+        "fecha": "2021-07-28",
+        "codigo_municipio": "15045",
+        "municipio": "Mazaricos",
+        "habitantes": "3885",
+        "casos_14d": "11",
+        "casos_14d_min": null,
+        "casos_14d_max": null,
+        "IA14": "283.140283140283",
+        "IA14_min": null,
+        "IA14_max": null,
+        "casos_7d": null,
+        "casos_7d_min": "1",
+        "casos_7d_max": "9",
+        "IA7": null,
+        "IA7_min": "25.7400257400257",
+        "IA7_max": "231.660231660232"
     }
 ]

@@ -4480,5 +4480,23 @@
         "IA7": "358.529044141833",
         "IA7_min": null,
         "IA7_max": null
+    },
+    {
+        "fecha": "2021-07-28",
+        "codigo_municipio": "15031",
+        "municipio": "Culleredo",
+        "habitantes": "30402",
+        "casos_14d": "190",
+        "casos_14d_min": null,
+        "casos_14d_max": null,
+        "IA14": "624.958884283929",
+        "IA14_min": null,
+        "IA14_max": null,
+        "casos_7d": "106",
+        "casos_7d_min": null,
+        "casos_7d_max": null,
+        "IA7": "348.661272284718",
+        "IA7_min": null,
+        "IA7_max": null
     }
 ]

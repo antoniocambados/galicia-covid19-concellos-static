@@ -4480,5 +4480,23 @@
         "IA7": null,
         "IA7_min": "17.0386777986028",
         "IA7_max": "153.348100187425"
+    },
+    {
+        "fecha": "2021-07-28",
+        "codigo_municipio": "36056",
+        "municipio": "Valga",
+        "habitantes": "5869",
+        "casos_14d": "10",
+        "casos_14d_min": null,
+        "casos_14d_max": null,
+        "IA14": "170.386777986028",
+        "IA14_min": null,
+        "IA14_max": null,
+        "casos_7d": null,
+        "casos_7d_min": "1",
+        "casos_7d_max": "9",
+        "IA7": null,
+        "IA7_min": "17.0386777986028",
+        "IA7_max": "153.348100187425"
     }
 ]

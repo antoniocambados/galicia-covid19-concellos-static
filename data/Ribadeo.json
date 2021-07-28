@@ -4480,5 +4480,23 @@
         "IA7": "476.963669575807",
         "IA7_min": null,
         "IA7_max": null
+    },
+    {
+        "fecha": "2021-07-28",
+        "codigo_municipio": "27051",
+        "municipio": "Ribadeo",
+        "habitantes": "9854",
+        "casos_14d": "95",
+        "casos_14d_min": null,
+        "casos_14d_max": null,
+        "IA14": "964.075502334077",
+        "IA14_min": null,
+        "IA14_max": null,
+        "casos_7d": "49",
+        "casos_7d_min": null,
+        "casos_7d_max": null,
+        "IA7": "497.259995940735",
+        "IA7_min": null,
+        "IA7_max": null
     }
 ]

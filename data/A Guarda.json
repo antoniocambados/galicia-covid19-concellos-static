@@ -4480,5 +4480,23 @@
         "IA7": "430.991279943871",
         "IA7_min": null,
         "IA7_max": null
+    },
+    {
+        "fecha": "2021-07-28",
+        "codigo_municipio": "36023",
+        "municipio": "A Guarda",
+        "habitantes": "9977",
+        "casos_14d": "77",
+        "casos_14d_min": null,
+        "casos_14d_max": null,
+        "IA14": "771.775082690187",
+        "IA14_min": null,
+        "IA14_max": null,
+        "casos_7d": "45",
+        "casos_7d_min": null,
+        "casos_7d_max": null,
+        "IA7": "451.037385987772",
+        "IA7_min": null,
+        "IA7_max": null
     }
 ]

@@ -4480,5 +4480,23 @@
         "IA7": null,
         "IA7_min": "30.5530094714329",
         "IA7_max": "274.977085242896"
+    },
+    {
+        "fecha": "2021-07-28",
+        "codigo_municipio": "27025",
+        "municipio": "Xove",
+        "habitantes": "3273",
+        "casos_14d": null,
+        "casos_14d_min": "1",
+        "casos_14d_max": "9",
+        "IA14": null,
+        "IA14_min": "30.5530094714329",
+        "IA14_max": "274.977085242896",
+        "casos_7d": null,
+        "casos_7d_min": "1",
+        "casos_7d_max": "9",
+        "IA7": null,
+        "IA7_min": "30.5530094714329",
+        "IA7_max": "274.977085242896"
     }
 ]

@@ -4480,5 +4480,23 @@
         "IA7": null,
         "IA7_min": "89.2857142857143",
         "IA7_max": "803.571428571428"
+    },
+    {
+        "fecha": "2021-07-28",
+        "codigo_municipio": "32025",
+        "municipio": "Cenlle",
+        "habitantes": "1120",
+        "casos_14d": null,
+        "casos_14d_min": "1",
+        "casos_14d_max": "9",
+        "IA14": null,
+        "IA14_min": "89.2857142857143",
+        "IA14_max": "803.571428571428",
+        "casos_7d": null,
+        "casos_7d_min": "1",
+        "casos_7d_max": "9",
+        "IA7": null,
+        "IA7_min": "89.2857142857143",
+        "IA7_max": "803.571428571428"
     }
 ]

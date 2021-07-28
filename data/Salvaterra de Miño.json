@@ -4480,5 +4480,23 @@
         "IA7": "122.212037885732",
         "IA7_min": null,
         "IA7_max": null
+    },
+    {
+        "fecha": "2021-07-28",
+        "codigo_municipio": "36050",
+        "municipio": "Salvaterra de Mi\u00f1o",
+        "habitantes": "9819",
+        "casos_14d": "30",
+        "casos_14d_min": null,
+        "casos_14d_max": null,
+        "IA14": "305.530094714329",
+        "IA14_min": null,
+        "IA14_max": null,
+        "casos_7d": "20",
+        "casos_7d_min": null,
+        "casos_7d_max": null,
+        "IA7": "203.686729809553",
+        "IA7_min": null,
+        "IA7_max": null
     }
 ]

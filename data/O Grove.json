@@ -4480,5 +4480,23 @@
         "IA7": "1173.70892018779",
         "IA7_min": null,
         "IA7_max": null
+    },
+    {
+        "fecha": "2021-07-28",
+        "codigo_municipio": "36022",
+        "municipio": "O Grove",
+        "habitantes": "10650",
+        "casos_14d": "193",
+        "casos_14d_min": null,
+        "casos_14d_max": null,
+        "IA14": "1812.20657276995",
+        "IA14_min": null,
+        "IA14_max": null,
+        "casos_7d": "118",
+        "casos_7d_min": null,
+        "casos_7d_max": null,
+        "IA7": "1107.98122065728",
+        "IA7_min": null,
+        "IA7_max": null
     }
 ]

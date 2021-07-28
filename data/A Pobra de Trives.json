@@ -4480,5 +4480,23 @@
         "IA7": null,
         "IA7_min": "48.3792936623125",
         "IA7_max": "435.413642960813"
+    },
+    {
+        "fecha": "2021-07-28",
+        "codigo_municipio": "32063",
+        "municipio": "A Pobra de Trives",
+        "habitantes": "2067",
+        "casos_14d": "12",
+        "casos_14d_min": null,
+        "casos_14d_max": null,
+        "IA14": "580.55152394775",
+        "IA14_min": null,
+        "IA14_max": null,
+        "casos_7d": null,
+        "casos_7d_min": "1",
+        "casos_7d_max": "9",
+        "IA7": null,
+        "IA7_min": "48.3792936623125",
+        "IA7_max": "435.413642960813"
     }
 ]

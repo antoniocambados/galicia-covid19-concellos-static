@@ -4480,5 +4480,23 @@
         "IA7": "352.969814995131",
         "IA7_min": null,
         "IA7_max": null
+    },
+    {
+        "fecha": "2021-07-28",
+        "codigo_municipio": "15017",
+        "municipio": "Cambre",
+        "habitantes": "24648",
+        "casos_14d": "153",
+        "casos_14d_min": null,
+        "casos_14d_max": null,
+        "IA14": "620.740019474197",
+        "IA14_min": null,
+        "IA14_max": null,
+        "casos_7d": "93",
+        "casos_7d_min": null,
+        "casos_7d_max": null,
+        "IA7": "377.312560856865",
+        "IA7_min": null,
+        "IA7_max": null
     }
 ]

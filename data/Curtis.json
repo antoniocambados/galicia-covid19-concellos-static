@@ -4480,5 +4480,23 @@
         "IA7": "301.280441877981",
         "IA7_min": null,
         "IA7_max": null
+    },
+    {
+        "fecha": "2021-07-28",
+        "codigo_municipio": "15032",
+        "municipio": "Curtis",
+        "habitantes": "3983",
+        "casos_14d": "19",
+        "casos_14d_min": null,
+        "casos_14d_max": null,
+        "IA14": "477.027366306804",
+        "IA14_min": null,
+        "IA14_max": null,
+        "casos_7d": "11",
+        "casos_7d_min": null,
+        "casos_7d_max": null,
+        "IA7": "276.17373838815",
+        "IA7_min": null,
+        "IA7_max": null
     }
 ]

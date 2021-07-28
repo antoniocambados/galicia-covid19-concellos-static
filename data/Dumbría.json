@@ -4480,5 +4480,23 @@
         "IA7": null,
         "IA7_min": "33.5232986925914",
         "IA7_max": "301.709688233322"
+    },
+    {
+        "fecha": "2021-07-28",
+        "codigo_municipio": "15034",
+        "municipio": "Dumbr\u00eda",
+        "habitantes": "2983",
+        "casos_14d": "10",
+        "casos_14d_min": null,
+        "casos_14d_max": null,
+        "IA14": "335.232986925914",
+        "IA14_min": null,
+        "IA14_max": null,
+        "casos_7d": null,
+        "casos_7d_min": "1",
+        "casos_7d_max": "9",
+        "IA7": null,
+        "IA7_min": "33.5232986925914",
+        "IA7_max": "301.709688233322"
     }
 ]

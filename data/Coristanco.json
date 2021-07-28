@@ -4480,5 +4480,23 @@
         "IA7": "263.417846559104",
         "IA7_min": null,
         "IA7_max": null
+    },
+    {
+        "fecha": "2021-07-28",
+        "codigo_municipio": "15029",
+        "municipio": "Coristanco",
+        "habitantes": "6074",
+        "casos_14d": "21",
+        "casos_14d_min": null,
+        "casos_14d_max": null,
+        "IA14": "345.735923608825",
+        "IA14_min": null,
+        "IA14_max": null,
+        "casos_7d": "18",
+        "casos_7d_min": null,
+        "casos_7d_max": null,
+        "IA7": "296.345077378992",
+        "IA7_min": null,
+        "IA7_max": null
     }
 ]

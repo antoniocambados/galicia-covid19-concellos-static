@@ -4480,5 +4480,23 @@
         "IA7": "311.712428704072",
         "IA7_min": null,
         "IA7_max": null
+    },
+    {
+        "fecha": "2021-07-28",
+        "codigo_municipio": "36033",
+        "municipio": "Mos",
+        "habitantes": "15078",
+        "casos_14d": "83",
+        "casos_14d_min": null,
+        "casos_14d_max": null,
+        "IA14": "550.470884732723",
+        "IA14_min": null,
+        "IA14_max": null,
+        "casos_7d": "52",
+        "casos_7d_min": null,
+        "casos_7d_max": null,
+        "IA7": "344.873325374718",
+        "IA7_min": null,
+        "IA7_max": null
     }
 ]

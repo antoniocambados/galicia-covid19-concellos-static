@@ -4480,5 +4480,23 @@
         "IA7": null,
         "IA7_min": "59.7014925373134",
         "IA7_max": "537.313432835821"
+    },
+    {
+        "fecha": "2021-07-28",
+        "codigo_municipio": "27064",
+        "municipio": "O Vicedo",
+        "habitantes": "1675",
+        "casos_14d": "10",
+        "casos_14d_min": null,
+        "casos_14d_max": null,
+        "IA14": "597.014925373134",
+        "IA14_min": null,
+        "IA14_max": null,
+        "casos_7d": null,
+        "casos_7d_min": "1",
+        "casos_7d_max": "9",
+        "IA7": null,
+        "IA7_min": "59.7014925373134",
+        "IA7_max": "537.313432835821"
     }
 ]

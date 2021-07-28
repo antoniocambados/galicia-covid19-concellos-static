@@ -4480,5 +4480,23 @@
         "IA7": null,
         "IA7_min": "50.3778337531486",
         "IA7_max": "453.400503778338"
+    },
+    {
+        "fecha": "2021-07-28",
+        "codigo_municipio": "15010",
+        "municipio": "Boimorto",
+        "habitantes": "1985",
+        "casos_14d": null,
+        "casos_14d_min": "1",
+        "casos_14d_max": "9",
+        "IA14": null,
+        "IA14_min": "50.3778337531486",
+        "IA14_max": "453.400503778338",
+        "casos_7d": null,
+        "casos_7d_min": "1",
+        "casos_7d_max": "9",
+        "IA7": null,
+        "IA7_min": "50.3778337531486",
+        "IA7_max": "453.400503778338"
     }
 ]

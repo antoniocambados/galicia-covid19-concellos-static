@@ -4480,5 +4480,23 @@
         "IA7": null,
         "IA7_min": "67.5219446320054",
         "IA7_max": "607.697501688049"
+    },
+    {
+        "fecha": "2021-07-28",
+        "codigo_municipio": "27008",
+        "municipio": "B\u00f3veda",
+        "habitantes": "1481",
+        "casos_14d": "11",
+        "casos_14d_min": null,
+        "casos_14d_max": null,
+        "IA14": "742.741390952059",
+        "IA14_min": null,
+        "IA14_max": null,
+        "casos_7d": null,
+        "casos_7d_min": "1",
+        "casos_7d_max": "9",
+        "IA7": null,
+        "IA7_min": "67.5219446320054",
+        "IA7_max": "607.697501688049"
     }
 ]

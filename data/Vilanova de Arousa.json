@@ -4480,5 +4480,23 @@
         "IA7": "359.153562415065",
         "IA7_min": null,
         "IA7_max": null
+    },
+    {
+        "fecha": "2021-07-28",
+        "codigo_municipio": "36061",
+        "municipio": "Vilanova de Arousa",
+        "habitantes": "10302",
+        "casos_14d": "84",
+        "casos_14d_min": null,
+        "casos_14d_max": null,
+        "IA14": "815.37565521258",
+        "IA14_min": null,
+        "IA14_max": null,
+        "casos_7d": "37",
+        "casos_7d_min": null,
+        "casos_7d_max": null,
+        "IA7": "359.153562415065",
+        "IA7_min": null,
+        "IA7_max": null
     }
 ]

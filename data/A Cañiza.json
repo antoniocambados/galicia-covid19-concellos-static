@@ -4480,5 +4480,23 @@
         "IA7": null,
         "IA7_min": "19.3050193050193",
         "IA7_max": "173.745173745174"
+    },
+    {
+        "fecha": "2021-07-28",
+        "codigo_municipio": "36009",
+        "municipio": "A Ca\u00f1iza",
+        "habitantes": "5180",
+        "casos_14d": "11",
+        "casos_14d_min": null,
+        "casos_14d_max": null,
+        "IA14": "212.355212355212",
+        "IA14_min": null,
+        "IA14_max": null,
+        "casos_7d": null,
+        "casos_7d_min": "1",
+        "casos_7d_max": "9",
+        "IA7": null,
+        "IA7_min": "19.3050193050193",
+        "IA7_max": "173.745173745174"
     }
 ]

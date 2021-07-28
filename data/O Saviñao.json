@@ -4480,5 +4480,23 @@
         "IA7": null,
         "IA7_min": "26.7737617135208",
         "IA7_max": "240.963855421687"
+    },
+    {
+        "fecha": "2021-07-28",
+        "codigo_municipio": "27058",
+        "municipio": "O Savi\u00f1ao",
+        "habitantes": "3735",
+        "casos_14d": "10",
+        "casos_14d_min": null,
+        "casos_14d_max": null,
+        "IA14": "267.737617135207",
+        "IA14_min": null,
+        "IA14_max": null,
+        "casos_7d": null,
+        "casos_7d_min": "1",
+        "casos_7d_max": "9",
+        "IA7": null,
+        "IA7_min": "26.7737617135208",
+        "IA7_max": "240.963855421687"
     }
 ]

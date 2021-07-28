@@ -4480,5 +4480,23 @@
         "IA7": "429.98585572843",
         "IA7_min": null,
         "IA7_max": null
+    },
+    {
+        "fecha": "2021-07-28",
+        "codigo_municipio": "36035",
+        "municipio": "Nigr\u00e1n",
+        "habitantes": "17675",
+        "casos_14d": "146",
+        "casos_14d_min": null,
+        "casos_14d_max": null,
+        "IA14": "826.025459688826",
+        "IA14_min": null,
+        "IA14_max": null,
+        "casos_7d": "78",
+        "casos_7d_min": null,
+        "casos_7d_max": null,
+        "IA7": "441.301272984441",
+        "IA7_min": null,
+        "IA7_max": null
     }
 ]

@@ -4480,5 +4480,23 @@
         "IA7": null,
         "IA7_min": "32.7653997378768",
         "IA7_max": "294.888597640891"
+    },
+    {
+        "fecha": "2021-07-28",
+        "codigo_municipio": "36044",
+        "municipio": "Pontecesures",
+        "habitantes": "3052",
+        "casos_14d": "15",
+        "casos_14d_min": null,
+        "casos_14d_max": null,
+        "IA14": "491.480996068152",
+        "IA14_min": null,
+        "IA14_max": null,
+        "casos_7d": null,
+        "casos_7d_min": "1",
+        "casos_7d_max": "9",
+        "IA7": null,
+        "IA7_min": "32.7653997378768",
+        "IA7_max": "294.888597640891"
     }
 ]

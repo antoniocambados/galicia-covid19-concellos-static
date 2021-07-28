@@ -4480,5 +4480,23 @@
         "IA7": "213.55076684139",
         "IA7_min": null,
         "IA7_max": null
+    },
+    {
+        "fecha": "2021-07-28",
+        "codigo_municipio": "27039",
+        "municipio": "Outeiro de Rei",
+        "habitantes": "5151",
+        "casos_14d": "18",
+        "casos_14d_min": null,
+        "casos_14d_max": null,
+        "IA14": "349.44670937682",
+        "IA14_min": null,
+        "IA14_max": null,
+        "casos_7d": "13",
+        "casos_7d_min": null,
+        "casos_7d_max": null,
+        "IA7": "252.37817899437",
+        "IA7_min": null,
+        "IA7_max": null
     }
 ]

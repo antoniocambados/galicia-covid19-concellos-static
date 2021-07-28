@@ -4480,5 +4480,23 @@
         "IA7": "373.226403454658",
         "IA7_min": null,
         "IA7_max": null
+    },
+    {
+        "fecha": "2021-07-28",
+        "codigo_municipio": "15078",
+        "municipio": "Santiago de Compostela",
+        "habitantes": "97260",
+        "casos_14d": "607",
+        "casos_14d_min": null,
+        "casos_14d_max": null,
+        "IA14": "624.100349578449",
+        "IA14_min": null,
+        "IA14_max": null,
+        "casos_7d": "367",
+        "casos_7d_min": null,
+        "casos_7d_max": null,
+        "IA7": "377.339091096031",
+        "IA7_min": null,
+        "IA7_max": null
     }
 ]

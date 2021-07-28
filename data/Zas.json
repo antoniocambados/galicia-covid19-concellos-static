@@ -4480,5 +4480,23 @@
         "IA7": null,
         "IA7_min": "22.3613595706619",
         "IA7_max": "201.252236135957"
+    },
+    {
+        "fecha": "2021-07-28",
+        "codigo_municipio": "15093",
+        "municipio": "Zas",
+        "habitantes": "4472",
+        "casos_14d": "10",
+        "casos_14d_min": null,
+        "casos_14d_max": null,
+        "IA14": "223.613595706619",
+        "IA14_min": null,
+        "IA14_max": null,
+        "casos_7d": null,
+        "casos_7d_min": "1",
+        "casos_7d_max": "9",
+        "IA7": null,
+        "IA7_min": "22.3613595706619",
+        "IA7_max": "201.252236135957"
     }
 ]

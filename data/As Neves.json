@@ -4480,5 +4480,23 @@
         "IA7": null,
         "IA7_min": "26.0348867482426",
         "IA7_max": "234.313980734184"
+    },
+    {
+        "fecha": "2021-07-28",
+        "codigo_municipio": "36034",
+        "municipio": "As Neves",
+        "habitantes": "3841",
+        "casos_14d": "13",
+        "casos_14d_min": null,
+        "casos_14d_max": null,
+        "IA14": "338.453527727154",
+        "IA14_min": null,
+        "IA14_max": null,
+        "casos_7d": null,
+        "casos_7d_min": "1",
+        "casos_7d_max": "9",
+        "IA7": null,
+        "IA7_min": "26.0348867482426",
+        "IA7_max": "234.313980734184"
     }
 ]
