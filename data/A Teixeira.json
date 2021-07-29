@@ -4498,5 +4498,23 @@
         "IA7": null,
         "IA7_min": "316.455696202532",
         "IA7_max": "2848.10126582278"
+    },
+    {
+        "fecha": "2021-07-29",
+        "codigo_municipio": "32080",
+        "municipio": "A Teixeira",
+        "habitantes": "316",
+        "casos_14d": null,
+        "casos_14d_min": "1",
+        "casos_14d_max": "9",
+        "IA14": null,
+        "IA14_min": "316.455696202532",
+        "IA14_max": "2848.10126582278",
+        "casos_7d": null,
+        "casos_7d_min": "1",
+        "casos_7d_max": "9",
+        "IA7": null,
+        "IA7_min": "316.455696202532",
+        "IA7_max": "2848.10126582278"
     }
 ]

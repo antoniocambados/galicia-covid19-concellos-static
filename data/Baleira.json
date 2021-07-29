@@ -4498,5 +4498,23 @@
         "IA7": null,
         "IA7_min": "80.58017727639",
         "IA7_max": "725.22159548751"
+    },
+    {
+        "fecha": "2021-07-29",
+        "codigo_municipio": "27004",
+        "municipio": "Baleira",
+        "habitantes": "1241",
+        "casos_14d": null,
+        "casos_14d_min": "1",
+        "casos_14d_max": "9",
+        "IA14": null,
+        "IA14_min": "80.58017727639",
+        "IA14_max": "725.22159548751",
+        "casos_7d": null,
+        "casos_7d_min": "1",
+        "casos_7d_max": "9",
+        "IA7": null,
+        "IA7_min": "80.58017727639",
+        "IA7_max": "725.22159548751"
     }
 ]

@@ -4498,5 +4498,23 @@
         "IA7": "0",
         "IA7_min": null,
         "IA7_max": null
+    },
+    {
+        "fecha": "2021-07-29",
+        "codigo_municipio": "27059",
+        "municipio": "Sober",
+        "habitantes": "2312",
+        "casos_14d": null,
+        "casos_14d_min": "1",
+        "casos_14d_max": "9",
+        "IA14": null,
+        "IA14_min": "43.2525951557093",
+        "IA14_max": "389.273356401384",
+        "casos_7d": "0",
+        "casos_7d_min": null,
+        "casos_7d_max": null,
+        "IA7": "0",
+        "IA7_min": null,
+        "IA7_max": null
     }
 ]

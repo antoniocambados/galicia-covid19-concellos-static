@@ -4498,5 +4498,23 @@
         "IA7": null,
         "IA7_min": "58.411214953271",
         "IA7_max": "525.700934579439"
+    },
+    {
+        "fecha": "2021-07-29",
+        "codigo_municipio": "32053",
+        "municipio": "O\u00edmbra",
+        "habitantes": "1712",
+        "casos_14d": null,
+        "casos_14d_min": "1",
+        "casos_14d_max": "9",
+        "IA14": null,
+        "IA14_min": "58.411214953271",
+        "IA14_max": "525.700934579439",
+        "casos_7d": null,
+        "casos_7d_min": "1",
+        "casos_7d_max": "9",
+        "IA7": null,
+        "IA7_min": "58.411214953271",
+        "IA7_max": "525.700934579439"
     }
 ]

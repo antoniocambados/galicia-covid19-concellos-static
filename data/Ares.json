@@ -4498,5 +4498,23 @@
         "IA7": null,
         "IA7_min": "17.4459176552687",
         "IA7_max": "157.013258897418"
+    },
+    {
+        "fecha": "2021-07-29",
+        "codigo_municipio": "15004",
+        "municipio": "Ares",
+        "habitantes": "5732",
+        "casos_14d": "19",
+        "casos_14d_min": null,
+        "casos_14d_max": null,
+        "IA14": "331.472435450105",
+        "IA14_min": null,
+        "IA14_max": null,
+        "casos_7d": "12",
+        "casos_7d_min": null,
+        "casos_7d_max": null,
+        "IA7": "209.351011863224",
+        "IA7_min": null,
+        "IA7_max": null
     }
 ]

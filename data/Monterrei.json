@@ -4498,5 +4498,23 @@
         "IA7": "672.202451561882",
         "IA7_min": null,
         "IA7_max": null
+    },
+    {
+        "fecha": "2021-07-29",
+        "codigo_municipio": "32050",
+        "municipio": "Monterrei",
+        "habitantes": "2529",
+        "casos_14d": "23",
+        "casos_14d_min": null,
+        "casos_14d_max": null,
+        "IA14": "909.450375642546",
+        "IA14_min": null,
+        "IA14_max": null,
+        "casos_7d": "13",
+        "casos_7d_min": null,
+        "casos_7d_max": null,
+        "IA7": "514.037168841439",
+        "IA7_min": null,
+        "IA7_max": null
     }
 ]

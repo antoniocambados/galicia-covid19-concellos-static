@@ -4498,5 +4498,23 @@
         "IA7": null,
         "IA7_min": "60.6796116504854",
         "IA7_max": "546.116504854369"
+    },
+    {
+        "fecha": "2021-07-29",
+        "codigo_municipio": "27047",
+        "municipio": "A Pobra do Broll\u00f3n",
+        "habitantes": "1648",
+        "casos_14d": null,
+        "casos_14d_min": "1",
+        "casos_14d_max": "9",
+        "IA14": null,
+        "IA14_min": "60.6796116504854",
+        "IA14_max": "546.116504854369",
+        "casos_7d": null,
+        "casos_7d_min": "1",
+        "casos_7d_max": "9",
+        "IA7": null,
+        "IA7_min": "60.6796116504854",
+        "IA7_max": "546.116504854369"
     }
 ]

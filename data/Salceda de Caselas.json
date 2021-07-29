@@ -4498,5 +4498,23 @@
         "IA7": "174.596246180707",
         "IA7_min": null,
         "IA7_max": null
+    },
+    {
+        "fecha": "2021-07-29",
+        "codigo_municipio": "36049",
+        "municipio": "Salceda de Caselas",
+        "habitantes": "9164",
+        "casos_14d": "29",
+        "casos_14d_min": null,
+        "casos_14d_max": null,
+        "IA14": "316.455696202532",
+        "IA14_min": null,
+        "IA14_max": null,
+        "casos_7d": "21",
+        "casos_7d_min": null,
+        "casos_7d_max": null,
+        "IA7": "229.157573112178",
+        "IA7_min": null,
+        "IA7_max": null
     }
 ]

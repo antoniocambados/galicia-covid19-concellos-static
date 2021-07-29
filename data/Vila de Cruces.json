@@ -4498,5 +4498,23 @@
         "IA7": null,
         "IA7_min": "19.0621425848265",
         "IA7_max": "171.559283263439"
+    },
+    {
+        "fecha": "2021-07-29",
+        "codigo_municipio": "36059",
+        "municipio": "Vila de Cruces",
+        "habitantes": "5246",
+        "casos_14d": "12",
+        "casos_14d_min": null,
+        "casos_14d_max": null,
+        "IA14": "228.745711017918",
+        "IA14_min": null,
+        "IA14_max": null,
+        "casos_7d": null,
+        "casos_7d_min": "1",
+        "casos_7d_max": "9",
+        "IA7": null,
+        "IA7_min": "19.0621425848265",
+        "IA7_max": "171.559283263439"
     }
 ]

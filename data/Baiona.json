@@ -4498,5 +4498,23 @@
         "IA7": "577.462464939779",
         "IA7_min": null,
         "IA7_max": null
+    },
+    {
+        "fecha": "2021-07-29",
+        "codigo_municipio": "36003",
+        "municipio": "Baiona",
+        "habitantes": "12122",
+        "casos_14d": "121",
+        "casos_14d_min": null,
+        "casos_14d_max": null,
+        "IA14": "998.185117967332",
+        "IA14_min": null,
+        "IA14_max": null,
+        "casos_7d": "64",
+        "casos_7d_min": null,
+        "casos_7d_max": null,
+        "IA7": "527.965682230655",
+        "IA7_min": null,
+        "IA7_max": null
     }
 ]

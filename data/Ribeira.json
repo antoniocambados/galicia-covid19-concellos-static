@@ -4498,5 +4498,23 @@
         "IA7": "327.307892583501",
         "IA7_min": null,
         "IA7_max": null
+    },
+    {
+        "fecha": "2021-07-29",
+        "codigo_municipio": "15073",
+        "municipio": "Ribeira",
+        "habitantes": "26886",
+        "casos_14d": "173",
+        "casos_14d_min": null,
+        "casos_14d_max": null,
+        "IA14": "643.4575615562",
+        "IA14_min": null,
+        "IA14_max": null,
+        "casos_7d": "78",
+        "casos_7d_min": null,
+        "casos_7d_max": null,
+        "IA7": "290.11381388083",
+        "IA7_min": null,
+        "IA7_max": null
     }
 ]

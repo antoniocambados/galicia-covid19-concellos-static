@@ -4498,5 +4498,23 @@
         "IA7": "443.874531465772",
         "IA7_min": null,
         "IA7_max": null
+    },
+    {
+        "fecha": "2021-07-29",
+        "codigo_municipio": "15070",
+        "municipio": "As Pontes de Garc\u00eda Rodr\u00edguez",
+        "habitantes": "10138",
+        "casos_14d": "54",
+        "casos_14d_min": null,
+        "casos_14d_max": null,
+        "IA14": "532.649437758927",
+        "IA14_min": null,
+        "IA14_max": null,
+        "casos_7d": "39",
+        "casos_7d_min": null,
+        "casos_7d_max": null,
+        "IA7": "384.691260603669",
+        "IA7_min": null,
+        "IA7_max": null
     }
 ]

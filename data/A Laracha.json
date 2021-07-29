@@ -4498,5 +4498,23 @@
         "IA7": "211.509650127787",
         "IA7_min": null,
         "IA7_max": null
+    },
+    {
+        "fecha": "2021-07-29",
+        "codigo_municipio": "15041",
+        "municipio": "A Laracha",
+        "habitantes": "11347",
+        "casos_14d": "43",
+        "casos_14d_min": null,
+        "casos_14d_max": null,
+        "IA14": "378.954789812285",
+        "IA14_min": null,
+        "IA14_max": null,
+        "casos_7d": "30",
+        "casos_7d_min": null,
+        "casos_7d_max": null,
+        "IA7": "264.387062659734",
+        "IA7_min": null,
+        "IA7_max": null
     }
 ]

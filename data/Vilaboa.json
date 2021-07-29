@@ -4498,5 +4498,23 @@
         "IA7": "357.507660878447",
         "IA7_min": null,
         "IA7_max": null
+    },
+    {
+        "fecha": "2021-07-29",
+        "codigo_municipio": "36058",
+        "municipio": "Vilaboa",
+        "habitantes": "5874",
+        "casos_14d": "28",
+        "casos_14d_min": null,
+        "casos_14d_max": null,
+        "IA14": "476.676881171263",
+        "IA14_min": null,
+        "IA14_max": null,
+        "casos_7d": "19",
+        "casos_7d_min": null,
+        "casos_7d_max": null,
+        "IA7": "323.459312223357",
+        "IA7_min": null,
+        "IA7_max": null
     }
 ]

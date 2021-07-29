@@ -4498,5 +4498,23 @@
         "IA7": null,
         "IA7_min": "92.678405931418",
         "IA7_max": "834.105653382762"
+    },
+    {
+        "fecha": "2021-07-29",
+        "codigo_municipio": "27037",
+        "municipio": "As Nogais",
+        "habitantes": "1079",
+        "casos_14d": null,
+        "casos_14d_min": "1",
+        "casos_14d_max": "9",
+        "IA14": null,
+        "IA14_min": "92.678405931418",
+        "IA14_max": "834.105653382762",
+        "casos_7d": null,
+        "casos_7d_min": "1",
+        "casos_7d_max": "9",
+        "IA7": null,
+        "IA7_min": "92.678405931418",
+        "IA7_max": "834.105653382762"
     }
 ]

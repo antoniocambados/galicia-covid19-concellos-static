@@ -4498,5 +4498,23 @@
         "IA7": "163.559044815178",
         "IA7_min": null,
         "IA7_max": null
+    },
+    {
+        "fecha": "2021-07-29",
+        "codigo_municipio": "15071",
+        "municipio": "Porto do Son",
+        "habitantes": "9171",
+        "casos_14d": "46",
+        "casos_14d_min": null,
+        "casos_14d_max": null,
+        "IA14": "501.581070766547",
+        "IA14_min": null,
+        "IA14_max": null,
+        "casos_7d": "16",
+        "casos_7d_min": null,
+        "casos_7d_max": null,
+        "IA7": "174.46298113619",
+        "IA7_min": null,
+        "IA7_max": null
     }
 ]

@@ -4498,5 +4498,23 @@
         "IA7": "94.6820261953606",
         "IA7_min": null,
         "IA7_max": null
+    },
+    {
+        "fecha": "2021-07-29",
+        "codigo_municipio": "15059",
+        "municipio": "Ordes",
+        "habitantes": "12674",
+        "casos_14d": "20",
+        "casos_14d_min": null,
+        "casos_14d_max": null,
+        "IA14": "157.803376992268",
+        "IA14_min": null,
+        "IA14_max": null,
+        "casos_7d": null,
+        "casos_7d_min": "1",
+        "casos_7d_max": "9",
+        "IA7": null,
+        "IA7_min": "7.89016884961338",
+        "IA7_max": "71.0115196465204"
     }
 ]

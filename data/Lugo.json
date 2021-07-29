@@ -4498,5 +4498,23 @@
         "IA7": "340.876714558997",
         "IA7_min": null,
         "IA7_max": null
+    },
+    {
+        "fecha": "2021-07-29",
+        "codigo_municipio": "27028",
+        "municipio": "Lugo",
+        "habitantes": "98276",
+        "casos_14d": "589",
+        "casos_14d_min": null,
+        "casos_14d_max": null,
+        "IA14": "599.332492164923",
+        "IA14_min": null,
+        "IA14_max": null,
+        "casos_7d": "332",
+        "casos_7d_min": null,
+        "casos_7d_max": null,
+        "IA7": "337.824087264439",
+        "IA7_min": null,
+        "IA7_max": null
     }
 ]

@@ -4498,5 +4498,23 @@
         "IA7": "227.737973387922",
         "IA7_min": null,
         "IA7_max": null
+    },
+    {
+        "fecha": "2021-07-29",
+        "codigo_municipio": "15054",
+        "municipio": "Nar\u00f3n",
+        "habitantes": "39080",
+        "casos_14d": "153",
+        "casos_14d_min": null,
+        "casos_14d_max": null,
+        "IA14": "391.50460593654",
+        "IA14_min": null,
+        "IA14_max": null,
+        "casos_7d": "83",
+        "casos_7d_min": null,
+        "casos_7d_max": null,
+        "IA7": "212.384851586489",
+        "IA7_min": null,
+        "IA7_max": null
     }
 ]

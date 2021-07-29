@@ -4498,5 +4498,23 @@
         "IA7": "0",
         "IA7_min": null,
         "IA7_max": null
+    },
+    {
+        "fecha": "2021-07-29",
+        "codigo_municipio": "32035",
+        "municipio": "O Irixo",
+        "habitantes": "1466",
+        "casos_14d": null,
+        "casos_14d_min": "1",
+        "casos_14d_max": "9",
+        "IA14": null,
+        "IA14_min": "68.212824010914",
+        "IA14_max": "613.915416098227",
+        "casos_7d": null,
+        "casos_7d_min": "1",
+        "casos_7d_max": "9",
+        "IA7": null,
+        "IA7_min": "68.212824010914",
+        "IA7_max": "613.915416098227"
     }
 ]

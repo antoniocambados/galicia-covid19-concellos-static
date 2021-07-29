@@ -4498,5 +4498,23 @@
         "IA7": "154.332896056795",
         "IA7_min": null,
         "IA7_max": null
+    },
+    {
+        "fecha": "2021-07-29",
+        "codigo_municipio": "15009",
+        "municipio": "Betanzos",
+        "habitantes": "12959",
+        "casos_14d": "45",
+        "casos_14d_min": null,
+        "casos_14d_max": null,
+        "IA14": "347.249016127788",
+        "IA14_min": null,
+        "IA14_max": null,
+        "casos_7d": "24",
+        "casos_7d_min": null,
+        "casos_7d_max": null,
+        "IA7": "185.199475268153",
+        "IA7_min": null,
+        "IA7_max": null
     }
 ]

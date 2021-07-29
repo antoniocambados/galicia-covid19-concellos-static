@@ -4498,5 +4498,23 @@
         "IA7": null,
         "IA7_min": "19.0657769304099",
         "IA7_max": "171.591992373689"
+    },
+    {
+        "fecha": "2021-07-29",
+        "codigo_municipio": "15051",
+        "municipio": "Mugardos",
+        "habitantes": "5245",
+        "casos_14d": "11",
+        "casos_14d_min": null,
+        "casos_14d_max": null,
+        "IA14": "209.723546234509",
+        "IA14_min": null,
+        "IA14_max": null,
+        "casos_7d": null,
+        "casos_7d_min": "1",
+        "casos_7d_max": "9",
+        "IA7": null,
+        "IA7_min": "19.0657769304099",
+        "IA7_max": "171.591992373689"
     }
 ]

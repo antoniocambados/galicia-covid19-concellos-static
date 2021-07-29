@@ -4498,5 +4498,23 @@
         "IA7": null,
         "IA7_min": "10.6089539571398",
         "IA7_max": "95.4805856142584"
+    },
+    {
+        "fecha": "2021-07-29",
+        "codigo_municipio": "15077",
+        "municipio": "Santa Comba",
+        "habitantes": "9426",
+        "casos_14d": "17",
+        "casos_14d_min": null,
+        "casos_14d_max": null,
+        "IA14": "180.352217271377",
+        "IA14_min": null,
+        "IA14_max": null,
+        "casos_7d": null,
+        "casos_7d_min": "1",
+        "casos_7d_max": "9",
+        "IA7": null,
+        "IA7_min": "10.6089539571398",
+        "IA7_max": "95.4805856142584"
     }
 ]

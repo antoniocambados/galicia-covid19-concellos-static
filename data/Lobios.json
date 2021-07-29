@@ -4498,5 +4498,23 @@
         "IA7": null,
         "IA7_min": "58.5480093676815",
         "IA7_max": "526.932084309133"
+    },
+    {
+        "fecha": "2021-07-29",
+        "codigo_municipio": "32042",
+        "municipio": "Lobios",
+        "habitantes": "1708",
+        "casos_14d": null,
+        "casos_14d_min": "1",
+        "casos_14d_max": "9",
+        "IA14": null,
+        "IA14_min": "58.5480093676815",
+        "IA14_max": "526.932084309133",
+        "casos_7d": null,
+        "casos_7d_min": "1",
+        "casos_7d_max": "9",
+        "IA7": null,
+        "IA7_min": "58.5480093676815",
+        "IA7_max": "526.932084309133"
     }
 ]

@@ -4498,5 +4498,23 @@
         "IA7": "282.998718496369",
         "IA7_min": null,
         "IA7_max": null
+    },
+    {
+        "fecha": "2021-07-29",
+        "codigo_municipio": "36060",
+        "municipio": "Vilagarc\u00eda de Arousa",
+        "habitantes": "37456",
+        "casos_14d": "246",
+        "casos_14d_min": null,
+        "casos_14d_max": null,
+        "IA14": "656.770610850064",
+        "IA14_min": null,
+        "IA14_max": null,
+        "casos_7d": "97",
+        "casos_7d_min": null,
+        "casos_7d_max": null,
+        "IA7": "258.970525416489",
+        "IA7_min": null,
+        "IA7_max": null
     }
 ]

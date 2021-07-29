@@ -4498,5 +4498,23 @@
         "IA7": "427.24609375",
         "IA7_min": null,
         "IA7_max": null
+    },
+    {
+        "fecha": "2021-07-29",
+        "codigo_municipio": "27016",
+        "municipio": "Chantada",
+        "habitantes": "8192",
+        "casos_14d": "63",
+        "casos_14d_min": null,
+        "casos_14d_max": null,
+        "IA14": "769.04296875",
+        "IA14_min": null,
+        "IA14_max": null,
+        "casos_7d": "35",
+        "casos_7d_min": null,
+        "casos_7d_max": null,
+        "IA7": "427.24609375",
+        "IA7_min": null,
+        "IA7_max": null
     }
 ]

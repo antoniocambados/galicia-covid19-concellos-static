@@ -4498,5 +4498,23 @@
         "IA7": null,
         "IA7_min": "18.9681335356601",
         "IA7_max": "170.713201820941"
+    },
+    {
+        "fecha": "2021-07-29",
+        "codigo_municipio": "15016",
+        "municipio": "Camari\u00f1as",
+        "habitantes": "5272",
+        "casos_14d": "12",
+        "casos_14d_min": null,
+        "casos_14d_max": null,
+        "IA14": "227.617602427921",
+        "IA14_min": null,
+        "IA14_max": null,
+        "casos_7d": null,
+        "casos_7d_min": "1",
+        "casos_7d_max": "9",
+        "IA7": null,
+        "IA7_min": "18.9681335356601",
+        "IA7_max": "170.713201820941"
     }
 ]
