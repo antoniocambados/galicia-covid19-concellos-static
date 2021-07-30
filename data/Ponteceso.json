@@ -4516,5 +4516,23 @@
         "IA7": null,
         "IA7_min": "18.1752090149037",
         "IA7_max": "163.576881134133"
+    },
+    {
+        "fecha": "2021-07-30",
+        "codigo_municipio": "15068",
+        "municipio": "Ponteceso",
+        "habitantes": "5502",
+        "casos_14d": "10",
+        "casos_14d_min": null,
+        "casos_14d_max": null,
+        "IA14": "181.752090149037",
+        "IA14_min": null,
+        "IA14_max": null,
+        "casos_7d": null,
+        "casos_7d_min": "1",
+        "casos_7d_max": "9",
+        "IA7": null,
+        "IA7_min": "18.1752090149037",
+        "IA7_max": "163.576881134133"
     }
 ]

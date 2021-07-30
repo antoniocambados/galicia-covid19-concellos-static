@@ -4516,5 +4516,23 @@
         "IA7": null,
         "IA7_min": "19.6889151407757",
         "IA7_max": "177.200236266982"
+    },
+    {
+        "fecha": "2021-07-30",
+        "codigo_municipio": "15055",
+        "municipio": "Neda",
+        "habitantes": "5079",
+        "casos_14d": "17",
+        "casos_14d_min": null,
+        "casos_14d_max": null,
+        "IA14": "334.711557393188",
+        "IA14_min": null,
+        "IA14_max": null,
+        "casos_7d": "10",
+        "casos_7d_min": null,
+        "casos_7d_max": null,
+        "IA7": "196.889151407757",
+        "IA7_min": null,
+        "IA7_max": null
     }
 ]

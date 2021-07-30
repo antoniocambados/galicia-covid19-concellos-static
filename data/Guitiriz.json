@@ -4516,5 +4516,23 @@
         "IA7": null,
         "IA7_min": "18.2348650619985",
         "IA7_max": "164.113785557987"
+    },
+    {
+        "fecha": "2021-07-30",
+        "codigo_municipio": "27022",
+        "municipio": "Guitiriz",
+        "habitantes": "5484",
+        "casos_14d": "10",
+        "casos_14d_min": null,
+        "casos_14d_max": null,
+        "IA14": "182.348650619985",
+        "IA14_min": null,
+        "IA14_max": null,
+        "casos_7d": null,
+        "casos_7d_min": "1",
+        "casos_7d_max": "9",
+        "IA7": null,
+        "IA7_min": "18.2348650619985",
+        "IA7_max": "164.113785557987"
     }
 ]

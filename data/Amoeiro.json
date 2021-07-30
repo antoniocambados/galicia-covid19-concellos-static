@@ -4516,5 +4516,23 @@
         "IA7": null,
         "IA7_min": "43.859649122807",
         "IA7_max": "394.736842105263"
+    },
+    {
+        "fecha": "2021-07-30",
+        "codigo_municipio": "32002",
+        "municipio": "Amoeiro",
+        "habitantes": "2280",
+        "casos_14d": null,
+        "casos_14d_min": "1",
+        "casos_14d_max": "9",
+        "IA14": null,
+        "IA14_min": "43.859649122807",
+        "IA14_max": "394.736842105263",
+        "casos_7d": null,
+        "casos_7d_min": "1",
+        "casos_7d_max": "9",
+        "IA7": null,
+        "IA7_min": "43.859649122807",
+        "IA7_max": "394.736842105263"
     }
 ]

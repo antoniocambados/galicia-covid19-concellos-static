@@ -4516,5 +4516,23 @@
         "IA7": null,
         "IA7_min": "22.5225225225225",
         "IA7_max": "202.702702702703"
+    },
+    {
+        "fecha": "2021-07-30",
+        "codigo_municipio": "36030",
+        "municipio": "Mondariz",
+        "habitantes": "4440",
+        "casos_14d": "14",
+        "casos_14d_min": null,
+        "casos_14d_max": null,
+        "IA14": "315.315315315315",
+        "IA14_min": null,
+        "IA14_max": null,
+        "casos_7d": "10",
+        "casos_7d_min": null,
+        "casos_7d_max": null,
+        "IA7": "225.225225225225",
+        "IA7_min": null,
+        "IA7_max": null
     }
 ]

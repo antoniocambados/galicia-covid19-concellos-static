@@ -4516,5 +4516,23 @@
         "IA7": "340.958403074825",
         "IA7_min": null,
         "IA7_max": null
+    },
+    {
+        "fecha": "2021-07-30",
+        "codigo_municipio": "15005",
+        "municipio": "Arteixo",
+        "habitantes": "32262",
+        "casos_14d": "178",
+        "casos_14d_min": null,
+        "casos_14d_max": null,
+        "IA14": "551.732688611989",
+        "IA14_min": null,
+        "IA14_max": null,
+        "casos_7d": "107",
+        "casos_7d_min": null,
+        "casos_7d_max": null,
+        "IA7": "331.659537536421",
+        "IA7_min": null,
+        "IA7_max": null
     }
 ]

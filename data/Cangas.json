@@ -4516,5 +4516,23 @@
         "IA7": "237.35965639364",
         "IA7_min": null,
         "IA7_max": null
+    },
+    {
+        "fecha": "2021-07-30",
+        "codigo_municipio": "36008",
+        "municipio": "Cangas",
+        "habitantes": "26542",
+        "casos_14d": "94",
+        "casos_14d_min": null,
+        "casos_14d_max": null,
+        "IA14": "354.155677793685",
+        "IA14_min": null,
+        "IA14_max": null,
+        "casos_7d": "54",
+        "casos_7d_min": null,
+        "casos_7d_max": null,
+        "IA7": "203.451134051692",
+        "IA7_min": null,
+        "IA7_max": null
     }
 ]

@@ -4516,5 +4516,23 @@
         "IA7": null,
         "IA7_min": "113.122171945701",
         "IA7_max": "1018.09954751131"
+    },
+    {
+        "fecha": "2021-07-30",
+        "codigo_municipio": "32015",
+        "municipio": "O Bolo",
+        "habitantes": "884",
+        "casos_14d": null,
+        "casos_14d_min": "1",
+        "casos_14d_max": "9",
+        "IA14": null,
+        "IA14_min": "113.122171945701",
+        "IA14_max": "1018.09954751131",
+        "casos_7d": null,
+        "casos_7d_min": "1",
+        "casos_7d_max": "9",
+        "IA7": null,
+        "IA7_min": "113.122171945701",
+        "IA7_max": "1018.09954751131"
     }
 ]

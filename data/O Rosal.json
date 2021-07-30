@@ -4516,5 +4516,23 @@
         "IA7": "368.944497914662",
         "IA7_min": null,
         "IA7_max": null
+    },
+    {
+        "fecha": "2021-07-30",
+        "codigo_municipio": "36048",
+        "municipio": "O Rosal",
+        "habitantes": "6234",
+        "casos_14d": "47",
+        "casos_14d_min": null,
+        "casos_14d_max": null,
+        "IA14": "753.930060956047",
+        "IA14_min": null,
+        "IA14_max": null,
+        "casos_7d": "20",
+        "casos_7d_min": null,
+        "casos_7d_max": null,
+        "IA7": "320.821302534488",
+        "IA7_min": null,
+        "IA7_max": null
     }
 ]

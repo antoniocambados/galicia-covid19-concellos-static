@@ -4516,5 +4516,23 @@
         "IA7": null,
         "IA7_min": "85.0340136054422",
         "IA7_max": "765.30612244898"
+    },
+    {
+        "fecha": "2021-07-30",
+        "codigo_municipio": "32061",
+        "municipio": "Pi\u00f1or",
+        "habitantes": "1176",
+        "casos_14d": null,
+        "casos_14d_min": "1",
+        "casos_14d_max": "9",
+        "IA14": null,
+        "IA14_min": "85.0340136054422",
+        "IA14_max": "765.30612244898",
+        "casos_7d": null,
+        "casos_7d_min": "1",
+        "casos_7d_max": "9",
+        "IA7": null,
+        "IA7_min": "85.0340136054422",
+        "IA7_max": "765.30612244898"
     }
 ]

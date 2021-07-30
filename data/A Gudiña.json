@@ -4516,5 +4516,23 @@
         "IA7": null,
         "IA7_min": "79.7448165869219",
         "IA7_max": "717.703349282297"
+    },
+    {
+        "fecha": "2021-07-30",
+        "codigo_municipio": "32034",
+        "municipio": "A Gudi\u00f1a",
+        "habitantes": "1254",
+        "casos_14d": null,
+        "casos_14d_min": "1",
+        "casos_14d_max": "9",
+        "IA14": null,
+        "IA14_min": "79.7448165869219",
+        "IA14_max": "717.703349282297",
+        "casos_7d": null,
+        "casos_7d_min": "1",
+        "casos_7d_max": "9",
+        "IA7": null,
+        "IA7_min": "79.7448165869219",
+        "IA7_max": "717.703349282297"
     }
 ]

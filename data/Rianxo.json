@@ -4516,5 +4516,23 @@
         "IA7": "271.911538112934",
         "IA7_min": null,
         "IA7_max": null
+    },
+    {
+        "fecha": "2021-07-30",
+        "codigo_municipio": "15072",
+        "municipio": "Rianxo",
+        "habitantes": "11033",
+        "casos_14d": "49",
+        "casos_14d_min": null,
+        "casos_14d_max": null,
+        "IA14": "444.122178917792",
+        "IA14_min": null,
+        "IA14_max": null,
+        "casos_7d": "25",
+        "casos_7d_min": null,
+        "casos_7d_max": null,
+        "IA7": "226.592948427445",
+        "IA7_min": null,
+        "IA7_max": null
     }
 ]

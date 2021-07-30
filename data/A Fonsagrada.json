@@ -4516,5 +4516,23 @@
         "IA7": null,
         "IA7_min": "28.8600288600289",
         "IA7_max": "259.74025974026"
+    },
+    {
+        "fecha": "2021-07-30",
+        "codigo_municipio": "27018",
+        "municipio": "A Fonsagrada",
+        "habitantes": "3465",
+        "casos_14d": "16",
+        "casos_14d_min": null,
+        "casos_14d_max": null,
+        "IA14": "461.760461760462",
+        "IA14_min": null,
+        "IA14_max": null,
+        "casos_7d": "11",
+        "casos_7d_min": null,
+        "casos_7d_max": null,
+        "IA7": "317.460317460317",
+        "IA7_min": null,
+        "IA7_max": null
     }
 ]

@@ -4516,5 +4516,23 @@
         "IA7": "322.945260778298",
         "IA7_min": null,
         "IA7_max": null
+    },
+    {
+        "fecha": "2021-07-30",
+        "codigo_municipio": "15082",
+        "municipio": "Teo",
+        "habitantes": "18579",
+        "casos_14d": "91",
+        "casos_14d_min": null,
+        "casos_14d_max": null,
+        "IA14": "489.800312180419",
+        "IA14_min": null,
+        "IA14_max": null,
+        "casos_7d": "54",
+        "casos_7d_min": null,
+        "casos_7d_max": null,
+        "IA7": "290.650734700468",
+        "IA7_min": null,
+        "IA7_max": null
     }
 ]

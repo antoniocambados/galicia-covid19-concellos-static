@@ -4516,5 +4516,23 @@
         "IA7": null,
         "IA7_min": "26.7094017094017",
         "IA7_max": "240.384615384615"
+    },
+    {
+        "fecha": "2021-07-30",
+        "codigo_municipio": "27020",
+        "municipio": "Friol",
+        "habitantes": "3744",
+        "casos_14d": null,
+        "casos_14d_min": "1",
+        "casos_14d_max": "9",
+        "IA14": null,
+        "IA14_min": "26.7094017094017",
+        "IA14_max": "240.384615384615",
+        "casos_7d": null,
+        "casos_7d_min": "1",
+        "casos_7d_max": "9",
+        "IA7": null,
+        "IA7_min": "26.7094017094017",
+        "IA7_max": "240.384615384615"
     }
 ]

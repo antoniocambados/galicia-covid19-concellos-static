@@ -4516,5 +4516,23 @@
         "IA7": "150.761344791196",
         "IA7_min": null,
         "IA7_max": null
+    },
+    {
+        "fecha": "2021-07-30",
+        "codigo_municipio": "15008",
+        "municipio": "Bergondo",
+        "habitantes": "6633",
+        "casos_14d": "20",
+        "casos_14d_min": null,
+        "casos_14d_max": null,
+        "IA14": "301.522689582391",
+        "IA14_min": null,
+        "IA14_max": null,
+        "casos_7d": "12",
+        "casos_7d_min": null,
+        "casos_7d_max": null,
+        "IA7": "180.913613749435",
+        "IA7_min": null,
+        "IA7_max": null
     }
 ]

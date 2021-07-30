@@ -4516,5 +4516,23 @@
         "IA7": null,
         "IA7_min": "15.605493133583",
         "IA7_max": "140.449438202247"
+    },
+    {
+        "fecha": "2021-07-30",
+        "codigo_municipio": "15021",
+        "municipio": "Carral",
+        "habitantes": "6408",
+        "casos_14d": "19",
+        "casos_14d_min": null,
+        "casos_14d_max": null,
+        "IA14": "296.504369538077",
+        "IA14_min": null,
+        "IA14_max": null,
+        "casos_7d": null,
+        "casos_7d_min": "1",
+        "casos_7d_max": "9",
+        "IA7": null,
+        "IA7_min": "15.605493133583",
+        "IA7_max": "140.449438202247"
     }
 ]

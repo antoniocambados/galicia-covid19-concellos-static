@@ -4516,5 +4516,23 @@
         "IA7": "195.048762190548",
         "IA7_min": null,
         "IA7_max": null
+    },
+    {
+        "fecha": "2021-07-30",
+        "codigo_municipio": "27057",
+        "municipio": "Sarria",
+        "habitantes": "13330",
+        "casos_14d": "60",
+        "casos_14d_min": null,
+        "casos_14d_max": null,
+        "IA14": "450.112528132033",
+        "IA14_min": null,
+        "IA14_max": null,
+        "casos_7d": "24",
+        "casos_7d_min": null,
+        "casos_7d_max": null,
+        "IA7": "180.045011252813",
+        "IA7_min": null,
+        "IA7_max": null
     }
 ]

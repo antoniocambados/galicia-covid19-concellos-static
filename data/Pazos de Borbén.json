@@ -4516,5 +4516,23 @@
         "IA7": null,
         "IA7_min": "33.3444481493831",
         "IA7_max": "300.100033344448"
+    },
+    {
+        "fecha": "2021-07-30",
+        "codigo_municipio": "36037",
+        "municipio": "Pazos de Borb\u00e9n",
+        "habitantes": "2999",
+        "casos_14d": "14",
+        "casos_14d_min": null,
+        "casos_14d_max": null,
+        "IA14": "466.822274091364",
+        "IA14_min": null,
+        "IA14_max": null,
+        "casos_7d": null,
+        "casos_7d_min": "1",
+        "casos_7d_max": "9",
+        "IA7": null,
+        "IA7_min": "33.3444481493831",
+        "IA7_max": "300.100033344448"
     }
 ]

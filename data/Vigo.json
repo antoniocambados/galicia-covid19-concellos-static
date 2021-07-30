@@ -4516,5 +4516,23 @@
         "IA7": "449.61471269349",
         "IA7_min": null,
         "IA7_max": null
+    },
+    {
+        "fecha": "2021-07-30",
+        "codigo_municipio": "36057",
+        "municipio": "Vigo",
+        "habitantes": "295364",
+        "casos_14d": "2450",
+        "casos_14d_min": null,
+        "casos_14d_max": null,
+        "IA14": "829.484974472177",
+        "IA14_min": null,
+        "IA14_max": null,
+        "casos_7d": "1249",
+        "casos_7d_min": null,
+        "casos_7d_max": null,
+        "IA7": "422.868054332959",
+        "IA7_min": null,
+        "IA7_max": null
     }
 ]

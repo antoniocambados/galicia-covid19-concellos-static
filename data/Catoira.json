@@ -4516,5 +4516,23 @@
         "IA7": null,
         "IA7_min": "29.9850074962519",
         "IA7_max": "269.865067466267"
+    },
+    {
+        "fecha": "2021-07-30",
+        "codigo_municipio": "36010",
+        "municipio": "Catoira",
+        "habitantes": "3335",
+        "casos_14d": "11",
+        "casos_14d_min": null,
+        "casos_14d_max": null,
+        "IA14": "329.835082458771",
+        "IA14_min": null,
+        "IA14_max": null,
+        "casos_7d": null,
+        "casos_7d_min": "1",
+        "casos_7d_max": "9",
+        "IA7": null,
+        "IA7_min": "29.9850074962519",
+        "IA7_max": "269.865067466267"
     }
 ]

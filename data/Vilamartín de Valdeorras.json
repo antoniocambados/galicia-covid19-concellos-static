@@ -4516,5 +4516,23 @@
         "IA7": null,
         "IA7_min": "55.8659217877095",
         "IA7_max": "502.793296089385"
+    },
+    {
+        "fecha": "2021-07-30",
+        "codigo_municipio": "32088",
+        "municipio": "Vilamart\u00edn de Valdeorras",
+        "habitantes": "1790",
+        "casos_14d": "11",
+        "casos_14d_min": null,
+        "casos_14d_max": null,
+        "IA14": "614.525139664804",
+        "IA14_min": null,
+        "IA14_max": null,
+        "casos_7d": null,
+        "casos_7d_min": "1",
+        "casos_7d_max": "9",
+        "IA7": null,
+        "IA7_min": "55.8659217877095",
+        "IA7_max": "502.793296089385"
     }
 ]

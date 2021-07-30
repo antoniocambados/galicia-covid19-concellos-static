@@ -4516,5 +4516,23 @@
         "IA7": "245.273377618804",
         "IA7_min": null,
         "IA7_max": null
+    },
+    {
+        "fecha": "2021-07-30",
+        "codigo_municipio": "36005",
+        "municipio": "Caldas de Reis",
+        "habitantes": "9785",
+        "casos_14d": "38",
+        "casos_14d_min": null,
+        "casos_14d_max": null,
+        "IA14": "388.349514563107",
+        "IA14_min": null,
+        "IA14_max": null,
+        "casos_7d": "22",
+        "casos_7d_min": null,
+        "casos_7d_max": null,
+        "IA7": "224.833929483904",
+        "IA7_min": null,
+        "IA7_max": null
     }
 ]

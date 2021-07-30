@@ -4516,5 +4516,23 @@
         "IA7": "313.087038196619",
         "IA7_min": null,
         "IA7_max": null
+    },
+    {
+        "fecha": "2021-07-30",
+        "codigo_municipio": "36028",
+        "municipio": "Meis",
+        "habitantes": "4791",
+        "casos_14d": "37",
+        "casos_14d_min": null,
+        "casos_14d_max": null,
+        "IA14": "772.281360884993",
+        "IA14_min": null,
+        "IA14_max": null,
+        "casos_7d": "14",
+        "casos_7d_min": null,
+        "casos_7d_max": null,
+        "IA7": "292.214568983511",
+        "IA7_min": null,
+        "IA7_max": null
     }
 ]

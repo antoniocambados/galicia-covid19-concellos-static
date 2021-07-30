@@ -4516,5 +4516,23 @@
         "IA7": "990.821860659157",
         "IA7_min": null,
         "IA7_max": null
+    },
+    {
+        "fecha": "2021-07-30",
+        "codigo_municipio": "27902",
+        "municipio": "Burela",
+        "habitantes": "9588",
+        "casos_14d": "180",
+        "casos_14d_min": null,
+        "casos_14d_max": null,
+        "IA14": "1877.34668335419",
+        "IA14_min": null,
+        "IA14_max": null,
+        "casos_7d": "88",
+        "casos_7d_min": null,
+        "casos_7d_max": null,
+        "IA7": "917.813934084272",
+        "IA7_min": null,
+        "IA7_max": null
     }
 ]

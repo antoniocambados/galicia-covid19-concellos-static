@@ -4516,5 +4516,23 @@
         "IA7": "398.611289700399",
         "IA7_min": null,
         "IA7_max": null
+    },
+    {
+        "fecha": "2021-07-30",
+        "codigo_municipio": "15069",
+        "municipio": "Pontedeume",
+        "habitantes": "7777",
+        "casos_14d": "55",
+        "casos_14d_min": null,
+        "casos_14d_max": null,
+        "IA14": "707.213578500707",
+        "IA14_min": null,
+        "IA14_max": null,
+        "casos_7d": "40",
+        "casos_7d_min": null,
+        "casos_7d_max": null,
+        "IA7": "514.337148000514",
+        "IA7_min": null,
+        "IA7_max": null
     }
 ]
