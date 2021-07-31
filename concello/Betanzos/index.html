@@ -4,7 +4,7 @@
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <title>Betanzos | Evolución Covid-19 en municipios de Galicia</title>
-                    <link rel="stylesheet" href="/build/app.css?v=320b7d7249719e544c70bc197b4d3076276fa216">
+                    <link rel="stylesheet" href="/build/app.css?v=4e3d209958601fdf48505397a63bbb94f724089f">
             </head>
     <body class="has-background-light">
                 <nav class="navbar is-primary" role="navigation" aria-label="main navigation">
@@ -19,11 +19,11 @@
                     <div class="buttons are-small">
                         <a href="https://github.com/antoniocambados/galicia-covid19-concellos" target="_blank" class="button is-primary">
                             <span class="icon"><img src="/img/github.svg" alt="GitHub"></span>
-                            <span>GitHub</span>
+                            <span class="is-hidden-mobile">GitHub</span>
                         </a>
                         <a href="https://twitter.com/antoniocambados" target="_blank" class="button is-primary">
                             <span class="icon"><img src="/img/twitter.svg" alt="Twitter"></span>
-                            <span>@antoniocambados</span>
+                            <span class="is-hidden-mobile">@antoniocambados</span>
                         </a>
                     </div>
                 </div>
@@ -39,22 +39,32 @@
                 </div>
                 <div class="level-right">
                     <div class="level-item buttons are-small">
-                        <a href="/data/Betanzos.csv" target="_blank" class="button is-success">Descargar CSV</a>
-                        <a href="/data/Betanzos.json" target="_blank" class="button is-info">Descargar JSON</a>
+                        <a href="/data/Betanzos.csv" target="_blank" class="button is-success"><span class="">Descargar </span>CSV</a>
+                        <a href="/data/Betanzos.json" target="_blank" class="button is-info"><span class="">Descargar </span> JSON</a>
                     </div>
                 </div>
             </div>
-            
-            <div class="control my-3 has-text-right">
-                <label class="label is-small has-text-weight-normal" title="Multiplicar por 2 a serie de positivos a 7 días">
-                    <div class="switch is-small">
-                        <input id="7dx2" type="checkbox">
-                        <span class="slider round"></span>
-                    </div>
-                    7 días × 2
-                </label>
+            <div class="toolbar">
+                <div class="toolbar-item">
+                    <small>Opcións da gráfica</small>
+                </div>
+                <div class="toolbar-item">
+                    <label class="is-size-7" title="Amosar Incidencia Acumulada">
+                        <div class="switch is-small">
+                            <input id="ia" type="checkbox">
+                            <span class="slider round"></span>
+                        </div>
+                        IA
+                    </label>
+                    <label class="is-size-7" title="Multiplicar por 2 a serie de positivos a 7 días">
+                        <div class="switch is-small">
+                            <input id="7dx2" type="checkbox">
+                            <span class="slider round"></span>
+                        </div>
+                        7 días × 2
+                    </label>
+                </div>
             </div>
-
             <div id="casos" style="width:800; height:500px;"></div>
         </div>
     </section>
@@ -1656,10 +1666,10 @@
                         <span>Web oficial de datos do Sergas</span>
                     </a>
                 </div>
-                                    <p>Última actualización: 2021-07-30 16:16:20</p>
+                                    <p>Última actualización: 2021-07-31 17:53:37</p>
                                 </p>
             </div>
         </footer>
-                            <script src="/build/app.js?v=320b7d7249719e544c70bc197b4d3076276fa216" defer></script>
+                            <script src="/build/app.js?v=4e3d209958601fdf48505397a63bbb94f724089f" defer></script>
             </body>
 </html>
