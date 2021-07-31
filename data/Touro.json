@@ -1762,5 +1762,12 @@
         "habitantes": "3574",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-07-31",
+        "municipio": "Touro",
+        "habitantes": "3574",
+        "casos_14d": "11",
+        "casos_7d": "10"
     }
 ]
