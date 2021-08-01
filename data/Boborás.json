@@ -1769,5 +1769,12 @@
         "habitantes": "2285",
         "casos_14d": "18",
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-08-01",
+        "municipio": "Bobor\u00e1s",
+        "habitantes": "2285",
+        "casos_14d": "17",
+        "casos_7d": null
     }
 ]

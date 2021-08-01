@@ -1769,5 +1769,12 @@
         "habitantes": "36075",
         "casos_14d": "245",
         "casos_7d": "121"
+    },
+    {
+        "fecha": "2021-08-01",
+        "municipio": "Oleiros",
+        "habitantes": "36075",
+        "casos_14d": "257",
+        "casos_7d": "135"
     }
 ]
