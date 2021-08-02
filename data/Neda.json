@@ -1776,5 +1776,12 @@
         "habitantes": "5079",
         "casos_14d": "23",
         "casos_7d": "15"
+    },
+    {
+        "fecha": "2021-08-02",
+        "municipio": "Neda",
+        "habitantes": "5079",
+        "casos_14d": "24",
+        "casos_7d": "16"
     }
 ]

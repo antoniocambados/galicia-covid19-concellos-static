@@ -1776,5 +1776,12 @@
         "habitantes": "14072",
         "casos_14d": "59",
         "casos_7d": "26"
+    },
+    {
+        "fecha": "2021-08-02",
+        "municipio": "Vilalba",
+        "habitantes": "14072",
+        "casos_14d": "59",
+        "casos_7d": "25"
     }
 ]

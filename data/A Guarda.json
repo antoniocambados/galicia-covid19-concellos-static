@@ -1776,5 +1776,12 @@
         "habitantes": "9977",
         "casos_14d": "82",
         "casos_7d": "39"
+    },
+    {
+        "fecha": "2021-08-02",
+        "municipio": "A Guarda",
+        "habitantes": "9977",
+        "casos_14d": "80",
+        "casos_7d": "38"
     }
 ]

@@ -1776,5 +1776,12 @@
         "habitantes": "9338",
         "casos_14d": "66",
         "casos_7d": "27"
+    },
+    {
+        "fecha": "2021-08-02",
+        "municipio": "A Pobra do Carami\u00f1al",
+        "habitantes": "9338",
+        "casos_14d": "62",
+        "casos_7d": "27"
     }
 ]
