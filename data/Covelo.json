@@ -1783,5 +1783,12 @@
         "habitantes": "2396",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-08-03",
+        "municipio": "Covelo",
+        "habitantes": "2396",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]
