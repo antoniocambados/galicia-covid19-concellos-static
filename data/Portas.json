@@ -1790,5 +1790,12 @@
         "habitantes": "2940",
         "casos_14d": "19",
         "casos_7d": "12"
+    },
+    {
+        "fecha": "2021-08-04",
+        "municipio": "Portas",
+        "habitantes": "2940",
+        "casos_14d": "17",
+        "casos_7d": "10"
     }
 ]

@@ -1790,5 +1790,12 @@
         "habitantes": "10302",
         "casos_14d": "57",
         "casos_7d": "20"
+    },
+    {
+        "fecha": "2021-08-04",
+        "municipio": "Vilanova de Arousa",
+        "habitantes": "10302",
+        "casos_14d": "51",
+        "casos_7d": "14"
     }
 ]
