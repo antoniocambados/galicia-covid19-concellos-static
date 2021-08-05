@@ -1797,5 +1797,12 @@
         "habitantes": "2140",
         "casos_14d": "10",
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-08-05",
+        "municipio": "Lourenz\u00e1",
+        "habitantes": "2140",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]

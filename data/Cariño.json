@@ -1797,5 +1797,12 @@
         "habitantes": "3838",
         "casos_14d": "39",
         "casos_7d": "14"
+    },
+    {
+        "fecha": "2021-08-05",
+        "municipio": "Cari\u00f1o",
+        "habitantes": "3838",
+        "casos_14d": "38",
+        "casos_7d": null
     }
 ]

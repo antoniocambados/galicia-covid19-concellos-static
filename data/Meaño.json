@@ -1797,5 +1797,12 @@
         "habitantes": "5272",
         "casos_14d": "54",
         "casos_7d": "18"
+    },
+    {
+        "fecha": "2021-08-05",
+        "municipio": "Mea\u00f1o",
+        "habitantes": "5272",
+        "casos_14d": "50",
+        "casos_7d": "16"
     }
 ]
