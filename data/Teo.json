@@ -1804,5 +1804,12 @@
         "habitantes": "18579",
         "casos_14d": "92",
         "casos_7d": "32"
+    },
+    {
+        "fecha": "2021-08-06",
+        "municipio": "Teo",
+        "habitantes": "18579",
+        "casos_14d": "84",
+        "casos_7d": "30"
     }
 ]

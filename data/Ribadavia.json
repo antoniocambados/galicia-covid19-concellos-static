@@ -1804,5 +1804,12 @@
         "habitantes": "5024",
         "casos_14d": "17",
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-08-06",
+        "municipio": "Ribadavia",
+        "habitantes": "5024",
+        "casos_14d": "15",
+        "casos_7d": null
     }
 ]

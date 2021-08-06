@@ -1804,5 +1804,12 @@
         "habitantes": "1688",
         "casos_14d": "20",
         "casos_7d": "12"
+    },
+    {
+        "fecha": "2021-08-06",
+        "municipio": "Alfoz",
+        "habitantes": "1688",
+        "casos_14d": "20",
+        "casos_7d": "14"
     }
 ]

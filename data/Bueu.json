@@ -1804,5 +1804,12 @@
         "habitantes": "12009",
         "casos_14d": "68",
         "casos_7d": "33"
+    },
+    {
+        "fecha": "2021-08-06",
+        "municipio": "Bueu",
+        "habitantes": "12009",
+        "casos_14d": "67",
+        "casos_7d": "30"
     }
 ]

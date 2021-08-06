@@ -1804,5 +1804,12 @@
         "habitantes": "7837",
         "casos_14d": "26",
         "casos_7d": "12"
+    },
+    {
+        "fecha": "2021-08-06",
+        "municipio": "Bri\u00f3n",
+        "habitantes": "7837",
+        "casos_14d": "20",
+        "casos_7d": "11"
     }
 ]

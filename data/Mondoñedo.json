@@ -1804,5 +1804,12 @@
         "habitantes": "3568",
         "casos_14d": "14",
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-08-06",
+        "municipio": "Mondo\u00f1edo",
+        "habitantes": "3568",
+        "casos_14d": "12",
+        "casos_7d": null
     }
 ]

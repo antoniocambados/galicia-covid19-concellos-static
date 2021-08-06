@@ -1804,5 +1804,12 @@
         "habitantes": "2529",
         "casos_14d": "35",
         "casos_7d": "22"
+    },
+    {
+        "fecha": "2021-08-06",
+        "municipio": "Monterrei",
+        "habitantes": "2529",
+        "casos_14d": "30",
+        "casos_7d": "19"
     }
 ]

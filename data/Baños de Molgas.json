@@ -1804,5 +1804,12 @@
         "habitantes": "1519",
         "casos_14d": null,
         "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-08-06",
+        "municipio": "Ba\u00f1os de Molgas",
+        "habitantes": "1519",
+        "casos_14d": null,
+        "casos_7d": "0"
     }
 ]
