@@ -1811,5 +1811,12 @@
         "habitantes": "1079",
         "casos_14d": null,
         "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-08-07",
+        "municipio": "As Nogais",
+        "habitantes": "1079",
+        "casos_14d": null,
+        "casos_7d": "0"
     }
 ]

@@ -1811,5 +1811,12 @@
         "habitantes": "9171",
         "casos_14d": "31",
         "casos_7d": "14"
+    },
+    {
+        "fecha": "2021-08-07",
+        "municipio": "Porto do Son",
+        "habitantes": "9171",
+        "casos_14d": "28",
+        "casos_7d": "14"
     }
 ]

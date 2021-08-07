@@ -1811,5 +1811,12 @@
         "habitantes": "19399",
         "casos_14d": "87",
         "casos_7d": "27"
+    },
+    {
+        "fecha": "2021-08-07",
+        "municipio": "Moa\u00f1a",
+        "habitantes": "19399",
+        "casos_14d": "83",
+        "casos_7d": "25"
     }
 ]
