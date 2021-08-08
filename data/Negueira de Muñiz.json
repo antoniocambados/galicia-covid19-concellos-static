@@ -1818,5 +1818,12 @@
         "habitantes": "215",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-08-08",
+        "municipio": "Negueira de Mu\u00f1iz",
+        "habitantes": "215",
+        "casos_14d": null,
+        "casos_7d": "0"
     }
 ]

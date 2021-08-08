@@ -1818,5 +1818,12 @@
         "habitantes": "4657",
         "casos_14d": "21",
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-08-08",
+        "municipio": "Mux\u00eda",
+        "habitantes": "4657",
+        "casos_14d": "23",
+        "casos_7d": "11"
     }
 ]

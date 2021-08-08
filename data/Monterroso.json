@@ -1818,5 +1818,12 @@
         "habitantes": "3616",
         "casos_14d": "33",
         "casos_7d": "10"
+    },
+    {
+        "fecha": "2021-08-08",
+        "municipio": "Monterroso",
+        "habitantes": "3616",
+        "casos_14d": "31",
+        "casos_7d": "10"
     }
 ]

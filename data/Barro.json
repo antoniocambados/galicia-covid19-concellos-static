@@ -1818,5 +1818,12 @@
         "habitantes": "3680",
         "casos_14d": "14",
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-08-08",
+        "municipio": "Barro",
+        "habitantes": "3680",
+        "casos_14d": "15",
+        "casos_7d": null
     }
 ]

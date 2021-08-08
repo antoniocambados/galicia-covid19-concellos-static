@@ -1818,5 +1818,12 @@
         "habitantes": "4484",
         "casos_14d": "24",
         "casos_7d": "13"
+    },
+    {
+        "fecha": "2021-08-08",
+        "municipio": "Cospeito",
+        "habitantes": "4484",
+        "casos_14d": "23",
+        "casos_7d": "12"
     }
 ]

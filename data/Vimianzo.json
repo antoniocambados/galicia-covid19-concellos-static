@@ -1818,5 +1818,12 @@
         "habitantes": "7057",
         "casos_14d": "33",
         "casos_7d": "22"
+    },
+    {
+        "fecha": "2021-08-08",
+        "municipio": "Vimianzo",
+        "habitantes": "7057",
+        "casos_14d": "35",
+        "casos_7d": "20"
     }
 ]

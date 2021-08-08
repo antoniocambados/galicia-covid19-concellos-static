@@ -1818,5 +1818,12 @@
         "habitantes": "1913",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-08-08",
+        "municipio": "A Merca",
+        "habitantes": "1913",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]
