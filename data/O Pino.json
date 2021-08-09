@@ -1825,5 +1825,12 @@
         "habitantes": "4641",
         "casos_14d": "28",
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-08-09",
+        "municipio": "O Pino",
+        "habitantes": "4641",
+        "casos_14d": "13",
+        "casos_7d": null
     }
 ]
