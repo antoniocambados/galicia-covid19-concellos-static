@@ -10,7 +10,7 @@
             <meta property="twitter:card" content="summary">
         
     <meta property="og:title" content="Piñor | Datos Coronavirus por concellos de Galicia">
-                    <link rel="stylesheet" href="/build/app.css?v=971af046f6e95914faf1f087bda2b85a4bfbffff">
+                    <link rel="stylesheet" href="/build/app.css?v=515f86102207dadfad53876acf6eeaa3e1bb7ca0">
             </head>
     <body class="has-background-light">
                 <nav class="navbar is-primary" role="navigation" aria-label="main navigation">
@@ -54,7 +54,7 @@
                 <div class="toolbar-item">
                     <small>Opcións da gráfica</small>
                 </div>
-                <div class="toolbar-item">
+                <div id="regular-chart-user-options" class="toolbar-item">
                     <label class="is-size-7" title="Amosar Incidencia Acumulada">
                         <div class="switch is-small">
                             <input id="ia" type="checkbox">
@@ -70,8 +70,31 @@
                         7 días × 2
                     </label>
                 </div>
+                <div id="comparison-chart-user-options" class="toolbar-item is-hidden">
+                    <label class="is-size-7" title="Comparar datos a 7 días en vez de a 14">
+                        <div class="switch is-small">
+                            <input id="compare7d" type="checkbox">
+                            <span class="slider round"></span>
+                        </div>
+                        7 días
+                    </label>
+                </div>
             </div>
-            <div id="casos" style="width:800; height:500px;"></div>
+            <div id="chart" style="height:500px;"></div>
+        </div>
+
+        <div class="box mt-5 has-background-grey-lighter">
+            <div class="field">
+                <label class="label">Comparar concellos</label>
+                <div class="field is-grouped is-align-items-center">
+                    <p class="control is-expanded">
+                        <select id="input-concellos" multiple="multiple"></select>
+                    </p>
+                    <p class="control">
+                        <button class="button is-primary" type="button" id="compare-concellos">Comparar</button>
+                    </p>
+                </div>
+            </div>
         </div>
     </section>
     <section class="section">
@@ -1672,10 +1695,10 @@
                         <span>Web oficial de datos do Sergas</span>
                     </a>
                 </div>
-                                    <p>Última actualización: 2021-08-10 16:05:09</p>
+                                    <p>Última actualización: 2021-08-10 20:11:14</p>
                                 </p>
             </div>
         </footer>
-                            <script src="/build/app.js?v=971af046f6e95914faf1f087bda2b85a4bfbffff" defer></script>
+                            <script src="/build/app.js?v=515f86102207dadfad53876acf6eeaa3e1bb7ca0" defer></script>
             </body>
 </html>
