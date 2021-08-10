@@ -1832,5 +1832,12 @@
         "habitantes": "5246",
         "casos_14d": "18",
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-08-10",
+        "municipio": "Vila de Cruces",
+        "habitantes": "5246",
+        "casos_14d": "16",
+        "casos_7d": null
     }
 ]
