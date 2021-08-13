@@ -1846,5 +1846,19 @@
         "habitantes": "2530",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-08-12",
+        "municipio": "Mes\u00eda",
+        "habitantes": "2530",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-08-13",
+        "municipio": "Mes\u00eda",
+        "habitantes": "2530",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]

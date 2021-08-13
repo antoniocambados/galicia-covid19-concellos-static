@@ -1846,5 +1846,19 @@
         "habitantes": "15078",
         "casos_14d": "53",
         "casos_7d": "28"
+    },
+    {
+        "fecha": "2021-08-12",
+        "municipio": "Mos",
+        "habitantes": "15078",
+        "casos_14d": "54",
+        "casos_7d": "26"
+    },
+    {
+        "fecha": "2021-08-13",
+        "municipio": "Mos",
+        "habitantes": "15078",
+        "casos_14d": "52",
+        "casos_7d": "26"
     }
 ]

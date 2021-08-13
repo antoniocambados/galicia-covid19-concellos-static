@@ -1846,5 +1846,19 @@
         "habitantes": "11037",
         "casos_14d": "21",
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-08-12",
+        "municipio": "Barbad\u00e1s",
+        "habitantes": "11037",
+        "casos_14d": "18",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-08-13",
+        "municipio": "Barbad\u00e1s",
+        "habitantes": "11037",
+        "casos_14d": "16",
+        "casos_7d": null
     }
 ]

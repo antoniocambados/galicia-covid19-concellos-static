@@ -1846,5 +1846,19 @@
         "habitantes": "1708",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-08-12",
+        "municipio": "Lobios",
+        "habitantes": "1708",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-08-13",
+        "municipio": "Lobios",
+        "habitantes": "1708",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]

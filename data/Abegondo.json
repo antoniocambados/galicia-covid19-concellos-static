@@ -1846,5 +1846,19 @@
         "habitantes": "5406",
         "casos_14d": "28",
         "casos_7d": "16"
+    },
+    {
+        "fecha": "2021-08-12",
+        "municipio": "Abegondo",
+        "habitantes": "5406",
+        "casos_14d": "28",
+        "casos_7d": "17"
+    },
+    {
+        "fecha": "2021-08-13",
+        "municipio": "Abegondo",
+        "habitantes": "5406",
+        "casos_14d": "30",
+        "casos_7d": "18"
     }
 ]

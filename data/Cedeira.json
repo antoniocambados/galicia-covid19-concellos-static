@@ -1846,5 +1846,19 @@
         "habitantes": "6640",
         "casos_14d": "16",
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-08-12",
+        "municipio": "Cedeira",
+        "habitantes": "6640",
+        "casos_14d": "16",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-08-13",
+        "municipio": "Cedeira",
+        "habitantes": "6640",
+        "casos_14d": "14",
+        "casos_7d": null
     }
 ]

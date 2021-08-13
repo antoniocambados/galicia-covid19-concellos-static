@@ -1846,5 +1846,19 @@
         "habitantes": "3876",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-08-12",
+        "municipio": "Val do Dubra",
+        "habitantes": "3876",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-08-13",
+        "municipio": "Val do Dubra",
+        "habitantes": "3876",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]

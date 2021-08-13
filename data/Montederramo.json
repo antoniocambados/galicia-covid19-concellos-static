@@ -1846,5 +1846,19 @@
         "habitantes": "711",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-08-12",
+        "municipio": "Montederramo",
+        "habitantes": "711",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-08-13",
+        "municipio": "Montederramo",
+        "habitantes": "711",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]
