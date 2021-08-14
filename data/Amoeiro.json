@@ -1860,5 +1860,12 @@
         "habitantes": "2280",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-08-14",
+        "municipio": "Amoeiro",
+        "habitantes": "2280",
+        "casos_14d": null,
+        "casos_7d": "0"
     }
 ]

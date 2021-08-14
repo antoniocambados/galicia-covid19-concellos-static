@@ -1860,5 +1860,12 @@
         "habitantes": "7546",
         "casos_14d": "61",
         "casos_7d": "20"
+    },
+    {
+        "fecha": "2021-08-14",
+        "municipio": "Cee",
+        "habitantes": "7546",
+        "casos_14d": "60",
+        "casos_7d": "17"
     }
 ]
