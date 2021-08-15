@@ -1867,5 +1867,12 @@
         "habitantes": "12674",
         "casos_14d": "21",
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-08-15",
+        "municipio": "Ordes",
+        "habitantes": "12674",
+        "casos_14d": "18",
+        "casos_7d": null
     }
 ]
