@@ -1874,5 +1874,12 @@
         "habitantes": "1824",
         "casos_14d": "17",
         "casos_7d": "10"
+    },
+    {
+        "fecha": "2021-08-16",
+        "municipio": "Coir\u00f3s",
+        "habitantes": "1824",
+        "casos_14d": "16",
+        "casos_7d": null
     }
 ]

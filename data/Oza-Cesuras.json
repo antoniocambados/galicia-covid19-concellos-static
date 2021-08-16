@@ -1874,5 +1874,12 @@
         "habitantes": "5101",
         "casos_14d": "32",
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-08-16",
+        "municipio": "Oza-Cesuras",
+        "habitantes": "5101",
+        "casos_14d": "28",
+        "casos_7d": null
     }
 ]

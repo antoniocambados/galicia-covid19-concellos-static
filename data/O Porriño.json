@@ -1874,5 +1874,12 @@
         "habitantes": "19848",
         "casos_14d": "107",
         "casos_7d": "42"
+    },
+    {
+        "fecha": "2021-08-16",
+        "municipio": "O Porri\u00f1o",
+        "habitantes": "19848",
+        "casos_14d": "100",
+        "casos_7d": "39"
     }
 ]
