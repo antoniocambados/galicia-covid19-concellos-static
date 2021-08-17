@@ -1881,5 +1881,12 @@
         "habitantes": "9854",
         "casos_14d": "49",
         "casos_7d": "24"
+    },
+    {
+        "fecha": "2021-08-17",
+        "municipio": "Ribadeo",
+        "habitantes": "9854",
+        "casos_14d": "48",
+        "casos_7d": "23"
     }
 ]

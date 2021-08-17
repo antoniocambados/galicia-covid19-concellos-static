@@ -1881,5 +1881,12 @@
         "habitantes": "3841",
         "casos_14d": "24",
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-08-17",
+        "municipio": "As Neves",
+        "habitantes": "3841",
+        "casos_14d": "23",
+        "casos_7d": null
     }
 ]

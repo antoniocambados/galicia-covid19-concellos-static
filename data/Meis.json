@@ -1881,5 +1881,12 @@
         "habitantes": "4791",
         "casos_14d": "22",
         "casos_7d": "10"
+    },
+    {
+        "fecha": "2021-08-17",
+        "municipio": "Meis",
+        "habitantes": "4791",
+        "casos_14d": "19",
+        "casos_7d": "10"
     }
 ]
