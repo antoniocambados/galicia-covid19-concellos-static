@@ -1888,5 +1888,12 @@
         "habitantes": "3450",
         "casos_14d": "10",
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-08-18",
+        "municipio": "A Ba\u00f1a",
+        "habitantes": "3450",
+        "casos_14d": "11",
+        "casos_7d": null
     }
 ]

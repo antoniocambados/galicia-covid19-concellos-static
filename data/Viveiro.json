@@ -1888,5 +1888,12 @@
         "habitantes": "15466",
         "casos_14d": "80",
         "casos_7d": "21"
+    },
+    {
+        "fecha": "2021-08-18",
+        "municipio": "Viveiro",
+        "habitantes": "15466",
+        "casos_14d": "74",
+        "casos_7d": "20"
     }
 ]
