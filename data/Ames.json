@@ -1902,5 +1902,12 @@
         "habitantes": "31793",
         "casos_14d": "96",
         "casos_7d": "32"
+    },
+    {
+        "fecha": "2021-08-20",
+        "municipio": "Ames",
+        "habitantes": "31793",
+        "casos_14d": "91",
+        "casos_7d": "33"
     }
 ]
