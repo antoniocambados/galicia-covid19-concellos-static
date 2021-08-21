@@ -1909,5 +1909,12 @@
         "habitantes": "3052",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-08-21",
+        "municipio": "Pontecesures",
+        "habitantes": "3052",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]
