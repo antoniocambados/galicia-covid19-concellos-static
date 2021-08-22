@@ -1916,5 +1916,12 @@
         "habitantes": "1584",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-08-22",
+        "municipio": "Santiso",
+        "habitantes": "1584",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]
