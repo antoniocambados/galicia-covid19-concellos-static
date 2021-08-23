@@ -1923,5 +1923,12 @@
         "habitantes": "9164",
         "casos_14d": "23",
         "casos_7d": "12"
+    },
+    {
+        "fecha": "2021-08-23",
+        "municipio": "Salceda de Caselas",
+        "habitantes": "9164",
+        "casos_14d": "24",
+        "casos_7d": "11"
     }
 ]

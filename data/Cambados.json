@@ -1923,5 +1923,12 @@
         "habitantes": "13744",
         "casos_14d": "27",
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-08-23",
+        "municipio": "Cambados",
+        "habitantes": "13744",
+        "casos_14d": "26",
+        "casos_7d": "12"
     }
 ]
