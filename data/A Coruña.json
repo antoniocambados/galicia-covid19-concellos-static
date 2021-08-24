@@ -1930,5 +1930,12 @@
         "habitantes": "245711",
         "casos_14d": "1067",
         "casos_7d": "380"
+    },
+    {
+        "fecha": "2021-08-24",
+        "municipio": "A Coru\u00f1a",
+        "habitantes": "245711",
+        "casos_14d": "1008",
+        "casos_7d": "362"
     }
 ]

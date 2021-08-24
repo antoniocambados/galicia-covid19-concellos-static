@@ -1930,5 +1930,12 @@
         "habitantes": "6041",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-08-24",
+        "municipio": "Arz\u00faa",
+        "habitantes": "6041",
+        "casos_14d": "13",
+        "casos_7d": "10"
     }
 ]

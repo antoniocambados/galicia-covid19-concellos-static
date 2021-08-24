@@ -1930,5 +1930,12 @@
         "habitantes": "1846",
         "casos_14d": null,
         "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-08-24",
+        "municipio": "Vilardev\u00f3s",
+        "habitantes": "1846",
+        "casos_14d": null,
+        "casos_7d": "0"
     }
 ]

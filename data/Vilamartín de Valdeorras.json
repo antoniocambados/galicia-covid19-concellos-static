@@ -1930,5 +1930,12 @@
         "habitantes": "1790",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-08-24",
+        "municipio": "Vilamart\u00edn de Valdeorras",
+        "habitantes": "1790",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]

@@ -1930,5 +1930,12 @@
         "habitantes": "5406",
         "casos_14d": "20",
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-08-24",
+        "municipio": "Abegondo",
+        "habitantes": "5406",
+        "casos_14d": "18",
+        "casos_7d": null
     }
 ]
