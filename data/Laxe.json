@@ -1937,5 +1937,12 @@
         "habitantes": "3016",
         "casos_14d": "31",
         "casos_7d": "18"
+    },
+    {
+        "fecha": "2021-08-25",
+        "municipio": "Laxe",
+        "habitantes": "3016",
+        "casos_14d": "28",
+        "casos_7d": "14"
     }
 ]

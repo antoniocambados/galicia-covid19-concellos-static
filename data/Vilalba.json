@@ -1937,5 +1937,12 @@
         "habitantes": "14072",
         "casos_14d": "26",
         "casos_7d": "13"
+    },
+    {
+        "fecha": "2021-08-25",
+        "municipio": "Vilalba",
+        "habitantes": "14072",
+        "casos_14d": "27",
+        "casos_7d": "17"
     }
 ]

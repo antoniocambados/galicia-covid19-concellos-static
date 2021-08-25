@@ -1937,5 +1937,12 @@
         "habitantes": "17082",
         "casos_14d": "50",
         "casos_7d": "20"
+    },
+    {
+        "fecha": "2021-08-25",
+        "municipio": "Poio",
+        "habitantes": "17082",
+        "casos_14d": "49",
+        "casos_7d": "22"
     }
 ]

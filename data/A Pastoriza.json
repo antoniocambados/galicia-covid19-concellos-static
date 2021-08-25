@@ -1937,5 +1937,12 @@
         "habitantes": "3002",
         "casos_14d": "30",
         "casos_7d": "24"
+    },
+    {
+        "fecha": "2021-08-25",
+        "municipio": "A Pastoriza",
+        "habitantes": "3002",
+        "casos_14d": "29",
+        "casos_7d": "22"
     }
 ]

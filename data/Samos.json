@@ -1937,5 +1937,12 @@
         "habitantes": "1278",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-08-25",
+        "municipio": "Samos",
+        "habitantes": "1278",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]

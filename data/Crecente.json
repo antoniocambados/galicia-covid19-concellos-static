@@ -1937,5 +1937,12 @@
         "habitantes": "2012",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-08-25",
+        "municipio": "Crecente",
+        "habitantes": "2012",
+        "casos_14d": null,
+        "casos_7d": "0"
     }
 ]

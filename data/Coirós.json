@@ -1937,5 +1937,12 @@
         "habitantes": "1824",
         "casos_14d": "15",
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-08-25",
+        "municipio": "Coir\u00f3s",
+        "habitantes": "1824",
+        "casos_14d": "14",
+        "casos_7d": null
     }
 ]

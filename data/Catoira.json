@@ -1937,5 +1937,12 @@
         "habitantes": "3335",
         "casos_14d": "12",
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-08-25",
+        "municipio": "Catoira",
+        "habitantes": "3335",
+        "casos_14d": "12",
+        "casos_7d": null
     }
 ]

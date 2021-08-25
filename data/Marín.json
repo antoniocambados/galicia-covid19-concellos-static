@@ -1937,5 +1937,12 @@
         "habitantes": "24319",
         "casos_14d": "57",
         "casos_7d": "27"
+    },
+    {
+        "fecha": "2021-08-25",
+        "municipio": "Mar\u00edn",
+        "habitantes": "24319",
+        "casos_14d": "55",
+        "casos_7d": "24"
     }
 ]

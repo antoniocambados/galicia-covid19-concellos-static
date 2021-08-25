@@ -1937,5 +1937,12 @@
         "habitantes": "15466",
         "casos_14d": "35",
         "casos_7d": "14"
+    },
+    {
+        "fecha": "2021-08-25",
+        "municipio": "Viveiro",
+        "habitantes": "15466",
+        "casos_14d": "34",
+        "casos_7d": "14"
     }
 ]

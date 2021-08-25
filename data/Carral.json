@@ -1937,5 +1937,12 @@
         "habitantes": "6408",
         "casos_14d": "27",
         "casos_7d": "17"
+    },
+    {
+        "fecha": "2021-08-25",
+        "municipio": "Carral",
+        "habitantes": "6408",
+        "casos_14d": "26",
+        "casos_7d": "16"
     }
 ]
