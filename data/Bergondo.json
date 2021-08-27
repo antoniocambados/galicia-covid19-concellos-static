@@ -1944,5 +1944,19 @@
         "habitantes": "6633",
         "casos_14d": "14",
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-08-26",
+        "municipio": "Bergondo",
+        "habitantes": "6633",
+        "casos_14d": "14",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-08-27",
+        "municipio": "Bergondo",
+        "habitantes": "6633",
+        "casos_14d": "12",
+        "casos_7d": null
     }
 ]

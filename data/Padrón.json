@@ -1944,5 +1944,19 @@
         "habitantes": "8384",
         "casos_14d": "13",
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-08-26",
+        "municipio": "Padr\u00f3n",
+        "habitantes": "8384",
+        "casos_14d": "14",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-08-27",
+        "municipio": "Padr\u00f3n",
+        "habitantes": "8384",
+        "casos_14d": "12",
+        "casos_7d": null
     }
 ]

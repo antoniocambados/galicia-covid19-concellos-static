@@ -1944,5 +1944,19 @@
         "habitantes": "5245",
         "casos_14d": "19",
         "casos_7d": "11"
+    },
+    {
+        "fecha": "2021-08-26",
+        "municipio": "Mugardos",
+        "habitantes": "5245",
+        "casos_14d": "17",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-08-27",
+        "municipio": "Mugardos",
+        "habitantes": "5245",
+        "casos_14d": "17",
+        "casos_7d": null
     }
 ]

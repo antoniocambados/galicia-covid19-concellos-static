@@ -1944,5 +1944,19 @@
         "habitantes": "29218",
         "casos_14d": "167",
         "casos_7d": "55"
+    },
+    {
+        "fecha": "2021-08-26",
+        "municipio": "Redondela",
+        "habitantes": "29218",
+        "casos_14d": "163",
+        "casos_7d": "40"
+    },
+    {
+        "fecha": "2021-08-27",
+        "municipio": "Redondela",
+        "habitantes": "29218",
+        "casos_14d": "148",
+        "casos_7d": "33"
     }
 ]

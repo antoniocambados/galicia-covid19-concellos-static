@@ -1944,5 +1944,19 @@
         "habitantes": "4440",
         "casos_14d": "14",
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-08-26",
+        "municipio": "Mondariz",
+        "habitantes": "4440",
+        "casos_14d": "11",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-08-27",
+        "municipio": "Mondariz",
+        "habitantes": "4440",
+        "casos_14d": "10",
+        "casos_7d": null
     }
 ]

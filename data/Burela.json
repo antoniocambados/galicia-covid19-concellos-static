@@ -1944,5 +1944,19 @@
         "habitantes": "9588",
         "casos_14d": "13",
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-08-26",
+        "municipio": "Burela",
+        "habitantes": "9588",
+        "casos_14d": "13",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-08-27",
+        "municipio": "Burela",
+        "habitantes": "9588",
+        "casos_14d": "12",
+        "casos_7d": null
     }
 ]

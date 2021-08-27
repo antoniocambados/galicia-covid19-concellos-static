@@ -1944,5 +1944,19 @@
         "habitantes": "2344",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-08-26",
+        "municipio": "Agolada",
+        "habitantes": "2344",
+        "casos_14d": "14",
+        "casos_7d": "14"
+    },
+    {
+        "fecha": "2021-08-27",
+        "municipio": "Agolada",
+        "habitantes": "2344",
+        "casos_14d": "18",
+        "casos_7d": "17"
     }
 ]

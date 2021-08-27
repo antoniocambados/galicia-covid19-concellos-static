@@ -1944,5 +1944,19 @@
         "habitantes": "16701",
         "casos_14d": "43",
         "casos_7d": "14"
+    },
+    {
+        "fecha": "2021-08-26",
+        "municipio": "Tui",
+        "habitantes": "16701",
+        "casos_14d": "40",
+        "casos_7d": "11"
+    },
+    {
+        "fecha": "2021-08-27",
+        "municipio": "Tui",
+        "habitantes": "16701",
+        "casos_14d": "32",
+        "casos_7d": null
     }
 ]

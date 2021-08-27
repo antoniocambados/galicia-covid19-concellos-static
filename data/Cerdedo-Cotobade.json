@@ -1944,5 +1944,19 @@
         "habitantes": "5699",
         "casos_14d": "21",
         "casos_7d": "14"
+    },
+    {
+        "fecha": "2021-08-26",
+        "municipio": "Cerdedo-Cotobade",
+        "habitantes": "5699",
+        "casos_14d": "19",
+        "casos_7d": "13"
+    },
+    {
+        "fecha": "2021-08-27",
+        "municipio": "Cerdedo-Cotobade",
+        "habitantes": "5699",
+        "casos_14d": "20",
+        "casos_7d": "12"
     }
 ]

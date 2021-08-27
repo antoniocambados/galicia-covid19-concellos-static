@@ -1944,5 +1944,19 @@
         "habitantes": "4657",
         "casos_14d": "53",
         "casos_7d": "31"
+    },
+    {
+        "fecha": "2021-08-26",
+        "municipio": "Mux\u00eda",
+        "habitantes": "4657",
+        "casos_14d": "51",
+        "casos_7d": "26"
+    },
+    {
+        "fecha": "2021-08-27",
+        "municipio": "Mux\u00eda",
+        "habitantes": "4657",
+        "casos_14d": "48",
+        "casos_7d": "22"
     }
 ]

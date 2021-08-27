@@ -1944,5 +1944,19 @@
         "habitantes": "3838",
         "casos_14d": "21",
         "casos_7d": "15"
+    },
+    {
+        "fecha": "2021-08-26",
+        "municipio": "Cari\u00f1o",
+        "habitantes": "3838",
+        "casos_14d": "22",
+        "casos_7d": "15"
+    },
+    {
+        "fecha": "2021-08-27",
+        "municipio": "Cari\u00f1o",
+        "habitantes": "3838",
+        "casos_14d": "21",
+        "casos_7d": "10"
     }
 ]

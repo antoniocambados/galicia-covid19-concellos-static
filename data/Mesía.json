@@ -1944,5 +1944,19 @@
         "habitantes": "2530",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-08-26",
+        "municipio": "Mes\u00eda",
+        "habitantes": "2530",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-08-27",
+        "municipio": "Mes\u00eda",
+        "habitantes": "2530",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]
