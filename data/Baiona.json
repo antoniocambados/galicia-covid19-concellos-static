@@ -1958,5 +1958,12 @@
         "habitantes": "12122",
         "casos_14d": "26",
         "casos_7d": "15"
+    },
+    {
+        "fecha": "2021-08-28",
+        "municipio": "Baiona",
+        "habitantes": "12122",
+        "casos_14d": "23",
+        "casos_7d": "13"
     }
 ]

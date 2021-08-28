@@ -1958,5 +1958,12 @@
         "habitantes": "7406",
         "casos_14d": "97",
         "casos_7d": "94"
+    },
+    {
+        "fecha": "2021-08-28",
+        "municipio": "Melide",
+        "habitantes": "7406",
+        "casos_14d": "102",
+        "casos_7d": "90"
     }
 ]

@@ -1958,5 +1958,12 @@
         "habitantes": "9715",
         "casos_14d": "24",
         "casos_7d": "13"
+    },
+    {
+        "fecha": "2021-08-28",
+        "municipio": "Xinzo de Limia",
+        "habitantes": "9715",
+        "casos_14d": "26",
+        "casos_7d": "12"
     }
 ]

@@ -1958,5 +1958,12 @@
         "habitantes": "1232",
         "casos_14d": null,
         "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-08-28",
+        "municipio": "A Capela",
+        "habitantes": "1232",
+        "casos_14d": null,
+        "casos_7d": "0"
     }
 ]

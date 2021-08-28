@@ -1958,5 +1958,12 @@
         "habitantes": "13499",
         "casos_14d": "22",
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-08-28",
+        "municipio": "Tomi\u00f1o",
+        "habitantes": "13499",
+        "casos_14d": "19",
+        "casos_7d": null
     }
 ]

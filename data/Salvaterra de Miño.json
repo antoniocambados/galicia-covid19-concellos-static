@@ -1958,5 +1958,12 @@
         "habitantes": "9819",
         "casos_14d": "19",
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-08-28",
+        "municipio": "Salvaterra de Mi\u00f1o",
+        "habitantes": "9819",
+        "casos_14d": "14",
+        "casos_7d": null
     }
 ]
