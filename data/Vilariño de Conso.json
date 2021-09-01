@@ -1965,5 +1965,26 @@
         "habitantes": "519",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-08-29",
+        "municipio": "Vilari\u00f1o de Conso",
+        "habitantes": "519",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-08-30",
+        "municipio": "Vilari\u00f1o de Conso",
+        "habitantes": "519",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-08-31",
+        "municipio": "Vilari\u00f1o de Conso",
+        "habitantes": "519",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]

@@ -1965,5 +1965,26 @@
         "habitantes": "1519",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-08-29",
+        "municipio": "Ba\u00f1os de Molgas",
+        "habitantes": "1519",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-08-30",
+        "municipio": "Ba\u00f1os de Molgas",
+        "habitantes": "1519",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-08-31",
+        "municipio": "Ba\u00f1os de Molgas",
+        "habitantes": "1519",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]

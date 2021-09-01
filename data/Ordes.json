@@ -1965,5 +1965,26 @@
         "habitantes": "12674",
         "casos_14d": "208",
         "casos_7d": "118"
+    },
+    {
+        "fecha": "2021-08-29",
+        "municipio": "Ordes",
+        "habitantes": "12674",
+        "casos_14d": "213",
+        "casos_7d": "73"
+    },
+    {
+        "fecha": "2021-08-30",
+        "municipio": "Ordes",
+        "habitantes": "12674",
+        "casos_14d": "213",
+        "casos_7d": "54"
+    },
+    {
+        "fecha": "2021-08-31",
+        "municipio": "Ordes",
+        "habitantes": "12674",
+        "casos_14d": "212",
+        "casos_7d": "44"
     }
 ]

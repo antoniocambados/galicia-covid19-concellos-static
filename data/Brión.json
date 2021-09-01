@@ -1965,5 +1965,26 @@
         "habitantes": "7837",
         "casos_14d": "10",
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-08-29",
+        "municipio": "Bri\u00f3n",
+        "habitantes": "7837",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-08-30",
+        "municipio": "Bri\u00f3n",
+        "habitantes": "7837",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-08-31",
+        "municipio": "Bri\u00f3n",
+        "habitantes": "7837",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]

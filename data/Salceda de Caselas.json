@@ -1965,5 +1965,26 @@
         "habitantes": "9164",
         "casos_14d": "15",
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-08-29",
+        "municipio": "Salceda de Caselas",
+        "habitantes": "9164",
+        "casos_14d": "14",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-08-30",
+        "municipio": "Salceda de Caselas",
+        "habitantes": "9164",
+        "casos_14d": "13",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-08-31",
+        "municipio": "Salceda de Caselas",
+        "habitantes": "9164",
+        "casos_14d": "13",
+        "casos_7d": null
     }
 ]

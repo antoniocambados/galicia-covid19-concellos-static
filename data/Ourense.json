@@ -1965,5 +1965,26 @@
         "habitantes": "105233",
         "casos_14d": "222",
         "casos_7d": "124"
+    },
+    {
+        "fecha": "2021-08-29",
+        "municipio": "Ourense",
+        "habitantes": "105233",
+        "casos_14d": "224",
+        "casos_7d": "119"
+    },
+    {
+        "fecha": "2021-08-30",
+        "municipio": "Ourense",
+        "habitantes": "105233",
+        "casos_14d": "230",
+        "casos_7d": "131"
+    },
+    {
+        "fecha": "2021-08-31",
+        "municipio": "Ourense",
+        "habitantes": "105233",
+        "casos_14d": "234",
+        "casos_7d": "130"
     }
 ]

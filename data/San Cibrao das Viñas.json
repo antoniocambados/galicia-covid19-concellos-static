@@ -1965,5 +1965,26 @@
         "habitantes": "5405",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-08-29",
+        "municipio": "San Cibrao das Vi\u00f1as",
+        "habitantes": "5405",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-08-30",
+        "municipio": "San Cibrao das Vi\u00f1as",
+        "habitantes": "5405",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-08-31",
+        "municipio": "San Cibrao das Vi\u00f1as",
+        "habitantes": "5405",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]

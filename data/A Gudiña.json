@@ -1965,5 +1965,26 @@
         "habitantes": "1254",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-08-29",
+        "municipio": "A Gudi\u00f1a",
+        "habitantes": "1254",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-08-30",
+        "municipio": "A Gudi\u00f1a",
+        "habitantes": "1254",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-08-31",
+        "municipio": "A Gudi\u00f1a",
+        "habitantes": "1254",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]

@@ -1965,5 +1965,26 @@
         "habitantes": "245711",
         "casos_14d": "773",
         "casos_7d": "303"
+    },
+    {
+        "fecha": "2021-08-29",
+        "municipio": "A Coru\u00f1a",
+        "habitantes": "245711",
+        "casos_14d": "711",
+        "casos_7d": "297"
+    },
+    {
+        "fecha": "2021-08-30",
+        "municipio": "A Coru\u00f1a",
+        "habitantes": "245711",
+        "casos_14d": "672",
+        "casos_7d": "291"
+    },
+    {
+        "fecha": "2021-08-31",
+        "municipio": "A Coru\u00f1a",
+        "habitantes": "245711",
+        "casos_14d": "648",
+        "casos_7d": "285"
     }
 ]

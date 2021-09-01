@@ -1965,5 +1965,26 @@
         "habitantes": "1113",
         "casos_14d": "0",
         "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-08-29",
+        "municipio": "Cerdido",
+        "habitantes": "1113",
+        "casos_14d": "0",
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-08-30",
+        "municipio": "Cerdido",
+        "habitantes": "1113",
+        "casos_14d": "0",
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-08-31",
+        "municipio": "Cerdido",
+        "habitantes": "1113",
+        "casos_14d": "0",
+        "casos_7d": "0"
     }
 ]

@@ -1965,5 +1965,26 @@
         "habitantes": "2690",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-08-29",
+        "municipio": "Gunt\u00edn",
+        "habitantes": "2690",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-08-30",
+        "municipio": "Gunt\u00edn",
+        "habitantes": "2690",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-08-31",
+        "municipio": "Gunt\u00edn",
+        "habitantes": "2690",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]

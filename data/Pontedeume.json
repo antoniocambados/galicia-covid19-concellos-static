@@ -1965,5 +1965,26 @@
         "habitantes": "7777",
         "casos_14d": "33",
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-08-29",
+        "municipio": "Pontedeume",
+        "habitantes": "7777",
+        "casos_14d": "33",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-08-30",
+        "municipio": "Pontedeume",
+        "habitantes": "7777",
+        "casos_14d": "24",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-08-31",
+        "municipio": "Pontedeume",
+        "habitantes": "7777",
+        "casos_14d": "22",
+        "casos_7d": null
     }
 ]

@@ -1965,5 +1965,26 @@
         "habitantes": "2556",
         "casos_14d": "43",
         "casos_7d": "34"
+    },
+    {
+        "fecha": "2021-08-29",
+        "municipio": "Baralla",
+        "habitantes": "2556",
+        "casos_14d": "43",
+        "casos_7d": "35"
+    },
+    {
+        "fecha": "2021-08-30",
+        "municipio": "Baralla",
+        "habitantes": "2556",
+        "casos_14d": "46",
+        "casos_7d": "37"
+    },
+    {
+        "fecha": "2021-08-31",
+        "municipio": "Baralla",
+        "habitantes": "2556",
+        "casos_14d": "45",
+        "casos_7d": "32"
     }
 ]

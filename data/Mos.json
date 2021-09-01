@@ -1965,5 +1965,26 @@
         "habitantes": "15078",
         "casos_14d": "25",
         "casos_7d": "12"
+    },
+    {
+        "fecha": "2021-08-29",
+        "municipio": "Mos",
+        "habitantes": "15078",
+        "casos_14d": "23",
+        "casos_7d": "14"
+    },
+    {
+        "fecha": "2021-08-30",
+        "municipio": "Mos",
+        "habitantes": "15078",
+        "casos_14d": "23",
+        "casos_7d": "14"
+    },
+    {
+        "fecha": "2021-08-31",
+        "municipio": "Mos",
+        "habitantes": "15078",
+        "casos_14d": "23",
+        "casos_7d": "11"
     }
 ]

@@ -1965,5 +1965,26 @@
         "habitantes": "5180",
         "casos_14d": "37",
         "casos_7d": "11"
+    },
+    {
+        "fecha": "2021-08-29",
+        "municipio": "A Ca\u00f1iza",
+        "habitantes": "5180",
+        "casos_14d": "31",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-08-30",
+        "municipio": "A Ca\u00f1iza",
+        "habitantes": "5180",
+        "casos_14d": "29",
+        "casos_7d": "10"
+    },
+    {
+        "fecha": "2021-08-31",
+        "municipio": "A Ca\u00f1iza",
+        "habitantes": "5180",
+        "casos_14d": "28",
+        "casos_7d": "10"
     }
 ]

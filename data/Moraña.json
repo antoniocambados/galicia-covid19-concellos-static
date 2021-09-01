@@ -1965,5 +1965,26 @@
         "habitantes": "4179",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-08-29",
+        "municipio": "Mora\u00f1a",
+        "habitantes": "4179",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-08-30",
+        "municipio": "Mora\u00f1a",
+        "habitantes": "4179",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-08-31",
+        "municipio": "Mora\u00f1a",
+        "habitantes": "4179",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]
