@@ -1986,5 +1986,19 @@
         "habitantes": "6275",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-01",
+        "municipio": "O Pereiro de Aguiar",
+        "habitantes": "6275",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-02",
+        "municipio": "O Pereiro de Aguiar",
+        "habitantes": "6275",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]

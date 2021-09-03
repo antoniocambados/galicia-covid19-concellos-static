@@ -1986,5 +1986,19 @@
         "habitantes": "7395",
         "casos_14d": "17",
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-01",
+        "municipio": "Soutomaior",
+        "habitantes": "7395",
+        "casos_14d": "16",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-02",
+        "municipio": "Soutomaior",
+        "habitantes": "7395",
+        "casos_14d": "11",
+        "casos_7d": null
     }
 ]

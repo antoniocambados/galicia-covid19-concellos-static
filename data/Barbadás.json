@@ -1986,5 +1986,19 @@
         "habitantes": "11037",
         "casos_14d": "21",
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-01",
+        "municipio": "Barbad\u00e1s",
+        "habitantes": "11037",
+        "casos_14d": "23",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-02",
+        "municipio": "Barbad\u00e1s",
+        "habitantes": "11037",
+        "casos_14d": "21",
+        "casos_7d": null
     }
 ]

@@ -1986,5 +1986,19 @@
         "habitantes": "5874",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-01",
+        "municipio": "Vilaboa",
+        "habitantes": "5874",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-02",
+        "municipio": "Vilaboa",
+        "habitantes": "5874",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]

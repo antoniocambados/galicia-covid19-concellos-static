@@ -1986,5 +1986,19 @@
         "habitantes": "13499",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-01",
+        "municipio": "Tomi\u00f1o",
+        "habitantes": "13499",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-02",
+        "municipio": "Tomi\u00f1o",
+        "habitantes": "13499",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]

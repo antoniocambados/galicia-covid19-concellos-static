@@ -1986,5 +1986,19 @@
         "habitantes": "2067",
         "casos_14d": "24",
         "casos_7d": "21"
+    },
+    {
+        "fecha": "2021-09-01",
+        "municipio": "A Pobra de Trives",
+        "habitantes": "2067",
+        "casos_14d": "32",
+        "casos_7d": "28"
+    },
+    {
+        "fecha": "2021-09-02",
+        "municipio": "A Pobra de Trives",
+        "habitantes": "2067",
+        "casos_14d": "40",
+        "casos_7d": "28"
     }
 ]

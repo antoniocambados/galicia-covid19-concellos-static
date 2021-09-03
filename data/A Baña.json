@@ -1986,5 +1986,19 @@
         "habitantes": "3450",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-01",
+        "municipio": "A Ba\u00f1a",
+        "habitantes": "3450",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-02",
+        "municipio": "A Ba\u00f1a",
+        "habitantes": "3450",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]

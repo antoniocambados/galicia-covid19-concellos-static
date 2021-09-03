@@ -1986,5 +1986,19 @@
         "habitantes": "2339",
         "casos_14d": "19",
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-01",
+        "municipio": "Frades",
+        "habitantes": "2339",
+        "casos_14d": "18",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-02",
+        "municipio": "Frades",
+        "habitantes": "2339",
+        "casos_14d": "18",
+        "casos_7d": null
     }
 ]

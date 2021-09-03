@@ -1986,5 +1986,19 @@
         "habitantes": "2886",
         "casos_14d": "34",
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-01",
+        "municipio": "Viana do Bolo",
+        "habitantes": "2886",
+        "casos_14d": "34",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-02",
+        "municipio": "Viana do Bolo",
+        "habitantes": "2886",
+        "casos_14d": "33",
+        "casos_7d": null
     }
 ]

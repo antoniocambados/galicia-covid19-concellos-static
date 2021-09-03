@@ -1986,5 +1986,19 @@
         "habitantes": "1286",
         "casos_14d": "0",
         "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-09-01",
+        "municipio": "Carballeda de Avia",
+        "habitantes": "1286",
+        "casos_14d": "0",
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-09-02",
+        "municipio": "Carballeda de Avia",
+        "habitantes": "1286",
+        "casos_14d": "0",
+        "casos_7d": "0"
     }
 ]

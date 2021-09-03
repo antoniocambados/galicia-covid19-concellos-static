@@ -1986,5 +1986,19 @@
         "habitantes": "14286",
         "casos_14d": "36",
         "casos_7d": "12"
+    },
+    {
+        "fecha": "2021-09-01",
+        "municipio": "Gondomar",
+        "habitantes": "14286",
+        "casos_14d": "33",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-02",
+        "municipio": "Gondomar",
+        "habitantes": "14286",
+        "casos_14d": "33",
+        "casos_7d": null
     }
 ]

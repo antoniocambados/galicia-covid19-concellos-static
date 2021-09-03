@@ -1986,5 +1986,19 @@
         "habitantes": "17675",
         "casos_14d": "53",
         "casos_7d": "19"
+    },
+    {
+        "fecha": "2021-09-01",
+        "municipio": "Nigr\u00e1n",
+        "habitantes": "17675",
+        "casos_14d": "51",
+        "casos_7d": "18"
+    },
+    {
+        "fecha": "2021-09-02",
+        "municipio": "Nigr\u00e1n",
+        "habitantes": "17675",
+        "casos_14d": "49",
+        "casos_7d": "22"
     }
 ]

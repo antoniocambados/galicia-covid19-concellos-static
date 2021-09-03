@@ -1986,5 +1986,19 @@
         "habitantes": "13744",
         "casos_14d": "15",
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-01",
+        "municipio": "Cambados",
+        "habitantes": "13744",
+        "casos_14d": "15",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-02",
+        "municipio": "Cambados",
+        "habitantes": "13744",
+        "casos_14d": "14",
+        "casos_7d": null
     }
 ]

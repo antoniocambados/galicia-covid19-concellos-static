@@ -1986,5 +1986,19 @@
         "habitantes": "1570",
         "casos_14d": null,
         "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-09-01",
+        "municipio": "O Incio",
+        "habitantes": "1570",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-09-02",
+        "municipio": "O Incio",
+        "habitantes": "1570",
+        "casos_14d": null,
+        "casos_7d": "0"
     }
 ]

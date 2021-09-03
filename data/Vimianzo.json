@@ -1986,5 +1986,19 @@
         "habitantes": "7057",
         "casos_14d": "21",
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-01",
+        "municipio": "Vimianzo",
+        "habitantes": "7057",
+        "casos_14d": "19",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-02",
+        "municipio": "Vimianzo",
+        "habitantes": "7057",
+        "casos_14d": "14",
+        "casos_7d": null
     }
 ]

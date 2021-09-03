@@ -1986,5 +1986,19 @@
         "habitantes": "1819",
         "casos_14d": null,
         "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-09-01",
+        "municipio": "A Peroxa",
+        "habitantes": "1819",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-09-02",
+        "municipio": "A Peroxa",
+        "habitantes": "1819",
+        "casos_14d": null,
+        "casos_7d": "0"
     }
 ]

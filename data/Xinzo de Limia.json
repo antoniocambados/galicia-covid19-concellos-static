@@ -1986,5 +1986,19 @@
         "habitantes": "9715",
         "casos_14d": "20",
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-01",
+        "municipio": "Xinzo de Limia",
+        "habitantes": "9715",
+        "casos_14d": "19",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-02",
+        "municipio": "Xinzo de Limia",
+        "habitantes": "9715",
+        "casos_14d": "17",
+        "casos_7d": null
     }
 ]

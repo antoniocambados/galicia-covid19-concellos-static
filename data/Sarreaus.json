@@ -1986,5 +1986,19 @@
         "habitantes": "1162",
         "casos_14d": "0",
         "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-09-01",
+        "municipio": "Sarreaus",
+        "habitantes": "1162",
+        "casos_14d": "0",
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-09-02",
+        "municipio": "Sarreaus",
+        "habitantes": "1162",
+        "casos_14d": "0",
+        "casos_7d": "0"
     }
 ]

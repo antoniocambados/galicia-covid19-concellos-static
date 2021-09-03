@@ -1986,5 +1986,19 @@
         "habitantes": "3735",
         "casos_14d": "28",
         "casos_7d": "19"
+    },
+    {
+        "fecha": "2021-09-01",
+        "municipio": "O Savi\u00f1ao",
+        "habitantes": "3735",
+        "casos_14d": "28",
+        "casos_7d": "15"
+    },
+    {
+        "fecha": "2021-09-02",
+        "municipio": "O Savi\u00f1ao",
+        "habitantes": "3735",
+        "casos_14d": "26",
+        "casos_7d": "12"
     }
 ]

@@ -1986,5 +1986,19 @@
         "habitantes": "3026",
         "casos_14d": "16",
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-01",
+        "municipio": "Begonte",
+        "habitantes": "3026",
+        "casos_14d": "16",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-02",
+        "municipio": "Begonte",
+        "habitantes": "3026",
+        "casos_14d": "15",
+        "casos_7d": null
     }
 ]

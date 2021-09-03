@@ -1986,5 +1986,19 @@
         "habitantes": "2530",
         "casos_14d": "10",
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-01",
+        "municipio": "Mes\u00eda",
+        "habitantes": "2530",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-02",
+        "municipio": "Mes\u00eda",
+        "habitantes": "2530",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]

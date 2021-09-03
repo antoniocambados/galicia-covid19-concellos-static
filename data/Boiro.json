@@ -1986,5 +1986,19 @@
         "habitantes": "18838",
         "casos_14d": "36",
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-01",
+        "municipio": "Boiro",
+        "habitantes": "18838",
+        "casos_14d": "26",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-02",
+        "municipio": "Boiro",
+        "habitantes": "18838",
+        "casos_14d": "25",
+        "casos_7d": null
     }
 ]

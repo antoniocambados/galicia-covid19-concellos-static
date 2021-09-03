@@ -1986,5 +1986,19 @@
         "habitantes": "11033",
         "casos_14d": "19",
         "casos_7d": "10"
+    },
+    {
+        "fecha": "2021-09-01",
+        "municipio": "Rianxo",
+        "habitantes": "11033",
+        "casos_14d": "15",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-02",
+        "municipio": "Rianxo",
+        "habitantes": "11033",
+        "casos_14d": "13",
+        "casos_7d": null
     }
 ]

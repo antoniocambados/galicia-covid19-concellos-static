@@ -1986,5 +1986,19 @@
         "habitantes": "22877",
         "casos_14d": "56",
         "casos_7d": "27"
+    },
+    {
+        "fecha": "2021-09-01",
+        "municipio": "Ponteareas",
+        "habitantes": "22877",
+        "casos_14d": "51",
+        "casos_7d": "24"
+    },
+    {
+        "fecha": "2021-09-02",
+        "municipio": "Ponteareas",
+        "habitantes": "22877",
+        "casos_14d": "52",
+        "casos_7d": "18"
     }
 ]

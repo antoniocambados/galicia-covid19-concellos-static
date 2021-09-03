@@ -1986,5 +1986,19 @@
         "habitantes": "20218",
         "casos_14d": "52",
         "casos_7d": "36"
+    },
+    {
+        "fecha": "2021-09-01",
+        "municipio": "Lal\u00edn",
+        "habitantes": "20218",
+        "casos_14d": "54",
+        "casos_7d": "32"
+    },
+    {
+        "fecha": "2021-09-02",
+        "municipio": "Lal\u00edn",
+        "habitantes": "20218",
+        "casos_14d": "55",
+        "casos_7d": "25"
     }
 ]

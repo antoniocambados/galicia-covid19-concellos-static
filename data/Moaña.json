@@ -1986,5 +1986,19 @@
         "habitantes": "19399",
         "casos_14d": "14",
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-01",
+        "municipio": "Moa\u00f1a",
+        "habitantes": "19399",
+        "casos_14d": "15",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-02",
+        "municipio": "Moa\u00f1a",
+        "habitantes": "19399",
+        "casos_14d": "13",
+        "casos_7d": null
     }
 ]

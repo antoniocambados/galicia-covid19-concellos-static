@@ -1986,5 +1986,19 @@
         "habitantes": "2756",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-01",
+        "municipio": "Taboada",
+        "habitantes": "2756",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-02",
+        "municipio": "Taboada",
+        "habitantes": "2756",
+        "casos_14d": "12",
+        "casos_7d": null
     }
 ]

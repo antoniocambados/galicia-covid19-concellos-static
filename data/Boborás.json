@@ -1986,5 +1986,19 @@
         "habitantes": "2285",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-01",
+        "municipio": "Bobor\u00e1s",
+        "habitantes": "2285",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-02",
+        "municipio": "Bobor\u00e1s",
+        "habitantes": "2285",
+        "casos_14d": null,
+        "casos_7d": "0"
     }
 ]

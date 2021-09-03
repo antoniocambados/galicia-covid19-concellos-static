@@ -1986,5 +1986,19 @@
         "habitantes": "4227",
         "casos_14d": null,
         "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-09-01",
+        "municipio": "Cervo",
+        "habitantes": "4227",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-09-02",
+        "municipio": "Cervo",
+        "habitantes": "4227",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]

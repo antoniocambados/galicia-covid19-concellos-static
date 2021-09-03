@@ -1986,5 +1986,19 @@
         "habitantes": "2605",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-01",
+        "municipio": "L\u00e1ncara",
+        "habitantes": "2605",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-02",
+        "municipio": "L\u00e1ncara",
+        "habitantes": "2605",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]

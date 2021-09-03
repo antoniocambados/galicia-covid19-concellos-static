@@ -1986,5 +1986,19 @@
         "habitantes": "4484",
         "casos_14d": "23",
         "casos_7d": "17"
+    },
+    {
+        "fecha": "2021-09-01",
+        "municipio": "Cospeito",
+        "habitantes": "4484",
+        "casos_14d": "23",
+        "casos_7d": "15"
+    },
+    {
+        "fecha": "2021-09-02",
+        "municipio": "Cospeito",
+        "habitantes": "4484",
+        "casos_14d": "24",
+        "casos_7d": "14"
     }
 ]

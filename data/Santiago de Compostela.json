@@ -1986,5 +1986,19 @@
         "habitantes": "97260",
         "casos_14d": "174",
         "casos_7d": "89"
+    },
+    {
+        "fecha": "2021-09-01",
+        "municipio": "Santiago de Compostela",
+        "habitantes": "97260",
+        "casos_14d": "178",
+        "casos_7d": "95"
+    },
+    {
+        "fecha": "2021-09-02",
+        "municipio": "Santiago de Compostela",
+        "habitantes": "97260",
+        "casos_14d": "172",
+        "casos_7d": "89"
     }
 ]

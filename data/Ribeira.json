@@ -1986,5 +1986,19 @@
         "habitantes": "26886",
         "casos_14d": "32",
         "casos_7d": "19"
+    },
+    {
+        "fecha": "2021-09-01",
+        "municipio": "Ribeira",
+        "habitantes": "26886",
+        "casos_14d": "31",
+        "casos_7d": "18"
+    },
+    {
+        "fecha": "2021-09-02",
+        "municipio": "Ribeira",
+        "habitantes": "26886",
+        "casos_14d": "34",
+        "casos_7d": "20"
     }
 ]

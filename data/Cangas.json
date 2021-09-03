@@ -1986,5 +1986,19 @@
         "habitantes": "26542",
         "casos_14d": "42",
         "casos_7d": "20"
+    },
+    {
+        "fecha": "2021-09-01",
+        "municipio": "Cangas",
+        "habitantes": "26542",
+        "casos_14d": "41",
+        "casos_7d": "27"
+    },
+    {
+        "fecha": "2021-09-02",
+        "municipio": "Cangas",
+        "habitantes": "26542",
+        "casos_14d": "37",
+        "casos_7d": "20"
     }
 ]

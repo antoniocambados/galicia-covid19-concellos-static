@@ -1986,5 +1986,19 @@
         "habitantes": "5732",
         "casos_14d": "43",
         "casos_7d": "20"
+    },
+    {
+        "fecha": "2021-09-01",
+        "municipio": "Ares",
+        "habitantes": "5732",
+        "casos_14d": "42",
+        "casos_7d": "20"
+    },
+    {
+        "fecha": "2021-09-02",
+        "municipio": "Ares",
+        "habitantes": "5732",
+        "casos_14d": "36",
+        "casos_7d": "18"
     }
 ]
