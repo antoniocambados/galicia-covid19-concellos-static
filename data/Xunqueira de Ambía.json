@@ -2000,5 +2000,26 @@
         "habitantes": "1375",
         "casos_14d": "10",
         "casos_7d": "10"
+    },
+    {
+        "fecha": "2021-09-03",
+        "municipio": "Xunqueira de Amb\u00eda",
+        "habitantes": "1375",
+        "casos_14d": "10",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-04",
+        "municipio": "Xunqueira de Amb\u00eda",
+        "habitantes": "1375",
+        "casos_14d": "11",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-05",
+        "municipio": "Xunqueira de Amb\u00eda",
+        "habitantes": "1375",
+        "casos_14d": "11",
+        "casos_7d": null
     }
 ]

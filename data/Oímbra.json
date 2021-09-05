@@ -2000,5 +2000,26 @@
         "habitantes": "1712",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-03",
+        "municipio": "O\u00edmbra",
+        "habitantes": "1712",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-04",
+        "municipio": "O\u00edmbra",
+        "habitantes": "1712",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-05",
+        "municipio": "O\u00edmbra",
+        "habitantes": "1712",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]

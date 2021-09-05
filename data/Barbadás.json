@@ -2000,5 +2000,26 @@
         "habitantes": "11037",
         "casos_14d": "21",
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-03",
+        "municipio": "Barbad\u00e1s",
+        "habitantes": "11037",
+        "casos_14d": "17",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-04",
+        "municipio": "Barbad\u00e1s",
+        "habitantes": "11037",
+        "casos_14d": "16",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-05",
+        "municipio": "Barbad\u00e1s",
+        "habitantes": "11037",
+        "casos_14d": "16",
+        "casos_7d": null
     }
 ]

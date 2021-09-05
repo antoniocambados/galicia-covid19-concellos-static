@@ -2000,5 +2000,26 @@
         "habitantes": "1224",
         "casos_14d": "0",
         "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-09-03",
+        "municipio": "Castro Caldelas",
+        "habitantes": "1224",
+        "casos_14d": "0",
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-09-04",
+        "municipio": "Castro Caldelas",
+        "habitantes": "1224",
+        "casos_14d": "0",
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-09-05",
+        "municipio": "Castro Caldelas",
+        "habitantes": "1224",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]

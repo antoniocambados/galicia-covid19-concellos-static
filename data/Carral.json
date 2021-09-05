@@ -2000,5 +2000,26 @@
         "habitantes": "6408",
         "casos_14d": "21",
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-03",
+        "municipio": "Carral",
+        "habitantes": "6408",
+        "casos_14d": "20",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-04",
+        "municipio": "Carral",
+        "habitantes": "6408",
+        "casos_14d": "17",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-05",
+        "municipio": "Carral",
+        "habitantes": "6408",
+        "casos_14d": "13",
+        "casos_7d": null
     }
 ]

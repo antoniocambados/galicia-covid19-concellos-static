@@ -2000,5 +2000,26 @@
         "habitantes": "8687",
         "casos_14d": "24",
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-03",
+        "municipio": "Silleda",
+        "habitantes": "8687",
+        "casos_14d": "23",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-04",
+        "municipio": "Silleda",
+        "habitantes": "8687",
+        "casos_14d": "20",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-05",
+        "municipio": "Silleda",
+        "habitantes": "8687",
+        "casos_14d": "20",
+        "casos_7d": null
     }
 ]

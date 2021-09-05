@@ -2000,5 +2000,26 @@
         "habitantes": "1278",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-03",
+        "municipio": "Samos",
+        "habitantes": "1278",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-09-04",
+        "municipio": "Samos",
+        "habitantes": "1278",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-09-05",
+        "municipio": "Samos",
+        "habitantes": "1278",
+        "casos_14d": null,
+        "casos_7d": "0"
     }
 ]

@@ -2000,5 +2000,26 @@
         "habitantes": "245711",
         "casos_14d": "588",
         "casos_7d": "262"
+    },
+    {
+        "fecha": "2021-09-03",
+        "municipio": "A Coru\u00f1a",
+        "habitantes": "245711",
+        "casos_14d": "554",
+        "casos_7d": "237"
+    },
+    {
+        "fecha": "2021-09-04",
+        "municipio": "A Coru\u00f1a",
+        "habitantes": "245711",
+        "casos_14d": "532",
+        "casos_7d": "229"
+    },
+    {
+        "fecha": "2021-09-05",
+        "municipio": "A Coru\u00f1a",
+        "habitantes": "245711",
+        "casos_14d": "508",
+        "casos_7d": "212"
     }
 ]

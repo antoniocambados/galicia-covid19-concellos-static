@@ -2000,5 +2000,26 @@
         "habitantes": "12674",
         "casos_14d": "200",
         "casos_7d": "30"
+    },
+    {
+        "fecha": "2021-09-03",
+        "municipio": "Ordes",
+        "habitantes": "12674",
+        "casos_14d": "178",
+        "casos_7d": "29"
+    },
+    {
+        "fecha": "2021-09-04",
+        "municipio": "Ordes",
+        "habitantes": "12674",
+        "casos_14d": "143",
+        "casos_7d": "26"
+    },
+    {
+        "fecha": "2021-09-05",
+        "municipio": "Ordes",
+        "habitantes": "12674",
+        "casos_14d": "95",
+        "casos_7d": "23"
     }
 ]

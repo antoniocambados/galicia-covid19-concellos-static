@@ -2000,5 +2000,26 @@
         "habitantes": "1471",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-03",
+        "municipio": "Portomar\u00edn",
+        "habitantes": "1471",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-04",
+        "municipio": "Portomar\u00edn",
+        "habitantes": "1471",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-05",
+        "municipio": "Portomar\u00edn",
+        "habitantes": "1471",
+        "casos_14d": null,
+        "casos_7d": "0"
     }
 ]

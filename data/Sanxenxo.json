@@ -2000,5 +2000,26 @@
         "habitantes": "17347",
         "casos_14d": "38",
         "casos_7d": "12"
+    },
+    {
+        "fecha": "2021-09-03",
+        "municipio": "Sanxenxo",
+        "habitantes": "17347",
+        "casos_14d": "30",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-04",
+        "municipio": "Sanxenxo",
+        "habitantes": "17347",
+        "casos_14d": "27",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-05",
+        "municipio": "Sanxenxo",
+        "habitantes": "17347",
+        "casos_14d": "26",
+        "casos_7d": null
     }
 ]

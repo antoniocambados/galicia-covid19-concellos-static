@@ -2000,5 +2000,26 @@
         "habitantes": "7406",
         "casos_14d": "124",
         "casos_7d": "43"
+    },
+    {
+        "fecha": "2021-09-03",
+        "municipio": "Melide",
+        "habitantes": "7406",
+        "casos_14d": "124",
+        "casos_7d": "30"
+    },
+    {
+        "fecha": "2021-09-04",
+        "municipio": "Melide",
+        "habitantes": "7406",
+        "casos_14d": "118",
+        "casos_7d": "27"
+    },
+    {
+        "fecha": "2021-09-05",
+        "municipio": "Melide",
+        "habitantes": "7406",
+        "casos_14d": "116",
+        "casos_7d": "26"
     }
 ]

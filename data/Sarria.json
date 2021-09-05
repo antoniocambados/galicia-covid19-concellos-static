@@ -2000,5 +2000,26 @@
         "habitantes": "13330",
         "casos_14d": "26",
         "casos_7d": "13"
+    },
+    {
+        "fecha": "2021-09-03",
+        "municipio": "Sarria",
+        "habitantes": "13330",
+        "casos_14d": "26",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-04",
+        "municipio": "Sarria",
+        "habitantes": "13330",
+        "casos_14d": "22",
+        "casos_7d": "10"
+    },
+    {
+        "fecha": "2021-09-05",
+        "municipio": "Sarria",
+        "habitantes": "13330",
+        "casos_14d": "22",
+        "casos_7d": null
     }
 ]

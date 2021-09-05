@@ -2000,5 +2000,26 @@
         "habitantes": "1675",
         "casos_14d": "0",
         "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-09-03",
+        "municipio": "O Vicedo",
+        "habitantes": "1675",
+        "casos_14d": "0",
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-09-04",
+        "municipio": "O Vicedo",
+        "habitantes": "1675",
+        "casos_14d": "0",
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-09-05",
+        "municipio": "O Vicedo",
+        "habitantes": "1675",
+        "casos_14d": "0",
+        "casos_7d": "0"
     }
 ]

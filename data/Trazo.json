@@ -2000,5 +2000,26 @@
         "habitantes": "3113",
         "casos_14d": "22",
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-03",
+        "municipio": "Trazo",
+        "habitantes": "3113",
+        "casos_14d": "19",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-04",
+        "municipio": "Trazo",
+        "habitantes": "3113",
+        "casos_14d": "14",
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-09-05",
+        "municipio": "Trazo",
+        "habitantes": "3113",
+        "casos_14d": "11",
+        "casos_7d": "0"
     }
 ]

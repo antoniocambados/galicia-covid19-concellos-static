@@ -2000,5 +2000,26 @@
         "habitantes": "3207",
         "casos_14d": "11",
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-03",
+        "municipio": "Quiroga",
+        "habitantes": "3207",
+        "casos_14d": "15",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-04",
+        "municipio": "Quiroga",
+        "habitantes": "3207",
+        "casos_14d": "14",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-05",
+        "municipio": "Quiroga",
+        "habitantes": "3207",
+        "casos_14d": "14",
+        "casos_7d": null
     }
 ]

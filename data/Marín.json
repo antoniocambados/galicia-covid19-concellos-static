@@ -2000,5 +2000,26 @@
         "habitantes": "24319",
         "casos_14d": "30",
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-03",
+        "municipio": "Mar\u00edn",
+        "habitantes": "24319",
+        "casos_14d": "26",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-04",
+        "municipio": "Mar\u00edn",
+        "habitantes": "24319",
+        "casos_14d": "25",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-05",
+        "municipio": "Mar\u00edn",
+        "habitantes": "24319",
+        "casos_14d": "22",
+        "casos_7d": null
     }
 ]

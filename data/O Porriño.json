@@ -2000,5 +2000,26 @@
         "habitantes": "19848",
         "casos_14d": "27",
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-03",
+        "municipio": "O Porri\u00f1o",
+        "habitantes": "19848",
+        "casos_14d": "23",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-04",
+        "municipio": "O Porri\u00f1o",
+        "habitantes": "19848",
+        "casos_14d": "19",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-05",
+        "municipio": "O Porri\u00f1o",
+        "habitantes": "19848",
+        "casos_14d": "19",
+        "casos_7d": null
     }
 ]

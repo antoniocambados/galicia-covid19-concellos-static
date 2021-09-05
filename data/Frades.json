@@ -2000,5 +2000,26 @@
         "habitantes": "2339",
         "casos_14d": "18",
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-03",
+        "municipio": "Frades",
+        "habitantes": "2339",
+        "casos_14d": "16",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-04",
+        "municipio": "Frades",
+        "habitantes": "2339",
+        "casos_14d": "16",
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-09-05",
+        "municipio": "Frades",
+        "habitantes": "2339",
+        "casos_14d": "14",
+        "casos_7d": "0"
     }
 ]

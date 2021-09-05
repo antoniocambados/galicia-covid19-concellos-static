@@ -2000,5 +2000,26 @@
         "habitantes": "4657",
         "casos_14d": "34",
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-03",
+        "municipio": "Mux\u00eda",
+        "habitantes": "4657",
+        "casos_14d": "30",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-04",
+        "municipio": "Mux\u00eda",
+        "habitantes": "4657",
+        "casos_14d": "27",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-05",
+        "municipio": "Mux\u00eda",
+        "habitantes": "4657",
+        "casos_14d": "22",
+        "casos_7d": null
     }
 ]

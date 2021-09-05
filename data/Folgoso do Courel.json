@@ -2000,5 +2000,26 @@
         "habitantes": "1024",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-03",
+        "municipio": "Folgoso do Courel",
+        "habitantes": "1024",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-04",
+        "municipio": "Folgoso do Courel",
+        "habitantes": "1024",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-05",
+        "municipio": "Folgoso do Courel",
+        "habitantes": "1024",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]

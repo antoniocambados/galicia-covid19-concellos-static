@@ -2000,5 +2000,26 @@
         "habitantes": "5869",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-03",
+        "municipio": "Valga",
+        "habitantes": "5869",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-04",
+        "municipio": "Valga",
+        "habitantes": "5869",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-05",
+        "municipio": "Valga",
+        "habitantes": "5869",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]

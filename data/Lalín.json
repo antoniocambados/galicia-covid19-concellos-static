@@ -2000,5 +2000,26 @@
         "habitantes": "20218",
         "casos_14d": "55",
         "casos_7d": "25"
+    },
+    {
+        "fecha": "2021-09-03",
+        "municipio": "Lal\u00edn",
+        "habitantes": "20218",
+        "casos_14d": "50",
+        "casos_7d": "20"
+    },
+    {
+        "fecha": "2021-09-04",
+        "municipio": "Lal\u00edn",
+        "habitantes": "20218",
+        "casos_14d": "49",
+        "casos_7d": "17"
+    },
+    {
+        "fecha": "2021-09-05",
+        "municipio": "Lal\u00edn",
+        "habitantes": "20218",
+        "casos_14d": "48",
+        "casos_7d": null
     }
 ]

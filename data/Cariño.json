@@ -2000,5 +2000,26 @@
         "habitantes": "3838",
         "casos_14d": "16",
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-03",
+        "municipio": "Cari\u00f1o",
+        "habitantes": "3838",
+        "casos_14d": "11",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-04",
+        "municipio": "Cari\u00f1o",
+        "habitantes": "3838",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-05",
+        "municipio": "Cari\u00f1o",
+        "habitantes": "3838",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]

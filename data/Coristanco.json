@@ -2000,5 +2000,26 @@
         "habitantes": "6074",
         "casos_14d": null,
         "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-09-03",
+        "municipio": "Coristanco",
+        "habitantes": "6074",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-09-04",
+        "municipio": "Coristanco",
+        "habitantes": "6074",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-09-05",
+        "municipio": "Coristanco",
+        "habitantes": "6074",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]

@@ -2000,5 +2000,26 @@
         "habitantes": "9426",
         "casos_14d": "36",
         "casos_7d": "22"
+    },
+    {
+        "fecha": "2021-09-03",
+        "municipio": "Santa Comba",
+        "habitantes": "9426",
+        "casos_14d": "36",
+        "casos_7d": "16"
+    },
+    {
+        "fecha": "2021-09-04",
+        "municipio": "Santa Comba",
+        "habitantes": "9426",
+        "casos_14d": "34",
+        "casos_7d": "15"
+    },
+    {
+        "fecha": "2021-09-05",
+        "municipio": "Santa Comba",
+        "habitantes": "9426",
+        "casos_14d": "32",
+        "casos_7d": "14"
     }
 ]

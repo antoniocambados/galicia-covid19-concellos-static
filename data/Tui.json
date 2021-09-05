@@ -2000,5 +2000,26 @@
         "habitantes": "16701",
         "casos_14d": "23",
         "casos_7d": "12"
+    },
+    {
+        "fecha": "2021-09-03",
+        "municipio": "Tui",
+        "habitantes": "16701",
+        "casos_14d": "20",
+        "casos_7d": "12"
+    },
+    {
+        "fecha": "2021-09-04",
+        "municipio": "Tui",
+        "habitantes": "16701",
+        "casos_14d": "18",
+        "casos_7d": "10"
+    },
+    {
+        "fecha": "2021-09-05",
+        "municipio": "Tui",
+        "habitantes": "16701",
+        "casos_14d": "19",
+        "casos_7d": "10"
     }
 ]

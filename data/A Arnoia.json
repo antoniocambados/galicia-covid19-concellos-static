@@ -2000,5 +2000,26 @@
         "habitantes": "1000",
         "casos_14d": "0",
         "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-09-03",
+        "municipio": "A Arnoia",
+        "habitantes": "1000",
+        "casos_14d": "0",
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-09-04",
+        "municipio": "A Arnoia",
+        "habitantes": "1000",
+        "casos_14d": "0",
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-09-05",
+        "municipio": "A Arnoia",
+        "habitantes": "1000",
+        "casos_14d": "0",
+        "casos_7d": "0"
     }
 ]

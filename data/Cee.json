@@ -2000,5 +2000,26 @@
         "habitantes": "7546",
         "casos_14d": "29",
         "casos_7d": "16"
+    },
+    {
+        "fecha": "2021-09-03",
+        "municipio": "Cee",
+        "habitantes": "7546",
+        "casos_14d": "30",
+        "casos_7d": "13"
+    },
+    {
+        "fecha": "2021-09-04",
+        "municipio": "Cee",
+        "habitantes": "7546",
+        "casos_14d": "26",
+        "casos_7d": "12"
+    },
+    {
+        "fecha": "2021-09-05",
+        "municipio": "Cee",
+        "habitantes": "7546",
+        "casos_14d": "26",
+        "casos_7d": "10"
     }
 ]

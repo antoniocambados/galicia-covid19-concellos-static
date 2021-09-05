@@ -2000,5 +2000,26 @@
         "habitantes": "12009",
         "casos_14d": "15",
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-03",
+        "municipio": "Bueu",
+        "habitantes": "12009",
+        "casos_14d": "14",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-04",
+        "municipio": "Bueu",
+        "habitantes": "12009",
+        "casos_14d": "14",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-05",
+        "municipio": "Bueu",
+        "habitantes": "12009",
+        "casos_14d": "14",
+        "casos_7d": null
     }
 ]

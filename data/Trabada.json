@@ -2000,5 +2000,26 @@
         "habitantes": "1118",
         "casos_14d": "0",
         "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-09-03",
+        "municipio": "Trabada",
+        "habitantes": "1118",
+        "casos_14d": "0",
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-09-04",
+        "municipio": "Trabada",
+        "habitantes": "1118",
+        "casos_14d": "0",
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-09-05",
+        "municipio": "Trabada",
+        "habitantes": "1118",
+        "casos_14d": "0",
+        "casos_7d": "0"
     }
 ]
