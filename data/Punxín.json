@@ -2021,5 +2021,19 @@
         "habitantes": "693",
         "casos_14d": null,
         "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-09-06",
+        "municipio": "Punx\u00edn",
+        "habitantes": "693",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-09-07",
+        "municipio": "Punx\u00edn",
+        "habitantes": "693",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]

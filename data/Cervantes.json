@@ -2021,5 +2021,19 @@
         "habitantes": "1338",
         "casos_14d": null,
         "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-09-06",
+        "municipio": "Cervantes",
+        "habitantes": "1338",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-09-07",
+        "municipio": "Cervantes",
+        "habitantes": "1338",
+        "casos_14d": null,
+        "casos_7d": "0"
     }
 ]

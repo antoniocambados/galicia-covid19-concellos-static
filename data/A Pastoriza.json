@@ -2021,5 +2021,19 @@
         "habitantes": "3002",
         "casos_14d": "31",
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-06",
+        "municipio": "A Pastoriza",
+        "habitantes": "3002",
+        "casos_14d": "29",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-07",
+        "municipio": "A Pastoriza",
+        "habitantes": "3002",
+        "casos_14d": "20",
+        "casos_7d": null
     }
 ]

@@ -2021,5 +2021,19 @@
         "habitantes": "15078",
         "casos_14d": "18",
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-06",
+        "municipio": "Mos",
+        "habitantes": "15078",
+        "casos_14d": "18",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-07",
+        "municipio": "Mos",
+        "habitantes": "15078",
+        "casos_14d": "16",
+        "casos_7d": null
     }
 ]
