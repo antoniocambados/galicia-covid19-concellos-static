@@ -2035,5 +2035,19 @@
         "habitantes": "31349",
         "casos_14d": "68",
         "casos_7d": "25"
+    },
+    {
+        "fecha": "2021-09-08",
+        "municipio": "Carballo",
+        "habitantes": "31349",
+        "casos_14d": "63",
+        "casos_7d": "16"
+    },
+    {
+        "fecha": "2021-09-09",
+        "municipio": "Carballo",
+        "habitantes": "31349",
+        "casos_14d": "61",
+        "casos_7d": "14"
     }
 ]

@@ -2035,5 +2035,19 @@
         "habitantes": "6282",
         "casos_14d": null,
         "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-09-08",
+        "municipio": "Outes",
+        "habitantes": "6282",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-09-09",
+        "municipio": "Outes",
+        "habitantes": "6282",
+        "casos_14d": null,
+        "casos_7d": "0"
     }
 ]

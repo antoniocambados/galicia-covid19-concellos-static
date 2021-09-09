@@ -2035,5 +2035,19 @@
         "habitantes": "24648",
         "casos_14d": "29",
         "casos_7d": "13"
+    },
+    {
+        "fecha": "2021-09-08",
+        "municipio": "Cambre",
+        "habitantes": "24648",
+        "casos_14d": "24",
+        "casos_7d": "13"
+    },
+    {
+        "fecha": "2021-09-09",
+        "municipio": "Cambre",
+        "habitantes": "24648",
+        "casos_14d": "20",
+        "casos_7d": "13"
     }
 ]
