@@ -2049,5 +2049,68 @@
         "habitantes": "6041",
         "casos_14d": "40",
         "casos_7d": "13"
+    },
+    {
+        "fecha": "2021-09-10",
+        "municipio": "Arz\u00faa",
+        "habitantes": "6041",
+        "casos_14d": "26",
+        "casos_7d": "10"
+    },
+    {
+        "fecha": "2021-09-11",
+        "municipio": "Arz\u00faa",
+        "habitantes": "6041",
+        "casos_14d": "26",
+        "casos_7d": "10"
+    },
+    {
+        "fecha": "2021-09-12",
+        "municipio": "Arz\u00faa",
+        "habitantes": "6041",
+        "casos_14d": "21",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-13",
+        "municipio": "Arz\u00faa",
+        "habitantes": "6041",
+        "casos_14d": "18",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-14",
+        "municipio": "Arz\u00faa",
+        "habitantes": "6041",
+        "casos_14d": "16",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-15",
+        "municipio": "Arz\u00faa",
+        "habitantes": "6041",
+        "casos_14d": "14",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-16",
+        "municipio": "Arz\u00faa",
+        "habitantes": "6041",
+        "casos_14d": "14",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-17",
+        "municipio": "Arz\u00faa",
+        "habitantes": "6041",
+        "casos_14d": "13",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-18",
+        "municipio": "Arz\u00faa",
+        "habitantes": "6041",
+        "casos_14d": "10",
+        "casos_7d": "0"
     }
 ]

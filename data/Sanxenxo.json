@@ -2049,5 +2049,68 @@
         "habitantes": "17347",
         "casos_14d": "23",
         "casos_7d": "11"
+    },
+    {
+        "fecha": "2021-09-10",
+        "municipio": "Sanxenxo",
+        "habitantes": "17347",
+        "casos_14d": "18",
+        "casos_7d": "11"
+    },
+    {
+        "fecha": "2021-09-11",
+        "municipio": "Sanxenxo",
+        "habitantes": "17347",
+        "casos_14d": "21",
+        "casos_7d": "16"
+    },
+    {
+        "fecha": "2021-09-12",
+        "municipio": "Sanxenxo",
+        "habitantes": "17347",
+        "casos_14d": "26",
+        "casos_7d": "19"
+    },
+    {
+        "fecha": "2021-09-13",
+        "municipio": "Sanxenxo",
+        "habitantes": "17347",
+        "casos_14d": "23",
+        "casos_7d": "17"
+    },
+    {
+        "fecha": "2021-09-14",
+        "municipio": "Sanxenxo",
+        "habitantes": "17347",
+        "casos_14d": "23",
+        "casos_7d": "19"
+    },
+    {
+        "fecha": "2021-09-15",
+        "municipio": "Sanxenxo",
+        "habitantes": "17347",
+        "casos_14d": "25",
+        "casos_7d": "17"
+    },
+    {
+        "fecha": "2021-09-16",
+        "municipio": "Sanxenxo",
+        "habitantes": "17347",
+        "casos_14d": "26",
+        "casos_7d": "15"
+    },
+    {
+        "fecha": "2021-09-17",
+        "municipio": "Sanxenxo",
+        "habitantes": "17347",
+        "casos_14d": "27",
+        "casos_7d": "16"
+    },
+    {
+        "fecha": "2021-09-18",
+        "municipio": "Sanxenxo",
+        "habitantes": "17347",
+        "casos_14d": "27",
+        "casos_7d": "11"
     }
 ]

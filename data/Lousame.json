@@ -2049,5 +2049,68 @@
         "habitantes": "3338",
         "casos_14d": null,
         "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-09-10",
+        "municipio": "Lousame",
+        "habitantes": "3338",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-09-11",
+        "municipio": "Lousame",
+        "habitantes": "3338",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-09-12",
+        "municipio": "Lousame",
+        "habitantes": "3338",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-13",
+        "municipio": "Lousame",
+        "habitantes": "3338",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-14",
+        "municipio": "Lousame",
+        "habitantes": "3338",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-15",
+        "municipio": "Lousame",
+        "habitantes": "3338",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-16",
+        "municipio": "Lousame",
+        "habitantes": "3338",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-17",
+        "municipio": "Lousame",
+        "habitantes": "3338",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-18",
+        "municipio": "Lousame",
+        "habitantes": "3338",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]

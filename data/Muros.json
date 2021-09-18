@@ -2049,5 +2049,68 @@
         "habitantes": "8556",
         "casos_14d": "35",
         "casos_7d": "10"
+    },
+    {
+        "fecha": "2021-09-10",
+        "municipio": "Muros",
+        "habitantes": "8556",
+        "casos_14d": "29",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-11",
+        "municipio": "Muros",
+        "habitantes": "8556",
+        "casos_14d": "28",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-12",
+        "municipio": "Muros",
+        "habitantes": "8556",
+        "casos_14d": "28",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-13",
+        "municipio": "Muros",
+        "habitantes": "8556",
+        "casos_14d": "24",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-14",
+        "municipio": "Muros",
+        "habitantes": "8556",
+        "casos_14d": "19",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-15",
+        "municipio": "Muros",
+        "habitantes": "8556",
+        "casos_14d": "13",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-16",
+        "municipio": "Muros",
+        "habitantes": "8556",
+        "casos_14d": "11",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-17",
+        "municipio": "Muros",
+        "habitantes": "8556",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-18",
+        "municipio": "Muros",
+        "habitantes": "8556",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]

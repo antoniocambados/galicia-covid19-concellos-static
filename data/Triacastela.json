@@ -2049,5 +2049,68 @@
         "habitantes": "641",
         "casos_14d": null,
         "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-09-10",
+        "municipio": "Triacastela",
+        "habitantes": "641",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-09-11",
+        "municipio": "Triacastela",
+        "habitantes": "641",
+        "casos_14d": "0",
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-09-12",
+        "municipio": "Triacastela",
+        "habitantes": "641",
+        "casos_14d": "0",
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-09-13",
+        "municipio": "Triacastela",
+        "habitantes": "641",
+        "casos_14d": "0",
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-09-14",
+        "municipio": "Triacastela",
+        "habitantes": "641",
+        "casos_14d": "0",
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-09-15",
+        "municipio": "Triacastela",
+        "habitantes": "641",
+        "casos_14d": "0",
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-09-16",
+        "municipio": "Triacastela",
+        "habitantes": "641",
+        "casos_14d": "0",
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-09-17",
+        "municipio": "Triacastela",
+        "habitantes": "641",
+        "casos_14d": "0",
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-09-18",
+        "municipio": "Triacastela",
+        "habitantes": "641",
+        "casos_14d": "0",
+        "casos_7d": "0"
     }
 ]

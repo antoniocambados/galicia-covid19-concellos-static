@@ -2049,5 +2049,68 @@
         "habitantes": "693",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-10",
+        "municipio": "Punx\u00edn",
+        "habitantes": "693",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-11",
+        "municipio": "Punx\u00edn",
+        "habitantes": "693",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-12",
+        "municipio": "Punx\u00edn",
+        "habitantes": "693",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-13",
+        "municipio": "Punx\u00edn",
+        "habitantes": "693",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-14",
+        "municipio": "Punx\u00edn",
+        "habitantes": "693",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-09-15",
+        "municipio": "Punx\u00edn",
+        "habitantes": "693",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-09-16",
+        "municipio": "Punx\u00edn",
+        "habitantes": "693",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-09-17",
+        "municipio": "Punx\u00edn",
+        "habitantes": "693",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-09-18",
+        "municipio": "Punx\u00edn",
+        "habitantes": "693",
+        "casos_14d": null,
+        "casos_7d": "0"
     }
 ]

@@ -2049,5 +2049,68 @@
         "habitantes": "1224",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-10",
+        "municipio": "Castro Caldelas",
+        "habitantes": "1224",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-11",
+        "municipio": "Castro Caldelas",
+        "habitantes": "1224",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-12",
+        "municipio": "Castro Caldelas",
+        "habitantes": "1224",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-13",
+        "municipio": "Castro Caldelas",
+        "habitantes": "1224",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-14",
+        "municipio": "Castro Caldelas",
+        "habitantes": "1224",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-15",
+        "municipio": "Castro Caldelas",
+        "habitantes": "1224",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-16",
+        "municipio": "Castro Caldelas",
+        "habitantes": "1224",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-17",
+        "municipio": "Castro Caldelas",
+        "habitantes": "1224",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-09-18",
+        "municipio": "Castro Caldelas",
+        "habitantes": "1224",
+        "casos_14d": null,
+        "casos_7d": "0"
     }
 ]

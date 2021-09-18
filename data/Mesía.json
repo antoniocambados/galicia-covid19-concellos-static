@@ -2049,5 +2049,68 @@
         "habitantes": "2530",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-10",
+        "municipio": "Mes\u00eda",
+        "habitantes": "2530",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-09-11",
+        "municipio": "Mes\u00eda",
+        "habitantes": "2530",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-09-12",
+        "municipio": "Mes\u00eda",
+        "habitantes": "2530",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-09-13",
+        "municipio": "Mes\u00eda",
+        "habitantes": "2530",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-09-14",
+        "municipio": "Mes\u00eda",
+        "habitantes": "2530",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-09-15",
+        "municipio": "Mes\u00eda",
+        "habitantes": "2530",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-09-16",
+        "municipio": "Mes\u00eda",
+        "habitantes": "2530",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-09-17",
+        "municipio": "Mes\u00eda",
+        "habitantes": "2530",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-18",
+        "municipio": "Mes\u00eda",
+        "habitantes": "2530",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]

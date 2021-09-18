@@ -2049,5 +2049,68 @@
         "habitantes": "12674",
         "casos_14d": "43",
         "casos_7d": "13"
+    },
+    {
+        "fecha": "2021-09-10",
+        "municipio": "Ordes",
+        "habitantes": "12674",
+        "casos_14d": "31",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-11",
+        "municipio": "Ordes",
+        "habitantes": "12674",
+        "casos_14d": "30",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-12",
+        "municipio": "Ordes",
+        "habitantes": "12674",
+        "casos_14d": "26",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-13",
+        "municipio": "Ordes",
+        "habitantes": "12674",
+        "casos_14d": "24",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-14",
+        "municipio": "Ordes",
+        "habitantes": "12674",
+        "casos_14d": "22",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-15",
+        "municipio": "Ordes",
+        "habitantes": "12674",
+        "casos_14d": "18",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-16",
+        "municipio": "Ordes",
+        "habitantes": "12674",
+        "casos_14d": "15",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-17",
+        "municipio": "Ordes",
+        "habitantes": "12674",
+        "casos_14d": "10",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-18",
+        "municipio": "Ordes",
+        "habitantes": "12674",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]

@@ -2049,5 +2049,68 @@
         "habitantes": "17082",
         "casos_14d": "16",
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-10",
+        "municipio": "Poio",
+        "habitantes": "17082",
+        "casos_14d": "13",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-11",
+        "municipio": "Poio",
+        "habitantes": "17082",
+        "casos_14d": "12",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-12",
+        "municipio": "Poio",
+        "habitantes": "17082",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-13",
+        "municipio": "Poio",
+        "habitantes": "17082",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-14",
+        "municipio": "Poio",
+        "habitantes": "17082",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-15",
+        "municipio": "Poio",
+        "habitantes": "17082",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-16",
+        "municipio": "Poio",
+        "habitantes": "17082",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-17",
+        "municipio": "Poio",
+        "habitantes": "17082",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-18",
+        "municipio": "Poio",
+        "habitantes": "17082",
+        "casos_14d": null,
+        "casos_7d": "0"
     }
 ]

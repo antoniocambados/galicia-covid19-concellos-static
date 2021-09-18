@@ -2049,5 +2049,68 @@
         "habitantes": "1501",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-10",
+        "municipio": "R\u00e1bade",
+        "habitantes": "1501",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-09-11",
+        "municipio": "R\u00e1bade",
+        "habitantes": "1501",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-09-12",
+        "municipio": "R\u00e1bade",
+        "habitantes": "1501",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-09-13",
+        "municipio": "R\u00e1bade",
+        "habitantes": "1501",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-14",
+        "municipio": "R\u00e1bade",
+        "habitantes": "1501",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-15",
+        "municipio": "R\u00e1bade",
+        "habitantes": "1501",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-16",
+        "municipio": "R\u00e1bade",
+        "habitantes": "1501",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-17",
+        "municipio": "R\u00e1bade",
+        "habitantes": "1501",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-18",
+        "municipio": "R\u00e1bade",
+        "habitantes": "1501",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]

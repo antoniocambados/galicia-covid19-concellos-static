@@ -2049,5 +2049,68 @@
         "habitantes": "20479",
         "casos_14d": "32",
         "casos_7d": "14"
+    },
+    {
+        "fecha": "2021-09-10",
+        "municipio": "A Estrada",
+        "habitantes": "20479",
+        "casos_14d": "22",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-11",
+        "municipio": "A Estrada",
+        "habitantes": "20479",
+        "casos_14d": "22",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-12",
+        "municipio": "A Estrada",
+        "habitantes": "20479",
+        "casos_14d": "22",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-13",
+        "municipio": "A Estrada",
+        "habitantes": "20479",
+        "casos_14d": "22",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-14",
+        "municipio": "A Estrada",
+        "habitantes": "20479",
+        "casos_14d": "20",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-15",
+        "municipio": "A Estrada",
+        "habitantes": "20479",
+        "casos_14d": "19",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-16",
+        "municipio": "A Estrada",
+        "habitantes": "20479",
+        "casos_14d": "17",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-17",
+        "municipio": "A Estrada",
+        "habitantes": "20479",
+        "casos_14d": "14",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-18",
+        "municipio": "A Estrada",
+        "habitantes": "20479",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]

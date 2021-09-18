@@ -2049,5 +2049,68 @@
         "habitantes": "13330",
         "casos_14d": "25",
         "casos_7d": "12"
+    },
+    {
+        "fecha": "2021-09-10",
+        "municipio": "Sarria",
+        "habitantes": "13330",
+        "casos_14d": "22",
+        "casos_7d": "14"
+    },
+    {
+        "fecha": "2021-09-11",
+        "municipio": "Sarria",
+        "habitantes": "13330",
+        "casos_14d": "24",
+        "casos_7d": "14"
+    },
+    {
+        "fecha": "2021-09-12",
+        "municipio": "Sarria",
+        "habitantes": "13330",
+        "casos_14d": "22",
+        "casos_7d": "14"
+    },
+    {
+        "fecha": "2021-09-13",
+        "municipio": "Sarria",
+        "habitantes": "13330",
+        "casos_14d": "25",
+        "casos_7d": "10"
+    },
+    {
+        "fecha": "2021-09-14",
+        "municipio": "Sarria",
+        "habitantes": "13330",
+        "casos_14d": "25",
+        "casos_7d": "10"
+    },
+    {
+        "fecha": "2021-09-15",
+        "municipio": "Sarria",
+        "habitantes": "13330",
+        "casos_14d": "24",
+        "casos_7d": "11"
+    },
+    {
+        "fecha": "2021-09-16",
+        "municipio": "Sarria",
+        "habitantes": "13330",
+        "casos_14d": "21",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-17",
+        "municipio": "Sarria",
+        "habitantes": "13330",
+        "casos_14d": "23",
+        "casos_7d": "10"
+    },
+    {
+        "fecha": "2021-09-18",
+        "municipio": "Sarria",
+        "habitantes": "13330",
+        "casos_14d": "21",
+        "casos_7d": null
     }
 ]

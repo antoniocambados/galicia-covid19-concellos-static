@@ -2049,5 +2049,68 @@
         "habitantes": "5151",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-10",
+        "municipio": "Outeiro de Rei",
+        "habitantes": "5151",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-11",
+        "municipio": "Outeiro de Rei",
+        "habitantes": "5151",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-12",
+        "municipio": "Outeiro de Rei",
+        "habitantes": "5151",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-13",
+        "municipio": "Outeiro de Rei",
+        "habitantes": "5151",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-14",
+        "municipio": "Outeiro de Rei",
+        "habitantes": "5151",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-15",
+        "municipio": "Outeiro de Rei",
+        "habitantes": "5151",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-16",
+        "municipio": "Outeiro de Rei",
+        "habitantes": "5151",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-09-17",
+        "municipio": "Outeiro de Rei",
+        "habitantes": "5151",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-09-18",
+        "municipio": "Outeiro de Rei",
+        "habitantes": "5151",
+        "casos_14d": null,
+        "casos_7d": "0"
     }
 ]
