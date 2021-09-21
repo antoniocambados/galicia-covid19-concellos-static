@@ -2119,5 +2119,19 @@
         "habitantes": "1213",
         "casos_14d": "12",
         "casos_7d": "11"
+    },
+    {
+        "fecha": "2021-09-20",
+        "municipio": "Vilasantar",
+        "habitantes": "1213",
+        "casos_14d": "11",
+        "casos_7d": "11"
+    },
+    {
+        "fecha": "2021-09-21",
+        "municipio": "Vilasantar",
+        "habitantes": "1213",
+        "casos_14d": "11",
+        "casos_7d": null
     }
 ]

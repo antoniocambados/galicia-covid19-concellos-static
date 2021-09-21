@@ -2119,5 +2119,19 @@
         "habitantes": "18838",
         "casos_14d": "12",
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-20",
+        "municipio": "Boiro",
+        "habitantes": "18838",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-21",
+        "municipio": "Boiro",
+        "habitantes": "18838",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]

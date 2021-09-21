@@ -2119,5 +2119,19 @@
         "habitantes": "20479",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-20",
+        "municipio": "A Estrada",
+        "habitantes": "20479",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-21",
+        "municipio": "A Estrada",
+        "habitantes": "20479",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]

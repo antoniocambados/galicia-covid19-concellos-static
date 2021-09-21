@@ -2119,5 +2119,19 @@
         "habitantes": "17675",
         "casos_14d": "16",
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-20",
+        "municipio": "Nigr\u00e1n",
+        "habitantes": "17675",
+        "casos_14d": "15",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-21",
+        "municipio": "Nigr\u00e1n",
+        "habitantes": "17675",
+        "casos_14d": "14",
+        "casos_7d": null
     }
 ]

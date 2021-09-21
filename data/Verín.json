@@ -2119,5 +2119,19 @@
         "habitantes": "13723",
         "casos_14d": "10",
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-20",
+        "municipio": "Ver\u00edn",
+        "habitantes": "13723",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-21",
+        "municipio": "Ver\u00edn",
+        "habitantes": "13723",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]

@@ -2119,5 +2119,19 @@
         "habitantes": "9426",
         "casos_14d": null,
         "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-09-20",
+        "municipio": "Santa Comba",
+        "habitantes": "9426",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-09-21",
+        "municipio": "Santa Comba",
+        "habitantes": "9426",
+        "casos_14d": null,
+        "casos_7d": "0"
     }
 ]

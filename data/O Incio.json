@@ -2119,5 +2119,19 @@
         "habitantes": "1570",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-20",
+        "municipio": "O Incio",
+        "habitantes": "1570",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-09-21",
+        "municipio": "O Incio",
+        "habitantes": "1570",
+        "casos_14d": null,
+        "casos_7d": "0"
     }
 ]

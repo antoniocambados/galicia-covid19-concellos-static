@@ -2119,5 +2119,19 @@
         "habitantes": "1985",
         "casos_14d": null,
         "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-09-20",
+        "municipio": "Boimorto",
+        "habitantes": "1985",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-09-21",
+        "municipio": "Boimorto",
+        "habitantes": "1985",
+        "casos_14d": null,
+        "casos_7d": "0"
     }
 ]

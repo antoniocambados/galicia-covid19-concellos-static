@@ -2119,5 +2119,19 @@
         "habitantes": "1366",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-20",
+        "municipio": "O P\u00e1ramo",
+        "habitantes": "1366",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-21",
+        "municipio": "O P\u00e1ramo",
+        "habitantes": "1366",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]

@@ -2119,5 +2119,19 @@
         "habitantes": "8192",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-20",
+        "municipio": "Chantada",
+        "habitantes": "8192",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-21",
+        "municipio": "Chantada",
+        "habitantes": "8192",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]

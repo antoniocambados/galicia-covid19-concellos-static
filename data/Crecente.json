@@ -2119,5 +2119,19 @@
         "habitantes": "2012",
         "casos_14d": "0",
         "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-09-20",
+        "municipio": "Crecente",
+        "habitantes": "2012",
+        "casos_14d": "0",
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-09-21",
+        "municipio": "Crecente",
+        "habitantes": "2012",
+        "casos_14d": "0",
+        "casos_7d": "0"
     }
 ]

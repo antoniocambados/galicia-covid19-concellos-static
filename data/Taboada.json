@@ -2119,5 +2119,19 @@
         "habitantes": "2756",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-20",
+        "municipio": "Taboada",
+        "habitantes": "2756",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-21",
+        "municipio": "Taboada",
+        "habitantes": "2756",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]
