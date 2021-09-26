@@ -2154,5 +2154,12 @@
         "habitantes": "3957",
         "casos_14d": null,
         "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-09-25",
+        "municipio": "Carnota",
+        "habitantes": "3957",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]

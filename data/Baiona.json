@@ -2154,5 +2154,12 @@
         "habitantes": "12122",
         "casos_14d": null,
         "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-09-25",
+        "municipio": "Baiona",
+        "habitantes": "12122",
+        "casos_14d": null,
+        "casos_7d": "0"
     }
 ]
