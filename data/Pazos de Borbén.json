@@ -2161,5 +2161,54 @@
         "habitantes": "2999",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-26",
+        "municipio": "Pazos de Borb\u00e9n",
+        "habitantes": "2999",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-27",
+        "municipio": "Pazos de Borb\u00e9n",
+        "habitantes": "2999",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-28",
+        "municipio": "Pazos de Borb\u00e9n",
+        "habitantes": "2999",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-29",
+        "municipio": "Pazos de Borb\u00e9n",
+        "habitantes": "2999",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-30",
+        "municipio": "Pazos de Borb\u00e9n",
+        "habitantes": "2999",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-10-01",
+        "municipio": "Pazos de Borb\u00e9n",
+        "habitantes": "2999",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-10-02",
+        "municipio": "Pazos de Borb\u00e9n",
+        "habitantes": "2999",
+        "casos_14d": null,
+        "casos_7d": "0"
     }
 ]

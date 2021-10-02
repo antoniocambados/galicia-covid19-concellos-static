@@ -2161,5 +2161,54 @@
         "habitantes": "1758",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-26",
+        "municipio": "Sobrado",
+        "habitantes": "1758",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-27",
+        "municipio": "Sobrado",
+        "habitantes": "1758",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-28",
+        "municipio": "Sobrado",
+        "habitantes": "1758",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-29",
+        "municipio": "Sobrado",
+        "habitantes": "1758",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-30",
+        "municipio": "Sobrado",
+        "habitantes": "1758",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-10-01",
+        "municipio": "Sobrado",
+        "habitantes": "1758",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-10-02",
+        "municipio": "Sobrado",
+        "habitantes": "1758",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]

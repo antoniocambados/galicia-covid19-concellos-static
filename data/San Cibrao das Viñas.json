@@ -2161,5 +2161,54 @@
         "habitantes": "5405",
         "casos_14d": null,
         "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-09-26",
+        "municipio": "San Cibrao das Vi\u00f1as",
+        "habitantes": "5405",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-09-27",
+        "municipio": "San Cibrao das Vi\u00f1as",
+        "habitantes": "5405",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-09-28",
+        "municipio": "San Cibrao das Vi\u00f1as",
+        "habitantes": "5405",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-09-29",
+        "municipio": "San Cibrao das Vi\u00f1as",
+        "habitantes": "5405",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-09-30",
+        "municipio": "San Cibrao das Vi\u00f1as",
+        "habitantes": "5405",
+        "casos_14d": "0",
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-10-01",
+        "municipio": "San Cibrao das Vi\u00f1as",
+        "habitantes": "5405",
+        "casos_14d": "0",
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-10-02",
+        "municipio": "San Cibrao das Vi\u00f1as",
+        "habitantes": "5405",
+        "casos_14d": "0",
+        "casos_7d": "0"
     }
 ]

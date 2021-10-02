@@ -2161,5 +2161,54 @@
         "habitantes": "9171",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-26",
+        "municipio": "Porto do Son",
+        "habitantes": "9171",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-27",
+        "municipio": "Porto do Son",
+        "habitantes": "9171",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-28",
+        "municipio": "Porto do Son",
+        "habitantes": "9171",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-29",
+        "municipio": "Porto do Son",
+        "habitantes": "9171",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-09-30",
+        "municipio": "Porto do Son",
+        "habitantes": "9171",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-10-01",
+        "municipio": "Porto do Son",
+        "habitantes": "9171",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-10-02",
+        "municipio": "Porto do Son",
+        "habitantes": "9171",
+        "casos_14d": null,
+        "casos_7d": "0"
     }
 ]

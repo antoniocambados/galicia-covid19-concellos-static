@@ -2161,5 +2161,54 @@
         "habitantes": "295364",
         "casos_14d": "145",
         "casos_7d": "52"
+    },
+    {
+        "fecha": "2021-09-26",
+        "municipio": "Vigo",
+        "habitantes": "295364",
+        "casos_14d": "133",
+        "casos_7d": "45"
+    },
+    {
+        "fecha": "2021-09-27",
+        "municipio": "Vigo",
+        "habitantes": "295364",
+        "casos_14d": "131",
+        "casos_7d": "44"
+    },
+    {
+        "fecha": "2021-09-28",
+        "municipio": "Vigo",
+        "habitantes": "295364",
+        "casos_14d": "127",
+        "casos_7d": "41"
+    },
+    {
+        "fecha": "2021-09-29",
+        "municipio": "Vigo",
+        "habitantes": "295364",
+        "casos_14d": "126",
+        "casos_7d": "42"
+    },
+    {
+        "fecha": "2021-09-30",
+        "municipio": "Vigo",
+        "habitantes": "295364",
+        "casos_14d": "109",
+        "casos_7d": "39"
+    },
+    {
+        "fecha": "2021-10-01",
+        "municipio": "Vigo",
+        "habitantes": "295364",
+        "casos_14d": "102",
+        "casos_7d": "42"
+    },
+    {
+        "fecha": "2021-10-02",
+        "municipio": "Vigo",
+        "habitantes": "295364",
+        "casos_14d": "94",
+        "casos_7d": "42"
     }
 ]

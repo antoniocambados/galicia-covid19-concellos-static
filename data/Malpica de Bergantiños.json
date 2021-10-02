@@ -2161,5 +2161,54 @@
         "habitantes": "5391",
         "casos_14d": null,
         "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-09-26",
+        "municipio": "Malpica de Berganti\u00f1os",
+        "habitantes": "5391",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-09-27",
+        "municipio": "Malpica de Berganti\u00f1os",
+        "habitantes": "5391",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-09-28",
+        "municipio": "Malpica de Berganti\u00f1os",
+        "habitantes": "5391",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-09-29",
+        "municipio": "Malpica de Berganti\u00f1os",
+        "habitantes": "5391",
+        "casos_14d": "0",
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-09-30",
+        "municipio": "Malpica de Berganti\u00f1os",
+        "habitantes": "5391",
+        "casos_14d": "0",
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-10-01",
+        "municipio": "Malpica de Berganti\u00f1os",
+        "habitantes": "5391",
+        "casos_14d": "0",
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-10-02",
+        "municipio": "Malpica de Berganti\u00f1os",
+        "habitantes": "5391",
+        "casos_14d": "0",
+        "casos_7d": "0"
     }
 ]
