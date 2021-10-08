@@ -2210,5 +2210,40 @@
         "habitantes": "5502",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-10-03",
+        "municipio": "Ponteceso",
+        "habitantes": "5502",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-10-04",
+        "municipio": "Ponteceso",
+        "habitantes": "5502",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-10-05",
+        "municipio": "Ponteceso",
+        "habitantes": "5502",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-10-06",
+        "municipio": "Ponteceso",
+        "habitantes": "5502",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-10-07",
+        "municipio": "Ponteceso",
+        "habitantes": "5502",
+        "casos_14d": null,
+        "casos_7d": "0"
     }
 ]

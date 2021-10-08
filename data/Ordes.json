@@ -2210,5 +2210,40 @@
         "habitantes": "12674",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-10-03",
+        "municipio": "Ordes",
+        "habitantes": "12674",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-10-04",
+        "municipio": "Ordes",
+        "habitantes": "12674",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-10-05",
+        "municipio": "Ordes",
+        "habitantes": "12674",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-10-06",
+        "municipio": "Ordes",
+        "habitantes": "12674",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-10-07",
+        "municipio": "Ordes",
+        "habitantes": "12674",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]

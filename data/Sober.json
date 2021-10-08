@@ -2210,5 +2210,40 @@
         "habitantes": "2312",
         "casos_14d": null,
         "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-10-03",
+        "municipio": "Sober",
+        "habitantes": "2312",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-10-04",
+        "municipio": "Sober",
+        "habitantes": "2312",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-10-05",
+        "municipio": "Sober",
+        "habitantes": "2312",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-10-06",
+        "municipio": "Sober",
+        "habitantes": "2312",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-10-07",
+        "municipio": "Sober",
+        "habitantes": "2312",
+        "casos_14d": null,
+        "casos_7d": "0"
     }
 ]

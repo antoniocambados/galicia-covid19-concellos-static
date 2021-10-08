@@ -2210,5 +2210,40 @@
         "habitantes": "1688",
         "casos_14d": null,
         "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-10-03",
+        "municipio": "Alfoz",
+        "habitantes": "1688",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-10-04",
+        "municipio": "Alfoz",
+        "habitantes": "1688",
+        "casos_14d": "0",
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-10-05",
+        "municipio": "Alfoz",
+        "habitantes": "1688",
+        "casos_14d": "0",
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-10-06",
+        "municipio": "Alfoz",
+        "habitantes": "1688",
+        "casos_14d": "0",
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-10-07",
+        "municipio": "Alfoz",
+        "habitantes": "1688",
+        "casos_14d": "0",
+        "casos_7d": "0"
     }
 ]

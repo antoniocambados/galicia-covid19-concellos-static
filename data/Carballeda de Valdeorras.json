@@ -2210,5 +2210,40 @@
         "habitantes": "1545",
         "casos_14d": null,
         "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-10-03",
+        "municipio": "Carballeda de Valdeorras",
+        "habitantes": "1545",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-10-04",
+        "municipio": "Carballeda de Valdeorras",
+        "habitantes": "1545",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-10-05",
+        "municipio": "Carballeda de Valdeorras",
+        "habitantes": "1545",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-10-06",
+        "municipio": "Carballeda de Valdeorras",
+        "habitantes": "1545",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-10-07",
+        "municipio": "Carballeda de Valdeorras",
+        "habitantes": "1545",
+        "casos_14d": null,
+        "casos_7d": "0"
     }
 ]

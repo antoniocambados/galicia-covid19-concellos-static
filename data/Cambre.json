@@ -2210,5 +2210,40 @@
         "habitantes": "24648",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-10-03",
+        "municipio": "Cambre",
+        "habitantes": "24648",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-10-04",
+        "municipio": "Cambre",
+        "habitantes": "24648",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-10-05",
+        "municipio": "Cambre",
+        "habitantes": "24648",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-10-06",
+        "municipio": "Cambre",
+        "habitantes": "24648",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-10-07",
+        "municipio": "Cambre",
+        "habitantes": "24648",
+        "casos_14d": "11",
+        "casos_7d": "10"
     }
 ]
