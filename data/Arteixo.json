@@ -2245,5 +2245,33 @@
         "habitantes": "32262",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-10-08",
+        "municipio": "Arteixo",
+        "habitantes": "32262",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-10-09",
+        "municipio": "Arteixo",
+        "habitantes": "32262",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-10-10",
+        "municipio": "Arteixo",
+        "habitantes": "32262",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-10-11",
+        "municipio": "Arteixo",
+        "habitantes": "32262",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]

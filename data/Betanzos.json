@@ -2245,5 +2245,33 @@
         "habitantes": "12959",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-10-08",
+        "municipio": "Betanzos",
+        "habitantes": "12959",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-10-09",
+        "municipio": "Betanzos",
+        "habitantes": "12959",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-10-10",
+        "municipio": "Betanzos",
+        "habitantes": "12959",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-10-11",
+        "municipio": "Betanzos",
+        "habitantes": "12959",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]
