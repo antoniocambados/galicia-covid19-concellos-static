@@ -2273,5 +2273,33 @@
         "habitantes": "1795",
         "casos_14d": null,
         "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-10-12",
+        "municipio": "Avi\u00f3n",
+        "habitantes": "1795",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-10-13",
+        "municipio": "Avi\u00f3n",
+        "habitantes": "1795",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-10-14",
+        "municipio": "Avi\u00f3n",
+        "habitantes": "1795",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-10-15",
+        "municipio": "Avi\u00f3n",
+        "habitantes": "1795",
+        "casos_14d": "0",
+        "casos_7d": "0"
     }
 ]

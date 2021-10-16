@@ -2273,5 +2273,33 @@
         "habitantes": "18433",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-10-12",
+        "municipio": "Monforte de Lemos",
+        "habitantes": "18433",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-10-13",
+        "municipio": "Monforte de Lemos",
+        "habitantes": "18433",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-10-14",
+        "municipio": "Monforte de Lemos",
+        "habitantes": "18433",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-10-15",
+        "municipio": "Monforte de Lemos",
+        "habitantes": "18433",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]

@@ -2273,5 +2273,33 @@
         "habitantes": "19399",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-10-12",
+        "municipio": "Moa\u00f1a",
+        "habitantes": "19399",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-10-13",
+        "municipio": "Moa\u00f1a",
+        "habitantes": "19399",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-10-14",
+        "municipio": "Moa\u00f1a",
+        "habitantes": "19399",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-10-15",
+        "municipio": "Moa\u00f1a",
+        "habitantes": "19399",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]

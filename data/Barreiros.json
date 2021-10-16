@@ -2273,5 +2273,33 @@
         "habitantes": "2934",
         "casos_14d": null,
         "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-10-12",
+        "municipio": "Barreiros",
+        "habitantes": "2934",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-10-13",
+        "municipio": "Barreiros",
+        "habitantes": "2934",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-10-14",
+        "municipio": "Barreiros",
+        "habitantes": "2934",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-10-15",
+        "municipio": "Barreiros",
+        "habitantes": "2934",
+        "casos_14d": null,
+        "casos_7d": "0"
     }
 ]

@@ -2273,5 +2273,33 @@
         "habitantes": "1570",
         "casos_14d": null,
         "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-10-12",
+        "municipio": "O Incio",
+        "habitantes": "1570",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-10-13",
+        "municipio": "O Incio",
+        "habitantes": "1570",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-10-14",
+        "municipio": "O Incio",
+        "habitantes": "1570",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-10-15",
+        "municipio": "O Incio",
+        "habitantes": "1570",
+        "casos_14d": null,
+        "casos_7d": "0"
     }
 ]

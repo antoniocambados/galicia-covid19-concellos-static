@@ -2273,5 +2273,33 @@
         "habitantes": "39080",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-10-12",
+        "municipio": "Nar\u00f3n",
+        "habitantes": "39080",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-10-13",
+        "municipio": "Nar\u00f3n",
+        "habitantes": "39080",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-10-14",
+        "municipio": "Nar\u00f3n",
+        "habitantes": "39080",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-10-15",
+        "municipio": "Nar\u00f3n",
+        "habitantes": "39080",
+        "casos_14d": null,
+        "casos_7d": "0"
     }
 ]

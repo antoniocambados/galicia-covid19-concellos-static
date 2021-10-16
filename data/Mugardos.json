@@ -2273,5 +2273,33 @@
         "habitantes": "5245",
         "casos_14d": "0",
         "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-10-12",
+        "municipio": "Mugardos",
+        "habitantes": "5245",
+        "casos_14d": "0",
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-10-13",
+        "municipio": "Mugardos",
+        "habitantes": "5245",
+        "casos_14d": "0",
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-10-14",
+        "municipio": "Mugardos",
+        "habitantes": "5245",
+        "casos_14d": "0",
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-10-15",
+        "municipio": "Mugardos",
+        "habitantes": "5245",
+        "casos_14d": "0",
+        "casos_7d": "0"
     }
 ]

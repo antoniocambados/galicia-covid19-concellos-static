@@ -2273,5 +2273,33 @@
         "habitantes": "9338",
         "casos_14d": null,
         "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-10-12",
+        "municipio": "A Pobra do Carami\u00f1al",
+        "habitantes": "9338",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-10-13",
+        "municipio": "A Pobra do Carami\u00f1al",
+        "habitantes": "9338",
+        "casos_14d": "0",
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-10-14",
+        "municipio": "A Pobra do Carami\u00f1al",
+        "habitantes": "9338",
+        "casos_14d": "0",
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-10-15",
+        "municipio": "A Pobra do Carami\u00f1al",
+        "habitantes": "9338",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]
