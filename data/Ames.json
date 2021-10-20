@@ -2301,5 +2301,40 @@
         "habitantes": "31793",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-10-16",
+        "municipio": "Ames",
+        "habitantes": "31793",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-10-17",
+        "municipio": "Ames",
+        "habitantes": "31793",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-10-18",
+        "municipio": "Ames",
+        "habitantes": "31793",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-10-19",
+        "municipio": "Ames",
+        "habitantes": "31793",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-10-20",
+        "municipio": "Ames",
+        "habitantes": "31793",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]

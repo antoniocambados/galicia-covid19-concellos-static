@@ -2301,5 +2301,40 @@
         "habitantes": "2690",
         "casos_14d": "0",
         "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-10-16",
+        "municipio": "Gunt\u00edn",
+        "habitantes": "2690",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-10-17",
+        "municipio": "Gunt\u00edn",
+        "habitantes": "2690",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-10-18",
+        "municipio": "Gunt\u00edn",
+        "habitantes": "2690",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-10-19",
+        "municipio": "Gunt\u00edn",
+        "habitantes": "2690",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-10-20",
+        "municipio": "Gunt\u00edn",
+        "habitantes": "2690",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]

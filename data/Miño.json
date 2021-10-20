@@ -2301,5 +2301,40 @@
         "habitantes": "6200",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-10-16",
+        "municipio": "Mi\u00f1o",
+        "habitantes": "6200",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-10-17",
+        "municipio": "Mi\u00f1o",
+        "habitantes": "6200",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-10-18",
+        "municipio": "Mi\u00f1o",
+        "habitantes": "6200",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-10-19",
+        "municipio": "Mi\u00f1o",
+        "habitantes": "6200",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-10-20",
+        "municipio": "Mi\u00f1o",
+        "habitantes": "6200",
+        "casos_14d": null,
+        "casos_7d": "0"
     }
 ]

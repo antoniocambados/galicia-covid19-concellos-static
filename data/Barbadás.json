@@ -2301,5 +2301,40 @@
         "habitantes": "11037",
         "casos_14d": null,
         "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-10-16",
+        "municipio": "Barbad\u00e1s",
+        "habitantes": "11037",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-10-17",
+        "municipio": "Barbad\u00e1s",
+        "habitantes": "11037",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-10-18",
+        "municipio": "Barbad\u00e1s",
+        "habitantes": "11037",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-10-19",
+        "municipio": "Barbad\u00e1s",
+        "habitantes": "11037",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-10-20",
+        "municipio": "Barbad\u00e1s",
+        "habitantes": "11037",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]

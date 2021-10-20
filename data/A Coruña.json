@@ -2301,5 +2301,40 @@
         "habitantes": "245711",
         "casos_14d": "59",
         "casos_7d": "16"
+    },
+    {
+        "fecha": "2021-10-16",
+        "municipio": "A Coru\u00f1a",
+        "habitantes": "245711",
+        "casos_14d": "48",
+        "casos_7d": "20"
+    },
+    {
+        "fecha": "2021-10-17",
+        "municipio": "A Coru\u00f1a",
+        "habitantes": "245711",
+        "casos_14d": "42",
+        "casos_7d": "18"
+    },
+    {
+        "fecha": "2021-10-18",
+        "municipio": "A Coru\u00f1a",
+        "habitantes": "245711",
+        "casos_14d": "43",
+        "casos_7d": "19"
+    },
+    {
+        "fecha": "2021-10-19",
+        "municipio": "A Coru\u00f1a",
+        "habitantes": "245711",
+        "casos_14d": "42",
+        "casos_7d": "20"
+    },
+    {
+        "fecha": "2021-10-20",
+        "municipio": "A Coru\u00f1a",
+        "habitantes": "245711",
+        "casos_14d": "44",
+        "casos_7d": "21"
     }
 ]

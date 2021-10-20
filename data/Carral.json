@@ -2301,5 +2301,40 @@
         "habitantes": "6408",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-10-16",
+        "municipio": "Carral",
+        "habitantes": "6408",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-10-17",
+        "municipio": "Carral",
+        "habitantes": "6408",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-10-18",
+        "municipio": "Carral",
+        "habitantes": "6408",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-10-19",
+        "municipio": "Carral",
+        "habitantes": "6408",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-10-20",
+        "municipio": "Carral",
+        "habitantes": "6408",
+        "casos_14d": null,
+        "casos_7d": "0"
     }
 ]

@@ -2301,5 +2301,40 @@
         "habitantes": "4657",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-10-16",
+        "municipio": "Mux\u00eda",
+        "habitantes": "4657",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-10-17",
+        "municipio": "Mux\u00eda",
+        "habitantes": "4657",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-10-18",
+        "municipio": "Mux\u00eda",
+        "habitantes": "4657",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-10-19",
+        "municipio": "Mux\u00eda",
+        "habitantes": "4657",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-10-20",
+        "municipio": "Mux\u00eda",
+        "habitantes": "4657",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]

@@ -2301,5 +2301,40 @@
         "habitantes": "97260",
         "casos_14d": "24",
         "casos_7d": "19"
+    },
+    {
+        "fecha": "2021-10-16",
+        "municipio": "Santiago de Compostela",
+        "habitantes": "97260",
+        "casos_14d": "27",
+        "casos_7d": "22"
+    },
+    {
+        "fecha": "2021-10-17",
+        "municipio": "Santiago de Compostela",
+        "habitantes": "97260",
+        "casos_14d": "28",
+        "casos_7d": "22"
+    },
+    {
+        "fecha": "2021-10-18",
+        "municipio": "Santiago de Compostela",
+        "habitantes": "97260",
+        "casos_14d": "27",
+        "casos_7d": "20"
+    },
+    {
+        "fecha": "2021-10-19",
+        "municipio": "Santiago de Compostela",
+        "habitantes": "97260",
+        "casos_14d": "27",
+        "casos_7d": "16"
+    },
+    {
+        "fecha": "2021-10-20",
+        "municipio": "Santiago de Compostela",
+        "habitantes": "97260",
+        "casos_14d": "30",
+        "casos_7d": "17"
     }
 ]
