@@ -2343,5 +2343,26 @@
         "habitantes": "1018",
         "casos_14d": "0",
         "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-10-22",
+        "municipio": "Ourol",
+        "habitantes": "1018",
+        "casos_14d": "0",
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-10-23",
+        "municipio": "Ourol",
+        "habitantes": "1018",
+        "casos_14d": "0",
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-10-24",
+        "municipio": "Ourol",
+        "habitantes": "1018",
+        "casos_14d": "0",
+        "casos_7d": "0"
     }
 ]

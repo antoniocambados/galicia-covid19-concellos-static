@@ -2343,5 +2343,26 @@
         "habitantes": "1241",
         "casos_14d": "0",
         "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-10-22",
+        "municipio": "Baleira",
+        "habitantes": "1241",
+        "casos_14d": "0",
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-10-23",
+        "municipio": "Baleira",
+        "habitantes": "1241",
+        "casos_14d": "0",
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-10-24",
+        "municipio": "Baleira",
+        "habitantes": "1241",
+        "casos_14d": "0",
+        "casos_7d": "0"
     }
 ]

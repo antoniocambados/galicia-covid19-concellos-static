@@ -2343,5 +2343,26 @@
         "habitantes": "1232",
         "casos_14d": "0",
         "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-10-22",
+        "municipio": "A Capela",
+        "habitantes": "1232",
+        "casos_14d": "0",
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-10-23",
+        "municipio": "A Capela",
+        "habitantes": "1232",
+        "casos_14d": "0",
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-10-24",
+        "municipio": "A Capela",
+        "habitantes": "1232",
+        "casos_14d": "0",
+        "casos_7d": "0"
     }
 ]
