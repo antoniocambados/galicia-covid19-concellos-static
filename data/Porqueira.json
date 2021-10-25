@@ -2364,5 +2364,12 @@
         "habitantes": "815",
         "casos_14d": null,
         "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-10-25",
+        "municipio": "Porqueira",
+        "habitantes": "815",
+        "casos_14d": null,
+        "casos_7d": "0"
     }
 ]
