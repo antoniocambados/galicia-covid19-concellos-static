@@ -2413,5 +2413,26 @@
         "habitantes": "13499",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-11-01",
+        "municipio": "Tomi\u00f1o",
+        "habitantes": "13499",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-11-02",
+        "municipio": "Tomi\u00f1o",
+        "habitantes": "13499",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-11-03",
+        "municipio": "Tomi\u00f1o",
+        "habitantes": "13499",
+        "casos_14d": null,
+        "casos_7d": "0"
     }
 ]

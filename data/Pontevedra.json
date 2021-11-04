@@ -2413,5 +2413,26 @@
         "habitantes": "83029",
         "casos_14d": "17",
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-11-01",
+        "municipio": "Pontevedra",
+        "habitantes": "83029",
+        "casos_14d": "13",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-11-02",
+        "municipio": "Pontevedra",
+        "habitantes": "83029",
+        "casos_14d": "14",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-11-03",
+        "municipio": "Pontevedra",
+        "habitantes": "83029",
+        "casos_14d": "15",
+        "casos_7d": null
     }
 ]

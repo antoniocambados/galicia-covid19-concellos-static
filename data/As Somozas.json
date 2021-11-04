@@ -2413,5 +2413,26 @@
         "habitantes": "1098",
         "casos_14d": "0",
         "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-11-01",
+        "municipio": "As Somozas",
+        "habitantes": "1098",
+        "casos_14d": "0",
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-11-02",
+        "municipio": "As Somozas",
+        "habitantes": "1098",
+        "casos_14d": "0",
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-11-03",
+        "municipio": "As Somozas",
+        "habitantes": "1098",
+        "casos_14d": "0",
+        "casos_7d": "0"
     }
 ]

@@ -2413,5 +2413,26 @@
         "habitantes": "1568",
         "casos_14d": null,
         "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-11-01",
+        "municipio": "Leiro",
+        "habitantes": "1568",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-11-02",
+        "municipio": "Leiro",
+        "habitantes": "1568",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-11-03",
+        "municipio": "Leiro",
+        "habitantes": "1568",
+        "casos_14d": null,
+        "casos_7d": "0"
     }
 ]
