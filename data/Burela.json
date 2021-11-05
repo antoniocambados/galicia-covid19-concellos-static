@@ -2434,5 +2434,19 @@
         "habitantes": "9588",
         "casos_14d": null,
         "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-11-04",
+        "municipio": "Burela",
+        "habitantes": "9588",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-11-05",
+        "municipio": "Burela",
+        "habitantes": "9588",
+        "casos_14d": null,
+        "casos_7d": "0"
     }
 ]

@@ -2434,5 +2434,19 @@
         "habitantes": "295364",
         "casos_14d": "38",
         "casos_7d": "17"
+    },
+    {
+        "fecha": "2021-11-04",
+        "municipio": "Vigo",
+        "habitantes": "295364",
+        "casos_14d": "38",
+        "casos_7d": "20"
+    },
+    {
+        "fecha": "2021-11-05",
+        "municipio": "Vigo",
+        "habitantes": "295364",
+        "casos_14d": "48",
+        "casos_7d": "24"
     }
 ]

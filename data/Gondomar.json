@@ -2434,5 +2434,19 @@
         "habitantes": "14286",
         "casos_14d": null,
         "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-11-04",
+        "municipio": "Gondomar",
+        "habitantes": "14286",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-11-05",
+        "municipio": "Gondomar",
+        "habitantes": "14286",
+        "casos_14d": null,
+        "casos_7d": "0"
     }
 ]

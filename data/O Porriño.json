@@ -2434,5 +2434,19 @@
         "habitantes": "19848",
         "casos_14d": "0",
         "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-11-04",
+        "municipio": "O Porri\u00f1o",
+        "habitantes": "19848",
+        "casos_14d": "0",
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-11-05",
+        "municipio": "O Porri\u00f1o",
+        "habitantes": "19848",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]

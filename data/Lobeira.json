@@ -2434,5 +2434,19 @@
         "habitantes": "798",
         "casos_14d": null,
         "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-11-04",
+        "municipio": "Lobeira",
+        "habitantes": "798",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-11-05",
+        "municipio": "Lobeira",
+        "habitantes": "798",
+        "casos_14d": null,
+        "casos_7d": "0"
     }
 ]

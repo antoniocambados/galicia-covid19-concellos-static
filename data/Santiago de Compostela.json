@@ -2434,5 +2434,19 @@
         "habitantes": "97260",
         "casos_14d": "15",
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-11-04",
+        "municipio": "Santiago de Compostela",
+        "habitantes": "97260",
+        "casos_14d": "14",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-11-05",
+        "municipio": "Santiago de Compostela",
+        "habitantes": "97260",
+        "casos_14d": "15",
+        "casos_7d": null
     }
 ]
