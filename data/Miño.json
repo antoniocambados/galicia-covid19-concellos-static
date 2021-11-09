@@ -2448,5 +2448,26 @@
         "habitantes": "6200",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-11-06",
+        "municipio": "Mi\u00f1o",
+        "habitantes": "6200",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-11-07",
+        "municipio": "Mi\u00f1o",
+        "habitantes": "6200",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-11-08",
+        "municipio": "Mi\u00f1o",
+        "habitantes": "6200",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]
