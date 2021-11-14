@@ -2469,5 +2469,40 @@
         "habitantes": "7500",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-11-09",
+        "municipio": "Oroso",
+        "habitantes": "7500",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-11-10",
+        "municipio": "Oroso",
+        "habitantes": "7500",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-11-11",
+        "municipio": "Oroso",
+        "habitantes": "7500",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-11-12",
+        "municipio": "Oroso",
+        "habitantes": "7500",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-11-13",
+        "municipio": "Oroso",
+        "habitantes": "7500",
+        "casos_14d": null,
+        "casos_7d": "0"
     }
 ]

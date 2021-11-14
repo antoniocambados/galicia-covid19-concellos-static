@@ -2469,5 +2469,40 @@
         "habitantes": "24319",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-11-09",
+        "municipio": "Mar\u00edn",
+        "habitantes": "24319",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-11-10",
+        "municipio": "Mar\u00edn",
+        "habitantes": "24319",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-11-11",
+        "municipio": "Mar\u00edn",
+        "habitantes": "24319",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-11-12",
+        "municipio": "Mar\u00edn",
+        "habitantes": "24319",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-11-13",
+        "municipio": "Mar\u00edn",
+        "habitantes": "24319",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]

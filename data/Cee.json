@@ -2469,5 +2469,40 @@
         "habitantes": "7546",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-11-09",
+        "municipio": "Cee",
+        "habitantes": "7546",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-11-10",
+        "municipio": "Cee",
+        "habitantes": "7546",
+        "casos_14d": "10",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-11-11",
+        "municipio": "Cee",
+        "habitantes": "7546",
+        "casos_14d": "10",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-11-12",
+        "municipio": "Cee",
+        "habitantes": "7546",
+        "casos_14d": "10",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-11-13",
+        "municipio": "Cee",
+        "habitantes": "7546",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]

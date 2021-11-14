@@ -2469,5 +2469,40 @@
         "habitantes": "1375",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-11-09",
+        "municipio": "Xunqueira de Amb\u00eda",
+        "habitantes": "1375",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-11-10",
+        "municipio": "Xunqueira de Amb\u00eda",
+        "habitantes": "1375",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-11-11",
+        "municipio": "Xunqueira de Amb\u00eda",
+        "habitantes": "1375",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-11-12",
+        "municipio": "Xunqueira de Amb\u00eda",
+        "habitantes": "1375",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-11-13",
+        "municipio": "Xunqueira de Amb\u00eda",
+        "habitantes": "1375",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]

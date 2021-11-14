@@ -2469,5 +2469,40 @@
         "habitantes": "1502",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-11-09",
+        "municipio": "Mu\u00ed\u00f1os",
+        "habitantes": "1502",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-11-10",
+        "municipio": "Mu\u00ed\u00f1os",
+        "habitantes": "1502",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-11-11",
+        "municipio": "Mu\u00ed\u00f1os",
+        "habitantes": "1502",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-11-12",
+        "municipio": "Mu\u00ed\u00f1os",
+        "habitantes": "1502",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-11-13",
+        "municipio": "Mu\u00ed\u00f1os",
+        "habitantes": "1502",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]

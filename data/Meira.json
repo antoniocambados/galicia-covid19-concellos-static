@@ -2469,5 +2469,40 @@
         "habitantes": "1725",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-11-09",
+        "municipio": "Meira",
+        "habitantes": "1725",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-11-10",
+        "municipio": "Meira",
+        "habitantes": "1725",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-11-11",
+        "municipio": "Meira",
+        "habitantes": "1725",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-11-12",
+        "municipio": "Meira",
+        "habitantes": "1725",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-11-13",
+        "municipio": "Meira",
+        "habitantes": "1725",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]

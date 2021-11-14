@@ -2469,5 +2469,40 @@
         "habitantes": "12009",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-11-09",
+        "municipio": "Bueu",
+        "habitantes": "12009",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-11-10",
+        "municipio": "Bueu",
+        "habitantes": "12009",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-11-11",
+        "municipio": "Bueu",
+        "habitantes": "12009",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-11-12",
+        "municipio": "Bueu",
+        "habitantes": "12009",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-11-13",
+        "municipio": "Bueu",
+        "habitantes": "12009",
+        "casos_14d": null,
+        "casos_7d": "0"
     }
 ]

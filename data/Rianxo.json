@@ -2469,5 +2469,40 @@
         "habitantes": "11033",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-11-09",
+        "municipio": "Rianxo",
+        "habitantes": "11033",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-11-10",
+        "municipio": "Rianxo",
+        "habitantes": "11033",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-11-11",
+        "municipio": "Rianxo",
+        "habitantes": "11033",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-11-12",
+        "municipio": "Rianxo",
+        "habitantes": "11033",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-11-13",
+        "municipio": "Rianxo",
+        "habitantes": "11033",
+        "casos_14d": null,
+        "casos_7d": "0"
     }
 ]

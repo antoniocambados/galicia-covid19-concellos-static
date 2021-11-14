@@ -2469,5 +2469,40 @@
         "habitantes": "3680",
         "casos_14d": "0",
         "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-11-09",
+        "municipio": "Barro",
+        "habitantes": "3680",
+        "casos_14d": "0",
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-11-10",
+        "municipio": "Barro",
+        "habitantes": "3680",
+        "casos_14d": "0",
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-11-11",
+        "municipio": "Barro",
+        "habitantes": "3680",
+        "casos_14d": "0",
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-11-12",
+        "municipio": "Barro",
+        "habitantes": "3680",
+        "casos_14d": "0",
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-11-13",
+        "municipio": "Barro",
+        "habitantes": "3680",
+        "casos_14d": "0",
+        "casos_7d": "0"
     }
 ]
