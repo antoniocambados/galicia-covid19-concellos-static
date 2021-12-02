@@ -2504,5 +2504,131 @@
         "habitantes": "83029",
         "casos_14d": "27",
         "casos_7d": "15"
+    },
+    {
+        "fecha": "2021-11-14",
+        "municipio": "Pontevedra",
+        "habitantes": "83029",
+        "casos_14d": "32",
+        "casos_7d": "17"
+    },
+    {
+        "fecha": "2021-11-15",
+        "municipio": "Pontevedra",
+        "habitantes": "83029",
+        "casos_14d": "40",
+        "casos_7d": "25"
+    },
+    {
+        "fecha": "2021-11-16",
+        "municipio": "Pontevedra",
+        "habitantes": "83029",
+        "casos_14d": "42",
+        "casos_7d": "28"
+    },
+    {
+        "fecha": "2021-11-17",
+        "municipio": "Pontevedra",
+        "habitantes": "83029",
+        "casos_14d": "46",
+        "casos_7d": "31"
+    },
+    {
+        "fecha": "2021-11-18",
+        "municipio": "Pontevedra",
+        "habitantes": "83029",
+        "casos_14d": "56",
+        "casos_7d": "38"
+    },
+    {
+        "fecha": "2021-11-19",
+        "municipio": "Pontevedra",
+        "habitantes": "83029",
+        "casos_14d": "61",
+        "casos_7d": "45"
+    },
+    {
+        "fecha": "2021-11-20",
+        "municipio": "Pontevedra",
+        "habitantes": "83029",
+        "casos_14d": "65",
+        "casos_7d": "50"
+    },
+    {
+        "fecha": "2021-11-21",
+        "municipio": "Pontevedra",
+        "habitantes": "83029",
+        "casos_14d": "65",
+        "casos_7d": "48"
+    },
+    {
+        "fecha": "2021-11-22",
+        "municipio": "Pontevedra",
+        "habitantes": "83029",
+        "casos_14d": "71",
+        "casos_7d": "46"
+    },
+    {
+        "fecha": "2021-11-23",
+        "municipio": "Pontevedra",
+        "habitantes": "83029",
+        "casos_14d": "77",
+        "casos_7d": "49"
+    },
+    {
+        "fecha": "2021-11-24",
+        "municipio": "Pontevedra",
+        "habitantes": "83029",
+        "casos_14d": "84",
+        "casos_7d": "54"
+    },
+    {
+        "fecha": "2021-11-25",
+        "municipio": "Pontevedra",
+        "habitantes": "83029",
+        "casos_14d": "86",
+        "casos_7d": "49"
+    },
+    {
+        "fecha": "2021-11-26",
+        "municipio": "Pontevedra",
+        "habitantes": "83029",
+        "casos_14d": "95",
+        "casos_7d": "51"
+    },
+    {
+        "fecha": "2021-11-27",
+        "municipio": "Pontevedra",
+        "habitantes": "83029",
+        "casos_14d": "111",
+        "casos_7d": "62"
+    },
+    {
+        "fecha": "2021-11-28",
+        "municipio": "Pontevedra",
+        "habitantes": "83029",
+        "casos_14d": "116",
+        "casos_7d": "68"
+    },
+    {
+        "fecha": "2021-11-29",
+        "municipio": "Pontevedra",
+        "habitantes": "83029",
+        "casos_14d": "114",
+        "casos_7d": "68"
+    },
+    {
+        "fecha": "2021-11-30",
+        "municipio": "Pontevedra",
+        "habitantes": "83029",
+        "casos_14d": "134",
+        "casos_7d": "85"
+    },
+    {
+        "fecha": "2021-12-01",
+        "municipio": "Pontevedra",
+        "habitantes": "83029",
+        "casos_14d": "154",
+        "casos_7d": "100"
     }
 ]

@@ -2504,5 +2504,131 @@
         "habitantes": "22877",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-11-14",
+        "municipio": "Ponteareas",
+        "habitantes": "22877",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-11-15",
+        "municipio": "Ponteareas",
+        "habitantes": "22877",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-11-16",
+        "municipio": "Ponteareas",
+        "habitantes": "22877",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-11-17",
+        "municipio": "Ponteareas",
+        "habitantes": "22877",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-11-18",
+        "municipio": "Ponteareas",
+        "habitantes": "22877",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-11-19",
+        "municipio": "Ponteareas",
+        "habitantes": "22877",
+        "casos_14d": "13",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-11-20",
+        "municipio": "Ponteareas",
+        "habitantes": "22877",
+        "casos_14d": "16",
+        "casos_7d": "13"
+    },
+    {
+        "fecha": "2021-11-21",
+        "municipio": "Ponteareas",
+        "habitantes": "22877",
+        "casos_14d": "17",
+        "casos_7d": "13"
+    },
+    {
+        "fecha": "2021-11-22",
+        "municipio": "Ponteareas",
+        "habitantes": "22877",
+        "casos_14d": "18",
+        "casos_7d": "13"
+    },
+    {
+        "fecha": "2021-11-23",
+        "municipio": "Ponteareas",
+        "habitantes": "22877",
+        "casos_14d": "17",
+        "casos_7d": "12"
+    },
+    {
+        "fecha": "2021-11-24",
+        "municipio": "Ponteareas",
+        "habitantes": "22877",
+        "casos_14d": "23",
+        "casos_7d": "19"
+    },
+    {
+        "fecha": "2021-11-25",
+        "municipio": "Ponteareas",
+        "habitantes": "22877",
+        "casos_14d": "25",
+        "casos_7d": "21"
+    },
+    {
+        "fecha": "2021-11-26",
+        "municipio": "Ponteareas",
+        "habitantes": "22877",
+        "casos_14d": "28",
+        "casos_7d": "19"
+    },
+    {
+        "fecha": "2021-11-27",
+        "municipio": "Ponteareas",
+        "habitantes": "22877",
+        "casos_14d": "34",
+        "casos_7d": "21"
+    },
+    {
+        "fecha": "2021-11-28",
+        "municipio": "Ponteareas",
+        "habitantes": "22877",
+        "casos_14d": "37",
+        "casos_7d": "24"
+    },
+    {
+        "fecha": "2021-11-29",
+        "municipio": "Ponteareas",
+        "habitantes": "22877",
+        "casos_14d": "39",
+        "casos_7d": "26"
+    },
+    {
+        "fecha": "2021-11-30",
+        "municipio": "Ponteareas",
+        "habitantes": "22877",
+        "casos_14d": "40",
+        "casos_7d": "28"
+    },
+    {
+        "fecha": "2021-12-01",
+        "municipio": "Ponteareas",
+        "habitantes": "22877",
+        "casos_14d": "51",
+        "casos_7d": "32"
     }
 ]

@@ -2504,5 +2504,131 @@
         "habitantes": "1023",
         "casos_14d": "0",
         "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-11-14",
+        "municipio": "A Mezquita",
+        "habitantes": "1023",
+        "casos_14d": "0",
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-11-15",
+        "municipio": "A Mezquita",
+        "habitantes": "1023",
+        "casos_14d": "0",
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-11-16",
+        "municipio": "A Mezquita",
+        "habitantes": "1023",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-11-17",
+        "municipio": "A Mezquita",
+        "habitantes": "1023",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-11-18",
+        "municipio": "A Mezquita",
+        "habitantes": "1023",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-11-19",
+        "municipio": "A Mezquita",
+        "habitantes": "1023",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-11-20",
+        "municipio": "A Mezquita",
+        "habitantes": "1023",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-11-21",
+        "municipio": "A Mezquita",
+        "habitantes": "1023",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-11-22",
+        "municipio": "A Mezquita",
+        "habitantes": "1023",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-11-23",
+        "municipio": "A Mezquita",
+        "habitantes": "1023",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-11-24",
+        "municipio": "A Mezquita",
+        "habitantes": "1023",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-11-25",
+        "municipio": "A Mezquita",
+        "habitantes": "1023",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-11-26",
+        "municipio": "A Mezquita",
+        "habitantes": "1023",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-11-27",
+        "municipio": "A Mezquita",
+        "habitantes": "1023",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-11-28",
+        "municipio": "A Mezquita",
+        "habitantes": "1023",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-11-29",
+        "municipio": "A Mezquita",
+        "habitantes": "1023",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-11-30",
+        "municipio": "A Mezquita",
+        "habitantes": "1023",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-01",
+        "municipio": "A Mezquita",
+        "habitantes": "1023",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]

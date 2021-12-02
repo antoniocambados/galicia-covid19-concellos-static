@@ -2504,5 +2504,131 @@
         "habitantes": "5052",
         "casos_14d": "0",
         "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-11-14",
+        "municipio": "Ribadumia",
+        "habitantes": "5052",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-11-15",
+        "municipio": "Ribadumia",
+        "habitantes": "5052",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-11-16",
+        "municipio": "Ribadumia",
+        "habitantes": "5052",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-11-17",
+        "municipio": "Ribadumia",
+        "habitantes": "5052",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-11-18",
+        "municipio": "Ribadumia",
+        "habitantes": "5052",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-11-19",
+        "municipio": "Ribadumia",
+        "habitantes": "5052",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-11-20",
+        "municipio": "Ribadumia",
+        "habitantes": "5052",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-11-21",
+        "municipio": "Ribadumia",
+        "habitantes": "5052",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-11-22",
+        "municipio": "Ribadumia",
+        "habitantes": "5052",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-11-23",
+        "municipio": "Ribadumia",
+        "habitantes": "5052",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-11-24",
+        "municipio": "Ribadumia",
+        "habitantes": "5052",
+        "casos_14d": "10",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-11-25",
+        "municipio": "Ribadumia",
+        "habitantes": "5052",
+        "casos_14d": "11",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-11-26",
+        "municipio": "Ribadumia",
+        "habitantes": "5052",
+        "casos_14d": "12",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-11-27",
+        "municipio": "Ribadumia",
+        "habitantes": "5052",
+        "casos_14d": "12",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-11-28",
+        "municipio": "Ribadumia",
+        "habitantes": "5052",
+        "casos_14d": "15",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-11-29",
+        "municipio": "Ribadumia",
+        "habitantes": "5052",
+        "casos_14d": "14",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-11-30",
+        "municipio": "Ribadumia",
+        "habitantes": "5052",
+        "casos_14d": "14",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-01",
+        "municipio": "Ribadumia",
+        "habitantes": "5052",
+        "casos_14d": "17",
+        "casos_7d": "11"
     }
 ]

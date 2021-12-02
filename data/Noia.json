@@ -2504,5 +2504,131 @@
         "habitantes": "14263",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-11-14",
+        "municipio": "Noia",
+        "habitantes": "14263",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-11-15",
+        "municipio": "Noia",
+        "habitantes": "14263",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-11-16",
+        "municipio": "Noia",
+        "habitantes": "14263",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-11-17",
+        "municipio": "Noia",
+        "habitantes": "14263",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-11-18",
+        "municipio": "Noia",
+        "habitantes": "14263",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-11-19",
+        "municipio": "Noia",
+        "habitantes": "14263",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-11-20",
+        "municipio": "Noia",
+        "habitantes": "14263",
+        "casos_14d": "14",
+        "casos_7d": "13"
+    },
+    {
+        "fecha": "2021-11-21",
+        "municipio": "Noia",
+        "habitantes": "14263",
+        "casos_14d": "20",
+        "casos_7d": "19"
+    },
+    {
+        "fecha": "2021-11-22",
+        "municipio": "Noia",
+        "habitantes": "14263",
+        "casos_14d": "28",
+        "casos_7d": "27"
+    },
+    {
+        "fecha": "2021-11-23",
+        "municipio": "Noia",
+        "habitantes": "14263",
+        "casos_14d": "30",
+        "casos_7d": "29"
+    },
+    {
+        "fecha": "2021-11-24",
+        "municipio": "Noia",
+        "habitantes": "14263",
+        "casos_14d": "36",
+        "casos_7d": "34"
+    },
+    {
+        "fecha": "2021-11-25",
+        "municipio": "Noia",
+        "habitantes": "14263",
+        "casos_14d": "44",
+        "casos_7d": "40"
+    },
+    {
+        "fecha": "2021-11-26",
+        "municipio": "Noia",
+        "habitantes": "14263",
+        "casos_14d": "51",
+        "casos_7d": "45"
+    },
+    {
+        "fecha": "2021-11-27",
+        "municipio": "Noia",
+        "habitantes": "14263",
+        "casos_14d": "55",
+        "casos_7d": "42"
+    },
+    {
+        "fecha": "2021-11-28",
+        "municipio": "Noia",
+        "habitantes": "14263",
+        "casos_14d": "58",
+        "casos_7d": "39"
+    },
+    {
+        "fecha": "2021-11-29",
+        "municipio": "Noia",
+        "habitantes": "14263",
+        "casos_14d": "59",
+        "casos_7d": "32"
+    },
+    {
+        "fecha": "2021-11-30",
+        "municipio": "Noia",
+        "habitantes": "14263",
+        "casos_14d": "60",
+        "casos_7d": "31"
+    },
+    {
+        "fecha": "2021-12-01",
+        "municipio": "Noia",
+        "habitantes": "14263",
+        "casos_14d": "63",
+        "casos_7d": "29"
     }
 ]
