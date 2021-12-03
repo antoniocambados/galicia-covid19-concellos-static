@@ -2630,5 +2630,19 @@
         "habitantes": "6563",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-02",
+        "municipio": "Valdovi\u00f1o",
+        "habitantes": "6563",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-03",
+        "municipio": "Valdovi\u00f1o",
+        "habitantes": "6563",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]

@@ -2630,5 +2630,19 @@
         "habitantes": "3568",
         "casos_14d": null,
         "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-12-02",
+        "municipio": "Mondo\u00f1edo",
+        "habitantes": "3568",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-12-03",
+        "municipio": "Mondo\u00f1edo",
+        "habitantes": "3568",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]

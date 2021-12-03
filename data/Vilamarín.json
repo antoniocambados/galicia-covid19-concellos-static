@@ -2630,5 +2630,19 @@
         "habitantes": "1854",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-02",
+        "municipio": "Vilamar\u00edn",
+        "habitantes": "1854",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-03",
+        "municipio": "Vilamar\u00edn",
+        "habitantes": "1854",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]

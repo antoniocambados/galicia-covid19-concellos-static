@@ -2630,5 +2630,19 @@
         "habitantes": "5405",
         "casos_14d": "34",
         "casos_7d": "13"
+    },
+    {
+        "fecha": "2021-12-02",
+        "municipio": "San Cibrao das Vi\u00f1as",
+        "habitantes": "5405",
+        "casos_14d": "35",
+        "casos_7d": "13"
+    },
+    {
+        "fecha": "2021-12-03",
+        "municipio": "San Cibrao das Vi\u00f1as",
+        "habitantes": "5405",
+        "casos_14d": "37",
+        "casos_7d": "15"
     }
 ]
