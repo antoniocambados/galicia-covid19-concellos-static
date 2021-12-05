@@ -2644,5 +2644,19 @@
         "habitantes": "2445",
         "casos_14d": null,
         "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-12-04",
+        "municipio": "A Lama",
+        "habitantes": "2445",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-12-05",
+        "municipio": "A Lama",
+        "habitantes": "2445",
+        "casos_14d": null,
+        "casos_7d": "0"
     }
 ]

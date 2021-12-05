@@ -2644,5 +2644,19 @@
         "habitantes": "3735",
         "casos_14d": "19",
         "casos_7d": "18"
+    },
+    {
+        "fecha": "2021-12-04",
+        "municipio": "O Savi\u00f1ao",
+        "habitantes": "3735",
+        "casos_14d": "23",
+        "casos_7d": "17"
+    },
+    {
+        "fecha": "2021-12-05",
+        "municipio": "O Savi\u00f1ao",
+        "habitantes": "3735",
+        "casos_14d": "26",
+        "casos_7d": "18"
     }
 ]

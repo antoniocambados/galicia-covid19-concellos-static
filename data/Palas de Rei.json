@@ -2644,5 +2644,19 @@
         "habitantes": "3388",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-04",
+        "municipio": "Palas de Rei",
+        "habitantes": "3388",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-05",
+        "municipio": "Palas de Rei",
+        "habitantes": "3388",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]

@@ -2644,5 +2644,19 @@
         "habitantes": "5245",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-04",
+        "municipio": "Mugardos",
+        "habitantes": "5245",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-05",
+        "municipio": "Mugardos",
+        "habitantes": "5245",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]

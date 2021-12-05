@@ -2644,5 +2644,19 @@
         "habitantes": "7546",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-04",
+        "municipio": "Cee",
+        "habitantes": "7546",
+        "casos_14d": "11",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-05",
+        "municipio": "Cee",
+        "habitantes": "7546",
+        "casos_14d": "14",
+        "casos_7d": "10"
     }
 ]

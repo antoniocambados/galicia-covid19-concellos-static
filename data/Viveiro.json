@@ -2644,5 +2644,19 @@
         "habitantes": "15466",
         "casos_14d": "15",
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-04",
+        "municipio": "Viveiro",
+        "habitantes": "15466",
+        "casos_14d": "14",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-05",
+        "municipio": "Viveiro",
+        "habitantes": "15466",
+        "casos_14d": "13",
+        "casos_7d": null
     }
 ]

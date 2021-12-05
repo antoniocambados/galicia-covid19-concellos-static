@@ -2644,5 +2644,19 @@
         "habitantes": "1000",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-04",
+        "municipio": "A Arnoia",
+        "habitantes": "1000",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-05",
+        "municipio": "A Arnoia",
+        "habitantes": "1000",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]

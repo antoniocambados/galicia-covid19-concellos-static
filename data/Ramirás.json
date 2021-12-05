@@ -2644,5 +2644,19 @@
         "habitantes": "1584",
         "casos_14d": "32",
         "casos_7d": "19"
+    },
+    {
+        "fecha": "2021-12-04",
+        "municipio": "Ramir\u00e1s",
+        "habitantes": "1584",
+        "casos_14d": "32",
+        "casos_7d": "19"
+    },
+    {
+        "fecha": "2021-12-05",
+        "municipio": "Ramir\u00e1s",
+        "habitantes": "1584",
+        "casos_14d": "31",
+        "casos_7d": "15"
     }
 ]

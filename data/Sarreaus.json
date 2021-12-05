@@ -2644,5 +2644,19 @@
         "habitantes": "1162",
         "casos_14d": "12",
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-04",
+        "municipio": "Sarreaus",
+        "habitantes": "1162",
+        "casos_14d": "12",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-05",
+        "municipio": "Sarreaus",
+        "habitantes": "1162",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]

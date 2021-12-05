@@ -2644,5 +2644,19 @@
         "habitantes": "5052",
         "casos_14d": "16",
         "casos_7d": "12"
+    },
+    {
+        "fecha": "2021-12-04",
+        "municipio": "Ribadumia",
+        "habitantes": "5052",
+        "casos_14d": "16",
+        "casos_7d": "13"
+    },
+    {
+        "fecha": "2021-12-05",
+        "municipio": "Ribadumia",
+        "habitantes": "5052",
+        "casos_14d": "16",
+        "casos_7d": null
     }
 ]
