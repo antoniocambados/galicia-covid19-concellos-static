@@ -2658,5 +2658,12 @@
         "habitantes": "13723",
         "casos_14d": "16",
         "casos_7d": "13"
+    },
+    {
+        "fecha": "2021-12-06",
+        "municipio": "Ver\u00edn",
+        "habitantes": "13723",
+        "casos_14d": "20",
+        "casos_7d": "17"
     }
 ]

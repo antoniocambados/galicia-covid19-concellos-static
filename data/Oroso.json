@@ -2658,5 +2658,12 @@
         "habitantes": "7500",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-06",
+        "municipio": "Oroso",
+        "habitantes": "7500",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]

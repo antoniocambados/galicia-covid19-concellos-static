@@ -2658,5 +2658,12 @@
         "habitantes": "3388",
         "casos_14d": "15",
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-06",
+        "municipio": "Forcarei",
+        "habitantes": "3388",
+        "casos_14d": "13",
+        "casos_7d": null
     }
 ]

@@ -2658,5 +2658,12 @@
         "habitantes": "3885",
         "casos_14d": "22",
         "casos_7d": "10"
+    },
+    {
+        "fecha": "2021-12-06",
+        "municipio": "Mazaricos",
+        "habitantes": "3885",
+        "casos_14d": "21",
+        "casos_7d": null
     }
 ]
