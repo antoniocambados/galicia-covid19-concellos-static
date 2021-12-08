@@ -2665,5 +2665,12 @@
         "habitantes": "1375",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-07",
+        "municipio": "Xunqueira de Amb\u00eda",
+        "habitantes": "1375",
+        "casos_14d": "12",
+        "casos_7d": null
     }
 ]
