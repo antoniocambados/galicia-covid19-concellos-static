@@ -2672,5 +2672,12 @@
         "habitantes": "12944",
         "casos_14d": "63",
         "casos_7d": "28"
+    },
+    {
+        "fecha": "2021-12-08",
+        "municipio": "Fene",
+        "habitantes": "12944",
+        "casos_14d": "62",
+        "casos_7d": "23"
     }
 ]
