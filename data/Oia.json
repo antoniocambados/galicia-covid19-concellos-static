@@ -2679,5 +2679,19 @@
         "habitantes": "3053",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-09",
+        "municipio": "Oia",
+        "habitantes": "3053",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-10",
+        "municipio": "Oia",
+        "habitantes": "3053",
+        "casos_14d": "12",
+        "casos_7d": null
     }
 ]

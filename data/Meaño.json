@@ -2679,5 +2679,19 @@
         "habitantes": "5272",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-09",
+        "municipio": "Mea\u00f1o",
+        "habitantes": "5272",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-10",
+        "municipio": "Mea\u00f1o",
+        "habitantes": "5272",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]

@@ -2679,5 +2679,19 @@
         "habitantes": "2617",
         "casos_14d": null,
         "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-12-09",
+        "municipio": "Castroverde",
+        "habitantes": "2617",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-12-10",
+        "municipio": "Castroverde",
+        "habitantes": "2617",
+        "casos_14d": null,
+        "casos_7d": "0"
     }
 ]

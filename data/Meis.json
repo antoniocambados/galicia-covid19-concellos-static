@@ -2679,5 +2679,19 @@
         "habitantes": "4791",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-09",
+        "municipio": "Meis",
+        "habitantes": "4791",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-10",
+        "municipio": "Meis",
+        "habitantes": "4791",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]

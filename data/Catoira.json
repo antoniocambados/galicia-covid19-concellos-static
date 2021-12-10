@@ -2679,5 +2679,19 @@
         "habitantes": "3335",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-09",
+        "municipio": "Catoira",
+        "habitantes": "3335",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-10",
+        "municipio": "Catoira",
+        "habitantes": "3335",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]

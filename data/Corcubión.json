@@ -2679,5 +2679,19 @@
         "habitantes": "1589",
         "casos_14d": null,
         "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-12-09",
+        "municipio": "Corcubi\u00f3n",
+        "habitantes": "1589",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-10",
+        "municipio": "Corcubi\u00f3n",
+        "habitantes": "1589",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]

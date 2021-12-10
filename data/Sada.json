@@ -2679,5 +2679,19 @@
         "habitantes": "15841",
         "casos_14d": "31",
         "casos_7d": "20"
+    },
+    {
+        "fecha": "2021-12-09",
+        "municipio": "Sada",
+        "habitantes": "15841",
+        "casos_14d": "33",
+        "casos_7d": "18"
+    },
+    {
+        "fecha": "2021-12-10",
+        "municipio": "Sada",
+        "habitantes": "15841",
+        "casos_14d": "37",
+        "casos_7d": "24"
     }
 ]

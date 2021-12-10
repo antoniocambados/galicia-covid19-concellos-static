@@ -2679,5 +2679,19 @@
         "habitantes": "4708",
         "casos_14d": null,
         "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-12-09",
+        "municipio": "Fisterra",
+        "habitantes": "4708",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-12-10",
+        "municipio": "Fisterra",
+        "habitantes": "4708",
+        "casos_14d": "0",
+        "casos_7d": "0"
     }
 ]

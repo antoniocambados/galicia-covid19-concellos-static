@@ -2679,5 +2679,19 @@
         "habitantes": "24319",
         "casos_14d": "149",
         "casos_7d": "108"
+    },
+    {
+        "fecha": "2021-12-09",
+        "municipio": "Mar\u00edn",
+        "habitantes": "24319",
+        "casos_14d": "159",
+        "casos_7d": "110"
+    },
+    {
+        "fecha": "2021-12-10",
+        "municipio": "Mar\u00edn",
+        "habitantes": "24319",
+        "casos_14d": "169",
+        "casos_7d": "91"
     }
 ]

@@ -2679,5 +2679,19 @@
         "habitantes": "2580",
         "casos_14d": "16",
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-09",
+        "municipio": "Arbo",
+        "habitantes": "2580",
+        "casos_14d": "17",
+        "casos_7d": "10"
+    },
+    {
+        "fecha": "2021-12-10",
+        "municipio": "Arbo",
+        "habitantes": "2580",
+        "casos_14d": "19",
+        "casos_7d": null
     }
 ]

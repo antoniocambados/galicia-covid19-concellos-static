@@ -2679,5 +2679,19 @@
         "habitantes": "1024",
         "casos_14d": "16",
         "casos_7d": "12"
+    },
+    {
+        "fecha": "2021-12-09",
+        "municipio": "Folgoso do Courel",
+        "habitantes": "1024",
+        "casos_14d": "22",
+        "casos_7d": "15"
+    },
+    {
+        "fecha": "2021-12-10",
+        "municipio": "Folgoso do Courel",
+        "habitantes": "1024",
+        "casos_14d": "21",
+        "casos_7d": "13"
     }
 ]

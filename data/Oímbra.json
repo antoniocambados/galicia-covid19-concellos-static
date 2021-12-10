@@ -2679,5 +2679,19 @@
         "habitantes": "1712",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-09",
+        "municipio": "O\u00edmbra",
+        "habitantes": "1712",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-10",
+        "municipio": "O\u00edmbra",
+        "habitantes": "1712",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]
