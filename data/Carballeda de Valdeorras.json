@@ -2693,5 +2693,26 @@
         "habitantes": "1545",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-11",
+        "municipio": "Carballeda de Valdeorras",
+        "habitantes": "1545",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-12",
+        "municipio": "Carballeda de Valdeorras",
+        "habitantes": "1545",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-13",
+        "municipio": "Carballeda de Valdeorras",
+        "habitantes": "1545",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]

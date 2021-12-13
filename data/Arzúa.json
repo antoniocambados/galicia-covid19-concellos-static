@@ -2693,5 +2693,26 @@
         "habitantes": "6041",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-11",
+        "municipio": "Arz\u00faa",
+        "habitantes": "6041",
+        "casos_14d": "13",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-12",
+        "municipio": "Arz\u00faa",
+        "habitantes": "6041",
+        "casos_14d": "15",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-13",
+        "municipio": "Arz\u00faa",
+        "habitantes": "6041",
+        "casos_14d": "15",
+        "casos_7d": null
     }
 ]

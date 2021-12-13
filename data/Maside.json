@@ -2693,5 +2693,26 @@
         "habitantes": "2705",
         "casos_14d": "13",
         "casos_7d": "10"
+    },
+    {
+        "fecha": "2021-12-11",
+        "municipio": "Maside",
+        "habitantes": "2705",
+        "casos_14d": "16",
+        "casos_7d": "12"
+    },
+    {
+        "fecha": "2021-12-12",
+        "municipio": "Maside",
+        "habitantes": "2705",
+        "casos_14d": "17",
+        "casos_7d": "13"
+    },
+    {
+        "fecha": "2021-12-13",
+        "municipio": "Maside",
+        "habitantes": "2705",
+        "casos_14d": "17",
+        "casos_7d": "13"
     }
 ]

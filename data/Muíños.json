@@ -2693,5 +2693,26 @@
         "habitantes": "1502",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-11",
+        "municipio": "Mu\u00ed\u00f1os",
+        "habitantes": "1502",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-12",
+        "municipio": "Mu\u00ed\u00f1os",
+        "habitantes": "1502",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-13",
+        "municipio": "Mu\u00ed\u00f1os",
+        "habitantes": "1502",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]

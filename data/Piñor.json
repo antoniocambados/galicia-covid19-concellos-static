@@ -2693,5 +2693,26 @@
         "habitantes": "1176",
         "casos_14d": null,
         "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-12-11",
+        "municipio": "Pi\u00f1or",
+        "habitantes": "1176",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-12-12",
+        "municipio": "Pi\u00f1or",
+        "habitantes": "1176",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-12-13",
+        "municipio": "Pi\u00f1or",
+        "habitantes": "1176",
+        "casos_14d": null,
+        "casos_7d": "0"
     }
 ]

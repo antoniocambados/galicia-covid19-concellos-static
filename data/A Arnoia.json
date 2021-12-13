@@ -2693,5 +2693,26 @@
         "habitantes": "1000",
         "casos_14d": null,
         "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-12-11",
+        "municipio": "A Arnoia",
+        "habitantes": "1000",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-12-12",
+        "municipio": "A Arnoia",
+        "habitantes": "1000",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-12-13",
+        "municipio": "A Arnoia",
+        "habitantes": "1000",
+        "casos_14d": null,
+        "casos_7d": "0"
     }
 ]

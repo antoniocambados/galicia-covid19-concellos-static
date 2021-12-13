@@ -2693,5 +2693,26 @@
         "habitantes": "6074",
         "casos_14d": "18",
         "casos_7d": "12"
+    },
+    {
+        "fecha": "2021-12-11",
+        "municipio": "Coristanco",
+        "habitantes": "6074",
+        "casos_14d": "18",
+        "casos_7d": "10"
+    },
+    {
+        "fecha": "2021-12-12",
+        "municipio": "Coristanco",
+        "habitantes": "6074",
+        "casos_14d": "21",
+        "casos_7d": "13"
+    },
+    {
+        "fecha": "2021-12-13",
+        "municipio": "Coristanco",
+        "habitantes": "6074",
+        "casos_14d": "22",
+        "casos_7d": "14"
     }
 ]

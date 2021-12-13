@@ -2693,5 +2693,26 @@
         "habitantes": "4657",
         "casos_14d": "11",
         "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-12-11",
+        "municipio": "Mux\u00eda",
+        "habitantes": "4657",
+        "casos_14d": "10",
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-12-12",
+        "municipio": "Mux\u00eda",
+        "habitantes": "4657",
+        "casos_14d": "10",
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-12-13",
+        "municipio": "Mux\u00eda",
+        "habitantes": "4657",
+        "casos_14d": "11",
+        "casos_7d": null
     }
 ]

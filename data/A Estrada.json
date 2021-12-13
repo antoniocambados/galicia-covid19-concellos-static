@@ -2693,5 +2693,26 @@
         "habitantes": "20479",
         "casos_14d": "23",
         "casos_7d": "15"
+    },
+    {
+        "fecha": "2021-12-11",
+        "municipio": "A Estrada",
+        "habitantes": "20479",
+        "casos_14d": "24",
+        "casos_7d": "18"
+    },
+    {
+        "fecha": "2021-12-12",
+        "municipio": "A Estrada",
+        "habitantes": "20479",
+        "casos_14d": "27",
+        "casos_7d": "20"
+    },
+    {
+        "fecha": "2021-12-13",
+        "municipio": "A Estrada",
+        "habitantes": "20479",
+        "casos_14d": "28",
+        "casos_7d": "21"
     }
 ]

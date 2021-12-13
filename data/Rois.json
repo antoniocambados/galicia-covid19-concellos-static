@@ -2693,5 +2693,26 @@
         "habitantes": "4512",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-11",
+        "municipio": "Rois",
+        "habitantes": "4512",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-12",
+        "municipio": "Rois",
+        "habitantes": "4512",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-13",
+        "municipio": "Rois",
+        "habitantes": "4512",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]

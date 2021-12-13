@@ -2693,5 +2693,26 @@
         "habitantes": "6827",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-11",
+        "municipio": "Negreira",
+        "habitantes": "6827",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-12",
+        "municipio": "Negreira",
+        "habitantes": "6827",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-13",
+        "municipio": "Negreira",
+        "habitantes": "6827",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]
