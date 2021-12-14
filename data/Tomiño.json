@@ -2714,5 +2714,12 @@
         "habitantes": "13499",
         "casos_14d": "62",
         "casos_7d": "32"
+    },
+    {
+        "fecha": "2021-12-14",
+        "municipio": "Tomi\u00f1o",
+        "habitantes": "13499",
+        "casos_14d": "66",
+        "casos_7d": "37"
     }
 ]

@@ -2714,5 +2714,12 @@
         "habitantes": "889",
         "casos_14d": "20",
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-14",
+        "municipio": "A Veiga",
+        "habitantes": "889",
+        "casos_14d": "20",
+        "casos_7d": null
     }
 ]
