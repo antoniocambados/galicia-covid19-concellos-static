@@ -2721,5 +2721,61 @@
         "habitantes": "12009",
         "casos_14d": "160",
         "casos_7d": "85"
+    },
+    {
+        "fecha": "2021-12-15",
+        "municipio": "Bueu",
+        "habitantes": "12009",
+        "casos_14d": "153",
+        "casos_7d": "82"
+    },
+    {
+        "fecha": "2021-12-16",
+        "municipio": "Bueu",
+        "habitantes": "12009",
+        "casos_14d": "144",
+        "casos_7d": "72"
+    },
+    {
+        "fecha": "2021-12-17",
+        "municipio": "Bueu",
+        "habitantes": "12009",
+        "casos_14d": "143",
+        "casos_7d": "64"
+    },
+    {
+        "fecha": "2021-12-18",
+        "municipio": "Bueu",
+        "habitantes": "12009",
+        "casos_14d": "150",
+        "casos_7d": "69"
+    },
+    {
+        "fecha": "2021-12-19",
+        "municipio": "Bueu",
+        "habitantes": "12009",
+        "casos_14d": "152",
+        "casos_7d": "69"
+    },
+    {
+        "fecha": "2021-12-20",
+        "municipio": "Bueu",
+        "habitantes": "12009",
+        "casos_14d": "145",
+        "casos_7d": "60"
+    },
+    {
+        "fecha": "2021-12-21",
+        "municipio": "Bueu",
+        "habitantes": "12009",
+        "casos_14d": "145",
+        "casos_7d": "60"
+    },
+    {
+        "fecha": "2021-12-22",
+        "municipio": "Bueu",
+        "habitantes": "12009",
+        "casos_14d": "151",
+        "casos_7d": "69"
     }
 ]

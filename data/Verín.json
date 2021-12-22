@@ -2721,5 +2721,61 @@
         "habitantes": "13723",
         "casos_14d": "80",
         "casos_7d": "63"
+    },
+    {
+        "fecha": "2021-12-15",
+        "municipio": "Ver\u00edn",
+        "habitantes": "13723",
+        "casos_14d": "94",
+        "casos_7d": "65"
+    },
+    {
+        "fecha": "2021-12-16",
+        "municipio": "Ver\u00edn",
+        "habitantes": "13723",
+        "casos_14d": "104",
+        "casos_7d": "68"
+    },
+    {
+        "fecha": "2021-12-17",
+        "municipio": "Ver\u00edn",
+        "habitantes": "13723",
+        "casos_14d": "110",
+        "casos_7d": "74"
+    },
+    {
+        "fecha": "2021-12-18",
+        "municipio": "Ver\u00edn",
+        "habitantes": "13723",
+        "casos_14d": "121",
+        "casos_7d": "77"
+    },
+    {
+        "fecha": "2021-12-19",
+        "municipio": "Ver\u00edn",
+        "habitantes": "13723",
+        "casos_14d": "121",
+        "casos_7d": "71"
+    },
+    {
+        "fecha": "2021-12-20",
+        "municipio": "Ver\u00edn",
+        "habitantes": "13723",
+        "casos_14d": "127",
+        "casos_7d": "65"
+    },
+    {
+        "fecha": "2021-12-21",
+        "municipio": "Ver\u00edn",
+        "habitantes": "13723",
+        "casos_14d": "128",
+        "casos_7d": "65"
+    },
+    {
+        "fecha": "2021-12-22",
+        "municipio": "Ver\u00edn",
+        "habitantes": "13723",
+        "casos_14d": "123",
+        "casos_7d": "58"
     }
 ]

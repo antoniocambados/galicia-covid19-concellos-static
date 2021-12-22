@@ -2721,5 +2721,61 @@
         "habitantes": "3388",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-15",
+        "municipio": "Forcarei",
+        "habitantes": "3388",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-16",
+        "municipio": "Forcarei",
+        "habitantes": "3388",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-17",
+        "municipio": "Forcarei",
+        "habitantes": "3388",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-18",
+        "municipio": "Forcarei",
+        "habitantes": "3388",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-19",
+        "municipio": "Forcarei",
+        "habitantes": "3388",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-20",
+        "municipio": "Forcarei",
+        "habitantes": "3388",
+        "casos_14d": "10",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-21",
+        "municipio": "Forcarei",
+        "habitantes": "3388",
+        "casos_14d": "10",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-22",
+        "municipio": "Forcarei",
+        "habitantes": "3388",
+        "casos_14d": "10",
+        "casos_7d": null
     }
 ]

@@ -2721,5 +2721,61 @@
         "habitantes": "5874",
         "casos_14d": "58",
         "casos_7d": "39"
+    },
+    {
+        "fecha": "2021-12-15",
+        "municipio": "Vilaboa",
+        "habitantes": "5874",
+        "casos_14d": "60",
+        "casos_7d": "40"
+    },
+    {
+        "fecha": "2021-12-16",
+        "municipio": "Vilaboa",
+        "habitantes": "5874",
+        "casos_14d": "64",
+        "casos_7d": "38"
+    },
+    {
+        "fecha": "2021-12-17",
+        "municipio": "Vilaboa",
+        "habitantes": "5874",
+        "casos_14d": "66",
+        "casos_7d": "44"
+    },
+    {
+        "fecha": "2021-12-18",
+        "municipio": "Vilaboa",
+        "habitantes": "5874",
+        "casos_14d": "67",
+        "casos_7d": "40"
+    },
+    {
+        "fecha": "2021-12-19",
+        "municipio": "Vilaboa",
+        "habitantes": "5874",
+        "casos_14d": "70",
+        "casos_7d": "40"
+    },
+    {
+        "fecha": "2021-12-20",
+        "municipio": "Vilaboa",
+        "habitantes": "5874",
+        "casos_14d": "78",
+        "casos_7d": "41"
+    },
+    {
+        "fecha": "2021-12-21",
+        "municipio": "Vilaboa",
+        "habitantes": "5874",
+        "casos_14d": "79",
+        "casos_7d": "40"
+    },
+    {
+        "fecha": "2021-12-22",
+        "municipio": "Vilaboa",
+        "habitantes": "5874",
+        "casos_14d": "79",
+        "casos_7d": "39"
     }
 ]

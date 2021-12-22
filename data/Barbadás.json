@@ -2721,5 +2721,61 @@
         "habitantes": "11037",
         "casos_14d": "155",
         "casos_7d": "55"
+    },
+    {
+        "fecha": "2021-12-15",
+        "municipio": "Barbad\u00e1s",
+        "habitantes": "11037",
+        "casos_14d": "139",
+        "casos_7d": "50"
+    },
+    {
+        "fecha": "2021-12-16",
+        "municipio": "Barbad\u00e1s",
+        "habitantes": "11037",
+        "casos_14d": "129",
+        "casos_7d": "44"
+    },
+    {
+        "fecha": "2021-12-17",
+        "municipio": "Barbad\u00e1s",
+        "habitantes": "11037",
+        "casos_14d": "127",
+        "casos_7d": "47"
+    },
+    {
+        "fecha": "2021-12-18",
+        "municipio": "Barbad\u00e1s",
+        "habitantes": "11037",
+        "casos_14d": "114",
+        "casos_7d": "36"
+    },
+    {
+        "fecha": "2021-12-19",
+        "municipio": "Barbad\u00e1s",
+        "habitantes": "11037",
+        "casos_14d": "101",
+        "casos_7d": "37"
+    },
+    {
+        "fecha": "2021-12-20",
+        "municipio": "Barbad\u00e1s",
+        "habitantes": "11037",
+        "casos_14d": "98",
+        "casos_7d": "33"
+    },
+    {
+        "fecha": "2021-12-21",
+        "municipio": "Barbad\u00e1s",
+        "habitantes": "11037",
+        "casos_14d": "92",
+        "casos_7d": "37"
+    },
+    {
+        "fecha": "2021-12-22",
+        "municipio": "Barbad\u00e1s",
+        "habitantes": "11037",
+        "casos_14d": "88",
+        "casos_7d": "38"
     }
 ]

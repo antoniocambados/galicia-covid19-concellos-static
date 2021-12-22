@@ -2721,5 +2721,61 @@
         "habitantes": "8384",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-15",
+        "municipio": "Padr\u00f3n",
+        "habitantes": "8384",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-16",
+        "municipio": "Padr\u00f3n",
+        "habitantes": "8384",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-17",
+        "municipio": "Padr\u00f3n",
+        "habitantes": "8384",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-18",
+        "municipio": "Padr\u00f3n",
+        "habitantes": "8384",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-19",
+        "municipio": "Padr\u00f3n",
+        "habitantes": "8384",
+        "casos_14d": "11",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-20",
+        "municipio": "Padr\u00f3n",
+        "habitantes": "8384",
+        "casos_14d": "14",
+        "casos_7d": "12"
+    },
+    {
+        "fecha": "2021-12-21",
+        "municipio": "Padr\u00f3n",
+        "habitantes": "8384",
+        "casos_14d": "15",
+        "casos_7d": "10"
+    },
+    {
+        "fecha": "2021-12-22",
+        "municipio": "Padr\u00f3n",
+        "habitantes": "8384",
+        "casos_14d": "15",
+        "casos_7d": "10"
     }
 ]

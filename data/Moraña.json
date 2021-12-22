@@ -2721,5 +2721,61 @@
         "habitantes": "4179",
         "casos_14d": "21",
         "casos_7d": "15"
+    },
+    {
+        "fecha": "2021-12-15",
+        "municipio": "Mora\u00f1a",
+        "habitantes": "4179",
+        "casos_14d": "22",
+        "casos_7d": "11"
+    },
+    {
+        "fecha": "2021-12-16",
+        "municipio": "Mora\u00f1a",
+        "habitantes": "4179",
+        "casos_14d": "20",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-17",
+        "municipio": "Mora\u00f1a",
+        "habitantes": "4179",
+        "casos_14d": "21",
+        "casos_7d": "10"
+    },
+    {
+        "fecha": "2021-12-18",
+        "municipio": "Mora\u00f1a",
+        "habitantes": "4179",
+        "casos_14d": "21",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-19",
+        "municipio": "Mora\u00f1a",
+        "habitantes": "4179",
+        "casos_14d": "20",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-20",
+        "municipio": "Mora\u00f1a",
+        "habitantes": "4179",
+        "casos_14d": "20",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-21",
+        "municipio": "Mora\u00f1a",
+        "habitantes": "4179",
+        "casos_14d": "20",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-22",
+        "municipio": "Mora\u00f1a",
+        "habitantes": "4179",
+        "casos_14d": "15",
+        "casos_7d": null
     }
 ]

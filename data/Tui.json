@@ -2721,5 +2721,61 @@
         "habitantes": "16701",
         "casos_14d": "140",
         "casos_7d": "69"
+    },
+    {
+        "fecha": "2021-12-15",
+        "municipio": "Tui",
+        "habitantes": "16701",
+        "casos_14d": "144",
+        "casos_7d": "75"
+    },
+    {
+        "fecha": "2021-12-16",
+        "municipio": "Tui",
+        "habitantes": "16701",
+        "casos_14d": "142",
+        "casos_7d": "66"
+    },
+    {
+        "fecha": "2021-12-17",
+        "municipio": "Tui",
+        "habitantes": "16701",
+        "casos_14d": "141",
+        "casos_7d": "62"
+    },
+    {
+        "fecha": "2021-12-18",
+        "municipio": "Tui",
+        "habitantes": "16701",
+        "casos_14d": "135",
+        "casos_7d": "56"
+    },
+    {
+        "fecha": "2021-12-19",
+        "municipio": "Tui",
+        "habitantes": "16701",
+        "casos_14d": "131",
+        "casos_7d": "61"
+    },
+    {
+        "fecha": "2021-12-20",
+        "municipio": "Tui",
+        "habitantes": "16701",
+        "casos_14d": "139",
+        "casos_7d": "73"
+    },
+    {
+        "fecha": "2021-12-21",
+        "municipio": "Tui",
+        "habitantes": "16701",
+        "casos_14d": "138",
+        "casos_7d": "69"
+    },
+    {
+        "fecha": "2021-12-22",
+        "municipio": "Tui",
+        "habitantes": "16701",
+        "casos_14d": "160",
+        "casos_7d": "84"
     }
 ]

@@ -2721,5 +2721,61 @@
         "habitantes": "7057",
         "casos_14d": "12",
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-15",
+        "municipio": "Vimianzo",
+        "habitantes": "7057",
+        "casos_14d": "17",
+        "casos_7d": "12"
+    },
+    {
+        "fecha": "2021-12-16",
+        "municipio": "Vimianzo",
+        "habitantes": "7057",
+        "casos_14d": "26",
+        "casos_7d": "21"
+    },
+    {
+        "fecha": "2021-12-17",
+        "municipio": "Vimianzo",
+        "habitantes": "7057",
+        "casos_14d": "27",
+        "casos_7d": "24"
+    },
+    {
+        "fecha": "2021-12-18",
+        "municipio": "Vimianzo",
+        "habitantes": "7057",
+        "casos_14d": "30",
+        "casos_7d": "27"
+    },
+    {
+        "fecha": "2021-12-19",
+        "municipio": "Vimianzo",
+        "habitantes": "7057",
+        "casos_14d": "34",
+        "casos_7d": "29"
+    },
+    {
+        "fecha": "2021-12-20",
+        "municipio": "Vimianzo",
+        "habitantes": "7057",
+        "casos_14d": "37",
+        "casos_7d": "30"
+    },
+    {
+        "fecha": "2021-12-21",
+        "municipio": "Vimianzo",
+        "habitantes": "7057",
+        "casos_14d": "37",
+        "casos_7d": "30"
+    },
+    {
+        "fecha": "2021-12-22",
+        "municipio": "Vimianzo",
+        "habitantes": "7057",
+        "casos_14d": "41",
+        "casos_7d": "29"
     }
 ]

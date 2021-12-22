@@ -2721,5 +2721,61 @@
         "habitantes": "3113",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-15",
+        "municipio": "Trazo",
+        "habitantes": "3113",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-16",
+        "municipio": "Trazo",
+        "habitantes": "3113",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-17",
+        "municipio": "Trazo",
+        "habitantes": "3113",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-18",
+        "municipio": "Trazo",
+        "habitantes": "3113",
+        "casos_14d": "14",
+        "casos_7d": "12"
+    },
+    {
+        "fecha": "2021-12-19",
+        "municipio": "Trazo",
+        "habitantes": "3113",
+        "casos_14d": "16",
+        "casos_7d": "13"
+    },
+    {
+        "fecha": "2021-12-20",
+        "municipio": "Trazo",
+        "habitantes": "3113",
+        "casos_14d": "17",
+        "casos_7d": "13"
+    },
+    {
+        "fecha": "2021-12-21",
+        "municipio": "Trazo",
+        "habitantes": "3113",
+        "casos_14d": "17",
+        "casos_7d": "13"
+    },
+    {
+        "fecha": "2021-12-22",
+        "municipio": "Trazo",
+        "habitantes": "3113",
+        "casos_14d": "19",
+        "casos_7d": "15"
     }
 ]

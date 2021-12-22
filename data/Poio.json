@@ -2721,5 +2721,61 @@
         "habitantes": "17082",
         "casos_14d": "83",
         "casos_7d": "57"
+    },
+    {
+        "fecha": "2021-12-15",
+        "municipio": "Poio",
+        "habitantes": "17082",
+        "casos_14d": "91",
+        "casos_7d": "64"
+    },
+    {
+        "fecha": "2021-12-16",
+        "municipio": "Poio",
+        "habitantes": "17082",
+        "casos_14d": "101",
+        "casos_7d": "73"
+    },
+    {
+        "fecha": "2021-12-17",
+        "municipio": "Poio",
+        "habitantes": "17082",
+        "casos_14d": "101",
+        "casos_7d": "77"
+    },
+    {
+        "fecha": "2021-12-18",
+        "municipio": "Poio",
+        "habitantes": "17082",
+        "casos_14d": "105",
+        "casos_7d": "76"
+    },
+    {
+        "fecha": "2021-12-19",
+        "municipio": "Poio",
+        "habitantes": "17082",
+        "casos_14d": "113",
+        "casos_7d": "77"
+    },
+    {
+        "fecha": "2021-12-20",
+        "municipio": "Poio",
+        "habitantes": "17082",
+        "casos_14d": "124",
+        "casos_7d": "72"
+    },
+    {
+        "fecha": "2021-12-21",
+        "municipio": "Poio",
+        "habitantes": "17082",
+        "casos_14d": "134",
+        "casos_7d": "76"
+    },
+    {
+        "fecha": "2021-12-22",
+        "municipio": "Poio",
+        "habitantes": "17082",
+        "casos_14d": "138",
+        "casos_7d": "74"
     }
 ]

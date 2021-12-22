@@ -2721,5 +2721,61 @@
         "habitantes": "13395",
         "casos_14d": "46",
         "casos_7d": "24"
+    },
+    {
+        "fecha": "2021-12-15",
+        "municipio": "O Barco de Valdeorras",
+        "habitantes": "13395",
+        "casos_14d": "49",
+        "casos_7d": "29"
+    },
+    {
+        "fecha": "2021-12-16",
+        "municipio": "O Barco de Valdeorras",
+        "habitantes": "13395",
+        "casos_14d": "61",
+        "casos_7d": "43"
+    },
+    {
+        "fecha": "2021-12-17",
+        "municipio": "O Barco de Valdeorras",
+        "habitantes": "13395",
+        "casos_14d": "75",
+        "casos_7d": "53"
+    },
+    {
+        "fecha": "2021-12-18",
+        "municipio": "O Barco de Valdeorras",
+        "habitantes": "13395",
+        "casos_14d": "85",
+        "casos_7d": "66"
+    },
+    {
+        "fecha": "2021-12-19",
+        "municipio": "O Barco de Valdeorras",
+        "habitantes": "13395",
+        "casos_14d": "89",
+        "casos_7d": "65"
+    },
+    {
+        "fecha": "2021-12-20",
+        "municipio": "O Barco de Valdeorras",
+        "habitantes": "13395",
+        "casos_14d": "96",
+        "casos_7d": "72"
+    },
+    {
+        "fecha": "2021-12-21",
+        "municipio": "O Barco de Valdeorras",
+        "habitantes": "13395",
+        "casos_14d": "103",
+        "casos_7d": "79"
+    },
+    {
+        "fecha": "2021-12-22",
+        "municipio": "O Barco de Valdeorras",
+        "habitantes": "13395",
+        "casos_14d": "118",
+        "casos_7d": "89"
     }
 ]

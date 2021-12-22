@@ -2721,5 +2721,61 @@
         "habitantes": "2580",
         "casos_14d": "21",
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-15",
+        "municipio": "Arbo",
+        "habitantes": "2580",
+        "casos_14d": "18",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-16",
+        "municipio": "Arbo",
+        "habitantes": "2580",
+        "casos_14d": "19",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-17",
+        "municipio": "Arbo",
+        "habitantes": "2580",
+        "casos_14d": "16",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-18",
+        "municipio": "Arbo",
+        "habitantes": "2580",
+        "casos_14d": "18",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-19",
+        "municipio": "Arbo",
+        "habitantes": "2580",
+        "casos_14d": "15",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-20",
+        "municipio": "Arbo",
+        "habitantes": "2580",
+        "casos_14d": "15",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-21",
+        "municipio": "Arbo",
+        "habitantes": "2580",
+        "casos_14d": "14",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-22",
+        "municipio": "Arbo",
+        "habitantes": "2580",
+        "casos_14d": "15",
+        "casos_7d": null
     }
 ]

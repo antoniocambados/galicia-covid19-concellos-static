@@ -2721,5 +2721,61 @@
         "habitantes": "8192",
         "casos_14d": "58",
         "casos_7d": "27"
+    },
+    {
+        "fecha": "2021-12-15",
+        "municipio": "Chantada",
+        "habitantes": "8192",
+        "casos_14d": "50",
+        "casos_7d": "27"
+    },
+    {
+        "fecha": "2021-12-16",
+        "municipio": "Chantada",
+        "habitantes": "8192",
+        "casos_14d": "52",
+        "casos_7d": "28"
+    },
+    {
+        "fecha": "2021-12-17",
+        "municipio": "Chantada",
+        "habitantes": "8192",
+        "casos_14d": "55",
+        "casos_7d": "25"
+    },
+    {
+        "fecha": "2021-12-18",
+        "municipio": "Chantada",
+        "habitantes": "8192",
+        "casos_14d": "61",
+        "casos_7d": "31"
+    },
+    {
+        "fecha": "2021-12-19",
+        "municipio": "Chantada",
+        "habitantes": "8192",
+        "casos_14d": "62",
+        "casos_7d": "32"
+    },
+    {
+        "fecha": "2021-12-20",
+        "municipio": "Chantada",
+        "habitantes": "8192",
+        "casos_14d": "61",
+        "casos_7d": "32"
+    },
+    {
+        "fecha": "2021-12-21",
+        "municipio": "Chantada",
+        "habitantes": "8192",
+        "casos_14d": "59",
+        "casos_7d": "32"
+    },
+    {
+        "fecha": "2021-12-22",
+        "municipio": "Chantada",
+        "habitantes": "8192",
+        "casos_14d": "61",
+        "casos_7d": "34"
     }
 ]

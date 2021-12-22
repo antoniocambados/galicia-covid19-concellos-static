@@ -2721,5 +2721,61 @@
         "habitantes": "31349",
         "casos_14d": "121",
         "casos_7d": "70"
+    },
+    {
+        "fecha": "2021-12-15",
+        "municipio": "Carballo",
+        "habitantes": "31349",
+        "casos_14d": "117",
+        "casos_7d": "65"
+    },
+    {
+        "fecha": "2021-12-16",
+        "municipio": "Carballo",
+        "habitantes": "31349",
+        "casos_14d": "116",
+        "casos_7d": "61"
+    },
+    {
+        "fecha": "2021-12-17",
+        "municipio": "Carballo",
+        "habitantes": "31349",
+        "casos_14d": "127",
+        "casos_7d": "66"
+    },
+    {
+        "fecha": "2021-12-18",
+        "municipio": "Carballo",
+        "habitantes": "31349",
+        "casos_14d": "125",
+        "casos_7d": "65"
+    },
+    {
+        "fecha": "2021-12-19",
+        "municipio": "Carballo",
+        "habitantes": "31349",
+        "casos_14d": "129",
+        "casos_7d": "76"
+    },
+    {
+        "fecha": "2021-12-20",
+        "municipio": "Carballo",
+        "habitantes": "31349",
+        "casos_14d": "133",
+        "casos_7d": "71"
+    },
+    {
+        "fecha": "2021-12-21",
+        "municipio": "Carballo",
+        "habitantes": "31349",
+        "casos_14d": "133",
+        "casos_7d": "63"
+    },
+    {
+        "fecha": "2021-12-22",
+        "municipio": "Carballo",
+        "habitantes": "31349",
+        "casos_14d": "133",
+        "casos_7d": "68"
     }
 ]

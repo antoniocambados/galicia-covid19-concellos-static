@@ -2721,5 +2721,61 @@
         "habitantes": "1570",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-15",
+        "municipio": "O Incio",
+        "habitantes": "1570",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-16",
+        "municipio": "O Incio",
+        "habitantes": "1570",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-17",
+        "municipio": "O Incio",
+        "habitantes": "1570",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-18",
+        "municipio": "O Incio",
+        "habitantes": "1570",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-19",
+        "municipio": "O Incio",
+        "habitantes": "1570",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-12-20",
+        "municipio": "O Incio",
+        "habitantes": "1570",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-12-21",
+        "municipio": "O Incio",
+        "habitantes": "1570",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-22",
+        "municipio": "O Incio",
+        "habitantes": "1570",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]

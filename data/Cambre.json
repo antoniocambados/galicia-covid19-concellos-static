@@ -2721,5 +2721,61 @@
         "habitantes": "24648",
         "casos_14d": "93",
         "casos_7d": "43"
+    },
+    {
+        "fecha": "2021-12-15",
+        "municipio": "Cambre",
+        "habitantes": "24648",
+        "casos_14d": "91",
+        "casos_7d": "48"
+    },
+    {
+        "fecha": "2021-12-16",
+        "municipio": "Cambre",
+        "habitantes": "24648",
+        "casos_14d": "90",
+        "casos_7d": "44"
+    },
+    {
+        "fecha": "2021-12-17",
+        "municipio": "Cambre",
+        "habitantes": "24648",
+        "casos_14d": "100",
+        "casos_7d": "55"
+    },
+    {
+        "fecha": "2021-12-18",
+        "municipio": "Cambre",
+        "habitantes": "24648",
+        "casos_14d": "103",
+        "casos_7d": "62"
+    },
+    {
+        "fecha": "2021-12-19",
+        "municipio": "Cambre",
+        "habitantes": "24648",
+        "casos_14d": "114",
+        "casos_7d": "70"
+    },
+    {
+        "fecha": "2021-12-20",
+        "municipio": "Cambre",
+        "habitantes": "24648",
+        "casos_14d": "115",
+        "casos_7d": "73"
+    },
+    {
+        "fecha": "2021-12-21",
+        "municipio": "Cambre",
+        "habitantes": "24648",
+        "casos_14d": "122",
+        "casos_7d": "79"
+    },
+    {
+        "fecha": "2021-12-22",
+        "municipio": "Cambre",
+        "habitantes": "24648",
+        "casos_14d": "127",
+        "casos_7d": "79"
     }
 ]

@@ -2721,5 +2721,61 @@
         "habitantes": "3050",
         "casos_14d": "29",
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-15",
+        "municipio": "Coles",
+        "habitantes": "3050",
+        "casos_14d": "28",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-16",
+        "municipio": "Coles",
+        "habitantes": "3050",
+        "casos_14d": "25",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-17",
+        "municipio": "Coles",
+        "habitantes": "3050",
+        "casos_14d": "22",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-18",
+        "municipio": "Coles",
+        "habitantes": "3050",
+        "casos_14d": "21",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-19",
+        "municipio": "Coles",
+        "habitantes": "3050",
+        "casos_14d": "19",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-20",
+        "municipio": "Coles",
+        "habitantes": "3050",
+        "casos_14d": "20",
+        "casos_7d": "12"
+    },
+    {
+        "fecha": "2021-12-21",
+        "municipio": "Coles",
+        "habitantes": "3050",
+        "casos_14d": "20",
+        "casos_7d": "13"
+    },
+    {
+        "fecha": "2021-12-22",
+        "municipio": "Coles",
+        "habitantes": "3050",
+        "casos_14d": "20",
+        "casos_7d": "13"
     }
 ]

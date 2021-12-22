@@ -2721,5 +2721,61 @@
         "habitantes": "2067",
         "casos_14d": "30",
         "casos_7d": "10"
+    },
+    {
+        "fecha": "2021-12-15",
+        "municipio": "A Pobra de Trives",
+        "habitantes": "2067",
+        "casos_14d": "30",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-16",
+        "municipio": "A Pobra de Trives",
+        "habitantes": "2067",
+        "casos_14d": "28",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-17",
+        "municipio": "A Pobra de Trives",
+        "habitantes": "2067",
+        "casos_14d": "24",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-18",
+        "municipio": "A Pobra de Trives",
+        "habitantes": "2067",
+        "casos_14d": "18",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-19",
+        "municipio": "A Pobra de Trives",
+        "habitantes": "2067",
+        "casos_14d": "13",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-20",
+        "municipio": "A Pobra de Trives",
+        "habitantes": "2067",
+        "casos_14d": "14",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-21",
+        "municipio": "A Pobra de Trives",
+        "habitantes": "2067",
+        "casos_14d": "15",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-22",
+        "municipio": "A Pobra de Trives",
+        "habitantes": "2067",
+        "casos_14d": "15",
+        "casos_7d": null
     }
 ]

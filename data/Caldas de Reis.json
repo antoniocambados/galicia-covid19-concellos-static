@@ -2721,5 +2721,61 @@
         "habitantes": "9785",
         "casos_14d": "38",
         "casos_7d": "25"
+    },
+    {
+        "fecha": "2021-12-15",
+        "municipio": "Caldas de Reis",
+        "habitantes": "9785",
+        "casos_14d": "42",
+        "casos_7d": "27"
+    },
+    {
+        "fecha": "2021-12-16",
+        "municipio": "Caldas de Reis",
+        "habitantes": "9785",
+        "casos_14d": "46",
+        "casos_7d": "28"
+    },
+    {
+        "fecha": "2021-12-17",
+        "municipio": "Caldas de Reis",
+        "habitantes": "9785",
+        "casos_14d": "48",
+        "casos_7d": "29"
+    },
+    {
+        "fecha": "2021-12-18",
+        "municipio": "Caldas de Reis",
+        "habitantes": "9785",
+        "casos_14d": "54",
+        "casos_7d": "35"
+    },
+    {
+        "fecha": "2021-12-19",
+        "municipio": "Caldas de Reis",
+        "habitantes": "9785",
+        "casos_14d": "57",
+        "casos_7d": "34"
+    },
+    {
+        "fecha": "2021-12-20",
+        "municipio": "Caldas de Reis",
+        "habitantes": "9785",
+        "casos_14d": "59",
+        "casos_7d": "30"
+    },
+    {
+        "fecha": "2021-12-21",
+        "municipio": "Caldas de Reis",
+        "habitantes": "9785",
+        "casos_14d": "56",
+        "casos_7d": "31"
+    },
+    {
+        "fecha": "2021-12-22",
+        "municipio": "Caldas de Reis",
+        "habitantes": "9785",
+        "casos_14d": "57",
+        "casos_7d": "30"
     }
 ]

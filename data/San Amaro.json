@@ -2721,5 +2721,61 @@
         "habitantes": "1089",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-15",
+        "municipio": "San Amaro",
+        "habitantes": "1089",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-16",
+        "municipio": "San Amaro",
+        "habitantes": "1089",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-17",
+        "municipio": "San Amaro",
+        "habitantes": "1089",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-18",
+        "municipio": "San Amaro",
+        "habitantes": "1089",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-19",
+        "municipio": "San Amaro",
+        "habitantes": "1089",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-20",
+        "municipio": "San Amaro",
+        "habitantes": "1089",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-21",
+        "municipio": "San Amaro",
+        "habitantes": "1089",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-22",
+        "municipio": "San Amaro",
+        "habitantes": "1089",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]

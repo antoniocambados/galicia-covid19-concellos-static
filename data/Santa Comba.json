@@ -2721,5 +2721,61 @@
         "habitantes": "9426",
         "casos_14d": "15",
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-15",
+        "municipio": "Santa Comba",
+        "habitantes": "9426",
+        "casos_14d": "18",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-16",
+        "municipio": "Santa Comba",
+        "habitantes": "9426",
+        "casos_14d": "20",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-17",
+        "municipio": "Santa Comba",
+        "habitantes": "9426",
+        "casos_14d": "24",
+        "casos_7d": "12"
+    },
+    {
+        "fecha": "2021-12-18",
+        "municipio": "Santa Comba",
+        "habitantes": "9426",
+        "casos_14d": "25",
+        "casos_7d": "14"
+    },
+    {
+        "fecha": "2021-12-19",
+        "municipio": "Santa Comba",
+        "habitantes": "9426",
+        "casos_14d": "27",
+        "casos_7d": "17"
+    },
+    {
+        "fecha": "2021-12-20",
+        "municipio": "Santa Comba",
+        "habitantes": "9426",
+        "casos_14d": "29",
+        "casos_7d": "19"
+    },
+    {
+        "fecha": "2021-12-21",
+        "municipio": "Santa Comba",
+        "habitantes": "9426",
+        "casos_14d": "27",
+        "casos_7d": "18"
+    },
+    {
+        "fecha": "2021-12-22",
+        "municipio": "Santa Comba",
+        "habitantes": "9426",
+        "casos_14d": "30",
+        "casos_7d": "22"
     }
 ]

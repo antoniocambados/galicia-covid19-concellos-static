@@ -2721,5 +2721,61 @@
         "habitantes": "26886",
         "casos_14d": "58",
         "casos_7d": "29"
+    },
+    {
+        "fecha": "2021-12-15",
+        "municipio": "Ribeira",
+        "habitantes": "26886",
+        "casos_14d": "62",
+        "casos_7d": "34"
+    },
+    {
+        "fecha": "2021-12-16",
+        "municipio": "Ribeira",
+        "habitantes": "26886",
+        "casos_14d": "70",
+        "casos_7d": "43"
+    },
+    {
+        "fecha": "2021-12-17",
+        "municipio": "Ribeira",
+        "habitantes": "26886",
+        "casos_14d": "74",
+        "casos_7d": "46"
+    },
+    {
+        "fecha": "2021-12-18",
+        "municipio": "Ribeira",
+        "habitantes": "26886",
+        "casos_14d": "77",
+        "casos_7d": "55"
+    },
+    {
+        "fecha": "2021-12-19",
+        "municipio": "Ribeira",
+        "habitantes": "26886",
+        "casos_14d": "85",
+        "casos_7d": "56"
+    },
+    {
+        "fecha": "2021-12-20",
+        "municipio": "Ribeira",
+        "habitantes": "26886",
+        "casos_14d": "93",
+        "casos_7d": "67"
+    },
+    {
+        "fecha": "2021-12-21",
+        "municipio": "Ribeira",
+        "habitantes": "26886",
+        "casos_14d": "101",
+        "casos_7d": "72"
+    },
+    {
+        "fecha": "2021-12-22",
+        "municipio": "Ribeira",
+        "habitantes": "26886",
+        "casos_14d": "112",
+        "casos_7d": "78"
     }
 ]

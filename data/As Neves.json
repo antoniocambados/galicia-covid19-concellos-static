@@ -2721,5 +2721,61 @@
         "habitantes": "3841",
         "casos_14d": "14",
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-15",
+        "municipio": "As Neves",
+        "habitantes": "3841",
+        "casos_14d": "15",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-16",
+        "municipio": "As Neves",
+        "habitantes": "3841",
+        "casos_14d": "15",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-17",
+        "municipio": "As Neves",
+        "habitantes": "3841",
+        "casos_14d": "14",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-18",
+        "municipio": "As Neves",
+        "habitantes": "3841",
+        "casos_14d": "14",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-19",
+        "municipio": "As Neves",
+        "habitantes": "3841",
+        "casos_14d": "12",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-20",
+        "municipio": "As Neves",
+        "habitantes": "3841",
+        "casos_14d": "16",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-21",
+        "municipio": "As Neves",
+        "habitantes": "3841",
+        "casos_14d": "15",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-22",
+        "municipio": "As Neves",
+        "habitantes": "3841",
+        "casos_14d": "16",
+        "casos_7d": null
     }
 ]

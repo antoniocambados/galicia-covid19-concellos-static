@@ -2721,5 +2721,61 @@
         "habitantes": "9977",
         "casos_14d": "48",
         "casos_7d": "34"
+    },
+    {
+        "fecha": "2021-12-15",
+        "municipio": "A Guarda",
+        "habitantes": "9977",
+        "casos_14d": "50",
+        "casos_7d": "33"
+    },
+    {
+        "fecha": "2021-12-16",
+        "municipio": "A Guarda",
+        "habitantes": "9977",
+        "casos_14d": "52",
+        "casos_7d": "30"
+    },
+    {
+        "fecha": "2021-12-17",
+        "municipio": "A Guarda",
+        "habitantes": "9977",
+        "casos_14d": "55",
+        "casos_7d": "27"
+    },
+    {
+        "fecha": "2021-12-18",
+        "municipio": "A Guarda",
+        "habitantes": "9977",
+        "casos_14d": "60",
+        "casos_7d": "26"
+    },
+    {
+        "fecha": "2021-12-19",
+        "municipio": "A Guarda",
+        "habitantes": "9977",
+        "casos_14d": "64",
+        "casos_7d": "28"
+    },
+    {
+        "fecha": "2021-12-20",
+        "municipio": "A Guarda",
+        "habitantes": "9977",
+        "casos_14d": "73",
+        "casos_7d": "34"
+    },
+    {
+        "fecha": "2021-12-21",
+        "municipio": "A Guarda",
+        "habitantes": "9977",
+        "casos_14d": "71",
+        "casos_7d": "37"
+    },
+    {
+        "fecha": "2021-12-22",
+        "municipio": "A Guarda",
+        "habitantes": "9977",
+        "casos_14d": "75",
+        "casos_7d": "43"
     }
 ]

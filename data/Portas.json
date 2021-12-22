@@ -2721,5 +2721,61 @@
         "habitantes": "2940",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-15",
+        "municipio": "Portas",
+        "habitantes": "2940",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-16",
+        "municipio": "Portas",
+        "habitantes": "2940",
+        "casos_14d": "10",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-17",
+        "municipio": "Portas",
+        "habitantes": "2940",
+        "casos_14d": "11",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-18",
+        "municipio": "Portas",
+        "habitantes": "2940",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-19",
+        "municipio": "Portas",
+        "habitantes": "2940",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-20",
+        "municipio": "Portas",
+        "habitantes": "2940",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-21",
+        "municipio": "Portas",
+        "habitantes": "2940",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-22",
+        "municipio": "Portas",
+        "habitantes": "2940",
+        "casos_14d": "10",
+        "casos_7d": null
     }
 ]

@@ -2721,5 +2721,61 @@
         "habitantes": "6188",
         "casos_14d": "36",
         "casos_7d": "14"
+    },
+    {
+        "fecha": "2021-12-15",
+        "municipio": "Allariz",
+        "habitantes": "6188",
+        "casos_14d": "35",
+        "casos_7d": "17"
+    },
+    {
+        "fecha": "2021-12-16",
+        "municipio": "Allariz",
+        "habitantes": "6188",
+        "casos_14d": "38",
+        "casos_7d": "22"
+    },
+    {
+        "fecha": "2021-12-17",
+        "municipio": "Allariz",
+        "habitantes": "6188",
+        "casos_14d": "43",
+        "casos_7d": "30"
+    },
+    {
+        "fecha": "2021-12-18",
+        "municipio": "Allariz",
+        "habitantes": "6188",
+        "casos_14d": "43",
+        "casos_7d": "33"
+    },
+    {
+        "fecha": "2021-12-19",
+        "municipio": "Allariz",
+        "habitantes": "6188",
+        "casos_14d": "43",
+        "casos_7d": "34"
+    },
+    {
+        "fecha": "2021-12-20",
+        "municipio": "Allariz",
+        "habitantes": "6188",
+        "casos_14d": "41",
+        "casos_7d": "30"
+    },
+    {
+        "fecha": "2021-12-21",
+        "municipio": "Allariz",
+        "habitantes": "6188",
+        "casos_14d": "40",
+        "casos_7d": "26"
+    },
+    {
+        "fecha": "2021-12-22",
+        "municipio": "Allariz",
+        "habitantes": "6188",
+        "casos_14d": "41",
+        "casos_7d": "24"
     }
 ]

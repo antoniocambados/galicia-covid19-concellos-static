@@ -2721,5 +2721,61 @@
         "habitantes": "2886",
         "casos_14d": "11",
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-15",
+        "municipio": "Viana do Bolo",
+        "habitantes": "2886",
+        "casos_14d": "11",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-16",
+        "municipio": "Viana do Bolo",
+        "habitantes": "2886",
+        "casos_14d": "15",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-17",
+        "municipio": "Viana do Bolo",
+        "habitantes": "2886",
+        "casos_14d": "14",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-18",
+        "municipio": "Viana do Bolo",
+        "habitantes": "2886",
+        "casos_14d": "10",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-19",
+        "municipio": "Viana do Bolo",
+        "habitantes": "2886",
+        "casos_14d": "10",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-20",
+        "municipio": "Viana do Bolo",
+        "habitantes": "2886",
+        "casos_14d": "11",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-21",
+        "municipio": "Viana do Bolo",
+        "habitantes": "2886",
+        "casos_14d": "11",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-22",
+        "municipio": "Viana do Bolo",
+        "habitantes": "2886",
+        "casos_14d": "13",
+        "casos_7d": null
     }
 ]

@@ -2721,5 +2721,61 @@
         "habitantes": "19848",
         "casos_14d": "255",
         "casos_7d": "120"
+    },
+    {
+        "fecha": "2021-12-15",
+        "municipio": "O Porri\u00f1o",
+        "habitantes": "19848",
+        "casos_14d": "261",
+        "casos_7d": "135"
+    },
+    {
+        "fecha": "2021-12-16",
+        "municipio": "O Porri\u00f1o",
+        "habitantes": "19848",
+        "casos_14d": "257",
+        "casos_7d": "137"
+    },
+    {
+        "fecha": "2021-12-17",
+        "municipio": "O Porri\u00f1o",
+        "habitantes": "19848",
+        "casos_14d": "262",
+        "casos_7d": "132"
+    },
+    {
+        "fecha": "2021-12-18",
+        "municipio": "O Porri\u00f1o",
+        "habitantes": "19848",
+        "casos_14d": "275",
+        "casos_7d": "146"
+    },
+    {
+        "fecha": "2021-12-19",
+        "municipio": "O Porri\u00f1o",
+        "habitantes": "19848",
+        "casos_14d": "278",
+        "casos_7d": "147"
+    },
+    {
+        "fecha": "2021-12-20",
+        "municipio": "O Porri\u00f1o",
+        "habitantes": "19848",
+        "casos_14d": "283",
+        "casos_7d": "151"
+    },
+    {
+        "fecha": "2021-12-21",
+        "municipio": "O Porri\u00f1o",
+        "habitantes": "19848",
+        "casos_14d": "276",
+        "casos_7d": "156"
+    },
+    {
+        "fecha": "2021-12-22",
+        "municipio": "O Porri\u00f1o",
+        "habitantes": "19848",
+        "casos_14d": "280",
+        "casos_7d": "145"
     }
 ]

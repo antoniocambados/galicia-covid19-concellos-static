@@ -2721,5 +2721,61 @@
         "habitantes": "30402",
         "casos_14d": "97",
         "casos_7d": "64"
+    },
+    {
+        "fecha": "2021-12-15",
+        "municipio": "Culleredo",
+        "habitantes": "30402",
+        "casos_14d": "100",
+        "casos_7d": "63"
+    },
+    {
+        "fecha": "2021-12-16",
+        "municipio": "Culleredo",
+        "habitantes": "30402",
+        "casos_14d": "108",
+        "casos_7d": "69"
+    },
+    {
+        "fecha": "2021-12-17",
+        "municipio": "Culleredo",
+        "habitantes": "30402",
+        "casos_14d": "112",
+        "casos_7d": "69"
+    },
+    {
+        "fecha": "2021-12-18",
+        "municipio": "Culleredo",
+        "habitantes": "30402",
+        "casos_14d": "120",
+        "casos_7d": "66"
+    },
+    {
+        "fecha": "2021-12-19",
+        "municipio": "Culleredo",
+        "habitantes": "30402",
+        "casos_14d": "119",
+        "casos_7d": "68"
+    },
+    {
+        "fecha": "2021-12-20",
+        "municipio": "Culleredo",
+        "habitantes": "30402",
+        "casos_14d": "121",
+        "casos_7d": "67"
+    },
+    {
+        "fecha": "2021-12-21",
+        "municipio": "Culleredo",
+        "habitantes": "30402",
+        "casos_14d": "129",
+        "casos_7d": "65"
+    },
+    {
+        "fecha": "2021-12-22",
+        "municipio": "Culleredo",
+        "habitantes": "30402",
+        "casos_14d": "135",
+        "casos_7d": "72"
     }
 ]

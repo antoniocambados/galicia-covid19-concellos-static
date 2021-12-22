@@ -2721,5 +2721,61 @@
         "habitantes": "2983",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-15",
+        "municipio": "Dumbr\u00eda",
+        "habitantes": "2983",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-16",
+        "municipio": "Dumbr\u00eda",
+        "habitantes": "2983",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-17",
+        "municipio": "Dumbr\u00eda",
+        "habitantes": "2983",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-18",
+        "municipio": "Dumbr\u00eda",
+        "habitantes": "2983",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-19",
+        "municipio": "Dumbr\u00eda",
+        "habitantes": "2983",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-20",
+        "municipio": "Dumbr\u00eda",
+        "habitantes": "2983",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-12-21",
+        "municipio": "Dumbr\u00eda",
+        "habitantes": "2983",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-12-22",
+        "municipio": "Dumbr\u00eda",
+        "habitantes": "2983",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]

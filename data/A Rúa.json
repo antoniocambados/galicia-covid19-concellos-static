@@ -2721,5 +2721,61 @@
         "habitantes": "4314",
         "casos_14d": "64",
         "casos_7d": "59"
+    },
+    {
+        "fecha": "2021-12-15",
+        "municipio": "A R\u00faa",
+        "habitantes": "4314",
+        "casos_14d": "71",
+        "casos_7d": "63"
+    },
+    {
+        "fecha": "2021-12-16",
+        "municipio": "A R\u00faa",
+        "habitantes": "4314",
+        "casos_14d": "72",
+        "casos_7d": "55"
+    },
+    {
+        "fecha": "2021-12-17",
+        "municipio": "A R\u00faa",
+        "habitantes": "4314",
+        "casos_14d": "75",
+        "casos_7d": "52"
+    },
+    {
+        "fecha": "2021-12-18",
+        "municipio": "A R\u00faa",
+        "habitantes": "4314",
+        "casos_14d": "79",
+        "casos_7d": "48"
+    },
+    {
+        "fecha": "2021-12-19",
+        "municipio": "A R\u00faa",
+        "habitantes": "4314",
+        "casos_14d": "79",
+        "casos_7d": "34"
+    },
+    {
+        "fecha": "2021-12-20",
+        "municipio": "A R\u00faa",
+        "habitantes": "4314",
+        "casos_14d": "79",
+        "casos_7d": "30"
+    },
+    {
+        "fecha": "2021-12-21",
+        "municipio": "A R\u00faa",
+        "habitantes": "4314",
+        "casos_14d": "81",
+        "casos_7d": "22"
+    },
+    {
+        "fecha": "2021-12-22",
+        "municipio": "A R\u00faa",
+        "habitantes": "4314",
+        "casos_14d": "83",
+        "casos_7d": "20"
     }
 ]

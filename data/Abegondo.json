@@ -2721,5 +2721,61 @@
         "habitantes": "5406",
         "casos_14d": "19",
         "casos_7d": "14"
+    },
+    {
+        "fecha": "2021-12-15",
+        "municipio": "Abegondo",
+        "habitantes": "5406",
+        "casos_14d": "19",
+        "casos_7d": "14"
+    },
+    {
+        "fecha": "2021-12-16",
+        "municipio": "Abegondo",
+        "habitantes": "5406",
+        "casos_14d": "20",
+        "casos_7d": "14"
+    },
+    {
+        "fecha": "2021-12-17",
+        "municipio": "Abegondo",
+        "habitantes": "5406",
+        "casos_14d": "20",
+        "casos_7d": "12"
+    },
+    {
+        "fecha": "2021-12-18",
+        "municipio": "Abegondo",
+        "habitantes": "5406",
+        "casos_14d": "18",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-19",
+        "municipio": "Abegondo",
+        "habitantes": "5406",
+        "casos_14d": "16",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-20",
+        "municipio": "Abegondo",
+        "habitantes": "5406",
+        "casos_14d": "16",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-21",
+        "municipio": "Abegondo",
+        "habitantes": "5406",
+        "casos_14d": "17",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-22",
+        "municipio": "Abegondo",
+        "habitantes": "5406",
+        "casos_14d": "18",
+        "casos_7d": null
     }
 ]

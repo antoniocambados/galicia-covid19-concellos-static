@@ -2721,5 +2721,61 @@
         "habitantes": "1528",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-15",
+        "municipio": "Bande",
+        "habitantes": "1528",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-12-16",
+        "municipio": "Bande",
+        "habitantes": "1528",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-12-17",
+        "municipio": "Bande",
+        "habitantes": "1528",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-18",
+        "municipio": "Bande",
+        "habitantes": "1528",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-19",
+        "municipio": "Bande",
+        "habitantes": "1528",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-20",
+        "municipio": "Bande",
+        "habitantes": "1528",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-21",
+        "municipio": "Bande",
+        "habitantes": "1528",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-22",
+        "municipio": "Bande",
+        "habitantes": "1528",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]

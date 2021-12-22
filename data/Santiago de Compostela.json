@@ -2721,5 +2721,61 @@
         "habitantes": "97260",
         "casos_14d": "213",
         "casos_7d": "116"
+    },
+    {
+        "fecha": "2021-12-15",
+        "municipio": "Santiago de Compostela",
+        "habitantes": "97260",
+        "casos_14d": "235",
+        "casos_7d": "148"
+    },
+    {
+        "fecha": "2021-12-16",
+        "municipio": "Santiago de Compostela",
+        "habitantes": "97260",
+        "casos_14d": "270",
+        "casos_7d": "172"
+    },
+    {
+        "fecha": "2021-12-17",
+        "municipio": "Santiago de Compostela",
+        "habitantes": "97260",
+        "casos_14d": "320",
+        "casos_7d": "228"
+    },
+    {
+        "fecha": "2021-12-18",
+        "municipio": "Santiago de Compostela",
+        "habitantes": "97260",
+        "casos_14d": "345",
+        "casos_7d": "247"
+    },
+    {
+        "fecha": "2021-12-19",
+        "municipio": "Santiago de Compostela",
+        "habitantes": "97260",
+        "casos_14d": "377",
+        "casos_7d": "286"
+    },
+    {
+        "fecha": "2021-12-20",
+        "municipio": "Santiago de Compostela",
+        "habitantes": "97260",
+        "casos_14d": "424",
+        "casos_7d": "324"
+    },
+    {
+        "fecha": "2021-12-21",
+        "municipio": "Santiago de Compostela",
+        "habitantes": "97260",
+        "casos_14d": "445",
+        "casos_7d": "329"
+    },
+    {
+        "fecha": "2021-12-22",
+        "municipio": "Santiago de Compostela",
+        "habitantes": "97260",
+        "casos_14d": "507",
+        "casos_7d": "359"
     }
 ]

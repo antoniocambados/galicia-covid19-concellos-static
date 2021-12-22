@@ -2721,5 +2721,61 @@
         "habitantes": "14286",
         "casos_14d": "83",
         "casos_7d": "53"
+    },
+    {
+        "fecha": "2021-12-15",
+        "municipio": "Gondomar",
+        "habitantes": "14286",
+        "casos_14d": "90",
+        "casos_7d": "58"
+    },
+    {
+        "fecha": "2021-12-16",
+        "municipio": "Gondomar",
+        "habitantes": "14286",
+        "casos_14d": "91",
+        "casos_7d": "56"
+    },
+    {
+        "fecha": "2021-12-17",
+        "municipio": "Gondomar",
+        "habitantes": "14286",
+        "casos_14d": "97",
+        "casos_7d": "57"
+    },
+    {
+        "fecha": "2021-12-18",
+        "municipio": "Gondomar",
+        "habitantes": "14286",
+        "casos_14d": "102",
+        "casos_7d": "57"
+    },
+    {
+        "fecha": "2021-12-19",
+        "municipio": "Gondomar",
+        "habitantes": "14286",
+        "casos_14d": "109",
+        "casos_7d": "56"
+    },
+    {
+        "fecha": "2021-12-20",
+        "municipio": "Gondomar",
+        "habitantes": "14286",
+        "casos_14d": "124",
+        "casos_7d": "73"
+    },
+    {
+        "fecha": "2021-12-21",
+        "municipio": "Gondomar",
+        "habitantes": "14286",
+        "casos_14d": "130",
+        "casos_7d": "77"
+    },
+    {
+        "fecha": "2021-12-22",
+        "municipio": "Gondomar",
+        "habitantes": "14286",
+        "casos_14d": "154",
+        "casos_7d": "95"
     }
 ]

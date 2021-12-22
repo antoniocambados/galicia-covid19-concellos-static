@@ -2721,5 +2721,61 @@
         "habitantes": "4227",
         "casos_14d": null,
         "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-12-15",
+        "municipio": "Cervo",
+        "habitantes": "4227",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-16",
+        "municipio": "Cervo",
+        "habitantes": "4227",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-17",
+        "municipio": "Cervo",
+        "habitantes": "4227",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-18",
+        "municipio": "Cervo",
+        "habitantes": "4227",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-19",
+        "municipio": "Cervo",
+        "habitantes": "4227",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-20",
+        "municipio": "Cervo",
+        "habitantes": "4227",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-21",
+        "municipio": "Cervo",
+        "habitantes": "4227",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-22",
+        "municipio": "Cervo",
+        "habitantes": "4227",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]

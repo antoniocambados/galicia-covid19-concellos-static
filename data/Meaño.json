@@ -2721,5 +2721,61 @@
         "habitantes": "5272",
         "casos_14d": "16",
         "casos_7d": "11"
+    },
+    {
+        "fecha": "2021-12-15",
+        "municipio": "Mea\u00f1o",
+        "habitantes": "5272",
+        "casos_14d": "19",
+        "casos_7d": "14"
+    },
+    {
+        "fecha": "2021-12-16",
+        "municipio": "Mea\u00f1o",
+        "habitantes": "5272",
+        "casos_14d": "21",
+        "casos_7d": "15"
+    },
+    {
+        "fecha": "2021-12-17",
+        "municipio": "Mea\u00f1o",
+        "habitantes": "5272",
+        "casos_14d": "25",
+        "casos_7d": "19"
+    },
+    {
+        "fecha": "2021-12-18",
+        "municipio": "Mea\u00f1o",
+        "habitantes": "5272",
+        "casos_14d": "25",
+        "casos_7d": "17"
+    },
+    {
+        "fecha": "2021-12-19",
+        "municipio": "Mea\u00f1o",
+        "habitantes": "5272",
+        "casos_14d": "24",
+        "casos_7d": "17"
+    },
+    {
+        "fecha": "2021-12-20",
+        "municipio": "Mea\u00f1o",
+        "habitantes": "5272",
+        "casos_14d": "24",
+        "casos_7d": "14"
+    },
+    {
+        "fecha": "2021-12-21",
+        "municipio": "Mea\u00f1o",
+        "habitantes": "5272",
+        "casos_14d": "20",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-22",
+        "municipio": "Mea\u00f1o",
+        "habitantes": "5272",
+        "casos_14d": "20",
+        "casos_7d": null
     }
 ]

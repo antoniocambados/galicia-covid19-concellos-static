@@ -2721,5 +2721,61 @@
         "habitantes": "1384",
         "casos_14d": "28",
         "casos_7d": "17"
+    },
+    {
+        "fecha": "2021-12-15",
+        "municipio": "Paderne de Allariz",
+        "habitantes": "1384",
+        "casos_14d": "25",
+        "casos_7d": "12"
+    },
+    {
+        "fecha": "2021-12-16",
+        "municipio": "Paderne de Allariz",
+        "habitantes": "1384",
+        "casos_14d": "24",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-17",
+        "municipio": "Paderne de Allariz",
+        "habitantes": "1384",
+        "casos_14d": "24",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-18",
+        "municipio": "Paderne de Allariz",
+        "habitantes": "1384",
+        "casos_14d": "21",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-19",
+        "municipio": "Paderne de Allariz",
+        "habitantes": "1384",
+        "casos_14d": "21",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-20",
+        "municipio": "Paderne de Allariz",
+        "habitantes": "1384",
+        "casos_14d": "19",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-21",
+        "municipio": "Paderne de Allariz",
+        "habitantes": "1384",
+        "casos_14d": "18",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-22",
+        "municipio": "Paderne de Allariz",
+        "habitantes": "1384",
+        "casos_14d": "13",
+        "casos_7d": null
     }
 ]

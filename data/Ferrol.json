@@ -2721,5 +2721,61 @@
         "habitantes": "66065",
         "casos_14d": "211",
         "casos_7d": "111"
+    },
+    {
+        "fecha": "2021-12-15",
+        "municipio": "Ferrol",
+        "habitantes": "66065",
+        "casos_14d": "213",
+        "casos_7d": "106"
+    },
+    {
+        "fecha": "2021-12-16",
+        "municipio": "Ferrol",
+        "habitantes": "66065",
+        "casos_14d": "227",
+        "casos_7d": "125"
+    },
+    {
+        "fecha": "2021-12-17",
+        "municipio": "Ferrol",
+        "habitantes": "66065",
+        "casos_14d": "220",
+        "casos_7d": "122"
+    },
+    {
+        "fecha": "2021-12-18",
+        "municipio": "Ferrol",
+        "habitantes": "66065",
+        "casos_14d": "224",
+        "casos_7d": "117"
+    },
+    {
+        "fecha": "2021-12-19",
+        "municipio": "Ferrol",
+        "habitantes": "66065",
+        "casos_14d": "220",
+        "casos_7d": "119"
+    },
+    {
+        "fecha": "2021-12-20",
+        "municipio": "Ferrol",
+        "habitantes": "66065",
+        "casos_14d": "235",
+        "casos_7d": "125"
+    },
+    {
+        "fecha": "2021-12-21",
+        "municipio": "Ferrol",
+        "habitantes": "66065",
+        "casos_14d": "240",
+        "casos_7d": "128"
+    },
+    {
+        "fecha": "2021-12-22",
+        "municipio": "Ferrol",
+        "habitantes": "66065",
+        "casos_14d": "256",
+        "casos_7d": "149"
     }
 ]

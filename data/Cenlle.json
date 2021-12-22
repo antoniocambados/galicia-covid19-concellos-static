@@ -2721,5 +2721,61 @@
         "habitantes": "1120",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-15",
+        "municipio": "Cenlle",
+        "habitantes": "1120",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-16",
+        "municipio": "Cenlle",
+        "habitantes": "1120",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-17",
+        "municipio": "Cenlle",
+        "habitantes": "1120",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-18",
+        "municipio": "Cenlle",
+        "habitantes": "1120",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-19",
+        "municipio": "Cenlle",
+        "habitantes": "1120",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-20",
+        "municipio": "Cenlle",
+        "habitantes": "1120",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-21",
+        "municipio": "Cenlle",
+        "habitantes": "1120",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-22",
+        "municipio": "Cenlle",
+        "habitantes": "1120",
+        "casos_14d": null,
+        "casos_7d": "0"
     }
 ]

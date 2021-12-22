@@ -2721,5 +2721,61 @@
         "habitantes": "1023",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-15",
+        "municipio": "A Mezquita",
+        "habitantes": "1023",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-16",
+        "municipio": "A Mezquita",
+        "habitantes": "1023",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-17",
+        "municipio": "A Mezquita",
+        "habitantes": "1023",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-18",
+        "municipio": "A Mezquita",
+        "habitantes": "1023",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-19",
+        "municipio": "A Mezquita",
+        "habitantes": "1023",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-20",
+        "municipio": "A Mezquita",
+        "habitantes": "1023",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-21",
+        "municipio": "A Mezquita",
+        "habitantes": "1023",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-22",
+        "municipio": "A Mezquita",
+        "habitantes": "1023",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]

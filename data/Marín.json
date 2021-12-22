@@ -2721,5 +2721,61 @@
         "habitantes": "24319",
         "casos_14d": "195",
         "casos_7d": "85"
+    },
+    {
+        "fecha": "2021-12-15",
+        "municipio": "Mar\u00edn",
+        "habitantes": "24319",
+        "casos_14d": "206",
+        "casos_7d": "98"
+    },
+    {
+        "fecha": "2021-12-16",
+        "municipio": "Mar\u00edn",
+        "habitantes": "24319",
+        "casos_14d": "208",
+        "casos_7d": "98"
+    },
+    {
+        "fecha": "2021-12-17",
+        "municipio": "Mar\u00edn",
+        "habitantes": "24319",
+        "casos_14d": "183",
+        "casos_7d": "92"
+    },
+    {
+        "fecha": "2021-12-18",
+        "municipio": "Mar\u00edn",
+        "habitantes": "24319",
+        "casos_14d": "172",
+        "casos_7d": "74"
+    },
+    {
+        "fecha": "2021-12-19",
+        "municipio": "Mar\u00edn",
+        "habitantes": "24319",
+        "casos_14d": "170",
+        "casos_7d": "78"
+    },
+    {
+        "fecha": "2021-12-20",
+        "municipio": "Mar\u00edn",
+        "habitantes": "24319",
+        "casos_14d": "175",
+        "casos_7d": "76"
+    },
+    {
+        "fecha": "2021-12-21",
+        "municipio": "Mar\u00edn",
+        "habitantes": "24319",
+        "casos_14d": "170",
+        "casos_7d": "85"
+    },
+    {
+        "fecha": "2021-12-22",
+        "municipio": "Mar\u00edn",
+        "habitantes": "24319",
+        "casos_14d": "176",
+        "casos_7d": "78"
     }
 ]

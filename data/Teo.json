@@ -2721,5 +2721,61 @@
         "habitantes": "18579",
         "casos_14d": "26",
         "casos_7d": "19"
+    },
+    {
+        "fecha": "2021-12-15",
+        "municipio": "Teo",
+        "habitantes": "18579",
+        "casos_14d": "31",
+        "casos_7d": "24"
+    },
+    {
+        "fecha": "2021-12-16",
+        "municipio": "Teo",
+        "habitantes": "18579",
+        "casos_14d": "38",
+        "casos_7d": "27"
+    },
+    {
+        "fecha": "2021-12-17",
+        "municipio": "Teo",
+        "habitantes": "18579",
+        "casos_14d": "49",
+        "casos_7d": "36"
+    },
+    {
+        "fecha": "2021-12-18",
+        "municipio": "Teo",
+        "habitantes": "18579",
+        "casos_14d": "55",
+        "casos_7d": "37"
+    },
+    {
+        "fecha": "2021-12-19",
+        "municipio": "Teo",
+        "habitantes": "18579",
+        "casos_14d": "59",
+        "casos_7d": "41"
+    },
+    {
+        "fecha": "2021-12-20",
+        "municipio": "Teo",
+        "habitantes": "18579",
+        "casos_14d": "64",
+        "casos_7d": "44"
+    },
+    {
+        "fecha": "2021-12-21",
+        "municipio": "Teo",
+        "habitantes": "18579",
+        "casos_14d": "65",
+        "casos_7d": "45"
+    },
+    {
+        "fecha": "2021-12-22",
+        "municipio": "Teo",
+        "habitantes": "18579",
+        "casos_14d": "76",
+        "casos_7d": "51"
     }
 ]

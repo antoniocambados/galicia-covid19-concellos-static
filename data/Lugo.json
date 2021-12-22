@@ -2721,5 +2721,61 @@
         "habitantes": "98276",
         "casos_14d": "264",
         "casos_7d": "154"
+    },
+    {
+        "fecha": "2021-12-15",
+        "municipio": "Lugo",
+        "habitantes": "98276",
+        "casos_14d": "280",
+        "casos_7d": "180"
+    },
+    {
+        "fecha": "2021-12-16",
+        "municipio": "Lugo",
+        "habitantes": "98276",
+        "casos_14d": "312",
+        "casos_7d": "208"
+    },
+    {
+        "fecha": "2021-12-17",
+        "municipio": "Lugo",
+        "habitantes": "98276",
+        "casos_14d": "334",
+        "casos_7d": "217"
+    },
+    {
+        "fecha": "2021-12-18",
+        "municipio": "Lugo",
+        "habitantes": "98276",
+        "casos_14d": "350",
+        "casos_7d": "243"
+    },
+    {
+        "fecha": "2021-12-19",
+        "municipio": "Lugo",
+        "habitantes": "98276",
+        "casos_14d": "389",
+        "casos_7d": "272"
+    },
+    {
+        "fecha": "2021-12-20",
+        "municipio": "Lugo",
+        "habitantes": "98276",
+        "casos_14d": "437",
+        "casos_7d": "307"
+    },
+    {
+        "fecha": "2021-12-21",
+        "municipio": "Lugo",
+        "habitantes": "98276",
+        "casos_14d": "457",
+        "casos_7d": "292"
+    },
+    {
+        "fecha": "2021-12-22",
+        "municipio": "Lugo",
+        "habitantes": "98276",
+        "casos_14d": "490",
+        "casos_7d": "310"
     }
 ]

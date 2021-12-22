@@ -2721,5 +2721,61 @@
         "habitantes": "2705",
         "casos_14d": "16",
         "casos_7d": "12"
+    },
+    {
+        "fecha": "2021-12-15",
+        "municipio": "Maside",
+        "habitantes": "2705",
+        "casos_14d": "17",
+        "casos_7d": "13"
+    },
+    {
+        "fecha": "2021-12-16",
+        "municipio": "Maside",
+        "habitantes": "2705",
+        "casos_14d": "19",
+        "casos_7d": "15"
+    },
+    {
+        "fecha": "2021-12-17",
+        "municipio": "Maside",
+        "habitantes": "2705",
+        "casos_14d": "20",
+        "casos_7d": "10"
+    },
+    {
+        "fecha": "2021-12-18",
+        "municipio": "Maside",
+        "habitantes": "2705",
+        "casos_14d": "23",
+        "casos_7d": "11"
+    },
+    {
+        "fecha": "2021-12-19",
+        "municipio": "Maside",
+        "habitantes": "2705",
+        "casos_14d": "23",
+        "casos_7d": "10"
+    },
+    {
+        "fecha": "2021-12-20",
+        "municipio": "Maside",
+        "habitantes": "2705",
+        "casos_14d": "25",
+        "casos_7d": "12"
+    },
+    {
+        "fecha": "2021-12-21",
+        "municipio": "Maside",
+        "habitantes": "2705",
+        "casos_14d": "26",
+        "casos_7d": "14"
+    },
+    {
+        "fecha": "2021-12-22",
+        "municipio": "Maside",
+        "habitantes": "2705",
+        "casos_14d": "28",
+        "casos_7d": "15"
     }
 ]

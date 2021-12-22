@@ -2721,5 +2721,61 @@
         "habitantes": "9980",
         "casos_14d": "17",
         "casos_7d": "15"
+    },
+    {
+        "fecha": "2021-12-15",
+        "municipio": "Foz",
+        "habitantes": "9980",
+        "casos_14d": "16",
+        "casos_7d": "11"
+    },
+    {
+        "fecha": "2021-12-16",
+        "municipio": "Foz",
+        "habitantes": "9980",
+        "casos_14d": "16",
+        "casos_7d": "10"
+    },
+    {
+        "fecha": "2021-12-17",
+        "municipio": "Foz",
+        "habitantes": "9980",
+        "casos_14d": "17",
+        "casos_7d": "11"
+    },
+    {
+        "fecha": "2021-12-18",
+        "municipio": "Foz",
+        "habitantes": "9980",
+        "casos_14d": "17",
+        "casos_7d": "10"
+    },
+    {
+        "fecha": "2021-12-19",
+        "municipio": "Foz",
+        "habitantes": "9980",
+        "casos_14d": "22",
+        "casos_7d": "13"
+    },
+    {
+        "fecha": "2021-12-20",
+        "municipio": "Foz",
+        "habitantes": "9980",
+        "casos_14d": "24",
+        "casos_7d": "10"
+    },
+    {
+        "fecha": "2021-12-21",
+        "municipio": "Foz",
+        "habitantes": "9980",
+        "casos_14d": "24",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-22",
+        "municipio": "Foz",
+        "habitantes": "9980",
+        "casos_14d": "22",
+        "casos_7d": "11"
     }
 ]

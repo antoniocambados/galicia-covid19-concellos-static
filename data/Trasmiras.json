@@ -2721,5 +2721,61 @@
         "habitantes": "1286",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-15",
+        "municipio": "Trasmiras",
+        "habitantes": "1286",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-16",
+        "municipio": "Trasmiras",
+        "habitantes": "1286",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-17",
+        "municipio": "Trasmiras",
+        "habitantes": "1286",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-18",
+        "municipio": "Trasmiras",
+        "habitantes": "1286",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-12-19",
+        "municipio": "Trasmiras",
+        "habitantes": "1286",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-20",
+        "municipio": "Trasmiras",
+        "habitantes": "1286",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-21",
+        "municipio": "Trasmiras",
+        "habitantes": "1286",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-22",
+        "municipio": "Trasmiras",
+        "habitantes": "1286",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]

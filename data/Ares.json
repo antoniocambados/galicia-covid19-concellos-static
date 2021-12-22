@@ -2721,5 +2721,61 @@
         "habitantes": "5732",
         "casos_14d": "21",
         "casos_7d": "17"
+    },
+    {
+        "fecha": "2021-12-15",
+        "municipio": "Ares",
+        "habitantes": "5732",
+        "casos_14d": "21",
+        "casos_7d": "17"
+    },
+    {
+        "fecha": "2021-12-16",
+        "municipio": "Ares",
+        "habitantes": "5732",
+        "casos_14d": "20",
+        "casos_7d": "18"
+    },
+    {
+        "fecha": "2021-12-17",
+        "municipio": "Ares",
+        "habitantes": "5732",
+        "casos_14d": "21",
+        "casos_7d": "19"
+    },
+    {
+        "fecha": "2021-12-18",
+        "municipio": "Ares",
+        "habitantes": "5732",
+        "casos_14d": "22",
+        "casos_7d": "16"
+    },
+    {
+        "fecha": "2021-12-19",
+        "municipio": "Ares",
+        "habitantes": "5732",
+        "casos_14d": "21",
+        "casos_7d": "12"
+    },
+    {
+        "fecha": "2021-12-20",
+        "municipio": "Ares",
+        "habitantes": "5732",
+        "casos_14d": "26",
+        "casos_7d": "15"
+    },
+    {
+        "fecha": "2021-12-21",
+        "municipio": "Ares",
+        "habitantes": "5732",
+        "casos_14d": "32",
+        "casos_7d": "15"
+    },
+    {
+        "fecha": "2021-12-22",
+        "municipio": "Ares",
+        "habitantes": "5732",
+        "casos_14d": "34",
+        "casos_7d": "17"
     }
 ]

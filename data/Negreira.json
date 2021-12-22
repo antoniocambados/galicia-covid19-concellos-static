@@ -2721,5 +2721,61 @@
         "habitantes": "6827",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-15",
+        "municipio": "Negreira",
+        "habitantes": "6827",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-16",
+        "municipio": "Negreira",
+        "habitantes": "6827",
+        "casos_14d": "10",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-17",
+        "municipio": "Negreira",
+        "habitantes": "6827",
+        "casos_14d": "12",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-18",
+        "municipio": "Negreira",
+        "habitantes": "6827",
+        "casos_14d": "12",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-19",
+        "municipio": "Negreira",
+        "habitantes": "6827",
+        "casos_14d": "13",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-20",
+        "municipio": "Negreira",
+        "habitantes": "6827",
+        "casos_14d": "17",
+        "casos_7d": "11"
+    },
+    {
+        "fecha": "2021-12-21",
+        "municipio": "Negreira",
+        "habitantes": "6827",
+        "casos_14d": "20",
+        "casos_7d": "15"
+    },
+    {
+        "fecha": "2021-12-22",
+        "municipio": "Negreira",
+        "habitantes": "6827",
+        "casos_14d": "21",
+        "casos_7d": "15"
     }
 ]

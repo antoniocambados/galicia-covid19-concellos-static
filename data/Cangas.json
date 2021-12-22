@@ -2721,5 +2721,61 @@
         "habitantes": "26542",
         "casos_14d": "162",
         "casos_7d": "96"
+    },
+    {
+        "fecha": "2021-12-15",
+        "municipio": "Cangas",
+        "habitantes": "26542",
+        "casos_14d": "176",
+        "casos_7d": "101"
+    },
+    {
+        "fecha": "2021-12-16",
+        "municipio": "Cangas",
+        "habitantes": "26542",
+        "casos_14d": "174",
+        "casos_7d": "93"
+    },
+    {
+        "fecha": "2021-12-17",
+        "municipio": "Cangas",
+        "habitantes": "26542",
+        "casos_14d": "184",
+        "casos_7d": "97"
+    },
+    {
+        "fecha": "2021-12-18",
+        "municipio": "Cangas",
+        "habitantes": "26542",
+        "casos_14d": "200",
+        "casos_7d": "106"
+    },
+    {
+        "fecha": "2021-12-19",
+        "municipio": "Cangas",
+        "habitantes": "26542",
+        "casos_14d": "201",
+        "casos_7d": "113"
+    },
+    {
+        "fecha": "2021-12-20",
+        "municipio": "Cangas",
+        "habitantes": "26542",
+        "casos_14d": "228",
+        "casos_7d": "132"
+    },
+    {
+        "fecha": "2021-12-21",
+        "municipio": "Cangas",
+        "habitantes": "26542",
+        "casos_14d": "243",
+        "casos_7d": "147"
+    },
+    {
+        "fecha": "2021-12-22",
+        "municipio": "Cangas",
+        "habitantes": "26542",
+        "casos_14d": "265",
+        "casos_7d": "164"
     }
 ]
