@@ -2777,5 +2777,40 @@
         "habitantes": "6282",
         "casos_14d": "11",
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-23",
+        "municipio": "Outes",
+        "habitantes": "6282",
+        "casos_14d": "18",
+        "casos_7d": "13"
+    },
+    {
+        "fecha": "2021-12-24",
+        "municipio": "Outes",
+        "habitantes": "6282",
+        "casos_14d": "18",
+        "casos_7d": "14"
+    },
+    {
+        "fecha": "2021-12-25",
+        "municipio": "Outes",
+        "habitantes": "6282",
+        "casos_14d": "20",
+        "casos_7d": "14"
+    },
+    {
+        "fecha": "2021-12-26",
+        "municipio": "Outes",
+        "habitantes": "6282",
+        "casos_14d": "24",
+        "casos_7d": "17"
+    },
+    {
+        "fecha": "2021-12-27",
+        "municipio": "Outes",
+        "habitantes": "6282",
+        "casos_14d": "28",
+        "casos_7d": "20"
     }
 ]

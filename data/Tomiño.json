@@ -2777,5 +2777,40 @@
         "habitantes": "13499",
         "casos_14d": "80",
         "casos_7d": "43"
+    },
+    {
+        "fecha": "2021-12-23",
+        "municipio": "Tomi\u00f1o",
+        "habitantes": "13499",
+        "casos_14d": "81",
+        "casos_7d": "43"
+    },
+    {
+        "fecha": "2021-12-24",
+        "municipio": "Tomi\u00f1o",
+        "habitantes": "13499",
+        "casos_14d": "84",
+        "casos_7d": "43"
+    },
+    {
+        "fecha": "2021-12-25",
+        "municipio": "Tomi\u00f1o",
+        "habitantes": "13499",
+        "casos_14d": "88",
+        "casos_7d": "48"
+    },
+    {
+        "fecha": "2021-12-26",
+        "municipio": "Tomi\u00f1o",
+        "habitantes": "13499",
+        "casos_14d": "100",
+        "casos_7d": "55"
+    },
+    {
+        "fecha": "2021-12-27",
+        "municipio": "Tomi\u00f1o",
+        "habitantes": "13499",
+        "casos_14d": "108",
+        "casos_7d": "62"
     }
 ]

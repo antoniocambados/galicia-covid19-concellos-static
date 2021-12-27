@@ -2777,5 +2777,40 @@
         "habitantes": "1708",
         "casos_14d": "0",
         "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-12-23",
+        "municipio": "Lobios",
+        "habitantes": "1708",
+        "casos_14d": "0",
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-12-24",
+        "municipio": "Lobios",
+        "habitantes": "1708",
+        "casos_14d": "0",
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-12-25",
+        "municipio": "Lobios",
+        "habitantes": "1708",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-26",
+        "municipio": "Lobios",
+        "habitantes": "1708",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-27",
+        "municipio": "Lobios",
+        "habitantes": "1708",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]

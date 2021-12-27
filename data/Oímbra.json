@@ -2777,5 +2777,40 @@
         "habitantes": "1712",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-23",
+        "municipio": "O\u00edmbra",
+        "habitantes": "1712",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-24",
+        "municipio": "O\u00edmbra",
+        "habitantes": "1712",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-25",
+        "municipio": "O\u00edmbra",
+        "habitantes": "1712",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-26",
+        "municipio": "O\u00edmbra",
+        "habitantes": "1712",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-27",
+        "municipio": "O\u00edmbra",
+        "habitantes": "1712",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]

@@ -2777,5 +2777,40 @@
         "habitantes": "766",
         "casos_14d": null,
         "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-12-23",
+        "municipio": "Os Blancos",
+        "habitantes": "766",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-12-24",
+        "municipio": "Os Blancos",
+        "habitantes": "766",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-12-25",
+        "municipio": "Os Blancos",
+        "habitantes": "766",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-12-26",
+        "municipio": "Os Blancos",
+        "habitantes": "766",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-27",
+        "municipio": "Os Blancos",
+        "habitantes": "766",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]

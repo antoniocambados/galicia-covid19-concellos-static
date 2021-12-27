@@ -2777,5 +2777,40 @@
         "habitantes": "5036",
         "casos_14d": "22",
         "casos_7d": "12"
+    },
+    {
+        "fecha": "2021-12-23",
+        "municipio": "Vedra",
+        "habitantes": "5036",
+        "casos_14d": "24",
+        "casos_7d": "12"
+    },
+    {
+        "fecha": "2021-12-24",
+        "municipio": "Vedra",
+        "habitantes": "5036",
+        "casos_14d": "26",
+        "casos_7d": "15"
+    },
+    {
+        "fecha": "2021-12-25",
+        "municipio": "Vedra",
+        "habitantes": "5036",
+        "casos_14d": "33",
+        "casos_7d": "22"
+    },
+    {
+        "fecha": "2021-12-26",
+        "municipio": "Vedra",
+        "habitantes": "5036",
+        "casos_14d": "31",
+        "casos_7d": "21"
+    },
+    {
+        "fecha": "2021-12-27",
+        "municipio": "Vedra",
+        "habitantes": "5036",
+        "casos_14d": "32",
+        "casos_7d": "19"
     }
 ]

@@ -2777,5 +2777,40 @@
         "habitantes": "6563",
         "casos_14d": "12",
         "casos_7d": "10"
+    },
+    {
+        "fecha": "2021-12-23",
+        "municipio": "Valdovi\u00f1o",
+        "habitantes": "6563",
+        "casos_14d": "15",
+        "casos_7d": "13"
+    },
+    {
+        "fecha": "2021-12-24",
+        "municipio": "Valdovi\u00f1o",
+        "habitantes": "6563",
+        "casos_14d": "25",
+        "casos_7d": "21"
+    },
+    {
+        "fecha": "2021-12-25",
+        "municipio": "Valdovi\u00f1o",
+        "habitantes": "6563",
+        "casos_14d": "36",
+        "casos_7d": "32"
+    },
+    {
+        "fecha": "2021-12-26",
+        "municipio": "Valdovi\u00f1o",
+        "habitantes": "6563",
+        "casos_14d": "42",
+        "casos_7d": "38"
+    },
+    {
+        "fecha": "2021-12-27",
+        "municipio": "Valdovi\u00f1o",
+        "habitantes": "6563",
+        "casos_14d": "51",
+        "casos_7d": "47"
     }
 ]

@@ -2777,5 +2777,40 @@
         "habitantes": "2983",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-23",
+        "municipio": "Dumbr\u00eda",
+        "habitantes": "2983",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-24",
+        "municipio": "Dumbr\u00eda",
+        "habitantes": "2983",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-25",
+        "municipio": "Dumbr\u00eda",
+        "habitantes": "2983",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-26",
+        "municipio": "Dumbr\u00eda",
+        "habitantes": "2983",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-27",
+        "municipio": "Dumbr\u00eda",
+        "habitantes": "2983",
+        "casos_14d": "12",
+        "casos_7d": "12"
     }
 ]

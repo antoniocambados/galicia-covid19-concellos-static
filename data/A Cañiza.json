@@ -2777,5 +2777,40 @@
         "habitantes": "5180",
         "casos_14d": "29",
         "casos_7d": "16"
+    },
+    {
+        "fecha": "2021-12-23",
+        "municipio": "A Ca\u00f1iza",
+        "habitantes": "5180",
+        "casos_14d": "31",
+        "casos_7d": "16"
+    },
+    {
+        "fecha": "2021-12-24",
+        "municipio": "A Ca\u00f1iza",
+        "habitantes": "5180",
+        "casos_14d": "39",
+        "casos_7d": "25"
+    },
+    {
+        "fecha": "2021-12-25",
+        "municipio": "A Ca\u00f1iza",
+        "habitantes": "5180",
+        "casos_14d": "48",
+        "casos_7d": "27"
+    },
+    {
+        "fecha": "2021-12-26",
+        "municipio": "A Ca\u00f1iza",
+        "habitantes": "5180",
+        "casos_14d": "54",
+        "casos_7d": "37"
+    },
+    {
+        "fecha": "2021-12-27",
+        "municipio": "A Ca\u00f1iza",
+        "habitantes": "5180",
+        "casos_14d": "61",
+        "casos_7d": "44"
     }
 ]

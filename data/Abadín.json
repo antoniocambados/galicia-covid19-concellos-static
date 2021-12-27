@@ -2777,5 +2777,40 @@
         "habitantes": "2367",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-23",
+        "municipio": "Abad\u00edn",
+        "habitantes": "2367",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-24",
+        "municipio": "Abad\u00edn",
+        "habitantes": "2367",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-25",
+        "municipio": "Abad\u00edn",
+        "habitantes": "2367",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-26",
+        "municipio": "Abad\u00edn",
+        "habitantes": "2367",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-27",
+        "municipio": "Abad\u00edn",
+        "habitantes": "2367",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]

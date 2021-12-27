@@ -2777,5 +2777,40 @@
         "habitantes": "1501",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-23",
+        "municipio": "R\u00e1bade",
+        "habitantes": "1501",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-24",
+        "municipio": "R\u00e1bade",
+        "habitantes": "1501",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-25",
+        "municipio": "R\u00e1bade",
+        "habitantes": "1501",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-26",
+        "municipio": "R\u00e1bade",
+        "habitantes": "1501",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-27",
+        "municipio": "R\u00e1bade",
+        "habitantes": "1501",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]

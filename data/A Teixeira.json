@@ -2777,5 +2777,40 @@
         "habitantes": "316",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-23",
+        "municipio": "A Teixeira",
+        "habitantes": "316",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2021-12-24",
+        "municipio": "A Teixeira",
+        "habitantes": "316",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-25",
+        "municipio": "A Teixeira",
+        "habitantes": "316",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-26",
+        "municipio": "A Teixeira",
+        "habitantes": "316",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-27",
+        "municipio": "A Teixeira",
+        "habitantes": "316",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]

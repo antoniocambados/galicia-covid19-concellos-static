@@ -2777,5 +2777,40 @@
         "habitantes": "13744",
         "casos_14d": "112",
         "casos_7d": "56"
+    },
+    {
+        "fecha": "2021-12-23",
+        "municipio": "Cambados",
+        "habitantes": "13744",
+        "casos_14d": "127",
+        "casos_7d": "65"
+    },
+    {
+        "fecha": "2021-12-24",
+        "municipio": "Cambados",
+        "habitantes": "13744",
+        "casos_14d": "137",
+        "casos_7d": "77"
+    },
+    {
+        "fecha": "2021-12-25",
+        "municipio": "Cambados",
+        "habitantes": "13744",
+        "casos_14d": "139",
+        "casos_7d": "80"
+    },
+    {
+        "fecha": "2021-12-26",
+        "municipio": "Cambados",
+        "habitantes": "13744",
+        "casos_14d": "151",
+        "casos_7d": "87"
+    },
+    {
+        "fecha": "2021-12-27",
+        "municipio": "Cambados",
+        "habitantes": "13744",
+        "casos_14d": "166",
+        "casos_7d": "103"
     }
 ]

@@ -2777,5 +2777,40 @@
         "habitantes": "8384",
         "casos_14d": "15",
         "casos_7d": "10"
+    },
+    {
+        "fecha": "2021-12-23",
+        "municipio": "Padr\u00f3n",
+        "habitantes": "8384",
+        "casos_14d": "20",
+        "casos_7d": "14"
+    },
+    {
+        "fecha": "2021-12-24",
+        "municipio": "Padr\u00f3n",
+        "habitantes": "8384",
+        "casos_14d": "22",
+        "casos_7d": "16"
+    },
+    {
+        "fecha": "2021-12-25",
+        "municipio": "Padr\u00f3n",
+        "habitantes": "8384",
+        "casos_14d": "35",
+        "casos_7d": "27"
+    },
+    {
+        "fecha": "2021-12-26",
+        "municipio": "Padr\u00f3n",
+        "habitantes": "8384",
+        "casos_14d": "42",
+        "casos_7d": "33"
+    },
+    {
+        "fecha": "2021-12-27",
+        "municipio": "Padr\u00f3n",
+        "habitantes": "8384",
+        "casos_14d": "43",
+        "casos_7d": "31"
     }
 ]

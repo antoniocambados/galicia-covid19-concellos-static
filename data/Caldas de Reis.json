@@ -2777,5 +2777,40 @@
         "habitantes": "9785",
         "casos_14d": "57",
         "casos_7d": "30"
+    },
+    {
+        "fecha": "2021-12-23",
+        "municipio": "Caldas de Reis",
+        "habitantes": "9785",
+        "casos_14d": "64",
+        "casos_7d": "36"
+    },
+    {
+        "fecha": "2021-12-24",
+        "municipio": "Caldas de Reis",
+        "habitantes": "9785",
+        "casos_14d": "63",
+        "casos_7d": "34"
+    },
+    {
+        "fecha": "2021-12-25",
+        "municipio": "Caldas de Reis",
+        "habitantes": "9785",
+        "casos_14d": "69",
+        "casos_7d": "34"
+    },
+    {
+        "fecha": "2021-12-26",
+        "municipio": "Caldas de Reis",
+        "habitantes": "9785",
+        "casos_14d": "64",
+        "casos_7d": "30"
+    },
+    {
+        "fecha": "2021-12-27",
+        "municipio": "Caldas de Reis",
+        "habitantes": "9785",
+        "casos_14d": "66",
+        "casos_7d": "36"
     }
 ]

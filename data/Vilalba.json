@@ -2777,5 +2777,40 @@
         "habitantes": "14072",
         "casos_14d": "19",
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-23",
+        "municipio": "Vilalba",
+        "habitantes": "14072",
+        "casos_14d": "35",
+        "casos_7d": "25"
+    },
+    {
+        "fecha": "2021-12-24",
+        "municipio": "Vilalba",
+        "habitantes": "14072",
+        "casos_14d": "45",
+        "casos_7d": "36"
+    },
+    {
+        "fecha": "2021-12-25",
+        "municipio": "Vilalba",
+        "habitantes": "14072",
+        "casos_14d": "73",
+        "casos_7d": "65"
+    },
+    {
+        "fecha": "2021-12-26",
+        "municipio": "Vilalba",
+        "habitantes": "14072",
+        "casos_14d": "101",
+        "casos_7d": "93"
+    },
+    {
+        "fecha": "2021-12-27",
+        "municipio": "Vilalba",
+        "habitantes": "14072",
+        "casos_14d": "124",
+        "casos_7d": "118"
     }
 ]

@@ -2777,5 +2777,40 @@
         "habitantes": "1616",
         "casos_14d": "12",
         "casos_7d": "10"
+    },
+    {
+        "fecha": "2021-12-23",
+        "municipio": "Fornelos de Montes",
+        "habitantes": "1616",
+        "casos_14d": "12",
+        "casos_7d": "10"
+    },
+    {
+        "fecha": "2021-12-24",
+        "municipio": "Fornelos de Montes",
+        "habitantes": "1616",
+        "casos_14d": "12",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-25",
+        "municipio": "Fornelos de Montes",
+        "habitantes": "1616",
+        "casos_14d": "14",
+        "casos_7d": "10"
+    },
+    {
+        "fecha": "2021-12-26",
+        "municipio": "Fornelos de Montes",
+        "habitantes": "1616",
+        "casos_14d": "16",
+        "casos_7d": "10"
+    },
+    {
+        "fecha": "2021-12-27",
+        "municipio": "Fornelos de Montes",
+        "habitantes": "1616",
+        "casos_14d": "17",
+        "casos_7d": "10"
     }
 ]

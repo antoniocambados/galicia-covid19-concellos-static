@@ -2777,5 +2777,40 @@
         "habitantes": "6041",
         "casos_14d": "19",
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-23",
+        "municipio": "Arz\u00faa",
+        "habitantes": "6041",
+        "casos_14d": "19",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-24",
+        "municipio": "Arz\u00faa",
+        "habitantes": "6041",
+        "casos_14d": "24",
+        "casos_7d": "11"
+    },
+    {
+        "fecha": "2021-12-25",
+        "municipio": "Arz\u00faa",
+        "habitantes": "6041",
+        "casos_14d": "24",
+        "casos_7d": "14"
+    },
+    {
+        "fecha": "2021-12-26",
+        "municipio": "Arz\u00faa",
+        "habitantes": "6041",
+        "casos_14d": "22",
+        "casos_7d": "13"
+    },
+    {
+        "fecha": "2021-12-27",
+        "municipio": "Arz\u00faa",
+        "habitantes": "6041",
+        "casos_14d": "24",
+        "casos_7d": "13"
     }
 ]

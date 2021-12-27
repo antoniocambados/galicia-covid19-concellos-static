@@ -2777,5 +2777,40 @@
         "habitantes": "3113",
         "casos_14d": "19",
         "casos_7d": "15"
+    },
+    {
+        "fecha": "2021-12-23",
+        "municipio": "Trazo",
+        "habitantes": "3113",
+        "casos_14d": "20",
+        "casos_7d": "13"
+    },
+    {
+        "fecha": "2021-12-24",
+        "municipio": "Trazo",
+        "habitantes": "3113",
+        "casos_14d": "22",
+        "casos_7d": "14"
+    },
+    {
+        "fecha": "2021-12-25",
+        "municipio": "Trazo",
+        "habitantes": "3113",
+        "casos_14d": "22",
+        "casos_7d": "10"
+    },
+    {
+        "fecha": "2021-12-26",
+        "municipio": "Trazo",
+        "habitantes": "3113",
+        "casos_14d": "22",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-27",
+        "municipio": "Trazo",
+        "habitantes": "3113",
+        "casos_14d": "21",
+        "casos_7d": null
     }
 ]

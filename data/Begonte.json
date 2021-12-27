@@ -2777,5 +2777,40 @@
         "habitantes": "3026",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-23",
+        "municipio": "Begonte",
+        "habitantes": "3026",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-24",
+        "municipio": "Begonte",
+        "habitantes": "3026",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-25",
+        "municipio": "Begonte",
+        "habitantes": "3026",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-26",
+        "municipio": "Begonte",
+        "habitantes": "3026",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-27",
+        "municipio": "Begonte",
+        "habitantes": "3026",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]
