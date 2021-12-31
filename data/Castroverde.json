@@ -2833,5 +2833,12 @@
         "habitantes": "2617",
         "casos_14d": "30",
         "casos_7d": "24"
+    },
+    {
+        "fecha": "2021-12-31",
+        "municipio": "Castroverde",
+        "habitantes": "2617",
+        "casos_14d": "31",
+        "casos_7d": "21"
     }
 ]

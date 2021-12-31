@@ -2833,5 +2833,12 @@
         "habitantes": "2818",
         "casos_14d": "21",
         "casos_7d": "20"
+    },
+    {
+        "fecha": "2021-12-31",
+        "municipio": "Becerre\u00e1",
+        "habitantes": "2818",
+        "casos_14d": "23",
+        "casos_7d": "21"
     }
 ]

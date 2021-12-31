@@ -2833,5 +2833,12 @@
         "habitantes": "17082",
         "casos_14d": "232",
         "casos_7d": "146"
+    },
+    {
+        "fecha": "2021-12-31",
+        "municipio": "Poio",
+        "habitantes": "17082",
+        "casos_14d": "260",
+        "casos_7d": "163"
     }
 ]

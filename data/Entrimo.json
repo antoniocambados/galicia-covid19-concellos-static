@@ -2833,5 +2833,12 @@
         "habitantes": "1140",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-31",
+        "municipio": "Entrimo",
+        "habitantes": "1140",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]

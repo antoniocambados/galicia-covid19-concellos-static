@@ -2833,5 +2833,12 @@
         "habitantes": "12122",
         "casos_14d": "387",
         "casos_7d": "261"
+    },
+    {
+        "fecha": "2021-12-31",
+        "municipio": "Baiona",
+        "habitantes": "12122",
+        "casos_14d": "433",
+        "casos_7d": "278"
     }
 ]

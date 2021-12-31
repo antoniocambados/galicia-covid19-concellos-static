@@ -2833,5 +2833,12 @@
         "habitantes": "4657",
         "casos_14d": "45",
         "casos_7d": "36"
+    },
+    {
+        "fecha": "2021-12-31",
+        "municipio": "Mux\u00eda",
+        "habitantes": "4657",
+        "casos_14d": "59",
+        "casos_7d": "50"
     }
 ]
