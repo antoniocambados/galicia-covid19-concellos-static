@@ -2812,5 +2812,26 @@
         "habitantes": "1584",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-28",
+        "municipio": "Ramir\u00e1s",
+        "habitantes": "1584",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-29",
+        "municipio": "Ramir\u00e1s",
+        "habitantes": "1584",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-30",
+        "municipio": "Ramir\u00e1s",
+        "habitantes": "1584",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]

@@ -2812,5 +2812,26 @@
         "habitantes": "511",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-28",
+        "municipio": "Pontedeva",
+        "habitantes": "511",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-29",
+        "municipio": "Pontedeva",
+        "habitantes": "511",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-30",
+        "municipio": "Pontedeva",
+        "habitantes": "511",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]

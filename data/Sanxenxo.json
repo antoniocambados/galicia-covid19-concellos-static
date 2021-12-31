@@ -2812,5 +2812,26 @@
         "habitantes": "17347",
         "casos_14d": "143",
         "casos_7d": "100"
+    },
+    {
+        "fecha": "2021-12-28",
+        "municipio": "Sanxenxo",
+        "habitantes": "17347",
+        "casos_14d": "161",
+        "casos_7d": "115"
+    },
+    {
+        "fecha": "2021-12-29",
+        "municipio": "Sanxenxo",
+        "habitantes": "17347",
+        "casos_14d": "174",
+        "casos_7d": "123"
+    },
+    {
+        "fecha": "2021-12-30",
+        "municipio": "Sanxenxo",
+        "habitantes": "17347",
+        "casos_14d": "184",
+        "casos_7d": "131"
     }
 ]

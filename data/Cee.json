@@ -2812,5 +2812,26 @@
         "habitantes": "7546",
         "casos_14d": "73",
         "casos_7d": "61"
+    },
+    {
+        "fecha": "2021-12-28",
+        "municipio": "Cee",
+        "habitantes": "7546",
+        "casos_14d": "78",
+        "casos_7d": "64"
+    },
+    {
+        "fecha": "2021-12-29",
+        "municipio": "Cee",
+        "habitantes": "7546",
+        "casos_14d": "94",
+        "casos_7d": "73"
+    },
+    {
+        "fecha": "2021-12-30",
+        "municipio": "Cee",
+        "habitantes": "7546",
+        "casos_14d": "109",
+        "casos_7d": "78"
     }
 ]

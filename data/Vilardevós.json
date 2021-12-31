@@ -2812,5 +2812,26 @@
         "habitantes": "1846",
         "casos_14d": "16",
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-28",
+        "municipio": "Vilardev\u00f3s",
+        "habitantes": "1846",
+        "casos_14d": "16",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-29",
+        "municipio": "Vilardev\u00f3s",
+        "habitantes": "1846",
+        "casos_14d": "17",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-30",
+        "municipio": "Vilardev\u00f3s",
+        "habitantes": "1846",
+        "casos_14d": "13",
+        "casos_7d": null
     }
 ]

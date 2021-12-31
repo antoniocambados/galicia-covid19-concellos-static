@@ -2812,5 +2812,26 @@
         "habitantes": "538",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-28",
+        "municipio": "Parada de Sil",
+        "habitantes": "538",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-29",
+        "municipio": "Parada de Sil",
+        "habitantes": "538",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-30",
+        "municipio": "Parada de Sil",
+        "habitantes": "538",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]

@@ -2812,5 +2812,26 @@
         "habitantes": "745",
         "casos_14d": "19",
         "casos_7d": "14"
+    },
+    {
+        "fecha": "2021-12-28",
+        "municipio": "Xunqueira de Espadanedo",
+        "habitantes": "745",
+        "casos_14d": "21",
+        "casos_7d": "14"
+    },
+    {
+        "fecha": "2021-12-29",
+        "municipio": "Xunqueira de Espadanedo",
+        "habitantes": "745",
+        "casos_14d": "24",
+        "casos_7d": "17"
+    },
+    {
+        "fecha": "2021-12-30",
+        "municipio": "Xunqueira de Espadanedo",
+        "habitantes": "745",
+        "casos_14d": "24",
+        "casos_7d": "15"
     }
 ]

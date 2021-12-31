@@ -2812,5 +2812,26 @@
         "habitantes": "5024",
         "casos_14d": "46",
         "casos_7d": "30"
+    },
+    {
+        "fecha": "2021-12-28",
+        "municipio": "Ribadavia",
+        "habitantes": "5024",
+        "casos_14d": "54",
+        "casos_7d": "39"
+    },
+    {
+        "fecha": "2021-12-29",
+        "municipio": "Ribadavia",
+        "habitantes": "5024",
+        "casos_14d": "57",
+        "casos_7d": "41"
+    },
+    {
+        "fecha": "2021-12-30",
+        "municipio": "Ribadavia",
+        "habitantes": "5024",
+        "casos_14d": "76",
+        "casos_7d": "57"
     }
 ]

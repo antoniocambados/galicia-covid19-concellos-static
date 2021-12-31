@@ -2812,5 +2812,26 @@
         "habitantes": "6200",
         "casos_14d": "25",
         "casos_7d": "17"
+    },
+    {
+        "fecha": "2021-12-28",
+        "municipio": "Mi\u00f1o",
+        "habitantes": "6200",
+        "casos_14d": "24",
+        "casos_7d": "16"
+    },
+    {
+        "fecha": "2021-12-29",
+        "municipio": "Mi\u00f1o",
+        "habitantes": "6200",
+        "casos_14d": "26",
+        "casos_7d": "17"
+    },
+    {
+        "fecha": "2021-12-30",
+        "municipio": "Mi\u00f1o",
+        "habitantes": "6200",
+        "casos_14d": "39",
+        "casos_7d": "28"
     }
 ]

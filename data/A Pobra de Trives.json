@@ -2812,5 +2812,26 @@
         "habitantes": "2067",
         "casos_14d": "13",
         "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-28",
+        "municipio": "A Pobra de Trives",
+        "habitantes": "2067",
+        "casos_14d": "13",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-29",
+        "municipio": "A Pobra de Trives",
+        "habitantes": "2067",
+        "casos_14d": "14",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2021-12-30",
+        "municipio": "A Pobra de Trives",
+        "habitantes": "2067",
+        "casos_14d": "15",
+        "casos_7d": "10"
     }
 ]
