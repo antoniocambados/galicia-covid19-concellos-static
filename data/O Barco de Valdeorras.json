@@ -2840,5 +2840,12 @@
         "habitantes": "13395",
         "casos_14d": "331",
         "casos_7d": "213"
+    },
+    {
+        "fecha": "2022-01-01",
+        "municipio": "O Barco de Valdeorras",
+        "habitantes": "13395",
+        "casos_14d": "372",
+        "casos_7d": "253"
     }
 ]

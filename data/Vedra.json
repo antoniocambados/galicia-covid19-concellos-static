@@ -2840,5 +2840,12 @@
         "habitantes": "5036",
         "casos_14d": "73",
         "casos_7d": "58"
+    },
+    {
+        "fecha": "2022-01-01",
+        "municipio": "Vedra",
+        "habitantes": "5036",
+        "casos_14d": "96",
+        "casos_7d": "74"
     }
 ]
