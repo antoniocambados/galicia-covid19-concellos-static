@@ -2847,5 +2847,12 @@
         "habitantes": "4248",
         "casos_14d": "38",
         "casos_7d": "22"
+    },
+    {
+        "fecha": "2022-01-02",
+        "municipio": "Cabana de Berganti\u00f1os",
+        "habitantes": "4248",
+        "casos_14d": "40",
+        "casos_7d": "23"
     }
 ]

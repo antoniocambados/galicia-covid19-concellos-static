@@ -2847,5 +2847,12 @@
         "habitantes": "5052",
         "casos_14d": "39",
         "casos_7d": "30"
+    },
+    {
+        "fecha": "2022-01-02",
+        "municipio": "Castro de Rei",
+        "habitantes": "5052",
+        "casos_14d": "41",
+        "casos_7d": "33"
     }
 ]

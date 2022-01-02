@@ -2847,5 +2847,12 @@
         "habitantes": "98276",
         "casos_14d": "1517",
         "casos_7d": "1073"
+    },
+    {
+        "fecha": "2022-01-02",
+        "municipio": "Lugo",
+        "habitantes": "98276",
+        "casos_14d": "1619",
+        "casos_7d": "1118"
     }
 ]
