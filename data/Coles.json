@@ -2854,5 +2854,12 @@
         "habitantes": "3050",
         "casos_14d": "60",
         "casos_7d": "25"
+    },
+    {
+        "fecha": "2022-01-03",
+        "municipio": "Coles",
+        "habitantes": "3050",
+        "casos_14d": "59",
+        "casos_7d": "28"
     }
 ]

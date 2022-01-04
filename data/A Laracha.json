@@ -2854,5 +2854,12 @@
         "habitantes": "11347",
         "casos_14d": "395",
         "casos_7d": "293"
+    },
+    {
+        "fecha": "2022-01-03",
+        "municipio": "A Laracha",
+        "habitantes": "11347",
+        "casos_14d": "423",
+        "casos_7d": "307"
     }
 ]
