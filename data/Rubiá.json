@@ -2861,5 +2861,19 @@
         "habitantes": "1393",
         "casos_14d": "11",
         "casos_7d": null
+    },
+    {
+        "fecha": "2022-01-04",
+        "municipio": "Rubi\u00e1",
+        "habitantes": "1393",
+        "casos_14d": "12",
+        "casos_7d": "10"
+    },
+    {
+        "fecha": "2022-01-05",
+        "municipio": "Rubi\u00e1",
+        "habitantes": "1393",
+        "casos_14d": "16",
+        "casos_7d": "13"
     }
 ]

@@ -2861,5 +2861,19 @@
         "habitantes": "26886",
         "casos_14d": "699",
         "casos_7d": "552"
+    },
+    {
+        "fecha": "2022-01-04",
+        "municipio": "Ribeira",
+        "habitantes": "26886",
+        "casos_14d": "751",
+        "casos_7d": "566"
+    },
+    {
+        "fecha": "2022-01-05",
+        "municipio": "Ribeira",
+        "habitantes": "26886",
+        "casos_14d": "801",
+        "casos_7d": "550"
     }
 ]

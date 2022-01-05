@@ -2861,5 +2861,19 @@
         "habitantes": "5001",
         "casos_14d": "61",
         "casos_7d": "52"
+    },
+    {
+        "fecha": "2022-01-04",
+        "municipio": "Cerceda",
+        "habitantes": "5001",
+        "casos_14d": "66",
+        "casos_7d": "52"
+    },
+    {
+        "fecha": "2022-01-05",
+        "municipio": "Cerceda",
+        "habitantes": "5001",
+        "casos_14d": "72",
+        "casos_7d": "51"
     }
 ]

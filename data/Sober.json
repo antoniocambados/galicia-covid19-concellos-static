@@ -2861,5 +2861,19 @@
         "habitantes": "2312",
         "casos_14d": "37",
         "casos_7d": "25"
+    },
+    {
+        "fecha": "2022-01-04",
+        "municipio": "Sober",
+        "habitantes": "2312",
+        "casos_14d": "39",
+        "casos_7d": "27"
+    },
+    {
+        "fecha": "2022-01-05",
+        "municipio": "Sober",
+        "habitantes": "2312",
+        "casos_14d": "40",
+        "casos_7d": "28"
     }
 ]

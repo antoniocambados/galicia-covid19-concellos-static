@@ -2861,5 +2861,19 @@
         "habitantes": "1471",
         "casos_14d": "12",
         "casos_7d": null
+    },
+    {
+        "fecha": "2022-01-04",
+        "municipio": "Portomar\u00edn",
+        "habitantes": "1471",
+        "casos_14d": "17",
+        "casos_7d": "12"
+    },
+    {
+        "fecha": "2022-01-05",
+        "municipio": "Portomar\u00edn",
+        "habitantes": "1471",
+        "casos_14d": "18",
+        "casos_7d": "13"
     }
 ]

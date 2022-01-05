@@ -2861,5 +2861,19 @@
         "habitantes": "9819",
         "casos_14d": "156",
         "casos_7d": "79"
+    },
+    {
+        "fecha": "2022-01-04",
+        "municipio": "Salvaterra de Mi\u00f1o",
+        "habitantes": "9819",
+        "casos_14d": "153",
+        "casos_7d": "72"
+    },
+    {
+        "fecha": "2022-01-05",
+        "municipio": "Salvaterra de Mi\u00f1o",
+        "habitantes": "9819",
+        "casos_14d": "146",
+        "casos_7d": "73"
     }
 ]

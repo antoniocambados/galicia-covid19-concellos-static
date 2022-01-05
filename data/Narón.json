@@ -2861,5 +2861,19 @@
         "habitantes": "39080",
         "casos_14d": "706",
         "casos_7d": "455"
+    },
+    {
+        "fecha": "2022-01-04",
+        "municipio": "Nar\u00f3n",
+        "habitantes": "39080",
+        "casos_14d": "755",
+        "casos_7d": "445"
+    },
+    {
+        "fecha": "2022-01-05",
+        "municipio": "Nar\u00f3n",
+        "habitantes": "39080",
+        "casos_14d": "812",
+        "casos_7d": "475"
     }
 ]

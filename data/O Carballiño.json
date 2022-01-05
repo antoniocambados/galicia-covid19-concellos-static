@@ -2861,5 +2861,19 @@
         "habitantes": "14027",
         "casos_14d": "309",
         "casos_7d": "217"
+    },
+    {
+        "fecha": "2022-01-04",
+        "municipio": "O Carballi\u00f1o",
+        "habitantes": "14027",
+        "casos_14d": "343",
+        "casos_7d": "249"
+    },
+    {
+        "fecha": "2022-01-05",
+        "municipio": "O Carballi\u00f1o",
+        "habitantes": "14027",
+        "casos_14d": "354",
+        "casos_7d": "227"
     }
 ]
