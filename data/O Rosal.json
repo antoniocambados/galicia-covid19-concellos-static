@@ -2875,5 +2875,12 @@
         "habitantes": "6234",
         "casos_14d": "94",
         "casos_7d": "49"
+    },
+    {
+        "fecha": "2022-01-06",
+        "municipio": "O Rosal",
+        "habitantes": "6234",
+        "casos_14d": "96",
+        "casos_7d": "40"
     }
 ]

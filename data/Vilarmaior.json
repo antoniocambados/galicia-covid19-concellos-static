@@ -2875,5 +2875,12 @@
         "habitantes": "1226",
         "casos_14d": "14",
         "casos_7d": "10"
+    },
+    {
+        "fecha": "2022-01-06",
+        "municipio": "Vilarmaior",
+        "habitantes": "1226",
+        "casos_14d": "14",
+        "casos_7d": null
     }
 ]

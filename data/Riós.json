@@ -2875,5 +2875,12 @@
         "habitantes": "1516",
         "casos_14d": "22",
         "casos_7d": "17"
+    },
+    {
+        "fecha": "2022-01-06",
+        "municipio": "Ri\u00f3s",
+        "habitantes": "1516",
+        "casos_14d": "29",
+        "casos_7d": "23"
     }
 ]
