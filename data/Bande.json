@@ -2882,5 +2882,19 @@
         "habitantes": "1528",
         "casos_14d": "52",
         "casos_7d": "27"
+    },
+    {
+        "fecha": "2022-01-07",
+        "municipio": "Bande",
+        "habitantes": "1528",
+        "casos_14d": "55",
+        "casos_7d": "21"
+    },
+    {
+        "fecha": "2022-01-08",
+        "municipio": "Bande",
+        "habitantes": "1528",
+        "casos_14d": "56",
+        "casos_7d": "20"
     }
 ]

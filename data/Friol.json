@@ -2882,5 +2882,19 @@
         "habitantes": "3744",
         "casos_14d": "37",
         "casos_7d": "24"
+    },
+    {
+        "fecha": "2022-01-07",
+        "municipio": "Friol",
+        "habitantes": "3744",
+        "casos_14d": "35",
+        "casos_7d": "19"
+    },
+    {
+        "fecha": "2022-01-08",
+        "municipio": "Friol",
+        "habitantes": "3744",
+        "casos_14d": "36",
+        "casos_7d": "14"
     }
 ]

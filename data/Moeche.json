@@ -2882,5 +2882,19 @@
         "habitantes": "1226",
         "casos_14d": "19",
         "casos_7d": "18"
+    },
+    {
+        "fecha": "2022-01-07",
+        "municipio": "Moeche",
+        "habitantes": "1226",
+        "casos_14d": "21",
+        "casos_7d": "17"
+    },
+    {
+        "fecha": "2022-01-08",
+        "municipio": "Moeche",
+        "habitantes": "1226",
+        "casos_14d": "21",
+        "casos_7d": "17"
     }
 ]

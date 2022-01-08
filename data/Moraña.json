@@ -2882,5 +2882,19 @@
         "habitantes": "4179",
         "casos_14d": "59",
         "casos_7d": "41"
+    },
+    {
+        "fecha": "2022-01-07",
+        "municipio": "Mora\u00f1a",
+        "habitantes": "4179",
+        "casos_14d": "64",
+        "casos_7d": "43"
+    },
+    {
+        "fecha": "2022-01-08",
+        "municipio": "Mora\u00f1a",
+        "habitantes": "4179",
+        "casos_14d": "68",
+        "casos_7d": "46"
     }
 ]

@@ -2882,5 +2882,19 @@
         "habitantes": "15466",
         "casos_14d": "230",
         "casos_7d": "140"
+    },
+    {
+        "fecha": "2022-01-07",
+        "municipio": "Viveiro",
+        "habitantes": "15466",
+        "casos_14d": "239",
+        "casos_7d": "137"
+    },
+    {
+        "fecha": "2022-01-08",
+        "municipio": "Viveiro",
+        "habitantes": "15466",
+        "casos_14d": "239",
+        "casos_7d": "122"
     }
 ]

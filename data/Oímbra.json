@@ -2882,5 +2882,19 @@
         "habitantes": "1712",
         "casos_14d": "24",
         "casos_7d": "16"
+    },
+    {
+        "fecha": "2022-01-07",
+        "municipio": "O\u00edmbra",
+        "habitantes": "1712",
+        "casos_14d": "25",
+        "casos_7d": "15"
+    },
+    {
+        "fecha": "2022-01-08",
+        "municipio": "O\u00edmbra",
+        "habitantes": "1712",
+        "casos_14d": "24",
+        "casos_7d": "14"
     }
 ]

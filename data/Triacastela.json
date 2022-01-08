@@ -2882,5 +2882,19 @@
         "habitantes": "641",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2022-01-07",
+        "municipio": "Triacastela",
+        "habitantes": "641",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-01-08",
+        "municipio": "Triacastela",
+        "habitantes": "641",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]

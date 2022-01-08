@@ -2882,5 +2882,19 @@
         "habitantes": "5649",
         "casos_14d": "104",
         "casos_7d": "63"
+    },
+    {
+        "fecha": "2022-01-07",
+        "municipio": "Celanova",
+        "habitantes": "5649",
+        "casos_14d": "118",
+        "casos_7d": "71"
+    },
+    {
+        "fecha": "2022-01-08",
+        "municipio": "Celanova",
+        "habitantes": "5649",
+        "casos_14d": "118",
+        "casos_7d": "70"
     }
 ]

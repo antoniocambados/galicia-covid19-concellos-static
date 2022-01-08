@@ -2882,5 +2882,19 @@
         "habitantes": "10650",
         "casos_14d": "196",
         "casos_7d": "116"
+    },
+    {
+        "fecha": "2022-01-07",
+        "municipio": "O Grove",
+        "habitantes": "10650",
+        "casos_14d": "214",
+        "casos_7d": "128"
+    },
+    {
+        "fecha": "2022-01-08",
+        "municipio": "O Grove",
+        "habitantes": "10650",
+        "casos_14d": "221",
+        "casos_7d": "122"
     }
 ]

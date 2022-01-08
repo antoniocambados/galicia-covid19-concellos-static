@@ -2882,5 +2882,19 @@
         "habitantes": "2445",
         "casos_14d": "33",
         "casos_7d": "18"
+    },
+    {
+        "fecha": "2022-01-07",
+        "municipio": "A Lama",
+        "habitantes": "2445",
+        "casos_14d": "36",
+        "casos_7d": "17"
+    },
+    {
+        "fecha": "2022-01-08",
+        "municipio": "A Lama",
+        "habitantes": "2445",
+        "casos_14d": "34",
+        "casos_7d": "15"
     }
 ]
