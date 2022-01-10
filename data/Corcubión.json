@@ -2896,5 +2896,19 @@
         "habitantes": "1589",
         "casos_14d": "39",
         "casos_7d": "16"
+    },
+    {
+        "fecha": "2022-01-09",
+        "municipio": "Corcubi\u00f3n",
+        "habitantes": "1589",
+        "casos_14d": "38",
+        "casos_7d": "15"
+    },
+    {
+        "fecha": "2022-01-10",
+        "municipio": "Corcubi\u00f3n",
+        "habitantes": "1589",
+        "casos_14d": "38",
+        "casos_7d": "14"
     }
 ]

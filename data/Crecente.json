@@ -2896,5 +2896,19 @@
         "habitantes": "2012",
         "casos_14d": "31",
         "casos_7d": "16"
+    },
+    {
+        "fecha": "2022-01-09",
+        "municipio": "Crecente",
+        "habitantes": "2012",
+        "casos_14d": "30",
+        "casos_7d": "14"
+    },
+    {
+        "fecha": "2022-01-10",
+        "municipio": "Crecente",
+        "habitantes": "2012",
+        "casos_14d": "30",
+        "casos_7d": "13"
     }
 ]

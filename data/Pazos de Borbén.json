@@ -2896,5 +2896,19 @@
         "habitantes": "2999",
         "casos_14d": "44",
         "casos_7d": "15"
+    },
+    {
+        "fecha": "2022-01-09",
+        "municipio": "Pazos de Borb\u00e9n",
+        "habitantes": "2999",
+        "casos_14d": "54",
+        "casos_7d": "30"
+    },
+    {
+        "fecha": "2022-01-10",
+        "municipio": "Pazos de Borb\u00e9n",
+        "habitantes": "2999",
+        "casos_14d": "52",
+        "casos_7d": "32"
     }
 ]

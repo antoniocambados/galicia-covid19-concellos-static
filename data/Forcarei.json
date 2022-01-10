@@ -2896,5 +2896,19 @@
         "habitantes": "3388",
         "casos_14d": "67",
         "casos_7d": "37"
+    },
+    {
+        "fecha": "2022-01-09",
+        "municipio": "Forcarei",
+        "habitantes": "3388",
+        "casos_14d": "66",
+        "casos_7d": "29"
+    },
+    {
+        "fecha": "2022-01-10",
+        "municipio": "Forcarei",
+        "habitantes": "3388",
+        "casos_14d": "63",
+        "casos_7d": "20"
     }
 ]

@@ -2896,5 +2896,19 @@
         "habitantes": "1278",
         "casos_14d": "18",
         "casos_7d": "13"
+    },
+    {
+        "fecha": "2022-01-09",
+        "municipio": "Samos",
+        "habitantes": "1278",
+        "casos_14d": "19",
+        "casos_7d": "13"
+    },
+    {
+        "fecha": "2022-01-10",
+        "municipio": "Samos",
+        "habitantes": "1278",
+        "casos_14d": "18",
+        "casos_7d": null
     }
 ]

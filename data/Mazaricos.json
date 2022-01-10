@@ -2896,5 +2896,19 @@
         "habitantes": "3885",
         "casos_14d": "62",
         "casos_7d": "21"
+    },
+    {
+        "fecha": "2022-01-09",
+        "municipio": "Mazaricos",
+        "habitantes": "3885",
+        "casos_14d": "60",
+        "casos_7d": "22"
+    },
+    {
+        "fecha": "2022-01-10",
+        "municipio": "Mazaricos",
+        "habitantes": "3885",
+        "casos_14d": "60",
+        "casos_7d": "25"
     }
 ]

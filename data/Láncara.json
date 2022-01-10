@@ -2896,5 +2896,19 @@
         "habitantes": "2605",
         "casos_14d": "64",
         "casos_7d": "46"
+    },
+    {
+        "fecha": "2022-01-09",
+        "municipio": "L\u00e1ncara",
+        "habitantes": "2605",
+        "casos_14d": "63",
+        "casos_7d": "43"
+    },
+    {
+        "fecha": "2022-01-10",
+        "municipio": "L\u00e1ncara",
+        "habitantes": "2605",
+        "casos_14d": "63",
+        "casos_7d": "39"
     }
 ]

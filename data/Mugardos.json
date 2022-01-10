@@ -2896,5 +2896,19 @@
         "habitantes": "5245",
         "casos_14d": "90",
         "casos_7d": "54"
+    },
+    {
+        "fecha": "2022-01-09",
+        "municipio": "Mugardos",
+        "habitantes": "5245",
+        "casos_14d": "90",
+        "casos_7d": "57"
+    },
+    {
+        "fecha": "2022-01-10",
+        "municipio": "Mugardos",
+        "habitantes": "5245",
+        "casos_14d": "90",
+        "casos_7d": "55"
     }
 ]

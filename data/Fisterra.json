@@ -2896,5 +2896,19 @@
         "habitantes": "4708",
         "casos_14d": "98",
         "casos_7d": "52"
+    },
+    {
+        "fecha": "2022-01-09",
+        "municipio": "Fisterra",
+        "habitantes": "4708",
+        "casos_14d": "98",
+        "casos_7d": "44"
+    },
+    {
+        "fecha": "2022-01-10",
+        "municipio": "Fisterra",
+        "habitantes": "4708",
+        "casos_14d": "95",
+        "casos_7d": "40"
     }
 ]

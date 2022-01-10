@@ -2896,5 +2896,19 @@
         "habitantes": "7777",
         "casos_14d": "149",
         "casos_7d": "80"
+    },
+    {
+        "fecha": "2022-01-09",
+        "municipio": "Pontedeume",
+        "habitantes": "7777",
+        "casos_14d": "158",
+        "casos_7d": "83"
+    },
+    {
+        "fecha": "2022-01-10",
+        "municipio": "Pontedeume",
+        "habitantes": "7777",
+        "casos_14d": "159",
+        "casos_7d": "81"
     }
 ]

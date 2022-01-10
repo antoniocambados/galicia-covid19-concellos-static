@@ -2896,5 +2896,19 @@
         "habitantes": "820",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2022-01-09",
+        "municipio": "Vilar de Santos",
+        "habitantes": "820",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-01-10",
+        "municipio": "Vilar de Santos",
+        "habitantes": "820",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]

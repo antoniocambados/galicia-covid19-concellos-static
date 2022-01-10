@@ -2896,5 +2896,19 @@
         "habitantes": "2280",
         "casos_14d": "52",
         "casos_7d": "13"
+    },
+    {
+        "fecha": "2022-01-09",
+        "municipio": "Amoeiro",
+        "habitantes": "2280",
+        "casos_14d": "52",
+        "casos_7d": "12"
+    },
+    {
+        "fecha": "2022-01-10",
+        "municipio": "Amoeiro",
+        "habitantes": "2280",
+        "casos_14d": "55",
+        "casos_7d": "17"
     }
 ]

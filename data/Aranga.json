@@ -2896,5 +2896,19 @@
         "habitantes": "1849",
         "casos_14d": "20",
         "casos_7d": null
+    },
+    {
+        "fecha": "2022-01-09",
+        "municipio": "Aranga",
+        "habitantes": "1849",
+        "casos_14d": "18",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-01-10",
+        "municipio": "Aranga",
+        "habitantes": "1849",
+        "casos_14d": "16",
+        "casos_7d": null
     }
 ]

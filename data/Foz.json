@@ -2896,5 +2896,19 @@
         "habitantes": "9980",
         "casos_14d": "95",
         "casos_7d": "50"
+    },
+    {
+        "fecha": "2022-01-09",
+        "municipio": "Foz",
+        "habitantes": "9980",
+        "casos_14d": "103",
+        "casos_7d": "57"
+    },
+    {
+        "fecha": "2022-01-10",
+        "municipio": "Foz",
+        "habitantes": "9980",
+        "casos_14d": "104",
+        "casos_7d": "58"
     }
 ]

@@ -2896,5 +2896,19 @@
         "habitantes": "6041",
         "casos_14d": "55",
         "casos_7d": "36"
+    },
+    {
+        "fecha": "2022-01-09",
+        "municipio": "Arz\u00faa",
+        "habitantes": "6041",
+        "casos_14d": "60",
+        "casos_7d": "38"
+    },
+    {
+        "fecha": "2022-01-10",
+        "municipio": "Arz\u00faa",
+        "habitantes": "6041",
+        "casos_14d": "66",
+        "casos_7d": "43"
     }
 ]
