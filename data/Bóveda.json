@@ -2910,5 +2910,19 @@
         "habitantes": "1481",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2022-01-11",
+        "municipio": "B\u00f3veda",
+        "habitantes": "1481",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-01-12",
+        "municipio": "B\u00f3veda",
+        "habitantes": "1481",
+        "casos_14d": null,
+        "casos_7d": "0"
     }
 ]

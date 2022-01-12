@@ -2910,5 +2910,19 @@
         "habitantes": "12009",
         "casos_14d": "199",
         "casos_7d": "71"
+    },
+    {
+        "fecha": "2022-01-11",
+        "municipio": "Bueu",
+        "habitantes": "12009",
+        "casos_14d": "189",
+        "casos_7d": "69"
+    },
+    {
+        "fecha": "2022-01-12",
+        "municipio": "Bueu",
+        "habitantes": "12009",
+        "casos_14d": "181",
+        "casos_7d": "65"
     }
 ]

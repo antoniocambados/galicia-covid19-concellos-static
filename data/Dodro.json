@@ -2910,5 +2910,19 @@
         "habitantes": "2768",
         "casos_14d": "73",
         "casos_7d": "36"
+    },
+    {
+        "fecha": "2022-01-11",
+        "municipio": "Dodro",
+        "habitantes": "2768",
+        "casos_14d": "75",
+        "casos_7d": "32"
+    },
+    {
+        "fecha": "2022-01-12",
+        "municipio": "Dodro",
+        "habitantes": "2768",
+        "casos_14d": "67",
+        "casos_7d": "19"
     }
 ]

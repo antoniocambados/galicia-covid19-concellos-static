@@ -2910,5 +2910,19 @@
         "habitantes": "1998",
         "casos_14d": "31",
         "casos_7d": "30"
+    },
+    {
+        "fecha": "2022-01-11",
+        "municipio": "Nogueira de Ramu\u00edn",
+        "habitantes": "1998",
+        "casos_14d": "31",
+        "casos_7d": "30"
+    },
+    {
+        "fecha": "2022-01-12",
+        "municipio": "Nogueira de Ramu\u00edn",
+        "habitantes": "1998",
+        "casos_14d": "48",
+        "casos_7d": "44"
     }
 ]

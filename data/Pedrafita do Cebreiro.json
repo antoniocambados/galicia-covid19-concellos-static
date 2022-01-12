@@ -2910,5 +2910,19 @@
         "habitantes": "1001",
         "casos_14d": "13",
         "casos_7d": "12"
+    },
+    {
+        "fecha": "2022-01-11",
+        "municipio": "Pedrafita do Cebreiro",
+        "habitantes": "1001",
+        "casos_14d": "14",
+        "casos_7d": "12"
+    },
+    {
+        "fecha": "2022-01-12",
+        "municipio": "Pedrafita do Cebreiro",
+        "habitantes": "1001",
+        "casos_14d": "14",
+        "casos_7d": "11"
     }
 ]

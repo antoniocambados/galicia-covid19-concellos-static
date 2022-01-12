@@ -2910,5 +2910,19 @@
         "habitantes": "2983",
         "casos_14d": "75",
         "casos_7d": "29"
+    },
+    {
+        "fecha": "2022-01-11",
+        "municipio": "Dumbr\u00eda",
+        "habitantes": "2983",
+        "casos_14d": "68",
+        "casos_7d": "27"
+    },
+    {
+        "fecha": "2022-01-12",
+        "municipio": "Dumbr\u00eda",
+        "habitantes": "2983",
+        "casos_14d": "67",
+        "casos_7d": "27"
     }
 ]

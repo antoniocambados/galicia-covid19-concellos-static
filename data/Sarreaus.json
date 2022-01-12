@@ -2910,5 +2910,19 @@
         "habitantes": "1162",
         "casos_14d": "16",
         "casos_7d": "10"
+    },
+    {
+        "fecha": "2022-01-11",
+        "municipio": "Sarreaus",
+        "habitantes": "1162",
+        "casos_14d": "21",
+        "casos_7d": "15"
+    },
+    {
+        "fecha": "2022-01-12",
+        "municipio": "Sarreaus",
+        "habitantes": "1162",
+        "casos_14d": "21",
+        "casos_7d": "13"
     }
 ]

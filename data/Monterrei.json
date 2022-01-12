@@ -2910,5 +2910,19 @@
         "habitantes": "2529",
         "casos_14d": "39",
         "casos_7d": "21"
+    },
+    {
+        "fecha": "2022-01-11",
+        "municipio": "Monterrei",
+        "habitantes": "2529",
+        "casos_14d": "46",
+        "casos_7d": "30"
+    },
+    {
+        "fecha": "2022-01-12",
+        "municipio": "Monterrei",
+        "habitantes": "2529",
+        "casos_14d": "43",
+        "casos_7d": "26"
     }
 ]
