@@ -2931,5 +2931,12 @@
         "habitantes": "6563",
         "casos_14d": "100",
         "casos_7d": "54"
+    },
+    {
+        "fecha": "2022-01-14",
+        "municipio": "Valdovi\u00f1o",
+        "habitantes": "6563",
+        "casos_14d": "108",
+        "casos_7d": "59"
     }
 ]

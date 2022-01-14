@@ -2931,5 +2931,12 @@
         "habitantes": "1708",
         "casos_14d": "42",
         "casos_7d": "23"
+    },
+    {
+        "fecha": "2022-01-14",
+        "municipio": "Lobios",
+        "habitantes": "1708",
+        "casos_14d": "46",
+        "casos_7d": "25"
     }
 ]

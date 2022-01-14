@@ -2931,5 +2931,12 @@
         "habitantes": "1688",
         "casos_14d": "13",
         "casos_7d": null
+    },
+    {
+        "fecha": "2022-01-14",
+        "municipio": "Alfoz",
+        "habitantes": "1688",
+        "casos_14d": "16",
+        "casos_7d": "11"
     }
 ]
