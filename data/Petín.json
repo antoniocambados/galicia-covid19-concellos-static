@@ -2924,5 +2924,12 @@
         "habitantes": "861",
         "casos_14d": "20",
         "casos_7d": "11"
+    },
+    {
+        "fecha": "2022-01-13",
+        "municipio": "Pet\u00edn",
+        "habitantes": "861",
+        "casos_14d": "22",
+        "casos_7d": "13"
     }
 ]

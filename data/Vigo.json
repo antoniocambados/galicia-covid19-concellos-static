@@ -2924,5 +2924,12 @@
         "habitantes": "295364",
         "casos_14d": "6139",
         "casos_7d": "2739"
+    },
+    {
+        "fecha": "2022-01-13",
+        "municipio": "Vigo",
+        "habitantes": "295364",
+        "casos_14d": "8427",
+        "casos_7d": "4929"
     }
 ]

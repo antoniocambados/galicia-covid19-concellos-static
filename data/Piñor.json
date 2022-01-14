@@ -2924,5 +2924,12 @@
         "habitantes": "1176",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2022-01-13",
+        "municipio": "Pi\u00f1or",
+        "habitantes": "1176",
+        "casos_14d": "11",
+        "casos_7d": null
     }
 ]

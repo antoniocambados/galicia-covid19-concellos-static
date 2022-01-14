@@ -2924,5 +2924,12 @@
         "habitantes": "8192",
         "casos_14d": "142",
         "casos_7d": "64"
+    },
+    {
+        "fecha": "2022-01-13",
+        "municipio": "Chantada",
+        "habitantes": "8192",
+        "casos_14d": "183",
+        "casos_7d": "104"
     }
 ]

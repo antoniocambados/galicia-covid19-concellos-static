@@ -2924,5 +2924,12 @@
         "habitantes": "693",
         "casos_14d": "25",
         "casos_7d": null
+    },
+    {
+        "fecha": "2022-01-13",
+        "municipio": "Punx\u00edn",
+        "habitantes": "693",
+        "casos_14d": "30",
+        "casos_7d": "10"
     }
 ]

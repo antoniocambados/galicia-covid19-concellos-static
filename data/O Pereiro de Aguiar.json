@@ -2924,5 +2924,12 @@
         "habitantes": "6275",
         "casos_14d": "105",
         "casos_7d": "41"
+    },
+    {
+        "fecha": "2022-01-13",
+        "municipio": "O Pereiro de Aguiar",
+        "habitantes": "6275",
+        "casos_14d": "120",
+        "casos_7d": "59"
     }
 ]

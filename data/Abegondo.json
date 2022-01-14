@@ -2924,5 +2924,12 @@
         "habitantes": "5406",
         "casos_14d": "77",
         "casos_7d": "26"
+    },
+    {
+        "fecha": "2022-01-13",
+        "municipio": "Abegondo",
+        "habitantes": "5406",
+        "casos_14d": "98",
+        "casos_7d": "43"
     }
 ]
