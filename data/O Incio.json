@@ -2938,5 +2938,12 @@
         "habitantes": "1570",
         "casos_14d": "13",
         "casos_7d": null
+    },
+    {
+        "fecha": "2022-01-15",
+        "municipio": "O Incio",
+        "habitantes": "1570",
+        "casos_14d": "14",
+        "casos_7d": null
     }
 ]

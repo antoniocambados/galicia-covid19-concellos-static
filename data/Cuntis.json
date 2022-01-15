@@ -2938,5 +2938,12 @@
         "habitantes": "4677",
         "casos_14d": "81",
         "casos_7d": "55"
+    },
+    {
+        "fecha": "2022-01-15",
+        "municipio": "Cuntis",
+        "habitantes": "4677",
+        "casos_14d": "88",
+        "casos_7d": "62"
     }
 ]

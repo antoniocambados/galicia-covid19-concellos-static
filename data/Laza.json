@@ -2938,5 +2938,12 @@
         "habitantes": "1228",
         "casos_14d": "24",
         "casos_7d": "18"
+    },
+    {
+        "fecha": "2022-01-15",
+        "municipio": "Laza",
+        "habitantes": "1228",
+        "casos_14d": "27",
+        "casos_7d": "13"
     }
 ]

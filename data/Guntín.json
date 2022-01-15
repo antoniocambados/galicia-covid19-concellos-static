@@ -2938,5 +2938,12 @@
         "habitantes": "2690",
         "casos_14d": "50",
         "casos_7d": "22"
+    },
+    {
+        "fecha": "2022-01-15",
+        "municipio": "Gunt\u00edn",
+        "habitantes": "2690",
+        "casos_14d": "43",
+        "casos_7d": "22"
     }
 ]
