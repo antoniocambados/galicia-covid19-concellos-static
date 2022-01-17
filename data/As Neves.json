@@ -2945,5 +2945,19 @@
         "habitantes": "3841",
         "casos_14d": "98",
         "casos_7d": "74"
+    },
+    {
+        "fecha": "2022-01-16",
+        "municipio": "As Neves",
+        "habitantes": "3841",
+        "casos_14d": "107",
+        "casos_7d": "80"
+    },
+    {
+        "fecha": "2022-01-17",
+        "municipio": "As Neves",
+        "habitantes": "3841",
+        "casos_14d": "113",
+        "casos_7d": "84"
     }
 ]

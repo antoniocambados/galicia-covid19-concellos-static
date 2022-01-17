@@ -2945,5 +2945,19 @@
         "habitantes": "1519",
         "casos_14d": "22",
         "casos_7d": "11"
+    },
+    {
+        "fecha": "2022-01-16",
+        "municipio": "Ba\u00f1os de Molgas",
+        "habitantes": "1519",
+        "casos_14d": "22",
+        "casos_7d": "11"
+    },
+    {
+        "fecha": "2022-01-17",
+        "municipio": "Ba\u00f1os de Molgas",
+        "habitantes": "1519",
+        "casos_14d": "22",
+        "casos_7d": "11"
     }
 ]

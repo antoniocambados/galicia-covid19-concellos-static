@@ -2945,5 +2945,19 @@
         "habitantes": "397",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2022-01-16",
+        "municipio": "Beade",
+        "habitantes": "397",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-01-17",
+        "municipio": "Beade",
+        "habitantes": "397",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]

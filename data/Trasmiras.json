@@ -2945,5 +2945,19 @@
         "habitantes": "1286",
         "casos_14d": "19",
         "casos_7d": "12"
+    },
+    {
+        "fecha": "2022-01-16",
+        "municipio": "Trasmiras",
+        "habitantes": "1286",
+        "casos_14d": "20",
+        "casos_7d": "13"
+    },
+    {
+        "fecha": "2022-01-17",
+        "municipio": "Trasmiras",
+        "habitantes": "1286",
+        "casos_14d": "22",
+        "casos_7d": "14"
     }
 ]

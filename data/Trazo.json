@@ -2945,5 +2945,19 @@
         "habitantes": "3113",
         "casos_14d": "73",
         "casos_7d": "48"
+    },
+    {
+        "fecha": "2022-01-16",
+        "municipio": "Trazo",
+        "habitantes": "3113",
+        "casos_14d": "79",
+        "casos_7d": "47"
+    },
+    {
+        "fecha": "2022-01-17",
+        "municipio": "Trazo",
+        "habitantes": "3113",
+        "casos_14d": "83",
+        "casos_7d": "45"
     }
 ]

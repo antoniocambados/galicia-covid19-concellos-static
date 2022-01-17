@@ -2945,5 +2945,19 @@
         "habitantes": "1985",
         "casos_14d": "40",
         "casos_7d": "27"
+    },
+    {
+        "fecha": "2022-01-16",
+        "municipio": "Boimorto",
+        "habitantes": "1985",
+        "casos_14d": "41",
+        "casos_7d": "28"
+    },
+    {
+        "fecha": "2022-01-17",
+        "municipio": "Boimorto",
+        "habitantes": "1985",
+        "casos_14d": "41",
+        "casos_7d": "24"
     }
 ]

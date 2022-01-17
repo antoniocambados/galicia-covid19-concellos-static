@@ -2945,5 +2945,19 @@
         "habitantes": "4314",
         "casos_14d": "131",
         "casos_7d": "87"
+    },
+    {
+        "fecha": "2022-01-16",
+        "municipio": "A R\u00faa",
+        "habitantes": "4314",
+        "casos_14d": "134",
+        "casos_7d": "85"
+    },
+    {
+        "fecha": "2022-01-17",
+        "municipio": "A R\u00faa",
+        "habitantes": "4314",
+        "casos_14d": "138",
+        "casos_7d": "84"
     }
 ]

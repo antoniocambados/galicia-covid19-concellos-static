@@ -2945,5 +2945,19 @@
         "habitantes": "1085",
         "casos_14d": "37",
         "casos_7d": "26"
+    },
+    {
+        "fecha": "2022-01-16",
+        "municipio": "Cortegada",
+        "habitantes": "1085",
+        "casos_14d": "43",
+        "casos_7d": "31"
+    },
+    {
+        "fecha": "2022-01-17",
+        "municipio": "Cortegada",
+        "habitantes": "1085",
+        "casos_14d": "43",
+        "casos_7d": "30"
     }
 ]

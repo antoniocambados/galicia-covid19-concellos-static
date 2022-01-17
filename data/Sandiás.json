@@ -2945,5 +2945,19 @@
         "habitantes": "1206",
         "casos_14d": "32",
         "casos_7d": "19"
+    },
+    {
+        "fecha": "2022-01-16",
+        "municipio": "Sandi\u00e1s",
+        "habitantes": "1206",
+        "casos_14d": "39",
+        "casos_7d": "24"
+    },
+    {
+        "fecha": "2022-01-17",
+        "municipio": "Sandi\u00e1s",
+        "habitantes": "1206",
+        "casos_14d": "44",
+        "casos_7d": "26"
     }
 ]

@@ -2945,5 +2945,19 @@
         "habitantes": "12674",
         "casos_14d": "358",
         "casos_7d": "230"
+    },
+    {
+        "fecha": "2022-01-16",
+        "municipio": "Ordes",
+        "habitantes": "12674",
+        "casos_14d": "373",
+        "casos_7d": "245"
+    },
+    {
+        "fecha": "2022-01-17",
+        "municipio": "Ordes",
+        "habitantes": "12674",
+        "casos_14d": "385",
+        "casos_7d": "251"
     }
 ]

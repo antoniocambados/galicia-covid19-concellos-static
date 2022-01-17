@@ -2945,5 +2945,19 @@
         "habitantes": "644",
         "casos_14d": "10",
         "casos_7d": null
+    },
+    {
+        "fecha": "2022-01-16",
+        "municipio": "Mondariz-Balneario",
+        "habitantes": "644",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-01-17",
+        "municipio": "Mondariz-Balneario",
+        "habitantes": "644",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]

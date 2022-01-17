@@ -2945,5 +2945,19 @@
         "habitantes": "2394",
         "casos_14d": "50",
         "casos_7d": "21"
+    },
+    {
+        "fecha": "2022-01-16",
+        "municipio": "Paderne",
+        "habitantes": "2394",
+        "casos_14d": "49",
+        "casos_7d": "20"
+    },
+    {
+        "fecha": "2022-01-17",
+        "municipio": "Paderne",
+        "habitantes": "2394",
+        "casos_14d": "49",
+        "casos_7d": "17"
     }
 ]

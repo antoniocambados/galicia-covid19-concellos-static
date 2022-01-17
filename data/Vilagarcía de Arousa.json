@@ -2945,5 +2945,19 @@
         "habitantes": "37456",
         "casos_14d": "1457",
         "casos_7d": "934"
+    },
+    {
+        "fecha": "2022-01-16",
+        "municipio": "Vilagarc\u00eda de Arousa",
+        "habitantes": "37456",
+        "casos_14d": "1552",
+        "casos_7d": "985"
+    },
+    {
+        "fecha": "2022-01-17",
+        "municipio": "Vilagarc\u00eda de Arousa",
+        "habitantes": "37456",
+        "casos_14d": "1566",
+        "casos_7d": "960"
     }
 ]

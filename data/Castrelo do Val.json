@@ -2945,5 +2945,19 @@
         "habitantes": "984",
         "casos_14d": "26",
         "casos_7d": "20"
+    },
+    {
+        "fecha": "2022-01-16",
+        "municipio": "Castrelo do Val",
+        "habitantes": "984",
+        "casos_14d": "26",
+        "casos_7d": "16"
+    },
+    {
+        "fecha": "2022-01-17",
+        "municipio": "Castrelo do Val",
+        "habitantes": "984",
+        "casos_14d": "26",
+        "casos_7d": "12"
     }
 ]
