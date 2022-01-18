@@ -2959,5 +2959,12 @@
         "habitantes": "2396",
         "casos_14d": "32",
         "casos_7d": "25"
+    },
+    {
+        "fecha": "2022-01-18",
+        "municipio": "Covelo",
+        "habitantes": "2396",
+        "casos_14d": "30",
+        "casos_7d": "28"
     }
 ]

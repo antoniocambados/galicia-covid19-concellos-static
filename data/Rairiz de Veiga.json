@@ -2959,5 +2959,12 @@
         "habitantes": "1266",
         "casos_14d": "29",
         "casos_7d": "19"
+    },
+    {
+        "fecha": "2022-01-18",
+        "municipio": "Rairiz de Veiga",
+        "habitantes": "1266",
+        "casos_14d": "30",
+        "casos_7d": "20"
     }
 ]

@@ -2959,5 +2959,12 @@
         "habitantes": "5484",
         "casos_14d": "187",
         "casos_7d": "127"
+    },
+    {
+        "fecha": "2022-01-18",
+        "municipio": "Guitiriz",
+        "habitantes": "5484",
+        "casos_14d": "191",
+        "casos_7d": "121"
     }
 ]

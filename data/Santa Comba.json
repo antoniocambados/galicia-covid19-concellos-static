@@ -2959,5 +2959,12 @@
         "habitantes": "9426",
         "casos_14d": "263",
         "casos_7d": "157"
+    },
+    {
+        "fecha": "2022-01-18",
+        "municipio": "Santa Comba",
+        "habitantes": "9426",
+        "casos_14d": "269",
+        "casos_7d": "149"
     }
 ]

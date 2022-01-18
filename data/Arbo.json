@@ -2959,5 +2959,12 @@
         "habitantes": "2580",
         "casos_14d": "54",
         "casos_7d": "37"
+    },
+    {
+        "fecha": "2022-01-18",
+        "municipio": "Arbo",
+        "habitantes": "2580",
+        "casos_14d": "56",
+        "casos_7d": "35"
     }
 ]

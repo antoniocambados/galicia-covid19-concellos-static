@@ -2959,5 +2959,12 @@
         "habitantes": "3053",
         "casos_14d": "90",
         "casos_7d": "58"
+    },
+    {
+        "fecha": "2022-01-18",
+        "municipio": "Oia",
+        "habitantes": "3053",
+        "casos_14d": "90",
+        "casos_7d": "61"
     }
 ]

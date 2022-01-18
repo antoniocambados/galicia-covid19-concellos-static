@@ -2959,5 +2959,12 @@
         "habitantes": "2530",
         "casos_14d": "23",
         "casos_7d": "13"
+    },
+    {
+        "fecha": "2022-01-18",
+        "municipio": "Mes\u00eda",
+        "habitantes": "2530",
+        "casos_14d": "25",
+        "casos_7d": "14"
     }
 ]
