@@ -2966,5 +2966,12 @@
         "habitantes": "1089",
         "casos_14d": "30",
         "casos_7d": "15"
+    },
+    {
+        "fecha": "2022-01-19",
+        "municipio": "San Amaro",
+        "habitantes": "1089",
+        "casos_14d": "26",
+        "casos_7d": "13"
     }
 ]

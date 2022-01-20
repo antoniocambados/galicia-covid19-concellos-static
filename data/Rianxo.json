@@ -2966,5 +2966,12 @@
         "habitantes": "11033",
         "casos_14d": "306",
         "casos_7d": "182"
+    },
+    {
+        "fecha": "2022-01-19",
+        "municipio": "Rianxo",
+        "habitantes": "11033",
+        "casos_14d": "315",
+        "casos_7d": "186"
     }
 ]

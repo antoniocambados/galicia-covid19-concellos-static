@@ -2966,5 +2966,12 @@
         "habitantes": "5494",
         "casos_14d": "194",
         "casos_7d": "141"
+    },
+    {
+        "fecha": "2022-01-19",
+        "municipio": "Ponte Caldelas",
+        "habitantes": "5494",
+        "casos_14d": "208",
+        "casos_7d": "149"
     }
 ]

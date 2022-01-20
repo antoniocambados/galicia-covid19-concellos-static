@@ -2966,5 +2966,12 @@
         "habitantes": "1098",
         "casos_14d": "27",
         "casos_7d": "17"
+    },
+    {
+        "fecha": "2022-01-19",
+        "municipio": "As Somozas",
+        "habitantes": "1098",
+        "casos_14d": "27",
+        "casos_7d": "13"
     }
 ]

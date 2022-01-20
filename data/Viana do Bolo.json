@@ -2966,5 +2966,12 @@
         "habitantes": "2886",
         "casos_14d": "93",
         "casos_7d": "46"
+    },
+    {
+        "fecha": "2022-01-19",
+        "municipio": "Viana do Bolo",
+        "habitantes": "2886",
+        "casos_14d": "95",
+        "casos_7d": "47"
     }
 ]
