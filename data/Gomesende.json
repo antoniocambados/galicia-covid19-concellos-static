@@ -2973,5 +2973,12 @@
         "habitantes": "732",
         "casos_14d": "15",
         "casos_7d": null
+    },
+    {
+        "fecha": "2022-01-20",
+        "municipio": "Gomesende",
+        "habitantes": "732",
+        "casos_14d": "16",
+        "casos_7d": null
     }
 ]

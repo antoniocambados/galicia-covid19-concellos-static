@@ -2973,5 +2973,12 @@
         "habitantes": "1262",
         "casos_14d": "11",
         "casos_7d": null
+    },
+    {
+        "fecha": "2022-01-20",
+        "municipio": "Riotorto",
+        "habitantes": "1262",
+        "casos_14d": "14",
+        "casos_7d": null
     }
 ]

@@ -2973,5 +2973,12 @@
         "habitantes": "1568",
         "casos_14d": "28",
         "casos_7d": "15"
+    },
+    {
+        "fecha": "2022-01-20",
+        "municipio": "Leiro",
+        "habitantes": "1568",
+        "casos_14d": "26",
+        "casos_7d": "15"
     }
 ]

@@ -2973,5 +2973,12 @@
         "habitantes": "1725",
         "casos_14d": "37",
         "casos_7d": "21"
+    },
+    {
+        "fecha": "2022-01-20",
+        "municipio": "Meira",
+        "habitantes": "1725",
+        "casos_14d": "41",
+        "casos_7d": "23"
     }
 ]

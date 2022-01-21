@@ -2973,5 +2973,12 @@
         "habitantes": "3574",
         "casos_14d": "58",
         "casos_7d": "33"
+    },
+    {
+        "fecha": "2022-01-20",
+        "municipio": "Touro",
+        "habitantes": "3574",
+        "casos_14d": "59",
+        "casos_7d": "35"
     }
 ]
