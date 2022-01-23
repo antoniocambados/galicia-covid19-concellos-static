@@ -2980,5 +2980,19 @@
         "habitantes": "13744",
         "casos_14d": "645",
         "casos_7d": "338"
+    },
+    {
+        "fecha": "2022-01-21",
+        "municipio": "Cambados",
+        "habitantes": "13744",
+        "casos_14d": "638",
+        "casos_7d": "308"
+    },
+    {
+        "fecha": "2022-01-22",
+        "municipio": "Cambados",
+        "habitantes": "13744",
+        "casos_14d": "658",
+        "casos_7d": "283"
     }
 ]

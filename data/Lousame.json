@@ -2980,5 +2980,19 @@
         "habitantes": "3338",
         "casos_14d": "115",
         "casos_7d": "65"
+    },
+    {
+        "fecha": "2022-01-21",
+        "municipio": "Lousame",
+        "habitantes": "3338",
+        "casos_14d": "116",
+        "casos_7d": "57"
+    },
+    {
+        "fecha": "2022-01-22",
+        "municipio": "Lousame",
+        "habitantes": "3338",
+        "casos_14d": "124",
+        "casos_7d": "53"
     }
 ]

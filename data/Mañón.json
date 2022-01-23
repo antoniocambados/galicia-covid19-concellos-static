@@ -2980,5 +2980,19 @@
         "habitantes": "1356",
         "casos_14d": "18",
         "casos_7d": "14"
+    },
+    {
+        "fecha": "2022-01-21",
+        "municipio": "Ma\u00f1\u00f3n",
+        "habitantes": "1356",
+        "casos_14d": "17",
+        "casos_7d": "13"
+    },
+    {
+        "fecha": "2022-01-22",
+        "municipio": "Ma\u00f1\u00f3n",
+        "habitantes": "1356",
+        "casos_14d": "21",
+        "casos_7d": "14"
     }
 ]

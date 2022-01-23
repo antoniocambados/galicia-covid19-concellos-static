@@ -2980,5 +2980,19 @@
         "habitantes": "519",
         "casos_14d": "10",
         "casos_7d": "0"
+    },
+    {
+        "fecha": "2022-01-21",
+        "municipio": "Vilari\u00f1o de Conso",
+        "habitantes": "519",
+        "casos_14d": "11",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-01-22",
+        "municipio": "Vilari\u00f1o de Conso",
+        "habitantes": "519",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]

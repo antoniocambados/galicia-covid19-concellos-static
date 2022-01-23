@@ -2980,5 +2980,19 @@
         "habitantes": "1502",
         "casos_14d": "23",
         "casos_7d": null
+    },
+    {
+        "fecha": "2022-01-21",
+        "municipio": "Mu\u00ed\u00f1os",
+        "habitantes": "1502",
+        "casos_14d": "23",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-01-22",
+        "municipio": "Mu\u00ed\u00f1os",
+        "habitantes": "1502",
+        "casos_14d": "22",
+        "casos_7d": null
     }
 ]

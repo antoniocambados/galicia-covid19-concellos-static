@@ -2980,5 +2980,19 @@
         "habitantes": "1584",
         "casos_14d": "18",
         "casos_7d": "14"
+    },
+    {
+        "fecha": "2022-01-21",
+        "municipio": "Santiso",
+        "habitantes": "1584",
+        "casos_14d": "24",
+        "casos_7d": "19"
+    },
+    {
+        "fecha": "2022-01-22",
+        "municipio": "Santiso",
+        "habitantes": "1584",
+        "casos_14d": "27",
+        "casos_7d": "22"
     }
 ]

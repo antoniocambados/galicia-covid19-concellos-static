@@ -2980,5 +2980,19 @@
         "habitantes": "4440",
         "casos_14d": "121",
         "casos_7d": "72"
+    },
+    {
+        "fecha": "2022-01-21",
+        "municipio": "Mondariz",
+        "habitantes": "4440",
+        "casos_14d": "130",
+        "casos_7d": "73"
+    },
+    {
+        "fecha": "2022-01-22",
+        "municipio": "Mondariz",
+        "habitantes": "4440",
+        "casos_14d": "139",
+        "casos_7d": "66"
     }
 ]

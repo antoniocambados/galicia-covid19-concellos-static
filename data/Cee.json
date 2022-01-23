@@ -2980,5 +2980,19 @@
         "habitantes": "7546",
         "casos_14d": "217",
         "casos_7d": "108"
+    },
+    {
+        "fecha": "2022-01-21",
+        "municipio": "Cee",
+        "habitantes": "7546",
+        "casos_14d": "210",
+        "casos_7d": "99"
+    },
+    {
+        "fecha": "2022-01-22",
+        "municipio": "Cee",
+        "habitantes": "7546",
+        "casos_14d": "215",
+        "casos_7d": "90"
     }
 ]

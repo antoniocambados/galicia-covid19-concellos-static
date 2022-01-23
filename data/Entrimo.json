@@ -2980,5 +2980,19 @@
         "habitantes": "1140",
         "casos_14d": "37",
         "casos_7d": "10"
+    },
+    {
+        "fecha": "2022-01-21",
+        "municipio": "Entrimo",
+        "habitantes": "1140",
+        "casos_14d": "36",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-01-22",
+        "municipio": "Entrimo",
+        "habitantes": "1140",
+        "casos_14d": "28",
+        "casos_7d": null
     }
 ]

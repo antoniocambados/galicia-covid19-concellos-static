@@ -2980,5 +2980,19 @@
         "habitantes": "1081",
         "casos_14d": "10",
         "casos_7d": null
+    },
+    {
+        "fecha": "2022-01-21",
+        "municipio": "Navia de Suarna",
+        "habitantes": "1081",
+        "casos_14d": "13",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-01-22",
+        "municipio": "Navia de Suarna",
+        "habitantes": "1081",
+        "casos_14d": "12",
+        "casos_7d": null
     }
 ]

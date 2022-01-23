@@ -2980,5 +2980,19 @@
         "habitantes": "1018",
         "casos_14d": "20",
         "casos_7d": null
+    },
+    {
+        "fecha": "2022-01-21",
+        "municipio": "Ourol",
+        "habitantes": "1018",
+        "casos_14d": "16",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-01-22",
+        "municipio": "Ourol",
+        "habitantes": "1018",
+        "casos_14d": "14",
+        "casos_7d": null
     }
 ]

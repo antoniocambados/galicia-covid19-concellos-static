@@ -2980,5 +2980,19 @@
         "habitantes": "531",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2022-01-21",
+        "municipio": "San Xo\u00e1n de R\u00edo",
+        "habitantes": "531",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2022-01-22",
+        "municipio": "San Xo\u00e1n de R\u00edo",
+        "habitantes": "531",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]

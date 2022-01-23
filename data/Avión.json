@@ -2980,5 +2980,19 @@
         "habitantes": "1795",
         "casos_14d": "16",
         "casos_7d": "10"
+    },
+    {
+        "fecha": "2022-01-21",
+        "municipio": "Avi\u00f3n",
+        "habitantes": "1795",
+        "casos_14d": "17",
+        "casos_7d": "11"
+    },
+    {
+        "fecha": "2022-01-22",
+        "municipio": "Avi\u00f3n",
+        "habitantes": "1795",
+        "casos_14d": "20",
+        "casos_7d": "12"
     }
 ]

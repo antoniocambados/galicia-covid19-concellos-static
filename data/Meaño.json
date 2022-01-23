@@ -2980,5 +2980,19 @@
         "habitantes": "5272",
         "casos_14d": "172",
         "casos_7d": "85"
+    },
+    {
+        "fecha": "2022-01-21",
+        "municipio": "Mea\u00f1o",
+        "habitantes": "5272",
+        "casos_14d": "174",
+        "casos_7d": "70"
+    },
+    {
+        "fecha": "2022-01-22",
+        "municipio": "Mea\u00f1o",
+        "habitantes": "5272",
+        "casos_14d": "174",
+        "casos_7d": "63"
     }
 ]

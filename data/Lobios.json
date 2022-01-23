@@ -2980,5 +2980,19 @@
         "habitantes": "1708",
         "casos_14d": "39",
         "casos_7d": "13"
+    },
+    {
+        "fecha": "2022-01-21",
+        "municipio": "Lobios",
+        "habitantes": "1708",
+        "casos_14d": "36",
+        "casos_7d": "10"
+    },
+    {
+        "fecha": "2022-01-22",
+        "municipio": "Lobios",
+        "habitantes": "1708",
+        "casos_14d": "37",
+        "casos_7d": null
     }
 ]

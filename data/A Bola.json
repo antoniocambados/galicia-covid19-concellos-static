@@ -2980,5 +2980,19 @@
         "habitantes": "1156",
         "casos_14d": "21",
         "casos_7d": "11"
+    },
+    {
+        "fecha": "2022-01-21",
+        "municipio": "A Bola",
+        "habitantes": "1156",
+        "casos_14d": "20",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-01-22",
+        "municipio": "A Bola",
+        "habitantes": "1156",
+        "casos_14d": "18",
+        "casos_7d": null
     }
 ]

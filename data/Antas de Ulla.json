@@ -2980,5 +2980,19 @@
         "habitantes": "1976",
         "casos_14d": "22",
         "casos_7d": "15"
+    },
+    {
+        "fecha": "2022-01-21",
+        "municipio": "Antas de Ulla",
+        "habitantes": "1976",
+        "casos_14d": "24",
+        "casos_7d": "13"
+    },
+    {
+        "fecha": "2022-01-22",
+        "municipio": "Antas de Ulla",
+        "habitantes": "1976",
+        "casos_14d": "22",
+        "casos_7d": "11"
     }
 ]

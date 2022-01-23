@@ -2980,5 +2980,19 @@
         "habitantes": "1184",
         "casos_14d": "16",
         "casos_7d": null
+    },
+    {
+        "fecha": "2022-01-21",
+        "municipio": "Mel\u00f3n",
+        "habitantes": "1184",
+        "casos_14d": "16",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-01-22",
+        "municipio": "Mel\u00f3n",
+        "habitantes": "1184",
+        "casos_14d": "17",
+        "casos_7d": null
     }
 ]
