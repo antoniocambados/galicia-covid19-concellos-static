@@ -2994,5 +2994,26 @@
         "habitantes": "19399",
         "casos_14d": "845",
         "casos_7d": "354"
+    },
+    {
+        "fecha": "2022-01-23",
+        "municipio": "Moa\u00f1a",
+        "habitantes": "19399",
+        "casos_14d": "825",
+        "casos_7d": "323"
+    },
+    {
+        "fecha": "2022-01-24",
+        "municipio": "Moa\u00f1a",
+        "habitantes": "19399",
+        "casos_14d": "810",
+        "casos_7d": "297"
+    },
+    {
+        "fecha": "2022-01-25",
+        "municipio": "Moa\u00f1a",
+        "habitantes": "19399",
+        "casos_14d": "773",
+        "casos_7d": "257"
     }
 ]

@@ -2994,5 +2994,26 @@
         "habitantes": "2542",
         "casos_14d": "40",
         "casos_7d": "24"
+    },
+    {
+        "fecha": "2022-01-23",
+        "municipio": "Pant\u00f3n",
+        "habitantes": "2542",
+        "casos_14d": "46",
+        "casos_7d": "27"
+    },
+    {
+        "fecha": "2022-01-24",
+        "municipio": "Pant\u00f3n",
+        "habitantes": "2542",
+        "casos_14d": "49",
+        "casos_7d": "27"
+    },
+    {
+        "fecha": "2022-01-25",
+        "municipio": "Pant\u00f3n",
+        "habitantes": "2542",
+        "casos_14d": "48",
+        "casos_7d": "29"
     }
 ]

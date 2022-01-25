@@ -2994,5 +2994,26 @@
         "habitantes": "1338",
         "casos_14d": "27",
         "casos_7d": null
+    },
+    {
+        "fecha": "2022-01-23",
+        "municipio": "Cervantes",
+        "habitantes": "1338",
+        "casos_14d": "22",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-01-24",
+        "municipio": "Cervantes",
+        "habitantes": "1338",
+        "casos_14d": "20",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-01-25",
+        "municipio": "Cervantes",
+        "habitantes": "1338",
+        "casos_14d": "20",
+        "casos_7d": null
     }
 ]

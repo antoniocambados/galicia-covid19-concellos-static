@@ -2994,5 +2994,26 @@
         "habitantes": "8384",
         "casos_14d": "331",
         "casos_7d": "157"
+    },
+    {
+        "fecha": "2022-01-23",
+        "municipio": "Padr\u00f3n",
+        "habitantes": "8384",
+        "casos_14d": "333",
+        "casos_7d": "161"
+    },
+    {
+        "fecha": "2022-01-24",
+        "municipio": "Padr\u00f3n",
+        "habitantes": "8384",
+        "casos_14d": "326",
+        "casos_7d": "164"
+    },
+    {
+        "fecha": "2022-01-25",
+        "municipio": "Padr\u00f3n",
+        "habitantes": "8384",
+        "casos_14d": "313",
+        "casos_7d": "155"
     }
 ]

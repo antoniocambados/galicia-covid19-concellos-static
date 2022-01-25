@@ -2994,5 +2994,26 @@
         "habitantes": "641",
         "casos_14d": "26",
         "casos_7d": "10"
+    },
+    {
+        "fecha": "2022-01-23",
+        "municipio": "Triacastela",
+        "habitantes": "641",
+        "casos_14d": "23",
+        "casos_7d": "10"
+    },
+    {
+        "fecha": "2022-01-24",
+        "municipio": "Triacastela",
+        "habitantes": "641",
+        "casos_14d": "23",
+        "casos_7d": "10"
+    },
+    {
+        "fecha": "2022-01-25",
+        "municipio": "Triacastela",
+        "habitantes": "641",
+        "casos_14d": "24",
+        "casos_7d": "10"
     }
 ]

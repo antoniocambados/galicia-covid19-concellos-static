@@ -2994,5 +2994,26 @@
         "habitantes": "962",
         "casos_14d": "19",
         "casos_7d": null
+    },
+    {
+        "fecha": "2022-01-23",
+        "municipio": "Baltar",
+        "habitantes": "962",
+        "casos_14d": "19",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-01-24",
+        "municipio": "Baltar",
+        "habitantes": "962",
+        "casos_14d": "17",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-01-25",
+        "municipio": "Baltar",
+        "habitantes": "962",
+        "casos_14d": "16",
+        "casos_7d": null
     }
 ]

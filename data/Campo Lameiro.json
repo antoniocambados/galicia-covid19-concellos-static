@@ -2994,5 +2994,26 @@
         "habitantes": "1817",
         "casos_14d": "46",
         "casos_7d": "20"
+    },
+    {
+        "fecha": "2022-01-23",
+        "municipio": "Campo Lameiro",
+        "habitantes": "1817",
+        "casos_14d": "50",
+        "casos_7d": "23"
+    },
+    {
+        "fecha": "2022-01-24",
+        "municipio": "Campo Lameiro",
+        "habitantes": "1817",
+        "casos_14d": "51",
+        "casos_7d": "24"
+    },
+    {
+        "fecha": "2022-01-25",
+        "municipio": "Campo Lameiro",
+        "habitantes": "1817",
+        "casos_14d": "46",
+        "casos_7d": "23"
     }
 ]

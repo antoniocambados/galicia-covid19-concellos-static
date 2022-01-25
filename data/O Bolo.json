@@ -2994,5 +2994,26 @@
         "habitantes": "884",
         "casos_14d": "36",
         "casos_7d": "12"
+    },
+    {
+        "fecha": "2022-01-23",
+        "municipio": "O Bolo",
+        "habitantes": "884",
+        "casos_14d": "32",
+        "casos_7d": "12"
+    },
+    {
+        "fecha": "2022-01-24",
+        "municipio": "O Bolo",
+        "habitantes": "884",
+        "casos_14d": "27",
+        "casos_7d": "11"
+    },
+    {
+        "fecha": "2022-01-25",
+        "municipio": "O Bolo",
+        "habitantes": "884",
+        "casos_14d": "21",
+        "casos_7d": "10"
     }
 ]

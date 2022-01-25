@@ -2994,5 +2994,26 @@
         "habitantes": "6827",
         "casos_14d": "141",
         "casos_7d": "55"
+    },
+    {
+        "fecha": "2022-01-23",
+        "municipio": "Negreira",
+        "habitantes": "6827",
+        "casos_14d": "146",
+        "casos_7d": "59"
+    },
+    {
+        "fecha": "2022-01-24",
+        "municipio": "Negreira",
+        "habitantes": "6827",
+        "casos_14d": "142",
+        "casos_7d": "55"
+    },
+    {
+        "fecha": "2022-01-25",
+        "municipio": "Negreira",
+        "habitantes": "6827",
+        "casos_14d": "137",
+        "casos_7d": "53"
     }
 ]
