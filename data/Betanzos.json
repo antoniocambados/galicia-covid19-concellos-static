@@ -3015,5 +3015,12 @@
         "habitantes": "12959",
         "casos_14d": "421",
         "casos_7d": "203"
+    },
+    {
+        "fecha": "2022-01-26",
+        "municipio": "Betanzos",
+        "habitantes": "12959",
+        "casos_14d": "409",
+        "casos_7d": "212"
     }
 ]

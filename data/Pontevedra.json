@@ -3015,5 +3015,12 @@
         "habitantes": "83029",
         "casos_14d": "2916",
         "casos_7d": "1307"
+    },
+    {
+        "fecha": "2022-01-26",
+        "municipio": "Pontevedra",
+        "habitantes": "83029",
+        "casos_14d": "2913",
+        "casos_7d": "1318"
     }
 ]
