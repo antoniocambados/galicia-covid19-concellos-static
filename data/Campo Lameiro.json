@@ -3022,5 +3022,12 @@
         "habitantes": "1817",
         "casos_14d": "50",
         "casos_7d": "25"
+    },
+    {
+        "fecha": "2022-01-27",
+        "municipio": "Campo Lameiro",
+        "habitantes": "1817",
+        "casos_14d": "50",
+        "casos_7d": "23"
     }
 ]

@@ -3022,5 +3022,12 @@
         "habitantes": "1286",
         "casos_14d": "39",
         "casos_7d": "20"
+    },
+    {
+        "fecha": "2022-01-27",
+        "municipio": "Carballeda de Avia",
+        "habitantes": "1286",
+        "casos_14d": "31",
+        "casos_7d": "13"
     }
 ]

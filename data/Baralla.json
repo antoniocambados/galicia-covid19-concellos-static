@@ -3022,5 +3022,12 @@
         "habitantes": "2556",
         "casos_14d": "73",
         "casos_7d": "36"
+    },
+    {
+        "fecha": "2022-01-27",
+        "municipio": "Baralla",
+        "habitantes": "2556",
+        "casos_14d": "68",
+        "casos_7d": "34"
     }
 ]

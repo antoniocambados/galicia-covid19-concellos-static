@@ -3022,5 +3022,12 @@
         "habitantes": "3299",
         "casos_14d": "53",
         "casos_7d": "33"
+    },
+    {
+        "fecha": "2022-01-27",
+        "municipio": "Tordoia",
+        "habitantes": "3299",
+        "casos_14d": "55",
+        "casos_7d": "35"
     }
 ]

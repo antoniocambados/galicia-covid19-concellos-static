@@ -3022,5 +3022,12 @@
         "habitantes": "5874",
         "casos_14d": "181",
         "casos_7d": "100"
+    },
+    {
+        "fecha": "2022-01-27",
+        "municipio": "Vilaboa",
+        "habitantes": "5874",
+        "casos_14d": "184",
+        "casos_7d": "91"
     }
 ]

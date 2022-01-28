@@ -3022,5 +3022,12 @@
         "habitantes": "5079",
         "casos_14d": "114",
         "casos_7d": "46"
+    },
+    {
+        "fecha": "2022-01-27",
+        "municipio": "Neda",
+        "habitantes": "5079",
+        "casos_14d": "110",
+        "casos_7d": "53"
     }
 ]
