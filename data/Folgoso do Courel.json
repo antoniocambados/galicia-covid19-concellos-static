@@ -3029,5 +3029,12 @@
         "habitantes": "1024",
         "casos_14d": "12",
         "casos_7d": null
+    },
+    {
+        "fecha": "2022-01-28",
+        "municipio": "Folgoso do Courel",
+        "habitantes": "1024",
+        "casos_14d": "12",
+        "casos_7d": null
     }
 ]

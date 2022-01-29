@@ -3029,5 +3029,12 @@
         "habitantes": "943",
         "casos_14d": "15",
         "casos_7d": null
+    },
+    {
+        "fecha": "2022-01-28",
+        "municipio": "Verea",
+        "habitantes": "943",
+        "casos_14d": "17",
+        "casos_7d": "10"
     }
 ]
