@@ -3036,5 +3036,19 @@
         "habitantes": "13723",
         "casos_14d": "419",
         "casos_7d": "200"
+    },
+    {
+        "fecha": "2022-01-29",
+        "municipio": "Ver\u00edn",
+        "habitantes": "13723",
+        "casos_14d": "413",
+        "casos_7d": "195"
+    },
+    {
+        "fecha": "2022-01-30",
+        "municipio": "Ver\u00edn",
+        "habitantes": "13723",
+        "casos_14d": "406",
+        "casos_7d": "182"
     }
 ]

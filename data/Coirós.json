@@ -3036,5 +3036,19 @@
         "habitantes": "1824",
         "casos_14d": "49",
         "casos_7d": "32"
+    },
+    {
+        "fecha": "2022-01-29",
+        "municipio": "Coir\u00f3s",
+        "habitantes": "1824",
+        "casos_14d": "44",
+        "casos_7d": "26"
+    },
+    {
+        "fecha": "2022-01-30",
+        "municipio": "Coir\u00f3s",
+        "habitantes": "1824",
+        "casos_14d": "41",
+        "casos_7d": "21"
     }
 ]

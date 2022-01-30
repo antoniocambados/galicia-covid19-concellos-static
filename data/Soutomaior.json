@@ -3036,5 +3036,19 @@
         "habitantes": "7395",
         "casos_14d": "239",
         "casos_7d": "111"
+    },
+    {
+        "fecha": "2022-01-29",
+        "municipio": "Soutomaior",
+        "habitantes": "7395",
+        "casos_14d": "234",
+        "casos_7d": "103"
+    },
+    {
+        "fecha": "2022-01-30",
+        "municipio": "Soutomaior",
+        "habitantes": "7395",
+        "casos_14d": "225",
+        "casos_7d": "96"
     }
 ]

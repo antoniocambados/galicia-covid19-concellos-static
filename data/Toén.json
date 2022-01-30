@@ -3036,5 +3036,19 @@
         "habitantes": "2355",
         "casos_14d": "34",
         "casos_7d": "16"
+    },
+    {
+        "fecha": "2022-01-29",
+        "municipio": "To\u00e9n",
+        "habitantes": "2355",
+        "casos_14d": "31",
+        "casos_7d": "13"
+    },
+    {
+        "fecha": "2022-01-30",
+        "municipio": "To\u00e9n",
+        "habitantes": "2355",
+        "casos_14d": "29",
+        "casos_7d": "11"
     }
 ]

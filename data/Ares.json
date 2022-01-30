@@ -3036,5 +3036,19 @@
         "habitantes": "5732",
         "casos_14d": "130",
         "casos_7d": "61"
+    },
+    {
+        "fecha": "2022-01-29",
+        "municipio": "Ares",
+        "habitantes": "5732",
+        "casos_14d": "124",
+        "casos_7d": "54"
+    },
+    {
+        "fecha": "2022-01-30",
+        "municipio": "Ares",
+        "habitantes": "5732",
+        "casos_14d": "116",
+        "casos_7d": "52"
     }
 ]

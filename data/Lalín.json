@@ -3036,5 +3036,19 @@
         "habitantes": "20218",
         "casos_14d": "569",
         "casos_7d": "210"
+    },
+    {
+        "fecha": "2022-01-29",
+        "municipio": "Lal\u00edn",
+        "habitantes": "20218",
+        "casos_14d": "541",
+        "casos_7d": "209"
+    },
+    {
+        "fecha": "2022-01-30",
+        "municipio": "Lal\u00edn",
+        "habitantes": "20218",
+        "casos_14d": "525",
+        "casos_7d": "206"
     }
 ]

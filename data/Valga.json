@@ -3036,5 +3036,19 @@
         "habitantes": "5869",
         "casos_14d": "172",
         "casos_7d": "91"
+    },
+    {
+        "fecha": "2022-01-29",
+        "municipio": "Valga",
+        "habitantes": "5869",
+        "casos_14d": "164",
+        "casos_7d": "84"
+    },
+    {
+        "fecha": "2022-01-30",
+        "municipio": "Valga",
+        "habitantes": "5869",
+        "casos_14d": "173",
+        "casos_7d": "95"
     }
 ]

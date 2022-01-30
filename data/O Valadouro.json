@@ -3036,5 +3036,19 @@
         "habitantes": "1991",
         "casos_14d": "81",
         "casos_7d": "21"
+    },
+    {
+        "fecha": "2022-01-29",
+        "municipio": "O Valadouro",
+        "habitantes": "1991",
+        "casos_14d": "76",
+        "casos_7d": "20"
+    },
+    {
+        "fecha": "2022-01-30",
+        "municipio": "O Valadouro",
+        "habitantes": "1991",
+        "casos_14d": "70",
+        "casos_7d": "20"
     }
 ]

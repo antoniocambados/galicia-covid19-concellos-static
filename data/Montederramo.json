@@ -3036,5 +3036,19 @@
         "habitantes": "711",
         "casos_14d": "17",
         "casos_7d": null
+    },
+    {
+        "fecha": "2022-01-29",
+        "municipio": "Montederramo",
+        "habitantes": "711",
+        "casos_14d": "13",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-01-30",
+        "municipio": "Montederramo",
+        "habitantes": "711",
+        "casos_14d": "13",
+        "casos_7d": null
     }
 ]
