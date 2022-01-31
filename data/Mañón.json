@@ -3050,5 +3050,12 @@
         "habitantes": "1356",
         "casos_14d": "28",
         "casos_7d": "15"
+    },
+    {
+        "fecha": "2022-01-31",
+        "municipio": "Ma\u00f1\u00f3n",
+        "habitantes": "1356",
+        "casos_14d": "25",
+        "casos_7d": "15"
     }
 ]

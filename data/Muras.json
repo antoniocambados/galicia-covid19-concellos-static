@@ -3050,5 +3050,12 @@
         "habitantes": "642",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2022-01-31",
+        "municipio": "Muras",
+        "habitantes": "642",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]

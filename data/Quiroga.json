@@ -3050,5 +3050,12 @@
         "habitantes": "3207",
         "casos_14d": "73",
         "casos_7d": "45"
+    },
+    {
+        "fecha": "2022-01-31",
+        "municipio": "Quiroga",
+        "habitantes": "3207",
+        "casos_14d": "72",
+        "casos_7d": "32"
     }
 ]

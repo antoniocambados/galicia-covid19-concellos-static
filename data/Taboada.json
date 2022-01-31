@@ -3050,5 +3050,12 @@
         "habitantes": "2756",
         "casos_14d": "50",
         "casos_7d": "38"
+    },
+    {
+        "fecha": "2022-01-31",
+        "municipio": "Taboada",
+        "habitantes": "2756",
+        "casos_14d": "54",
+        "casos_7d": "41"
     }
 ]

@@ -3050,5 +3050,12 @@
         "habitantes": "798",
         "casos_14d": "12",
         "casos_7d": null
+    },
+    {
+        "fecha": "2022-01-31",
+        "municipio": "Lobeira",
+        "habitantes": "798",
+        "casos_14d": "12",
+        "casos_7d": null
     }
 ]

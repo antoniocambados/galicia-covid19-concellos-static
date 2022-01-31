@@ -3050,5 +3050,12 @@
         "habitantes": "14286",
         "casos_14d": "516",
         "casos_7d": "241"
+    },
+    {
+        "fecha": "2022-01-31",
+        "municipio": "Gondomar",
+        "habitantes": "14286",
+        "casos_14d": "494",
+        "casos_7d": "237"
     }
 ]

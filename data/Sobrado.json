@@ -3050,5 +3050,12 @@
         "habitantes": "1758",
         "casos_14d": "37",
         "casos_7d": "15"
+    },
+    {
+        "fecha": "2022-01-31",
+        "municipio": "Sobrado",
+        "habitantes": "1758",
+        "casos_14d": "38",
+        "casos_7d": "14"
     }
 ]

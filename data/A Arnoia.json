@@ -3050,5 +3050,12 @@
         "habitantes": "1000",
         "casos_14d": "27",
         "casos_7d": null
+    },
+    {
+        "fecha": "2022-01-31",
+        "municipio": "A Arnoia",
+        "habitantes": "1000",
+        "casos_14d": "27",
+        "casos_7d": "10"
     }
 ]

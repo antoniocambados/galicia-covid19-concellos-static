@@ -3050,5 +3050,12 @@
         "habitantes": "1932",
         "casos_14d": "17",
         "casos_7d": null
+    },
+    {
+        "fecha": "2022-01-31",
+        "municipio": "Monfero",
+        "habitantes": "1932",
+        "casos_14d": "19",
+        "casos_7d": "12"
     }
 ]

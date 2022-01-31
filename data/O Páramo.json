@@ -3050,5 +3050,12 @@
         "habitantes": "1366",
         "casos_14d": "38",
         "casos_7d": "21"
+    },
+    {
+        "fecha": "2022-01-31",
+        "municipio": "O P\u00e1ramo",
+        "habitantes": "1366",
+        "casos_14d": "42",
+        "casos_7d": "21"
     }
 ]
