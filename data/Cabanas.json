@@ -3057,5 +3057,12 @@
         "habitantes": "3281",
         "casos_14d": "63",
         "casos_7d": "31"
+    },
+    {
+        "fecha": "2022-02-01",
+        "municipio": "Cabanas",
+        "habitantes": "3281",
+        "casos_14d": "58",
+        "casos_7d": "29"
     }
 ]

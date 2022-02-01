@@ -3057,5 +3057,12 @@
         "habitantes": "5151",
         "casos_14d": "116",
         "casos_7d": "56"
+    },
+    {
+        "fecha": "2022-02-01",
+        "municipio": "Outeiro de Rei",
+        "habitantes": "5151",
+        "casos_14d": "113",
+        "casos_7d": "47"
     }
 ]

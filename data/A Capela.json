@@ -3057,5 +3057,12 @@
         "habitantes": "1232",
         "casos_14d": "33",
         "casos_7d": "21"
+    },
+    {
+        "fecha": "2022-02-01",
+        "municipio": "A Capela",
+        "habitantes": "1232",
+        "casos_14d": "37",
+        "casos_7d": "25"
     }
 ]

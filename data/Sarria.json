@@ -3057,5 +3057,12 @@
         "habitantes": "13330",
         "casos_14d": "360",
         "casos_7d": "155"
+    },
+    {
+        "fecha": "2022-02-01",
+        "municipio": "Sarria",
+        "habitantes": "13330",
+        "casos_14d": "366",
+        "casos_7d": "154"
     }
 ]

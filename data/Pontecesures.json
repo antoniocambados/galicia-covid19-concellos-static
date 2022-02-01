@@ -3057,5 +3057,12 @@
         "habitantes": "3052",
         "casos_14d": "110",
         "casos_7d": "52"
+    },
+    {
+        "fecha": "2022-02-01",
+        "municipio": "Pontecesures",
+        "habitantes": "3052",
+        "casos_14d": "105",
+        "casos_7d": "44"
     }
 ]

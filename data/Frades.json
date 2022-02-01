@@ -3057,5 +3057,12 @@
         "habitantes": "2339",
         "casos_14d": "23",
         "casos_7d": "10"
+    },
+    {
+        "fecha": "2022-02-01",
+        "municipio": "Frades",
+        "habitantes": "2339",
+        "casos_14d": "23",
+        "casos_7d": null
     }
 ]

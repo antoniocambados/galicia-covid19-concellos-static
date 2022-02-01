@@ -3057,5 +3057,12 @@
         "habitantes": "5502",
         "casos_14d": "132",
         "casos_7d": "73"
+    },
+    {
+        "fecha": "2022-02-01",
+        "municipio": "Ponteceso",
+        "habitantes": "5502",
+        "casos_14d": "128",
+        "casos_7d": "65"
     }
 ]

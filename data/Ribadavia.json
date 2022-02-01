@@ -3057,5 +3057,12 @@
         "habitantes": "5024",
         "casos_14d": "124",
         "casos_7d": "49"
+    },
+    {
+        "fecha": "2022-02-01",
+        "municipio": "Ribadavia",
+        "habitantes": "5024",
+        "casos_14d": "131",
+        "casos_7d": "55"
     }
 ]
