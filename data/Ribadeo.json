@@ -3064,5 +3064,12 @@
         "habitantes": "9854",
         "casos_14d": "271",
         "casos_7d": "100"
+    },
+    {
+        "fecha": "2022-02-02",
+        "municipio": "Ribadeo",
+        "habitantes": "9854",
+        "casos_14d": "266",
+        "casos_7d": "104"
     }
 ]

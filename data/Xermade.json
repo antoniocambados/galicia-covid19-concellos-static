@@ -3064,5 +3064,12 @@
         "habitantes": "1806",
         "casos_14d": "33",
         "casos_7d": "21"
+    },
+    {
+        "fecha": "2022-02-02",
+        "municipio": "Xermade",
+        "habitantes": "1806",
+        "casos_14d": "35",
+        "casos_7d": "19"
     }
 ]

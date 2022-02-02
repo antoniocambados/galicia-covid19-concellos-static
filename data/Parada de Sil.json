@@ -3064,5 +3064,12 @@
         "habitantes": "538",
         "casos_14d": "15",
         "casos_7d": null
+    },
+    {
+        "fecha": "2022-02-02",
+        "municipio": "Parada de Sil",
+        "habitantes": "538",
+        "casos_14d": "14",
+        "casos_7d": null
     }
 ]
