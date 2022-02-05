@@ -3085,5 +3085,12 @@
         "habitantes": "947",
         "casos_14d": "25",
         "casos_7d": null
+    },
+    {
+        "fecha": "2022-02-05",
+        "municipio": "Ribas de Sil",
+        "habitantes": "947",
+        "casos_14d": "24",
+        "casos_7d": null
     }
 ]

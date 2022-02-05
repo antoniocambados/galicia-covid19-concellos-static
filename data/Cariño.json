@@ -3085,5 +3085,12 @@
         "habitantes": "3838",
         "casos_14d": "47",
         "casos_7d": "16"
+    },
+    {
+        "fecha": "2022-02-05",
+        "municipio": "Cari\u00f1o",
+        "habitantes": "3838",
+        "casos_14d": "39",
+        "casos_7d": "14"
     }
 ]

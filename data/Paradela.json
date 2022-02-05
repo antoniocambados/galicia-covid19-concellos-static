@@ -3085,5 +3085,12 @@
         "habitantes": "1779",
         "casos_14d": "27",
         "casos_7d": null
+    },
+    {
+        "fecha": "2022-02-05",
+        "municipio": "Paradela",
+        "habitantes": "1779",
+        "casos_14d": "28",
+        "casos_7d": "14"
     }
 ]
