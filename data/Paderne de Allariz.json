@@ -3071,5 +3071,19 @@
         "habitantes": "1384",
         "casos_14d": "26",
         "casos_7d": "19"
+    },
+    {
+        "fecha": "2022-02-03",
+        "municipio": "Paderne de Allariz",
+        "habitantes": "1384",
+        "casos_14d": "27",
+        "casos_7d": "17"
+    },
+    {
+        "fecha": "2022-02-04",
+        "municipio": "Paderne de Allariz",
+        "habitantes": "1384",
+        "casos_14d": "29",
+        "casos_7d": "14"
     }
 ]

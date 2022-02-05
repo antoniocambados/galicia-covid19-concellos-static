@@ -3071,5 +3071,19 @@
         "habitantes": "1790",
         "casos_14d": "29",
         "casos_7d": "12"
+    },
+    {
+        "fecha": "2022-02-03",
+        "municipio": "Vilamart\u00edn de Valdeorras",
+        "habitantes": "1790",
+        "casos_14d": "25",
+        "casos_7d": "12"
+    },
+    {
+        "fecha": "2022-02-04",
+        "municipio": "Vilamart\u00edn de Valdeorras",
+        "habitantes": "1790",
+        "casos_14d": "22",
+        "casos_7d": "11"
     }
 ]

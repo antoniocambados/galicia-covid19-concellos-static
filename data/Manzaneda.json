@@ -3071,5 +3071,19 @@
         "habitantes": "870",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2022-02-03",
+        "municipio": "Manzaneda",
+        "habitantes": "870",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-02-04",
+        "municipio": "Manzaneda",
+        "habitantes": "870",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]

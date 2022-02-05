@@ -3071,5 +3071,19 @@
         "habitantes": "1545",
         "casos_14d": "31",
         "casos_7d": null
+    },
+    {
+        "fecha": "2022-02-03",
+        "municipio": "Carballeda de Valdeorras",
+        "habitantes": "1545",
+        "casos_14d": "31",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-02-04",
+        "municipio": "Carballeda de Valdeorras",
+        "habitantes": "1545",
+        "casos_14d": "23",
+        "casos_7d": null
     }
 ]

@@ -3071,5 +3071,19 @@
         "habitantes": "9171",
         "casos_14d": "215",
         "casos_7d": "93"
+    },
+    {
+        "fecha": "2022-02-03",
+        "municipio": "Porto do Son",
+        "habitantes": "9171",
+        "casos_14d": "240",
+        "casos_7d": "117"
+    },
+    {
+        "fecha": "2022-02-04",
+        "municipio": "Porto do Son",
+        "habitantes": "9171",
+        "casos_14d": "251",
+        "casos_7d": "127"
     }
 ]

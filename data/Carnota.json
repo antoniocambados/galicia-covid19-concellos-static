@@ -3071,5 +3071,19 @@
         "habitantes": "3957",
         "casos_14d": "37",
         "casos_7d": "21"
+    },
+    {
+        "fecha": "2022-02-03",
+        "municipio": "Carnota",
+        "habitantes": "3957",
+        "casos_14d": "35",
+        "casos_7d": "20"
+    },
+    {
+        "fecha": "2022-02-04",
+        "municipio": "Carnota",
+        "habitantes": "3957",
+        "casos_14d": "36",
+        "casos_7d": "22"
     }
 ]

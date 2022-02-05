@@ -3071,5 +3071,19 @@
         "habitantes": "1338",
         "casos_14d": "16",
         "casos_7d": "10"
+    },
+    {
+        "fecha": "2022-02-03",
+        "municipio": "Cervantes",
+        "habitantes": "1338",
+        "casos_14d": "15",
+        "casos_7d": "11"
+    },
+    {
+        "fecha": "2022-02-04",
+        "municipio": "Cervantes",
+        "habitantes": "1338",
+        "casos_14d": "15",
+        "casos_7d": "10"
     }
 ]

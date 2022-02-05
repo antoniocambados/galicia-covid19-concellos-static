@@ -3071,5 +3071,19 @@
         "habitantes": "971",
         "casos_14d": "15",
         "casos_7d": "12"
+    },
+    {
+        "fecha": "2022-02-03",
+        "municipio": "Beariz",
+        "habitantes": "971",
+        "casos_14d": "14",
+        "casos_7d": "12"
+    },
+    {
+        "fecha": "2022-02-04",
+        "municipio": "Beariz",
+        "habitantes": "971",
+        "casos_14d": "15",
+        "casos_7d": null
     }
 ]

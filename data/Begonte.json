@@ -3071,5 +3071,19 @@
         "habitantes": "3026",
         "casos_14d": "52",
         "casos_7d": "16"
+    },
+    {
+        "fecha": "2022-02-03",
+        "municipio": "Begonte",
+        "habitantes": "3026",
+        "casos_14d": "47",
+        "casos_7d": "15"
+    },
+    {
+        "fecha": "2022-02-04",
+        "municipio": "Begonte",
+        "habitantes": "3026",
+        "casos_14d": "42",
+        "casos_7d": "15"
     }
 ]

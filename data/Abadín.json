@@ -3071,5 +3071,19 @@
         "habitantes": "2367",
         "casos_14d": "47",
         "casos_7d": "22"
+    },
+    {
+        "fecha": "2022-02-03",
+        "municipio": "Abad\u00edn",
+        "habitantes": "2367",
+        "casos_14d": "49",
+        "casos_7d": "22"
+    },
+    {
+        "fecha": "2022-02-04",
+        "municipio": "Abad\u00edn",
+        "habitantes": "2367",
+        "casos_14d": "49",
+        "casos_7d": "25"
     }
 ]

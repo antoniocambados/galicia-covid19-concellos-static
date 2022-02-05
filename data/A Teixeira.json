@@ -3071,5 +3071,19 @@
         "habitantes": "316",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2022-02-03",
+        "municipio": "A Teixeira",
+        "habitantes": "316",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-02-04",
+        "municipio": "A Teixeira",
+        "habitantes": "316",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]

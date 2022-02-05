@@ -3071,5 +3071,19 @@
         "habitantes": "1854",
         "casos_14d": "73",
         "casos_7d": "40"
+    },
+    {
+        "fecha": "2022-02-03",
+        "municipio": "Vilamar\u00edn",
+        "habitantes": "1854",
+        "casos_14d": "71",
+        "casos_7d": "18"
+    },
+    {
+        "fecha": "2022-02-04",
+        "municipio": "Vilamar\u00edn",
+        "habitantes": "1854",
+        "casos_14d": "68",
+        "casos_7d": "17"
     }
 ]

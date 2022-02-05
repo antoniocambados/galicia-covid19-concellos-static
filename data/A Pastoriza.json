@@ -3071,5 +3071,19 @@
         "habitantes": "3002",
         "casos_14d": "86",
         "casos_7d": "39"
+    },
+    {
+        "fecha": "2022-02-03",
+        "municipio": "A Pastoriza",
+        "habitantes": "3002",
+        "casos_14d": "81",
+        "casos_7d": "37"
+    },
+    {
+        "fecha": "2022-02-04",
+        "municipio": "A Pastoriza",
+        "habitantes": "3002",
+        "casos_14d": "82",
+        "casos_7d": "30"
     }
 ]

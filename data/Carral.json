@@ -3071,5 +3071,19 @@
         "habitantes": "6408",
         "casos_14d": "197",
         "casos_7d": "93"
+    },
+    {
+        "fecha": "2022-02-03",
+        "municipio": "Carral",
+        "habitantes": "6408",
+        "casos_14d": "201",
+        "casos_7d": "99"
+    },
+    {
+        "fecha": "2022-02-04",
+        "municipio": "Carral",
+        "habitantes": "6408",
+        "casos_14d": "198",
+        "casos_7d": "87"
     }
 ]

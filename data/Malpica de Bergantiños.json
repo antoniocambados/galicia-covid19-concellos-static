@@ -3071,5 +3071,19 @@
         "habitantes": "5391",
         "casos_14d": "88",
         "casos_7d": "50"
+    },
+    {
+        "fecha": "2022-02-03",
+        "municipio": "Malpica de Berganti\u00f1os",
+        "habitantes": "5391",
+        "casos_14d": "93",
+        "casos_7d": "53"
+    },
+    {
+        "fecha": "2022-02-04",
+        "municipio": "Malpica de Berganti\u00f1os",
+        "habitantes": "5391",
+        "casos_14d": "93",
+        "casos_7d": "55"
     }
 ]

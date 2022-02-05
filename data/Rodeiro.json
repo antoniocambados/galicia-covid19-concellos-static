@@ -3071,5 +3071,19 @@
         "habitantes": "2437",
         "casos_14d": "79",
         "casos_7d": "41"
+    },
+    {
+        "fecha": "2022-02-03",
+        "municipio": "Rodeiro",
+        "habitantes": "2437",
+        "casos_14d": "79",
+        "casos_7d": "43"
+    },
+    {
+        "fecha": "2022-02-04",
+        "municipio": "Rodeiro",
+        "habitantes": "2437",
+        "casos_14d": "78",
+        "casos_7d": "37"
     }
 ]

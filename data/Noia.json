@@ -3071,5 +3071,19 @@
         "habitantes": "14263",
         "casos_14d": "454",
         "casos_7d": "209"
+    },
+    {
+        "fecha": "2022-02-03",
+        "municipio": "Noia",
+        "habitantes": "14263",
+        "casos_14d": "447",
+        "casos_7d": "201"
+    },
+    {
+        "fecha": "2022-02-04",
+        "municipio": "Noia",
+        "habitantes": "14263",
+        "casos_14d": "451",
+        "casos_7d": "195"
     }
 ]
