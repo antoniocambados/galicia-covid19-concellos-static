@@ -3092,5 +3092,12 @@
         "habitantes": "105233",
         "casos_14d": "3538",
         "casos_7d": "1638"
+    },
+    {
+        "fecha": "2022-02-06",
+        "municipio": "Ourense",
+        "habitantes": "105233",
+        "casos_14d": "3429",
+        "casos_7d": "1566"
     }
 ]

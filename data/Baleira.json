@@ -3092,5 +3092,12 @@
         "habitantes": "1241",
         "casos_14d": "18",
         "casos_7d": null
+    },
+    {
+        "fecha": "2022-02-06",
+        "municipio": "Baleira",
+        "habitantes": "1241",
+        "casos_14d": "17",
+        "casos_7d": null
     }
 ]

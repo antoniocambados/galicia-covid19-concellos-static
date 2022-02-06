@@ -3092,5 +3092,12 @@
         "habitantes": "9715",
         "casos_14d": "234",
         "casos_7d": "108"
+    },
+    {
+        "fecha": "2022-02-06",
+        "municipio": "Xinzo de Limia",
+        "habitantes": "9715",
+        "casos_14d": "225",
+        "casos_7d": "101"
     }
 ]
