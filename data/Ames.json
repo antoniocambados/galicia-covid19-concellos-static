@@ -3099,5 +3099,26 @@
         "habitantes": "31793",
         "casos_14d": "1149",
         "casos_7d": "575"
+    },
+    {
+        "fecha": "2022-02-07",
+        "municipio": "Ames",
+        "habitantes": "31793",
+        "casos_14d": "1126",
+        "casos_7d": "545"
+    },
+    {
+        "fecha": "2022-02-08",
+        "municipio": "Ames",
+        "habitantes": "31793",
+        "casos_14d": "1127",
+        "casos_7d": "556"
+    },
+    {
+        "fecha": "2022-02-09",
+        "municipio": "Ames",
+        "habitantes": "31793",
+        "casos_14d": "1073",
+        "casos_7d": "495"
     }
 ]

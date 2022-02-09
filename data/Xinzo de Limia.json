@@ -3099,5 +3099,26 @@
         "habitantes": "9715",
         "casos_14d": "225",
         "casos_7d": "101"
+    },
+    {
+        "fecha": "2022-02-07",
+        "municipio": "Xinzo de Limia",
+        "habitantes": "9715",
+        "casos_14d": "212",
+        "casos_7d": "101"
+    },
+    {
+        "fecha": "2022-02-08",
+        "municipio": "Xinzo de Limia",
+        "habitantes": "9715",
+        "casos_14d": "210",
+        "casos_7d": "96"
+    },
+    {
+        "fecha": "2022-02-09",
+        "municipio": "Xinzo de Limia",
+        "habitantes": "9715",
+        "casos_14d": "194",
+        "casos_7d": "88"
     }
 ]

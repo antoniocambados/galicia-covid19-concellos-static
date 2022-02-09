@@ -3099,5 +3099,26 @@
         "habitantes": "7057",
         "casos_14d": "100",
         "casos_7d": "40"
+    },
+    {
+        "fecha": "2022-02-07",
+        "municipio": "Vimianzo",
+        "habitantes": "7057",
+        "casos_14d": "92",
+        "casos_7d": "45"
+    },
+    {
+        "fecha": "2022-02-08",
+        "municipio": "Vimianzo",
+        "habitantes": "7057",
+        "casos_14d": "95",
+        "casos_7d": "48"
+    },
+    {
+        "fecha": "2022-02-09",
+        "municipio": "Vimianzo",
+        "habitantes": "7057",
+        "casos_14d": "93",
+        "casos_7d": "56"
     }
 ]

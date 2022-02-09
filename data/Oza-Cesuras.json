@@ -3099,5 +3099,26 @@
         "habitantes": "5101",
         "casos_14d": "107",
         "casos_7d": "51"
+    },
+    {
+        "fecha": "2022-02-07",
+        "municipio": "Oza-Cesuras",
+        "habitantes": "5101",
+        "casos_14d": "104",
+        "casos_7d": "52"
+    },
+    {
+        "fecha": "2022-02-08",
+        "municipio": "Oza-Cesuras",
+        "habitantes": "5101",
+        "casos_14d": "100",
+        "casos_7d": "52"
+    },
+    {
+        "fecha": "2022-02-09",
+        "municipio": "Oza-Cesuras",
+        "habitantes": "5101",
+        "casos_14d": "93",
+        "casos_7d": "43"
     }
 ]

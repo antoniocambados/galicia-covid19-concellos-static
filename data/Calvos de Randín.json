@@ -3099,5 +3099,26 @@
         "habitantes": "770",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2022-02-07",
+        "municipio": "Calvos de Rand\u00edn",
+        "habitantes": "770",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-02-08",
+        "municipio": "Calvos de Rand\u00edn",
+        "habitantes": "770",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-02-09",
+        "municipio": "Calvos de Rand\u00edn",
+        "habitantes": "770",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]

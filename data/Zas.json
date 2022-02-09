@@ -3099,5 +3099,26 @@
         "habitantes": "4472",
         "casos_14d": "89",
         "casos_7d": "37"
+    },
+    {
+        "fecha": "2022-02-07",
+        "municipio": "Zas",
+        "habitantes": "4472",
+        "casos_14d": "84",
+        "casos_7d": "36"
+    },
+    {
+        "fecha": "2022-02-08",
+        "municipio": "Zas",
+        "habitantes": "4472",
+        "casos_14d": "80",
+        "casos_7d": "36"
+    },
+    {
+        "fecha": "2022-02-09",
+        "municipio": "Zas",
+        "habitantes": "4472",
+        "casos_14d": "75",
+        "casos_7d": "32"
     }
 ]

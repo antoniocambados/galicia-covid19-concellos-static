@@ -3099,5 +3099,26 @@
         "habitantes": "5079",
         "casos_14d": "80",
         "casos_7d": "35"
+    },
+    {
+        "fecha": "2022-02-07",
+        "municipio": "Neda",
+        "habitantes": "5079",
+        "casos_14d": "76",
+        "casos_7d": "33"
+    },
+    {
+        "fecha": "2022-02-08",
+        "municipio": "Neda",
+        "habitantes": "5079",
+        "casos_14d": "70",
+        "casos_7d": "31"
+    },
+    {
+        "fecha": "2022-02-09",
+        "municipio": "Neda",
+        "habitantes": "5079",
+        "casos_14d": "71",
+        "casos_7d": "30"
     }
 ]

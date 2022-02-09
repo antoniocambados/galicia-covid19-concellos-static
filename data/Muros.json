@@ -3099,5 +3099,26 @@
         "habitantes": "8556",
         "casos_14d": "244",
         "casos_7d": "116"
+    },
+    {
+        "fecha": "2022-02-07",
+        "municipio": "Muros",
+        "habitantes": "8556",
+        "casos_14d": "235",
+        "casos_7d": "114"
+    },
+    {
+        "fecha": "2022-02-08",
+        "municipio": "Muros",
+        "habitantes": "8556",
+        "casos_14d": "227",
+        "casos_7d": "111"
+    },
+    {
+        "fecha": "2022-02-09",
+        "municipio": "Muros",
+        "habitantes": "8556",
+        "casos_14d": "217",
+        "casos_7d": "96"
     }
 ]

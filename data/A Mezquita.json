@@ -3099,5 +3099,26 @@
         "habitantes": "1023",
         "casos_14d": "13",
         "casos_7d": null
+    },
+    {
+        "fecha": "2022-02-07",
+        "municipio": "A Mezquita",
+        "habitantes": "1023",
+        "casos_14d": "13",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-02-08",
+        "municipio": "A Mezquita",
+        "habitantes": "1023",
+        "casos_14d": "13",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-02-09",
+        "municipio": "A Mezquita",
+        "habitantes": "1023",
+        "casos_14d": "12",
+        "casos_7d": null
     }
 ]

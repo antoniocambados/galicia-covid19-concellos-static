@@ -3099,5 +3099,26 @@
         "habitantes": "17347",
         "casos_14d": "414",
         "casos_7d": "180"
+    },
+    {
+        "fecha": "2022-02-07",
+        "municipio": "Sanxenxo",
+        "habitantes": "17347",
+        "casos_14d": "404",
+        "casos_7d": "170"
+    },
+    {
+        "fecha": "2022-02-08",
+        "municipio": "Sanxenxo",
+        "habitantes": "17347",
+        "casos_14d": "402",
+        "casos_7d": "148"
+    },
+    {
+        "fecha": "2022-02-09",
+        "municipio": "Sanxenxo",
+        "habitantes": "17347",
+        "casos_14d": "360",
+        "casos_7d": "131"
     }
 ]

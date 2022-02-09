@@ -3099,5 +3099,26 @@
         "habitantes": "1118",
         "casos_14d": "28",
         "casos_7d": "20"
+    },
+    {
+        "fecha": "2022-02-07",
+        "municipio": "Trabada",
+        "habitantes": "1118",
+        "casos_14d": "27",
+        "casos_7d": "19"
+    },
+    {
+        "fecha": "2022-02-08",
+        "municipio": "Trabada",
+        "habitantes": "1118",
+        "casos_14d": "28",
+        "casos_7d": "17"
+    },
+    {
+        "fecha": "2022-02-09",
+        "municipio": "Trabada",
+        "habitantes": "1118",
+        "casos_14d": "32",
+        "casos_7d": "17"
     }
 ]

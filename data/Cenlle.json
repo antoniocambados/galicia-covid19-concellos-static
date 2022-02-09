@@ -3099,5 +3099,26 @@
         "habitantes": "1120",
         "casos_14d": "13",
         "casos_7d": null
+    },
+    {
+        "fecha": "2022-02-07",
+        "municipio": "Cenlle",
+        "habitantes": "1120",
+        "casos_14d": "15",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-02-08",
+        "municipio": "Cenlle",
+        "habitantes": "1120",
+        "casos_14d": "15",
+        "casos_7d": "10"
+    },
+    {
+        "fecha": "2022-02-09",
+        "municipio": "Cenlle",
+        "habitantes": "1120",
+        "casos_14d": "13",
+        "casos_7d": null
     }
 ]

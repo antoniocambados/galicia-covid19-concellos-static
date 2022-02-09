@@ -3099,5 +3099,26 @@
         "habitantes": "215",
         "casos_14d": null,
         "casos_7d": "0"
+    },
+    {
+        "fecha": "2022-02-07",
+        "municipio": "Negueira de Mu\u00f1iz",
+        "habitantes": "215",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2022-02-08",
+        "municipio": "Negueira de Mu\u00f1iz",
+        "habitantes": "215",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2022-02-09",
+        "municipio": "Negueira de Mu\u00f1iz",
+        "habitantes": "215",
+        "casos_14d": null,
+        "casos_7d": "0"
     }
 ]
