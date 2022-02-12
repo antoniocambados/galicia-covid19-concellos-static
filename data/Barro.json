@@ -3120,5 +3120,19 @@
         "habitantes": "3680",
         "casos_14d": "57",
         "casos_7d": "19"
+    },
+    {
+        "fecha": "2022-02-10",
+        "municipio": "Barro",
+        "habitantes": "3680",
+        "casos_14d": "55",
+        "casos_7d": "15"
+    },
+    {
+        "fecha": "2022-02-11",
+        "municipio": "Barro",
+        "habitantes": "3680",
+        "casos_14d": "54",
+        "casos_7d": "17"
     }
 ]

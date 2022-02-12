@@ -3120,5 +3120,19 @@
         "habitantes": "1679",
         "casos_14d": "10",
         "casos_7d": null
+    },
+    {
+        "fecha": "2022-02-10",
+        "municipio": "Cualedro",
+        "habitantes": "1679",
+        "casos_14d": "10",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-02-11",
+        "municipio": "Cualedro",
+        "habitantes": "1679",
+        "casos_14d": "13",
+        "casos_7d": null
     }
 ]

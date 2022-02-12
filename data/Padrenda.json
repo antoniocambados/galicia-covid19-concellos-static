@@ -3120,5 +3120,19 @@
         "habitantes": "1748",
         "casos_14d": "39",
         "casos_7d": "14"
+    },
+    {
+        "fecha": "2022-02-10",
+        "municipio": "Padrenda",
+        "habitantes": "1748",
+        "casos_14d": "33",
+        "casos_7d": "10"
+    },
+    {
+        "fecha": "2022-02-11",
+        "municipio": "Padrenda",
+        "habitantes": "1748",
+        "casos_14d": "30",
+        "casos_7d": null
     }
 ]

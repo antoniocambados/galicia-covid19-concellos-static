@@ -3120,5 +3120,19 @@
         "habitantes": "17675",
         "casos_14d": "364",
         "casos_7d": "163"
+    },
+    {
+        "fecha": "2022-02-10",
+        "municipio": "Nigr\u00e1n",
+        "habitantes": "17675",
+        "casos_14d": "350",
+        "casos_7d": "140"
+    },
+    {
+        "fecha": "2022-02-11",
+        "municipio": "Nigr\u00e1n",
+        "habitantes": "17675",
+        "casos_14d": "339",
+        "casos_7d": "133"
     }
 ]

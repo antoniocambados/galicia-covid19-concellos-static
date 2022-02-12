@@ -3120,5 +3120,19 @@
         "habitantes": "22877",
         "casos_14d": "723",
         "casos_7d": "285"
+    },
+    {
+        "fecha": "2022-02-10",
+        "municipio": "Ponteareas",
+        "habitantes": "22877",
+        "casos_14d": "692",
+        "casos_7d": "256"
+    },
+    {
+        "fecha": "2022-02-11",
+        "municipio": "Ponteareas",
+        "habitantes": "22877",
+        "casos_14d": "656",
+        "casos_7d": "256"
     }
 ]

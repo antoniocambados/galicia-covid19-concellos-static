@@ -3120,5 +3120,19 @@
         "habitantes": "97260",
         "casos_14d": "3037",
         "casos_7d": "1315"
+    },
+    {
+        "fecha": "2022-02-10",
+        "municipio": "Santiago de Compostela",
+        "habitantes": "97260",
+        "casos_14d": "2933",
+        "casos_7d": "1169"
+    },
+    {
+        "fecha": "2022-02-11",
+        "municipio": "Santiago de Compostela",
+        "habitantes": "97260",
+        "casos_14d": "2786",
+        "casos_7d": "1053"
     }
 ]

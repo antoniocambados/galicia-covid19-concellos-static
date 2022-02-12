@@ -3120,5 +3120,19 @@
         "habitantes": "2934",
         "casos_14d": "49",
         "casos_7d": null
+    },
+    {
+        "fecha": "2022-02-10",
+        "municipio": "Barreiros",
+        "habitantes": "2934",
+        "casos_14d": "40",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-02-11",
+        "municipio": "Barreiros",
+        "habitantes": "2934",
+        "casos_14d": "37",
+        "casos_7d": null
     }
 ]

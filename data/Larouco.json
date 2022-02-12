@@ -3120,5 +3120,19 @@
         "habitantes": "429",
         "casos_14d": null,
         "casos_7d": "0"
+    },
+    {
+        "fecha": "2022-02-10",
+        "municipio": "Larouco",
+        "habitantes": "429",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2022-02-11",
+        "municipio": "Larouco",
+        "habitantes": "429",
+        "casos_14d": "0",
+        "casos_7d": "0"
     }
 ]

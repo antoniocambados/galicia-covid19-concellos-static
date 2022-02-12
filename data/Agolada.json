@@ -3120,5 +3120,19 @@
         "habitantes": "2344",
         "casos_14d": "31",
         "casos_7d": "18"
+    },
+    {
+        "fecha": "2022-02-10",
+        "municipio": "Agolada",
+        "habitantes": "2344",
+        "casos_14d": "30",
+        "casos_7d": "14"
+    },
+    {
+        "fecha": "2022-02-11",
+        "municipio": "Agolada",
+        "habitantes": "2344",
+        "casos_14d": "27",
+        "casos_7d": "11"
     }
 ]

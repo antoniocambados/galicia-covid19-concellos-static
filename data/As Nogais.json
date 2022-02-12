@@ -3120,5 +3120,19 @@
         "habitantes": "1079",
         "casos_14d": "14",
         "casos_7d": null
+    },
+    {
+        "fecha": "2022-02-10",
+        "municipio": "As Nogais",
+        "habitantes": "1079",
+        "casos_14d": "16",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-02-11",
+        "municipio": "As Nogais",
+        "habitantes": "1079",
+        "casos_14d": "17",
+        "casos_7d": "11"
     }
 ]
