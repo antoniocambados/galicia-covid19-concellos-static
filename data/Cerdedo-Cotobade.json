@@ -3134,5 +3134,12 @@
         "habitantes": "5699",
         "casos_14d": "76",
         "casos_7d": "31"
+    },
+    {
+        "fecha": "2022-02-12",
+        "municipio": "Cerdedo-Cotobade",
+        "habitantes": "5699",
+        "casos_14d": "69",
+        "casos_7d": "27"
     }
 ]

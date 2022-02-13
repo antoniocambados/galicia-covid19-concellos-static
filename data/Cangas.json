@@ -3134,5 +3134,12 @@
         "habitantes": "26542",
         "casos_14d": "618",
         "casos_7d": "257"
+    },
+    {
+        "fecha": "2022-02-12",
+        "municipio": "Cangas",
+        "habitantes": "26542",
+        "casos_14d": "587",
+        "casos_7d": "234"
     }
 ]

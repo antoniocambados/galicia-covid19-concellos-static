@@ -3134,5 +3134,12 @@
         "habitantes": "6633",
         "casos_14d": "139",
         "casos_7d": "61"
+    },
+    {
+        "fecha": "2022-02-12",
+        "municipio": "Bergondo",
+        "habitantes": "6633",
+        "casos_14d": "127",
+        "casos_7d": "51"
     }
 ]
