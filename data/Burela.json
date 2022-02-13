@@ -3141,5 +3141,12 @@
         "habitantes": "9588",
         "casos_14d": "137",
         "casos_7d": "47"
+    },
+    {
+        "fecha": "2022-02-13",
+        "municipio": "Burela",
+        "habitantes": "9588",
+        "casos_14d": "127",
+        "casos_7d": "49"
     }
 ]

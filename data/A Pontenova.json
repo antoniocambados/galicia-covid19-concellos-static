@@ -3141,5 +3141,12 @@
         "habitantes": "2264",
         "casos_14d": "31",
         "casos_7d": null
+    },
+    {
+        "fecha": "2022-02-13",
+        "municipio": "A Pontenova",
+        "habitantes": "2264",
+        "casos_14d": "28",
+        "casos_7d": null
     }
 ]

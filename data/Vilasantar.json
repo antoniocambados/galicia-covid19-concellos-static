@@ -3141,5 +3141,12 @@
         "habitantes": "1213",
         "casos_14d": "14",
         "casos_7d": null
+    },
+    {
+        "fecha": "2022-02-13",
+        "municipio": "Vilasantar",
+        "habitantes": "1213",
+        "casos_14d": "12",
+        "casos_7d": null
     }
 ]
