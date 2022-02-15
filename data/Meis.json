@@ -3148,5 +3148,12 @@
         "habitantes": "4791",
         "casos_14d": "59",
         "casos_7d": "24"
+    },
+    {
+        "fecha": "2022-02-14",
+        "municipio": "Meis",
+        "habitantes": "4791",
+        "casos_14d": "55",
+        "casos_7d": "26"
     }
 ]
