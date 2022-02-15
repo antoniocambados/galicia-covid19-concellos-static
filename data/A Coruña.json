@@ -3155,5 +3155,12 @@
         "habitantes": "245711",
         "casos_14d": "5212",
         "casos_7d": "2018"
+    },
+    {
+        "fecha": "2022-02-15",
+        "municipio": "A Coru\u00f1a",
+        "habitantes": "245711",
+        "casos_14d": "4948",
+        "casos_7d": "1838"
     }
 ]

@@ -3155,5 +3155,12 @@
         "habitantes": "29218",
         "casos_14d": "545",
         "casos_7d": "216"
+    },
+    {
+        "fecha": "2022-02-15",
+        "municipio": "Redondela",
+        "habitantes": "29218",
+        "casos_14d": "529",
+        "casos_7d": "193"
     }
 ]

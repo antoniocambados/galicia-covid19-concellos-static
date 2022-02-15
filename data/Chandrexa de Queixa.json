@@ -3155,5 +3155,12 @@
         "habitantes": "456",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2022-02-15",
+        "municipio": "Chandrexa de Queixa",
+        "habitantes": "456",
+        "casos_14d": null,
+        "casos_7d": "0"
     }
 ]
