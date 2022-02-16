@@ -3162,5 +3162,12 @@
         "habitantes": "2705",
         "casos_14d": "46",
         "casos_7d": "20"
+    },
+    {
+        "fecha": "2022-02-16",
+        "municipio": "Maside",
+        "habitantes": "2705",
+        "casos_14d": "48",
+        "casos_7d": "26"
     }
 ]

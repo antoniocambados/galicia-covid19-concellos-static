@@ -3162,5 +3162,12 @@
         "habitantes": "2642",
         "casos_14d": "27",
         "casos_7d": "17"
+    },
+    {
+        "fecha": "2022-02-16",
+        "municipio": "Cartelle",
+        "habitantes": "2642",
+        "casos_14d": "26",
+        "casos_7d": "15"
     }
 ]

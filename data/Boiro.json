@@ -3162,5 +3162,12 @@
         "habitantes": "18838",
         "casos_14d": "400",
         "casos_7d": "154"
+    },
+    {
+        "fecha": "2022-02-16",
+        "municipio": "Boiro",
+        "habitantes": "18838",
+        "casos_14d": "390",
+        "casos_7d": "148"
     }
 ]
