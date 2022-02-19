@@ -3169,5 +3169,26 @@
         "habitantes": "1124",
         "casos_14d": "15",
         "casos_7d": "12"
+    },
+    {
+        "fecha": "2022-02-17",
+        "municipio": "Toques",
+        "habitantes": "1124",
+        "casos_14d": "14",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-02-18",
+        "municipio": "Toques",
+        "habitantes": "1124",
+        "casos_14d": "15",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-02-19",
+        "municipio": "Toques",
+        "habitantes": "1124",
+        "casos_14d": "16",
+        "casos_7d": null
     }
 ]

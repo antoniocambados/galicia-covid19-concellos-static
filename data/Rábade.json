@@ -3169,5 +3169,26 @@
         "habitantes": "1501",
         "casos_14d": "15",
         "casos_7d": null
+    },
+    {
+        "fecha": "2022-02-17",
+        "municipio": "R\u00e1bade",
+        "habitantes": "1501",
+        "casos_14d": "16",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-02-18",
+        "municipio": "R\u00e1bade",
+        "habitantes": "1501",
+        "casos_14d": "17",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-02-19",
+        "municipio": "R\u00e1bade",
+        "habitantes": "1501",
+        "casos_14d": "17",
+        "casos_7d": null
     }
 ]

@@ -3169,5 +3169,26 @@
         "habitantes": "1334",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2022-02-17",
+        "municipio": "Irixoa",
+        "habitantes": "1334",
+        "casos_14d": "10",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-02-18",
+        "municipio": "Irixoa",
+        "habitantes": "1334",
+        "casos_14d": "12",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-02-19",
+        "municipio": "Irixoa",
+        "habitantes": "1334",
+        "casos_14d": "12",
+        "casos_7d": null
     }
 ]

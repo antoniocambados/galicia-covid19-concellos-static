@@ -3169,5 +3169,26 @@
         "habitantes": "17082",
         "casos_14d": "267",
         "casos_7d": "103"
+    },
+    {
+        "fecha": "2022-02-17",
+        "municipio": "Poio",
+        "habitantes": "17082",
+        "casos_14d": "239",
+        "casos_7d": "88"
+    },
+    {
+        "fecha": "2022-02-18",
+        "municipio": "Poio",
+        "habitantes": "17082",
+        "casos_14d": "221",
+        "casos_7d": "78"
+    },
+    {
+        "fecha": "2022-02-19",
+        "municipio": "Poio",
+        "habitantes": "17082",
+        "casos_14d": "213",
+        "casos_7d": "76"
     }
 ]

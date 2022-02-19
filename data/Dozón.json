@@ -3169,5 +3169,26 @@
         "habitantes": "1082",
         "casos_14d": "13",
         "casos_7d": null
+    },
+    {
+        "fecha": "2022-02-17",
+        "municipio": "Doz\u00f3n",
+        "habitantes": "1082",
+        "casos_14d": "10",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-02-18",
+        "municipio": "Doz\u00f3n",
+        "habitantes": "1082",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-02-19",
+        "municipio": "Doz\u00f3n",
+        "habitantes": "1082",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]

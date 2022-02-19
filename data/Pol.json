@@ -3169,5 +3169,26 @@
         "habitantes": "1609",
         "casos_14d": "52",
         "casos_7d": "30"
+    },
+    {
+        "fecha": "2022-02-17",
+        "municipio": "Pol",
+        "habitantes": "1609",
+        "casos_14d": "53",
+        "casos_7d": "17"
+    },
+    {
+        "fecha": "2022-02-18",
+        "municipio": "Pol",
+        "habitantes": "1609",
+        "casos_14d": "53",
+        "casos_7d": "13"
+    },
+    {
+        "fecha": "2022-02-19",
+        "municipio": "Pol",
+        "habitantes": "1609",
+        "casos_14d": "52",
+        "casos_7d": "11"
     }
 ]

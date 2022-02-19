@@ -3169,5 +3169,26 @@
         "habitantes": "16701",
         "casos_14d": "262",
         "casos_7d": "96"
+    },
+    {
+        "fecha": "2022-02-17",
+        "municipio": "Tui",
+        "habitantes": "16701",
+        "casos_14d": "230",
+        "casos_7d": "86"
+    },
+    {
+        "fecha": "2022-02-18",
+        "municipio": "Tui",
+        "habitantes": "16701",
+        "casos_14d": "221",
+        "casos_7d": "85"
+    },
+    {
+        "fecha": "2022-02-19",
+        "municipio": "Tui",
+        "habitantes": "16701",
+        "casos_14d": "196",
+        "casos_7d": "76"
     }
 ]

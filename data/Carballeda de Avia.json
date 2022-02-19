@@ -3169,5 +3169,26 @@
         "habitantes": "1286",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2022-02-17",
+        "municipio": "Carballeda de Avia",
+        "habitantes": "1286",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-02-18",
+        "municipio": "Carballeda de Avia",
+        "habitantes": "1286",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-02-19",
+        "municipio": "Carballeda de Avia",
+        "habitantes": "1286",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]

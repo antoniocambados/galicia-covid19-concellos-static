@@ -3169,5 +3169,26 @@
         "habitantes": "642",
         "casos_14d": null,
         "casos_7d": "0"
+    },
+    {
+        "fecha": "2022-02-17",
+        "municipio": "Muras",
+        "habitantes": "642",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2022-02-18",
+        "municipio": "Muras",
+        "habitantes": "642",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2022-02-19",
+        "municipio": "Muras",
+        "habitantes": "642",
+        "casos_14d": null,
+        "casos_7d": "0"
     }
 ]

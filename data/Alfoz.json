@@ -3169,5 +3169,26 @@
         "habitantes": "1688",
         "casos_14d": "31",
         "casos_7d": "20"
+    },
+    {
+        "fecha": "2022-02-17",
+        "municipio": "Alfoz",
+        "habitantes": "1688",
+        "casos_14d": "34",
+        "casos_7d": "21"
+    },
+    {
+        "fecha": "2022-02-18",
+        "municipio": "Alfoz",
+        "habitantes": "1688",
+        "casos_14d": "34",
+        "casos_7d": "22"
+    },
+    {
+        "fecha": "2022-02-19",
+        "municipio": "Alfoz",
+        "habitantes": "1688",
+        "casos_14d": "32",
+        "casos_7d": "18"
     }
 ]

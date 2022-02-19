@@ -3169,5 +3169,26 @@
         "habitantes": "3983",
         "casos_14d": "50",
         "casos_7d": "11"
+    },
+    {
+        "fecha": "2022-02-17",
+        "municipio": "Curtis",
+        "habitantes": "3983",
+        "casos_14d": "40",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-02-18",
+        "municipio": "Curtis",
+        "habitantes": "3983",
+        "casos_14d": "39",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-02-19",
+        "municipio": "Curtis",
+        "habitantes": "3983",
+        "casos_14d": "30",
+        "casos_7d": "10"
     }
 ]

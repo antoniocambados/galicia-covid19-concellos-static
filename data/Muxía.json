@@ -3169,5 +3169,26 @@
         "habitantes": "4657",
         "casos_14d": "64",
         "casos_7d": "23"
+    },
+    {
+        "fecha": "2022-02-17",
+        "municipio": "Mux\u00eda",
+        "habitantes": "4657",
+        "casos_14d": "62",
+        "casos_7d": "23"
+    },
+    {
+        "fecha": "2022-02-18",
+        "municipio": "Mux\u00eda",
+        "habitantes": "4657",
+        "casos_14d": "60",
+        "casos_7d": "24"
+    },
+    {
+        "fecha": "2022-02-19",
+        "municipio": "Mux\u00eda",
+        "habitantes": "4657",
+        "casos_14d": "55",
+        "casos_7d": "23"
     }
 ]
