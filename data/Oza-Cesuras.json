@@ -3190,5 +3190,12 @@
         "habitantes": "5101",
         "casos_14d": "54",
         "casos_7d": "21"
+    },
+    {
+        "fecha": "2022-02-20",
+        "municipio": "Oza-Cesuras",
+        "habitantes": "5101",
+        "casos_14d": "52",
+        "casos_7d": "19"
     }
 ]

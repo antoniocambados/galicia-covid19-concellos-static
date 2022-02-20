@@ -3190,5 +3190,12 @@
         "habitantes": "6200",
         "casos_14d": "78",
         "casos_7d": "38"
+    },
+    {
+        "fecha": "2022-02-20",
+        "municipio": "Mi\u00f1o",
+        "habitantes": "6200",
+        "casos_14d": "76",
+        "casos_7d": "39"
     }
 ]

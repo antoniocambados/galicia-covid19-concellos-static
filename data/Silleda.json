@@ -3190,5 +3190,12 @@
         "habitantes": "8687",
         "casos_14d": "129",
         "casos_7d": "40"
+    },
+    {
+        "fecha": "2022-02-20",
+        "municipio": "Silleda",
+        "habitantes": "8687",
+        "casos_14d": "126",
+        "casos_7d": "39"
     }
 ]

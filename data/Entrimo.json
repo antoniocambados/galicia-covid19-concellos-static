@@ -3190,5 +3190,12 @@
         "habitantes": "1140",
         "casos_14d": null,
         "casos_7d": "0"
+    },
+    {
+        "fecha": "2022-02-20",
+        "municipio": "Entrimo",
+        "habitantes": "1140",
+        "casos_14d": null,
+        "casos_7d": "0"
     }
 ]
