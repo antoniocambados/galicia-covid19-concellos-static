@@ -3197,5 +3197,12 @@
         "habitantes": "3388",
         "casos_14d": "30",
         "casos_7d": "11"
+    },
+    {
+        "fecha": "2022-02-21",
+        "municipio": "Palas de Rei",
+        "habitantes": "3388",
+        "casos_14d": "27",
+        "casos_7d": null
     }
 ]
