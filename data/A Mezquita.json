@@ -3204,5 +3204,12 @@
         "habitantes": "1023",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2022-02-22",
+        "municipio": "A Mezquita",
+        "habitantes": "1023",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]

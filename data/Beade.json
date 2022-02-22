@@ -3204,5 +3204,12 @@
         "habitantes": "397",
         "casos_14d": "14",
         "casos_7d": null
+    },
+    {
+        "fecha": "2022-02-22",
+        "municipio": "Beade",
+        "habitantes": "397",
+        "casos_14d": "15",
+        "casos_7d": null
     }
 ]
