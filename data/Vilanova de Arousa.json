@@ -3211,5 +3211,12 @@
         "habitantes": "10302",
         "casos_14d": "86",
         "casos_7d": "30"
+    },
+    {
+        "fecha": "2022-02-23",
+        "municipio": "Vilanova de Arousa",
+        "habitantes": "10302",
+        "casos_14d": "74",
+        "casos_7d": "28"
     }
 ]

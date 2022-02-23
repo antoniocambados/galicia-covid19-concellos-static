@@ -3211,5 +3211,12 @@
         "habitantes": "2822",
         "casos_14d": "30",
         "casos_7d": "15"
+    },
+    {
+        "fecha": "2022-02-23",
+        "municipio": "San Sadurni\u00f1o",
+        "habitantes": "2822",
+        "casos_14d": "39",
+        "casos_7d": "22"
     }
 ]

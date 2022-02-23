@@ -3211,5 +3211,12 @@
         "habitantes": "2542",
         "casos_14d": "16",
         "casos_7d": null
+    },
+    {
+        "fecha": "2022-02-23",
+        "municipio": "Pant\u00f3n",
+        "habitantes": "2542",
+        "casos_14d": "13",
+        "casos_7d": null
     }
 ]

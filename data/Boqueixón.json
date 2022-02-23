@@ -3211,5 +3211,12 @@
         "habitantes": "4220",
         "casos_14d": "42",
         "casos_7d": "16"
+    },
+    {
+        "fecha": "2022-02-23",
+        "municipio": "Boqueix\u00f3n",
+        "habitantes": "4220",
+        "casos_14d": "36",
+        "casos_7d": "13"
     }
 ]
