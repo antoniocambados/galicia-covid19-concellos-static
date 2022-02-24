@@ -3218,5 +3218,12 @@
         "habitantes": "66065",
         "casos_14d": "622",
         "casos_7d": "283"
+    },
+    {
+        "fecha": "2022-02-24",
+        "municipio": "Ferrol",
+        "habitantes": "66065",
+        "casos_14d": "595",
+        "casos_7d": "263"
     }
 ]
