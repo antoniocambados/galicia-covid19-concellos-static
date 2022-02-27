@@ -3225,5 +3225,26 @@
         "habitantes": "3616",
         "casos_14d": "22",
         "casos_7d": null
+    },
+    {
+        "fecha": "2022-02-25",
+        "municipio": "Monterroso",
+        "habitantes": "3616",
+        "casos_14d": "17",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-02-26",
+        "municipio": "Monterroso",
+        "habitantes": "3616",
+        "casos_14d": "14",
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2022-02-27",
+        "municipio": "Monterroso",
+        "habitantes": "3616",
+        "casos_14d": "11",
+        "casos_7d": "0"
     }
 ]

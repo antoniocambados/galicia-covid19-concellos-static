@@ -3225,5 +3225,26 @@
         "habitantes": "18579",
         "casos_14d": "235",
         "casos_7d": "122"
+    },
+    {
+        "fecha": "2022-02-25",
+        "municipio": "Teo",
+        "habitantes": "18579",
+        "casos_14d": "231",
+        "casos_7d": "127"
+    },
+    {
+        "fecha": "2022-02-26",
+        "municipio": "Teo",
+        "habitantes": "18579",
+        "casos_14d": "223",
+        "casos_7d": "130"
+    },
+    {
+        "fecha": "2022-02-27",
+        "municipio": "Teo",
+        "habitantes": "18579",
+        "casos_14d": "209",
+        "casos_7d": "117"
     }
 ]

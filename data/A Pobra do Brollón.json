@@ -3225,5 +3225,26 @@
         "habitantes": "1648",
         "casos_14d": "16",
         "casos_7d": "10"
+    },
+    {
+        "fecha": "2022-02-25",
+        "municipio": "A Pobra do Broll\u00f3n",
+        "habitantes": "1648",
+        "casos_14d": "17",
+        "casos_7d": "10"
+    },
+    {
+        "fecha": "2022-02-26",
+        "municipio": "A Pobra do Broll\u00f3n",
+        "habitantes": "1648",
+        "casos_14d": "15",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-02-27",
+        "municipio": "A Pobra do Broll\u00f3n",
+        "habitantes": "1648",
+        "casos_14d": "16",
+        "casos_7d": null
     }
 ]

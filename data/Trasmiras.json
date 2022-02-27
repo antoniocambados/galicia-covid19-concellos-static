@@ -3225,5 +3225,26 @@
         "habitantes": "1286",
         "casos_14d": null,
         "casos_7d": "0"
+    },
+    {
+        "fecha": "2022-02-25",
+        "municipio": "Trasmiras",
+        "habitantes": "1286",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2022-02-26",
+        "municipio": "Trasmiras",
+        "habitantes": "1286",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2022-02-27",
+        "municipio": "Trasmiras",
+        "habitantes": "1286",
+        "casos_14d": null,
+        "casos_7d": "0"
     }
 ]

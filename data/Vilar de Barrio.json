@@ -3225,5 +3225,26 @@
         "habitantes": "1307",
         "casos_14d": null,
         "casos_7d": "0"
+    },
+    {
+        "fecha": "2022-02-25",
+        "municipio": "Vilar de Barrio",
+        "habitantes": "1307",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2022-02-26",
+        "municipio": "Vilar de Barrio",
+        "habitantes": "1307",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2022-02-27",
+        "municipio": "Vilar de Barrio",
+        "habitantes": "1307",
+        "casos_14d": null,
+        "casos_7d": "0"
     }
 ]

@@ -3225,5 +3225,26 @@
         "habitantes": "4512",
         "casos_14d": "32",
         "casos_7d": "13"
+    },
+    {
+        "fecha": "2022-02-25",
+        "municipio": "Rois",
+        "habitantes": "4512",
+        "casos_14d": "29",
+        "casos_7d": "14"
+    },
+    {
+        "fecha": "2022-02-26",
+        "municipio": "Rois",
+        "habitantes": "4512",
+        "casos_14d": "28",
+        "casos_7d": "15"
+    },
+    {
+        "fecha": "2022-02-27",
+        "municipio": "Rois",
+        "habitantes": "4512",
+        "casos_14d": "25",
+        "casos_7d": "17"
     }
 ]

@@ -3225,5 +3225,26 @@
         "habitantes": "7406",
         "casos_14d": "119",
         "casos_7d": "45"
+    },
+    {
+        "fecha": "2022-02-25",
+        "municipio": "Melide",
+        "habitantes": "7406",
+        "casos_14d": "118",
+        "casos_7d": "36"
+    },
+    {
+        "fecha": "2022-02-26",
+        "municipio": "Melide",
+        "habitantes": "7406",
+        "casos_14d": "114",
+        "casos_7d": "33"
+    },
+    {
+        "fecha": "2022-02-27",
+        "municipio": "Melide",
+        "habitantes": "7406",
+        "casos_14d": "104",
+        "casos_7d": "33"
     }
 ]

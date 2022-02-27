@@ -3225,5 +3225,26 @@
         "habitantes": "1516",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2022-02-25",
+        "municipio": "Ri\u00f3s",
+        "habitantes": "1516",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-02-26",
+        "municipio": "Ri\u00f3s",
+        "habitantes": "1516",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-02-27",
+        "municipio": "Ri\u00f3s",
+        "habitantes": "1516",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]
