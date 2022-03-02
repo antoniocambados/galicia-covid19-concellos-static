@@ -3246,5 +3246,19 @@
         "habitantes": "2396",
         "casos_14d": "19",
         "casos_7d": null
+    },
+    {
+        "fecha": "2022-02-28",
+        "municipio": "Covelo",
+        "habitantes": "2396",
+        "casos_14d": "21",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-03-01",
+        "municipio": "Covelo",
+        "habitantes": "2396",
+        "casos_14d": "21",
+        "casos_7d": null
     }
 ]

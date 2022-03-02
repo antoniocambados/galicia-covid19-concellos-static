@@ -3246,5 +3246,19 @@
         "habitantes": "1675",
         "casos_14d": "17",
         "casos_7d": null
+    },
+    {
+        "fecha": "2022-02-28",
+        "municipio": "O Vicedo",
+        "habitantes": "1675",
+        "casos_14d": "17",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-03-01",
+        "municipio": "O Vicedo",
+        "habitantes": "1675",
+        "casos_14d": "15",
+        "casos_7d": null
     }
 ]

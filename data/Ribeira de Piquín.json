@@ -3246,5 +3246,19 @@
         "habitantes": "528",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2022-02-28",
+        "municipio": "Ribeira de Piqu\u00edn",
+        "habitantes": "528",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-03-01",
+        "municipio": "Ribeira de Piqu\u00edn",
+        "habitantes": "528",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]

@@ -3246,5 +3246,19 @@
         "habitantes": "3465",
         "casos_14d": "64",
         "casos_7d": "26"
+    },
+    {
+        "fecha": "2022-02-28",
+        "municipio": "A Fonsagrada",
+        "habitantes": "3465",
+        "casos_14d": "66",
+        "casos_7d": "25"
+    },
+    {
+        "fecha": "2022-03-01",
+        "municipio": "A Fonsagrada",
+        "habitantes": "3465",
+        "casos_14d": "65",
+        "casos_7d": "26"
     }
 ]

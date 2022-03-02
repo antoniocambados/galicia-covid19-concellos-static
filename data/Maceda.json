@@ -3246,5 +3246,19 @@
         "habitantes": "2872",
         "casos_14d": "31",
         "casos_7d": "10"
+    },
+    {
+        "fecha": "2022-02-28",
+        "municipio": "Maceda",
+        "habitantes": "2872",
+        "casos_14d": "29",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-03-01",
+        "municipio": "Maceda",
+        "habitantes": "2872",
+        "casos_14d": "28",
+        "casos_7d": null
     }
 ]

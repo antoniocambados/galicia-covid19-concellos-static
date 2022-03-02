@@ -3246,5 +3246,19 @@
         "habitantes": "870",
         "casos_14d": "30",
         "casos_7d": "24"
+    },
+    {
+        "fecha": "2022-02-28",
+        "municipio": "Manzaneda",
+        "habitantes": "870",
+        "casos_14d": "43",
+        "casos_7d": "37"
+    },
+    {
+        "fecha": "2022-03-01",
+        "municipio": "Manzaneda",
+        "habitantes": "870",
+        "casos_14d": "44",
+        "casos_7d": "36"
     }
 ]

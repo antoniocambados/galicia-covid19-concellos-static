@@ -3246,5 +3246,19 @@
         "habitantes": "1224",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2022-02-28",
+        "municipio": "Castro Caldelas",
+        "habitantes": "1224",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-03-01",
+        "municipio": "Castro Caldelas",
+        "habitantes": "1224",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]

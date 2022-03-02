@@ -3246,5 +3246,19 @@
         "habitantes": "889",
         "casos_14d": null,
         "casos_7d": "0"
+    },
+    {
+        "fecha": "2022-02-28",
+        "municipio": "A Veiga",
+        "habitantes": "889",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2022-03-01",
+        "municipio": "A Veiga",
+        "habitantes": "889",
+        "casos_14d": "0",
+        "casos_7d": "0"
     }
 ]

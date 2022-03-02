@@ -3246,5 +3246,19 @@
         "habitantes": "4314",
         "casos_14d": "29",
         "casos_7d": null
+    },
+    {
+        "fecha": "2022-02-28",
+        "municipio": "A R\u00faa",
+        "habitantes": "4314",
+        "casos_14d": "29",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-03-01",
+        "municipio": "A R\u00faa",
+        "habitantes": "4314",
+        "casos_14d": "29",
+        "casos_7d": null
     }
 ]
