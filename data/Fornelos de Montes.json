@@ -3260,5 +3260,12 @@
         "habitantes": "1616",
         "casos_14d": "15",
         "casos_7d": null
+    },
+    {
+        "fecha": "2022-03-02",
+        "municipio": "Fornelos de Montes",
+        "habitantes": "1616",
+        "casos_14d": "12",
+        "casos_7d": null
     }
 ]
