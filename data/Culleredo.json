@@ -3267,5 +3267,12 @@
         "habitantes": "30402",
         "casos_14d": "231",
         "casos_7d": "99"
+    },
+    {
+        "fecha": "2022-03-03",
+        "municipio": "Culleredo",
+        "habitantes": "30402",
+        "casos_14d": "223",
+        "casos_7d": "95"
     }
 ]
