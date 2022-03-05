@@ -3274,5 +3274,19 @@
         "habitantes": "18433",
         "casos_14d": "160",
         "casos_7d": "74"
+    },
+    {
+        "fecha": "2022-03-04",
+        "municipio": "Monforte de Lemos",
+        "habitantes": "18433",
+        "casos_14d": "165",
+        "casos_7d": "68"
+    },
+    {
+        "fecha": "2022-03-05",
+        "municipio": "Monforte de Lemos",
+        "habitantes": "18433",
+        "casos_14d": "159",
+        "casos_7d": "61"
     }
 ]

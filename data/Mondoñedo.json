@@ -3274,5 +3274,19 @@
         "habitantes": "3568",
         "casos_14d": "30",
         "casos_7d": "18"
+    },
+    {
+        "fecha": "2022-03-04",
+        "municipio": "Mondo\u00f1edo",
+        "habitantes": "3568",
+        "casos_14d": "29",
+        "casos_7d": "15"
+    },
+    {
+        "fecha": "2022-03-05",
+        "municipio": "Mondo\u00f1edo",
+        "habitantes": "3568",
+        "casos_14d": "29",
+        "casos_7d": "14"
     }
 ]

@@ -3274,5 +3274,19 @@
         "habitantes": "4484",
         "casos_14d": "19",
         "casos_7d": null
+    },
+    {
+        "fecha": "2022-03-04",
+        "municipio": "Cospeito",
+        "habitantes": "4484",
+        "casos_14d": "17",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-03-05",
+        "municipio": "Cospeito",
+        "habitantes": "4484",
+        "casos_14d": "16",
+        "casos_7d": null
     }
 ]

@@ -3274,5 +3274,19 @@
         "habitantes": "3481",
         "casos_14d": "24",
         "casos_7d": null
+    },
+    {
+        "fecha": "2022-03-04",
+        "municipio": "O Corgo",
+        "habitantes": "3481",
+        "casos_14d": "24",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-03-05",
+        "municipio": "O Corgo",
+        "habitantes": "3481",
+        "casos_14d": "20",
+        "casos_7d": null
     }
 ]
