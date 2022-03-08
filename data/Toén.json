@@ -3288,5 +3288,26 @@
         "habitantes": "2355",
         "casos_14d": "24",
         "casos_7d": null
+    },
+    {
+        "fecha": "2022-03-06",
+        "municipio": "To\u00e9n",
+        "habitantes": "2355",
+        "casos_14d": "23",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-03-07",
+        "municipio": "To\u00e9n",
+        "habitantes": "2355",
+        "casos_14d": "23",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-03-08",
+        "municipio": "To\u00e9n",
+        "habitantes": "2355",
+        "casos_14d": "20",
+        "casos_7d": "12"
     }
 ]

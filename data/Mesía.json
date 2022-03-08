@@ -3288,5 +3288,26 @@
         "habitantes": "2530",
         "casos_14d": "15",
         "casos_7d": "11"
+    },
+    {
+        "fecha": "2022-03-06",
+        "municipio": "Mes\u00eda",
+        "habitantes": "2530",
+        "casos_14d": "14",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-03-07",
+        "municipio": "Mes\u00eda",
+        "habitantes": "2530",
+        "casos_14d": "14",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-03-08",
+        "municipio": "Mes\u00eda",
+        "habitantes": "2530",
+        "casos_14d": "14",
+        "casos_7d": null
     }
 ]

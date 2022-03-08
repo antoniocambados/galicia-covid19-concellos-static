@@ -3288,5 +3288,26 @@
         "habitantes": "9977",
         "casos_14d": "72",
         "casos_7d": "32"
+    },
+    {
+        "fecha": "2022-03-06",
+        "municipio": "A Guarda",
+        "habitantes": "9977",
+        "casos_14d": "73",
+        "casos_7d": "39"
+    },
+    {
+        "fecha": "2022-03-07",
+        "municipio": "A Guarda",
+        "habitantes": "9977",
+        "casos_14d": "73",
+        "casos_7d": "39"
+    },
+    {
+        "fecha": "2022-03-08",
+        "municipio": "A Guarda",
+        "habitantes": "9977",
+        "casos_14d": "73",
+        "casos_7d": "45"
     }
 ]

@@ -3288,5 +3288,26 @@
         "habitantes": "5699",
         "casos_14d": "19",
         "casos_7d": "11"
+    },
+    {
+        "fecha": "2022-03-06",
+        "municipio": "Cerdedo-Cotobade",
+        "habitantes": "5699",
+        "casos_14d": "19",
+        "casos_7d": "12"
+    },
+    {
+        "fecha": "2022-03-07",
+        "municipio": "Cerdedo-Cotobade",
+        "habitantes": "5699",
+        "casos_14d": "20",
+        "casos_7d": "12"
+    },
+    {
+        "fecha": "2022-03-08",
+        "municipio": "Cerdedo-Cotobade",
+        "habitantes": "5699",
+        "casos_14d": "22",
+        "casos_7d": "11"
     }
 ]

@@ -3288,5 +3288,26 @@
         "habitantes": "5671",
         "casos_14d": "13",
         "casos_7d": null
+    },
+    {
+        "fecha": "2022-03-06",
+        "municipio": "Ortigueira",
+        "habitantes": "5671",
+        "casos_14d": "14",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-03-07",
+        "municipio": "Ortigueira",
+        "habitantes": "5671",
+        "casos_14d": "15",
+        "casos_7d": "10"
+    },
+    {
+        "fecha": "2022-03-08",
+        "municipio": "Ortigueira",
+        "habitantes": "5671",
+        "casos_14d": "21",
+        "casos_7d": "17"
     }
 ]

@@ -3288,5 +3288,26 @@
         "habitantes": "1349",
         "casos_14d": "16",
         "casos_7d": null
+    },
+    {
+        "fecha": "2022-03-06",
+        "municipio": "Castrelo de Mi\u00f1o",
+        "habitantes": "1349",
+        "casos_14d": "15",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-03-07",
+        "municipio": "Castrelo de Mi\u00f1o",
+        "habitantes": "1349",
+        "casos_14d": "15",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-03-08",
+        "municipio": "Castrelo de Mi\u00f1o",
+        "habitantes": "1349",
+        "casos_14d": "15",
+        "casos_7d": null
     }
 ]

@@ -3288,5 +3288,26 @@
         "habitantes": "5272",
         "casos_14d": "19",
         "casos_7d": null
+    },
+    {
+        "fecha": "2022-03-06",
+        "municipio": "Camari\u00f1as",
+        "habitantes": "5272",
+        "casos_14d": "17",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-03-07",
+        "municipio": "Camari\u00f1as",
+        "habitantes": "5272",
+        "casos_14d": "18",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-03-08",
+        "municipio": "Camari\u00f1as",
+        "habitantes": "5272",
+        "casos_14d": "16",
+        "casos_7d": null
     }
 ]

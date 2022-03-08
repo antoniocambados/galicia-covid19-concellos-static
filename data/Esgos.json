@@ -3288,5 +3288,26 @@
         "habitantes": "1116",
         "casos_14d": "37",
         "casos_7d": "28"
+    },
+    {
+        "fecha": "2022-03-06",
+        "municipio": "Esgos",
+        "habitantes": "1116",
+        "casos_14d": "37",
+        "casos_7d": "28"
+    },
+    {
+        "fecha": "2022-03-07",
+        "municipio": "Esgos",
+        "habitantes": "1116",
+        "casos_14d": "39",
+        "casos_7d": "29"
+    },
+    {
+        "fecha": "2022-03-08",
+        "municipio": "Esgos",
+        "habitantes": "1116",
+        "casos_14d": "32",
+        "casos_7d": "28"
     }
 ]

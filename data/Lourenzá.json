@@ -3288,5 +3288,26 @@
         "habitantes": "2140",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2022-03-06",
+        "municipio": "Lourenz\u00e1",
+        "habitantes": "2140",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-03-07",
+        "municipio": "Lourenz\u00e1",
+        "habitantes": "2140",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-03-08",
+        "municipio": "Lourenz\u00e1",
+        "habitantes": "2140",
+        "casos_14d": null,
+        "casos_7d": "0"
     }
 ]
