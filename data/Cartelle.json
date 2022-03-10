@@ -3309,5 +3309,19 @@
         "habitantes": "2642",
         "casos_14d": "32",
         "casos_7d": "10"
+    },
+    {
+        "fecha": "2022-03-09",
+        "municipio": "Cartelle",
+        "habitantes": "2642",
+        "casos_14d": "27",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-03-10",
+        "municipio": "Cartelle",
+        "habitantes": "2642",
+        "casos_14d": "24",
+        "casos_7d": null
     }
 ]

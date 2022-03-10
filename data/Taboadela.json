@@ -3309,5 +3309,19 @@
         "habitantes": "1429",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2022-03-09",
+        "municipio": "Taboadela",
+        "habitantes": "1429",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-03-10",
+        "municipio": "Taboadela",
+        "habitantes": "1429",
+        "casos_14d": null,
+        "casos_7d": "0"
     }
 ]

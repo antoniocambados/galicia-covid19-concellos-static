@@ -3309,5 +3309,19 @@
         "habitantes": "1846",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2022-03-09",
+        "municipio": "Vilardev\u00f3s",
+        "habitantes": "1846",
+        "casos_14d": "12",
+        "casos_7d": "10"
+    },
+    {
+        "fecha": "2022-03-10",
+        "municipio": "Vilardev\u00f3s",
+        "habitantes": "1846",
+        "casos_14d": "15",
+        "casos_7d": "12"
     }
 ]
