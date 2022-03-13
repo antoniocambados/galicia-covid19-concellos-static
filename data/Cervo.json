@@ -3323,5 +3323,12 @@
         "habitantes": "4227",
         "casos_14d": "48",
         "casos_7d": "30"
+    },
+    {
+        "fecha": "2022-03-11",
+        "municipio": "Cervo",
+        "habitantes": "4227",
+        "casos_14d": "50",
+        "casos_7d": "31"
     }
 ]

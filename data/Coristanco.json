@@ -3323,5 +3323,12 @@
         "habitantes": "6074",
         "casos_14d": "17",
         "casos_7d": "10"
+    },
+    {
+        "fecha": "2022-03-11",
+        "municipio": "Coristanco",
+        "habitantes": "6074",
+        "casos_14d": "16",
+        "casos_7d": "11"
     }
 ]

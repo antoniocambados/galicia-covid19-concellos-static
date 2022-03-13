@@ -3323,5 +3323,12 @@
         "habitantes": "10138",
         "casos_14d": "108",
         "casos_7d": "77"
+    },
+    {
+        "fecha": "2022-03-11",
+        "municipio": "As Pontes de Garc\u00eda Rodr\u00edguez",
+        "habitantes": "10138",
+        "casos_14d": "114",
+        "casos_7d": "81"
     }
 ]
