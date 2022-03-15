@@ -3330,5 +3330,26 @@
         "habitantes": "19848",
         "casos_14d": "93",
         "casos_7d": "44"
+    },
+    {
+        "fecha": "2022-03-12",
+        "municipio": "O Porri\u00f1o",
+        "habitantes": "19848",
+        "casos_14d": "92",
+        "casos_7d": "45"
+    },
+    {
+        "fecha": "2022-03-14",
+        "municipio": "O Porri\u00f1o",
+        "habitantes": "19848",
+        "casos_14d": "90",
+        "casos_7d": "44"
+    },
+    {
+        "fecha": "2022-03-15",
+        "municipio": "O Porri\u00f1o",
+        "habitantes": "19848",
+        "casos_14d": "89",
+        "casos_7d": "38"
     }
 ]

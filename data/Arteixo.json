@@ -3330,5 +3330,26 @@
         "habitantes": "32262",
         "casos_14d": "206",
         "casos_7d": "124"
+    },
+    {
+        "fecha": "2022-03-12",
+        "municipio": "Arteixo",
+        "habitantes": "32262",
+        "casos_14d": "207",
+        "casos_7d": "117"
+    },
+    {
+        "fecha": "2022-03-14",
+        "municipio": "Arteixo",
+        "habitantes": "32262",
+        "casos_14d": "216",
+        "casos_7d": "109"
+    },
+    {
+        "fecha": "2022-03-15",
+        "municipio": "Arteixo",
+        "habitantes": "32262",
+        "casos_14d": "215",
+        "casos_7d": "107"
     }
 ]

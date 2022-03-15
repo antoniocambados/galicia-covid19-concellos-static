@@ -3330,5 +3330,26 @@
         "habitantes": "24319",
         "casos_14d": "138",
         "casos_7d": "74"
+    },
+    {
+        "fecha": "2022-03-12",
+        "municipio": "Mar\u00edn",
+        "habitantes": "24319",
+        "casos_14d": "142",
+        "casos_7d": "76"
+    },
+    {
+        "fecha": "2022-03-14",
+        "municipio": "Mar\u00edn",
+        "habitantes": "24319",
+        "casos_14d": "152",
+        "casos_7d": "81"
+    },
+    {
+        "fecha": "2022-03-15",
+        "municipio": "Mar\u00edn",
+        "habitantes": "24319",
+        "casos_14d": "153",
+        "casos_7d": "79"
     }
 ]

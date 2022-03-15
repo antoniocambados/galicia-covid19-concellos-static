@@ -3330,5 +3330,26 @@
         "habitantes": "3450",
         "casos_14d": "18",
         "casos_7d": null
+    },
+    {
+        "fecha": "2022-03-12",
+        "municipio": "A Ba\u00f1a",
+        "habitantes": "3450",
+        "casos_14d": "19",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-03-14",
+        "municipio": "A Ba\u00f1a",
+        "habitantes": "3450",
+        "casos_14d": "21",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-03-15",
+        "municipio": "A Ba\u00f1a",
+        "habitantes": "3450",
+        "casos_14d": "22",
+        "casos_7d": null
     }
 ]

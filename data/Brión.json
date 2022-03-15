@@ -3330,5 +3330,26 @@
         "habitantes": "7837",
         "casos_14d": "48",
         "casos_7d": "36"
+    },
+    {
+        "fecha": "2022-03-12",
+        "municipio": "Bri\u00f3n",
+        "habitantes": "7837",
+        "casos_14d": "52",
+        "casos_7d": "35"
+    },
+    {
+        "fecha": "2022-03-14",
+        "municipio": "Bri\u00f3n",
+        "habitantes": "7837",
+        "casos_14d": "55",
+        "casos_7d": "31"
+    },
+    {
+        "fecha": "2022-03-15",
+        "municipio": "Bri\u00f3n",
+        "habitantes": "7837",
+        "casos_14d": "58",
+        "casos_7d": "31"
     }
 ]

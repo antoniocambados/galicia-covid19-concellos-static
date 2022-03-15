@@ -3330,5 +3330,26 @@
         "habitantes": "1266",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2022-03-12",
+        "municipio": "Rairiz de Veiga",
+        "habitantes": "1266",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-03-14",
+        "municipio": "Rairiz de Veiga",
+        "habitantes": "1266",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-03-15",
+        "municipio": "Rairiz de Veiga",
+        "habitantes": "1266",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]

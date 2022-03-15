@@ -3330,5 +3330,26 @@
         "habitantes": "11037",
         "casos_14d": "129",
         "casos_7d": "77"
+    },
+    {
+        "fecha": "2022-03-12",
+        "municipio": "Barbad\u00e1s",
+        "habitantes": "11037",
+        "casos_14d": "125",
+        "casos_7d": "77"
+    },
+    {
+        "fecha": "2022-03-14",
+        "municipio": "Barbad\u00e1s",
+        "habitantes": "11037",
+        "casos_14d": "126",
+        "casos_7d": "64"
+    },
+    {
+        "fecha": "2022-03-15",
+        "municipio": "Barbad\u00e1s",
+        "habitantes": "11037",
+        "casos_14d": "134",
+        "casos_7d": "64"
     }
 ]

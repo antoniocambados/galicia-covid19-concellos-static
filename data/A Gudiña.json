@@ -3330,5 +3330,26 @@
         "habitantes": "1254",
         "casos_14d": "16",
         "casos_7d": "15"
+    },
+    {
+        "fecha": "2022-03-12",
+        "municipio": "A Gudi\u00f1a",
+        "habitantes": "1254",
+        "casos_14d": "16",
+        "casos_7d": "14"
+    },
+    {
+        "fecha": "2022-03-14",
+        "municipio": "A Gudi\u00f1a",
+        "habitantes": "1254",
+        "casos_14d": "17",
+        "casos_7d": "14"
+    },
+    {
+        "fecha": "2022-03-15",
+        "municipio": "A Gudi\u00f1a",
+        "habitantes": "1254",
+        "casos_14d": "17",
+        "casos_7d": null
     }
 ]

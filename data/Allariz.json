@@ -3330,5 +3330,26 @@
         "habitantes": "6188",
         "casos_14d": "55",
         "casos_7d": "32"
+    },
+    {
+        "fecha": "2022-03-12",
+        "municipio": "Allariz",
+        "habitantes": "6188",
+        "casos_14d": "55",
+        "casos_7d": "27"
+    },
+    {
+        "fecha": "2022-03-14",
+        "municipio": "Allariz",
+        "habitantes": "6188",
+        "casos_14d": "59",
+        "casos_7d": "22"
+    },
+    {
+        "fecha": "2022-03-15",
+        "municipio": "Allariz",
+        "habitantes": "6188",
+        "casos_14d": "53",
+        "casos_7d": "19"
     }
 ]

@@ -3330,5 +3330,26 @@
         "habitantes": "2193",
         "casos_14d": "19",
         "casos_7d": "11"
+    },
+    {
+        "fecha": "2022-03-12",
+        "municipio": "Carballedo",
+        "habitantes": "2193",
+        "casos_14d": "20",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-03-14",
+        "municipio": "Carballedo",
+        "habitantes": "2193",
+        "casos_14d": "18",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-03-15",
+        "municipio": "Carballedo",
+        "habitantes": "2193",
+        "casos_14d": "18",
+        "casos_7d": null
     }
 ]

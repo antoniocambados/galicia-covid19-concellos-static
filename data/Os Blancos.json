@@ -3330,5 +3330,26 @@
         "habitantes": "766",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2022-03-12",
+        "municipio": "Os Blancos",
+        "habitantes": "766",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-03-14",
+        "municipio": "Os Blancos",
+        "habitantes": "766",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-03-15",
+        "municipio": "Os Blancos",
+        "habitantes": "766",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]

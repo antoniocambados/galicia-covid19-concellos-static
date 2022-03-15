@@ -3330,5 +3330,26 @@
         "habitantes": "3335",
         "casos_14d": "47",
         "casos_7d": "16"
+    },
+    {
+        "fecha": "2022-03-12",
+        "municipio": "Catoira",
+        "habitantes": "3335",
+        "casos_14d": "44",
+        "casos_7d": "13"
+    },
+    {
+        "fecha": "2022-03-14",
+        "municipio": "Catoira",
+        "habitantes": "3335",
+        "casos_14d": "41",
+        "casos_7d": "10"
+    },
+    {
+        "fecha": "2022-03-15",
+        "municipio": "Catoira",
+        "habitantes": "3335",
+        "casos_14d": "38",
+        "casos_7d": "10"
     }
 ]
