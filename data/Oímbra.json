@@ -3351,5 +3351,40 @@
         "habitantes": "1712",
         "casos_14d": "19",
         "casos_7d": "12"
+    },
+    {
+        "fecha": "2022-03-16",
+        "municipio": "O\u00edmbra",
+        "habitantes": "1712",
+        "casos_14d": "20",
+        "casos_7d": "14"
+    },
+    {
+        "fecha": "2022-03-17",
+        "municipio": "O\u00edmbra",
+        "habitantes": "1712",
+        "casos_14d": "24",
+        "casos_7d": "17"
+    },
+    {
+        "fecha": "2022-03-18",
+        "municipio": "O\u00edmbra",
+        "habitantes": "1712",
+        "casos_14d": "24",
+        "casos_7d": "16"
+    },
+    {
+        "fecha": "2022-03-19",
+        "municipio": "O\u00edmbra",
+        "habitantes": "1712",
+        "casos_14d": "23",
+        "casos_7d": "12"
+    },
+    {
+        "fecha": "2022-03-21",
+        "municipio": "O\u00edmbra",
+        "habitantes": "1712",
+        "casos_14d": "21",
+        "casos_7d": "12"
     }
 ]

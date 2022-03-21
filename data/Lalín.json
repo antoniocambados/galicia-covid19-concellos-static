@@ -3351,5 +3351,40 @@
         "habitantes": "20218",
         "casos_14d": "184",
         "casos_7d": "105"
+    },
+    {
+        "fecha": "2022-03-16",
+        "municipio": "Lal\u00edn",
+        "habitantes": "20218",
+        "casos_14d": "195",
+        "casos_7d": "100"
+    },
+    {
+        "fecha": "2022-03-17",
+        "municipio": "Lal\u00edn",
+        "habitantes": "20218",
+        "casos_14d": "206",
+        "casos_7d": "102"
+    },
+    {
+        "fecha": "2022-03-18",
+        "municipio": "Lal\u00edn",
+        "habitantes": "20218",
+        "casos_14d": "202",
+        "casos_7d": "102"
+    },
+    {
+        "fecha": "2022-03-19",
+        "municipio": "Lal\u00edn",
+        "habitantes": "20218",
+        "casos_14d": "204",
+        "casos_7d": "105"
+    },
+    {
+        "fecha": "2022-03-21",
+        "municipio": "Lal\u00edn",
+        "habitantes": "20218",
+        "casos_14d": "214",
+        "casos_7d": "110"
     }
 ]

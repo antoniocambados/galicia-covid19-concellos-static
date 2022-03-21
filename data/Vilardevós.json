@@ -3351,5 +3351,40 @@
         "habitantes": "1846",
         "casos_14d": "23",
         "casos_7d": "16"
+    },
+    {
+        "fecha": "2022-03-16",
+        "municipio": "Vilardev\u00f3s",
+        "habitantes": "1846",
+        "casos_14d": "23",
+        "casos_7d": "13"
+    },
+    {
+        "fecha": "2022-03-17",
+        "municipio": "Vilardev\u00f3s",
+        "habitantes": "1846",
+        "casos_14d": "25",
+        "casos_7d": "13"
+    },
+    {
+        "fecha": "2022-03-18",
+        "municipio": "Vilardev\u00f3s",
+        "habitantes": "1846",
+        "casos_14d": "22",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-03-19",
+        "municipio": "Vilardev\u00f3s",
+        "habitantes": "1846",
+        "casos_14d": "27",
+        "casos_7d": "12"
+    },
+    {
+        "fecha": "2022-03-21",
+        "municipio": "Vilardev\u00f3s",
+        "habitantes": "1846",
+        "casos_14d": "27",
+        "casos_7d": "11"
     }
 ]

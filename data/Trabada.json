@@ -3351,5 +3351,40 @@
         "habitantes": "1118",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2022-03-16",
+        "municipio": "Trabada",
+        "habitantes": "1118",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-03-17",
+        "municipio": "Trabada",
+        "habitantes": "1118",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-03-18",
+        "municipio": "Trabada",
+        "habitantes": "1118",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-03-19",
+        "municipio": "Trabada",
+        "habitantes": "1118",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-03-21",
+        "municipio": "Trabada",
+        "habitantes": "1118",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]

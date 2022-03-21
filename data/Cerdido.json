@@ -3351,5 +3351,40 @@
         "habitantes": "1113",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2022-03-16",
+        "municipio": "Cerdido",
+        "habitantes": "1113",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-03-17",
+        "municipio": "Cerdido",
+        "habitantes": "1113",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-03-18",
+        "municipio": "Cerdido",
+        "habitantes": "1113",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-03-19",
+        "municipio": "Cerdido",
+        "habitantes": "1113",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-03-21",
+        "municipio": "Cerdido",
+        "habitantes": "1113",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]

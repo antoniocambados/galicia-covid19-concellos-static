@@ -3351,5 +3351,40 @@
         "habitantes": "2437",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2022-03-16",
+        "municipio": "Rodeiro",
+        "habitantes": "2437",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-03-17",
+        "municipio": "Rodeiro",
+        "habitantes": "2437",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-03-18",
+        "municipio": "Rodeiro",
+        "habitantes": "2437",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-03-19",
+        "municipio": "Rodeiro",
+        "habitantes": "2437",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-03-21",
+        "municipio": "Rodeiro",
+        "habitantes": "2437",
+        "casos_14d": "11",
+        "casos_7d": null
     }
 ]

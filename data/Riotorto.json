@@ -3351,5 +3351,40 @@
         "habitantes": "1262",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2022-03-16",
+        "municipio": "Riotorto",
+        "habitantes": "1262",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-03-17",
+        "municipio": "Riotorto",
+        "habitantes": "1262",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-03-18",
+        "municipio": "Riotorto",
+        "habitantes": "1262",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-03-19",
+        "municipio": "Riotorto",
+        "habitantes": "1262",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-03-21",
+        "municipio": "Riotorto",
+        "habitantes": "1262",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]

@@ -3351,5 +3351,40 @@
         "habitantes": "3273",
         "casos_14d": "95",
         "casos_7d": "51"
+    },
+    {
+        "fecha": "2022-03-16",
+        "municipio": "Xove",
+        "habitantes": "3273",
+        "casos_14d": "98",
+        "casos_7d": "49"
+    },
+    {
+        "fecha": "2022-03-17",
+        "municipio": "Xove",
+        "habitantes": "3273",
+        "casos_14d": "102",
+        "casos_7d": "49"
+    },
+    {
+        "fecha": "2022-03-18",
+        "municipio": "Xove",
+        "habitantes": "3273",
+        "casos_14d": "107",
+        "casos_7d": "35"
+    },
+    {
+        "fecha": "2022-03-19",
+        "municipio": "Xove",
+        "habitantes": "3273",
+        "casos_14d": "94",
+        "casos_7d": "34"
+    },
+    {
+        "fecha": "2022-03-21",
+        "municipio": "Xove",
+        "habitantes": "3273",
+        "casos_14d": "88",
+        "casos_7d": "33"
     }
 ]

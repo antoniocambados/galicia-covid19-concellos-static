@@ -3351,5 +3351,40 @@
         "habitantes": "6188",
         "casos_14d": "53",
         "casos_7d": "19"
+    },
+    {
+        "fecha": "2022-03-16",
+        "municipio": "Allariz",
+        "habitantes": "6188",
+        "casos_14d": "50",
+        "casos_7d": "15"
+    },
+    {
+        "fecha": "2022-03-17",
+        "municipio": "Allariz",
+        "habitantes": "6188",
+        "casos_14d": "49",
+        "casos_7d": "16"
+    },
+    {
+        "fecha": "2022-03-18",
+        "municipio": "Allariz",
+        "habitantes": "6188",
+        "casos_14d": "49",
+        "casos_7d": "17"
+    },
+    {
+        "fecha": "2022-03-19",
+        "municipio": "Allariz",
+        "habitantes": "6188",
+        "casos_14d": "48",
+        "casos_7d": "21"
+    },
+    {
+        "fecha": "2022-03-21",
+        "municipio": "Allariz",
+        "habitantes": "6188",
+        "casos_14d": "55",
+        "casos_7d": "33"
     }
 ]

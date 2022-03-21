@@ -3351,5 +3351,40 @@
         "habitantes": "3574",
         "casos_14d": "13",
         "casos_7d": null
+    },
+    {
+        "fecha": "2022-03-16",
+        "municipio": "Touro",
+        "habitantes": "3574",
+        "casos_14d": "13",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-03-17",
+        "municipio": "Touro",
+        "habitantes": "3574",
+        "casos_14d": "17",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-03-18",
+        "municipio": "Touro",
+        "habitantes": "3574",
+        "casos_14d": "16",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-03-19",
+        "municipio": "Touro",
+        "habitantes": "3574",
+        "casos_14d": "19",
+        "casos_7d": "10"
+    },
+    {
+        "fecha": "2022-03-21",
+        "municipio": "Touro",
+        "habitantes": "3574",
+        "casos_14d": "20",
+        "casos_7d": "14"
     }
 ]

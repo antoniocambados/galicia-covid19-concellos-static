@@ -3351,5 +3351,40 @@
         "habitantes": "13499",
         "casos_14d": "87",
         "casos_7d": "48"
+    },
+    {
+        "fecha": "2022-03-16",
+        "municipio": "Tomi\u00f1o",
+        "habitantes": "13499",
+        "casos_14d": "92",
+        "casos_7d": "49"
+    },
+    {
+        "fecha": "2022-03-17",
+        "municipio": "Tomi\u00f1o",
+        "habitantes": "13499",
+        "casos_14d": "95",
+        "casos_7d": "51"
+    },
+    {
+        "fecha": "2022-03-18",
+        "municipio": "Tomi\u00f1o",
+        "habitantes": "13499",
+        "casos_14d": "92",
+        "casos_7d": "47"
+    },
+    {
+        "fecha": "2022-03-19",
+        "municipio": "Tomi\u00f1o",
+        "habitantes": "13499",
+        "casos_14d": "95",
+        "casos_7d": "51"
+    },
+    {
+        "fecha": "2022-03-21",
+        "municipio": "Tomi\u00f1o",
+        "habitantes": "13499",
+        "casos_14d": "94",
+        "casos_7d": "48"
     }
 ]

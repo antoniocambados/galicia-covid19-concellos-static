@@ -3351,5 +3351,40 @@
         "habitantes": "26886",
         "casos_14d": "229",
         "casos_7d": "98"
+    },
+    {
+        "fecha": "2022-03-16",
+        "municipio": "Ribeira",
+        "habitantes": "26886",
+        "casos_14d": "235",
+        "casos_7d": "101"
+    },
+    {
+        "fecha": "2022-03-17",
+        "municipio": "Ribeira",
+        "habitantes": "26886",
+        "casos_14d": "233",
+        "casos_7d": "92"
+    },
+    {
+        "fecha": "2022-03-18",
+        "municipio": "Ribeira",
+        "habitantes": "26886",
+        "casos_14d": "237",
+        "casos_7d": "96"
+    },
+    {
+        "fecha": "2022-03-19",
+        "municipio": "Ribeira",
+        "habitantes": "26886",
+        "casos_14d": "230",
+        "casos_7d": "99"
+    },
+    {
+        "fecha": "2022-03-21",
+        "municipio": "Ribeira",
+        "habitantes": "26886",
+        "casos_14d": "220",
+        "casos_7d": "103"
     }
 ]

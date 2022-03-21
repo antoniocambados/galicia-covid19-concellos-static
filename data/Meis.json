@@ -3351,5 +3351,40 @@
         "habitantes": "4791",
         "casos_14d": "55",
         "casos_7d": "31"
+    },
+    {
+        "fecha": "2022-03-16",
+        "municipio": "Meis",
+        "habitantes": "4791",
+        "casos_14d": "60",
+        "casos_7d": "25"
+    },
+    {
+        "fecha": "2022-03-17",
+        "municipio": "Meis",
+        "habitantes": "4791",
+        "casos_14d": "63",
+        "casos_7d": "25"
+    },
+    {
+        "fecha": "2022-03-18",
+        "municipio": "Meis",
+        "habitantes": "4791",
+        "casos_14d": "65",
+        "casos_7d": "25"
+    },
+    {
+        "fecha": "2022-03-19",
+        "municipio": "Meis",
+        "habitantes": "4791",
+        "casos_14d": "61",
+        "casos_7d": "26"
+    },
+    {
+        "fecha": "2022-03-21",
+        "municipio": "Meis",
+        "habitantes": "4791",
+        "casos_14d": "59",
+        "casos_7d": "33"
     }
 ]

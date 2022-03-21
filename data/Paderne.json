@@ -3351,5 +3351,40 @@
         "habitantes": "2394",
         "casos_14d": "23",
         "casos_7d": null
+    },
+    {
+        "fecha": "2022-03-16",
+        "municipio": "Paderne",
+        "habitantes": "2394",
+        "casos_14d": "26",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-03-17",
+        "municipio": "Paderne",
+        "habitantes": "2394",
+        "casos_14d": "20",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-03-18",
+        "municipio": "Paderne",
+        "habitantes": "2394",
+        "casos_14d": "20",
+        "casos_7d": "10"
+    },
+    {
+        "fecha": "2022-03-19",
+        "municipio": "Paderne",
+        "habitantes": "2394",
+        "casos_14d": "15",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-03-21",
+        "municipio": "Paderne",
+        "habitantes": "2394",
+        "casos_14d": "14",
+        "casos_7d": null
     }
 ]

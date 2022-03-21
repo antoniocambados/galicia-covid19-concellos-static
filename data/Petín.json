@@ -3351,5 +3351,40 @@
         "habitantes": "861",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2022-03-16",
+        "municipio": "Pet\u00edn",
+        "habitantes": "861",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-03-17",
+        "municipio": "Pet\u00edn",
+        "habitantes": "861",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-03-18",
+        "municipio": "Pet\u00edn",
+        "habitantes": "861",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-03-19",
+        "municipio": "Pet\u00edn",
+        "habitantes": "861",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-03-21",
+        "municipio": "Pet\u00edn",
+        "habitantes": "861",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]

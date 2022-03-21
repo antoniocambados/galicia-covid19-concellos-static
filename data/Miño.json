@@ -3351,5 +3351,40 @@
         "habitantes": "6200",
         "casos_14d": "61",
         "casos_7d": "26"
+    },
+    {
+        "fecha": "2022-03-16",
+        "municipio": "Mi\u00f1o",
+        "habitantes": "6200",
+        "casos_14d": "66",
+        "casos_7d": "28"
+    },
+    {
+        "fecha": "2022-03-17",
+        "municipio": "Mi\u00f1o",
+        "habitantes": "6200",
+        "casos_14d": "80",
+        "casos_7d": "40"
+    },
+    {
+        "fecha": "2022-03-18",
+        "municipio": "Mi\u00f1o",
+        "habitantes": "6200",
+        "casos_14d": "82",
+        "casos_7d": "42"
+    },
+    {
+        "fecha": "2022-03-19",
+        "municipio": "Mi\u00f1o",
+        "habitantes": "6200",
+        "casos_14d": "84",
+        "casos_7d": "45"
+    },
+    {
+        "fecha": "2022-03-21",
+        "municipio": "Mi\u00f1o",
+        "habitantes": "6200",
+        "casos_14d": "78",
+        "casos_7d": "51"
     }
 ]
