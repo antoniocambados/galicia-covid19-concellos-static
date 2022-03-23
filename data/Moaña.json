@@ -3386,5 +3386,12 @@
         "habitantes": "19399",
         "casos_14d": "235",
         "casos_7d": "138"
+    },
+    {
+        "fecha": "2022-03-22",
+        "municipio": "Moa\u00f1a",
+        "habitantes": "19399",
+        "casos_14d": "250",
+        "casos_7d": "144"
     }
 ]

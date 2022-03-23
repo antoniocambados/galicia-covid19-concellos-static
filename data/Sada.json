@@ -3386,5 +3386,12 @@
         "habitantes": "15841",
         "casos_14d": "191",
         "casos_7d": "99"
+    },
+    {
+        "fecha": "2022-03-22",
+        "municipio": "Sada",
+        "habitantes": "15841",
+        "casos_14d": "183",
+        "casos_7d": "87"
     }
 ]
