@@ -3393,5 +3393,19 @@
         "habitantes": "1228",
         "casos_14d": "11",
         "casos_7d": null
+    },
+    {
+        "fecha": "2022-03-23",
+        "municipio": "Laza",
+        "habitantes": "1228",
+        "casos_14d": "10",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-03-24",
+        "municipio": "Laza",
+        "habitantes": "1228",
+        "casos_14d": "11",
+        "casos_7d": null
     }
 ]

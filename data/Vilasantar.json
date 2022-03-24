@@ -3393,5 +3393,19 @@
         "habitantes": "1213",
         "casos_14d": "17",
         "casos_7d": "13"
+    },
+    {
+        "fecha": "2022-03-23",
+        "municipio": "Vilasantar",
+        "habitantes": "1213",
+        "casos_14d": "18",
+        "casos_7d": "13"
+    },
+    {
+        "fecha": "2022-03-24",
+        "municipio": "Vilasantar",
+        "habitantes": "1213",
+        "casos_14d": "19",
+        "casos_7d": "10"
     }
 ]

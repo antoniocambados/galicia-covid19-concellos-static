@@ -3393,5 +3393,19 @@
         "habitantes": "4926",
         "casos_14d": "92",
         "casos_7d": "32"
+    },
+    {
+        "fecha": "2022-03-23",
+        "municipio": "A Illa de Arousa",
+        "habitantes": "4926",
+        "casos_14d": "87",
+        "casos_7d": "25"
+    },
+    {
+        "fecha": "2022-03-24",
+        "municipio": "A Illa de Arousa",
+        "habitantes": "4926",
+        "casos_14d": "76",
+        "casos_7d": "24"
     }
 ]

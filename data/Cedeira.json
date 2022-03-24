@@ -3393,5 +3393,19 @@
         "habitantes": "6640",
         "casos_14d": "41",
         "casos_7d": "25"
+    },
+    {
+        "fecha": "2022-03-23",
+        "municipio": "Cedeira",
+        "habitantes": "6640",
+        "casos_14d": "43",
+        "casos_7d": "26"
+    },
+    {
+        "fecha": "2022-03-24",
+        "municipio": "Cedeira",
+        "habitantes": "6640",
+        "casos_14d": "46",
+        "casos_7d": "27"
     }
 ]

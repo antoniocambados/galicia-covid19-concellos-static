@@ -3393,5 +3393,19 @@
         "habitantes": "7500",
         "casos_14d": "75",
         "casos_7d": "35"
+    },
+    {
+        "fecha": "2022-03-23",
+        "municipio": "Oroso",
+        "habitantes": "7500",
+        "casos_14d": "79",
+        "casos_7d": "42"
+    },
+    {
+        "fecha": "2022-03-24",
+        "municipio": "Oroso",
+        "habitantes": "7500",
+        "casos_14d": "87",
+        "casos_7d": "51"
     }
 ]

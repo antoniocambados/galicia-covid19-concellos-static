@@ -3393,5 +3393,19 @@
         "habitantes": "2137",
         "casos_14d": "37",
         "casos_7d": "21"
+    },
+    {
+        "fecha": "2022-03-23",
+        "municipio": "San Cristovo de Cea",
+        "habitantes": "2137",
+        "casos_14d": "33",
+        "casos_7d": "19"
+    },
+    {
+        "fecha": "2022-03-24",
+        "municipio": "San Cristovo de Cea",
+        "habitantes": "2137",
+        "casos_14d": "33",
+        "casos_7d": "16"
     }
 ]

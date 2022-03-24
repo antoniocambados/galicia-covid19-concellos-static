@@ -3393,5 +3393,19 @@
         "habitantes": "1819",
         "casos_14d": "18",
         "casos_7d": null
+    },
+    {
+        "fecha": "2022-03-23",
+        "municipio": "A Peroxa",
+        "habitantes": "1819",
+        "casos_14d": "16",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-03-24",
+        "municipio": "A Peroxa",
+        "habitantes": "1819",
+        "casos_14d": "13",
+        "casos_7d": null
     }
 ]
