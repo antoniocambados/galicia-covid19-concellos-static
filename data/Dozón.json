@@ -3407,5 +3407,47 @@
         "habitantes": "1082",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2022-03-25",
+        "municipio": "Doz\u00f3n",
+        "habitantes": "1082",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-03-26",
+        "municipio": "Doz\u00f3n",
+        "habitantes": "1082",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-03-28",
+        "municipio": "Doz\u00f3n",
+        "habitantes": "1082",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-03-29",
+        "municipio": "Doz\u00f3n",
+        "habitantes": "1082",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-03-30",
+        "municipio": "Doz\u00f3n",
+        "habitantes": "1082",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-03-31",
+        "municipio": "Doz\u00f3n",
+        "habitantes": "1082",
+        "casos_14d": null,
+        "casos_7d": "0"
     }
 ]

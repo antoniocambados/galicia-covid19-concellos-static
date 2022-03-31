@@ -3407,5 +3407,47 @@
         "habitantes": "5391",
         "casos_14d": "31",
         "casos_7d": "20"
+    },
+    {
+        "fecha": "2022-03-25",
+        "municipio": "Malpica de Berganti\u00f1os",
+        "habitantes": "5391",
+        "casos_14d": "35",
+        "casos_7d": "22"
+    },
+    {
+        "fecha": "2022-03-26",
+        "municipio": "Malpica de Berganti\u00f1os",
+        "habitantes": "5391",
+        "casos_14d": "38",
+        "casos_7d": "25"
+    },
+    {
+        "fecha": "2022-03-28",
+        "municipio": "Malpica de Berganti\u00f1os",
+        "habitantes": "5391",
+        "casos_14d": "39",
+        "casos_7d": "26"
+    },
+    {
+        "fecha": "2022-03-29",
+        "municipio": "Malpica de Berganti\u00f1os",
+        "habitantes": "5391",
+        "casos_14d": "44",
+        "casos_7d": "32"
+    },
+    {
+        "fecha": "2022-03-30",
+        "municipio": "Malpica de Berganti\u00f1os",
+        "habitantes": "5391",
+        "casos_14d": "43",
+        "casos_7d": "30"
+    },
+    {
+        "fecha": "2022-03-31",
+        "municipio": "Malpica de Berganti\u00f1os",
+        "habitantes": "5391",
+        "casos_14d": "32",
+        "casos_7d": "11"
     }
 ]

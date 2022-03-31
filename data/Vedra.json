@@ -3407,5 +3407,47 @@
         "habitantes": "5036",
         "casos_14d": "80",
         "casos_7d": "49"
+    },
+    {
+        "fecha": "2022-03-25",
+        "municipio": "Vedra",
+        "habitantes": "5036",
+        "casos_14d": "80",
+        "casos_7d": "49"
+    },
+    {
+        "fecha": "2022-03-26",
+        "municipio": "Vedra",
+        "habitantes": "5036",
+        "casos_14d": "80",
+        "casos_7d": "47"
+    },
+    {
+        "fecha": "2022-03-28",
+        "municipio": "Vedra",
+        "habitantes": "5036",
+        "casos_14d": "82",
+        "casos_7d": "45"
+    },
+    {
+        "fecha": "2022-03-29",
+        "municipio": "Vedra",
+        "habitantes": "5036",
+        "casos_14d": "79",
+        "casos_7d": "33"
+    },
+    {
+        "fecha": "2022-03-30",
+        "municipio": "Vedra",
+        "habitantes": "5036",
+        "casos_14d": "78",
+        "casos_7d": "29"
+    },
+    {
+        "fecha": "2022-03-31",
+        "municipio": "Vedra",
+        "habitantes": "5036",
+        "casos_14d": "29",
+        "casos_7d": "12"
     }
 ]

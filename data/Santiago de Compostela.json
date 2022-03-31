@@ -3407,5 +3407,47 @@
         "habitantes": "97260",
         "casos_14d": "1177",
         "casos_7d": "674"
+    },
+    {
+        "fecha": "2022-03-25",
+        "municipio": "Santiago de Compostela",
+        "habitantes": "97260",
+        "casos_14d": "1194",
+        "casos_7d": "652"
+    },
+    {
+        "fecha": "2022-03-26",
+        "municipio": "Santiago de Compostela",
+        "habitantes": "97260",
+        "casos_14d": "1237",
+        "casos_7d": "658"
+    },
+    {
+        "fecha": "2022-03-28",
+        "municipio": "Santiago de Compostela",
+        "habitantes": "97260",
+        "casos_14d": "1221",
+        "casos_7d": "645"
+    },
+    {
+        "fecha": "2022-03-29",
+        "municipio": "Santiago de Compostela",
+        "habitantes": "97260",
+        "casos_14d": "1178",
+        "casos_7d": "556"
+    },
+    {
+        "fecha": "2022-03-30",
+        "municipio": "Santiago de Compostela",
+        "habitantes": "97260",
+        "casos_14d": "1119",
+        "casos_7d": "485"
+    },
+    {
+        "fecha": "2022-03-31",
+        "municipio": "Santiago de Compostela",
+        "habitantes": "97260",
+        "casos_14d": "932",
+        "casos_7d": "434"
     }
 ]

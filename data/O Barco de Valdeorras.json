@@ -3407,5 +3407,47 @@
         "habitantes": "13395",
         "casos_14d": "83",
         "casos_7d": "59"
+    },
+    {
+        "fecha": "2022-03-25",
+        "municipio": "O Barco de Valdeorras",
+        "habitantes": "13395",
+        "casos_14d": "104",
+        "casos_7d": "76"
+    },
+    {
+        "fecha": "2022-03-26",
+        "municipio": "O Barco de Valdeorras",
+        "habitantes": "13395",
+        "casos_14d": "104",
+        "casos_7d": "65"
+    },
+    {
+        "fecha": "2022-03-28",
+        "municipio": "O Barco de Valdeorras",
+        "habitantes": "13395",
+        "casos_14d": "102",
+        "casos_7d": "57"
+    },
+    {
+        "fecha": "2022-03-29",
+        "municipio": "O Barco de Valdeorras",
+        "habitantes": "13395",
+        "casos_14d": "109",
+        "casos_7d": "62"
+    },
+    {
+        "fecha": "2022-03-30",
+        "municipio": "O Barco de Valdeorras",
+        "habitantes": "13395",
+        "casos_14d": "110",
+        "casos_7d": "60"
+    },
+    {
+        "fecha": "2022-03-31",
+        "municipio": "O Barco de Valdeorras",
+        "habitantes": "13395",
+        "casos_14d": "94",
+        "casos_7d": "40"
     }
 ]

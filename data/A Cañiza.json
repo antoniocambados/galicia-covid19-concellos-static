@@ -3407,5 +3407,47 @@
         "habitantes": "5180",
         "casos_14d": "58",
         "casos_7d": "45"
+    },
+    {
+        "fecha": "2022-03-25",
+        "municipio": "A Ca\u00f1iza",
+        "habitantes": "5180",
+        "casos_14d": "55",
+        "casos_7d": "40"
+    },
+    {
+        "fecha": "2022-03-26",
+        "municipio": "A Ca\u00f1iza",
+        "habitantes": "5180",
+        "casos_14d": "54",
+        "casos_7d": "17"
+    },
+    {
+        "fecha": "2022-03-28",
+        "municipio": "A Ca\u00f1iza",
+        "habitantes": "5180",
+        "casos_14d": "62",
+        "casos_7d": "22"
+    },
+    {
+        "fecha": "2022-03-29",
+        "municipio": "A Ca\u00f1iza",
+        "habitantes": "5180",
+        "casos_14d": "61",
+        "casos_7d": "18"
+    },
+    {
+        "fecha": "2022-03-30",
+        "municipio": "A Ca\u00f1iza",
+        "habitantes": "5180",
+        "casos_14d": "63",
+        "casos_7d": "20"
+    },
+    {
+        "fecha": "2022-03-31",
+        "municipio": "A Ca\u00f1iza",
+        "habitantes": "5180",
+        "casos_14d": "46",
+        "casos_7d": "17"
     }
 ]

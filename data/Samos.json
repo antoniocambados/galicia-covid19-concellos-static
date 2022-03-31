@@ -3407,5 +3407,47 @@
         "habitantes": "1278",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2022-03-25",
+        "municipio": "Samos",
+        "habitantes": "1278",
+        "casos_14d": "11",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-03-26",
+        "municipio": "Samos",
+        "habitantes": "1278",
+        "casos_14d": "13",
+        "casos_7d": "10"
+    },
+    {
+        "fecha": "2022-03-28",
+        "municipio": "Samos",
+        "habitantes": "1278",
+        "casos_14d": "15",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-03-29",
+        "municipio": "Samos",
+        "habitantes": "1278",
+        "casos_14d": "26",
+        "casos_7d": "19"
+    },
+    {
+        "fecha": "2022-03-30",
+        "municipio": "Samos",
+        "habitantes": "1278",
+        "casos_14d": "28",
+        "casos_7d": "22"
+    },
+    {
+        "fecha": "2022-03-31",
+        "municipio": "Samos",
+        "habitantes": "1278",
+        "casos_14d": null,
+        "casos_7d": "0"
     }
 ]

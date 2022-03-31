@@ -3407,5 +3407,47 @@
         "habitantes": "2934",
         "casos_14d": "35",
         "casos_7d": "20"
+    },
+    {
+        "fecha": "2022-03-25",
+        "municipio": "Barreiros",
+        "habitantes": "2934",
+        "casos_14d": "39",
+        "casos_7d": "20"
+    },
+    {
+        "fecha": "2022-03-26",
+        "municipio": "Barreiros",
+        "habitantes": "2934",
+        "casos_14d": "39",
+        "casos_7d": "17"
+    },
+    {
+        "fecha": "2022-03-28",
+        "municipio": "Barreiros",
+        "habitantes": "2934",
+        "casos_14d": "38",
+        "casos_7d": "18"
+    },
+    {
+        "fecha": "2022-03-29",
+        "municipio": "Barreiros",
+        "habitantes": "2934",
+        "casos_14d": "36",
+        "casos_7d": "17"
+    },
+    {
+        "fecha": "2022-03-30",
+        "municipio": "Barreiros",
+        "habitantes": "2934",
+        "casos_14d": "34",
+        "casos_7d": "14"
+    },
+    {
+        "fecha": "2022-03-31",
+        "municipio": "Barreiros",
+        "habitantes": "2934",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]

@@ -3407,5 +3407,47 @@
         "habitantes": "14072",
         "casos_14d": "231",
         "casos_7d": "147"
+    },
+    {
+        "fecha": "2022-03-25",
+        "municipio": "Vilalba",
+        "habitantes": "14072",
+        "casos_14d": "238",
+        "casos_7d": "145"
+    },
+    {
+        "fecha": "2022-03-26",
+        "municipio": "Vilalba",
+        "habitantes": "14072",
+        "casos_14d": "242",
+        "casos_7d": "136"
+    },
+    {
+        "fecha": "2022-03-28",
+        "municipio": "Vilalba",
+        "habitantes": "14072",
+        "casos_14d": "266",
+        "casos_7d": "147"
+    },
+    {
+        "fecha": "2022-03-29",
+        "municipio": "Vilalba",
+        "habitantes": "14072",
+        "casos_14d": "268",
+        "casos_7d": "129"
+    },
+    {
+        "fecha": "2022-03-30",
+        "municipio": "Vilalba",
+        "habitantes": "14072",
+        "casos_14d": "254",
+        "casos_7d": "114"
+    },
+    {
+        "fecha": "2022-03-31",
+        "municipio": "Vilalba",
+        "habitantes": "14072",
+        "casos_14d": "127",
+        "casos_7d": "63"
     }
 ]

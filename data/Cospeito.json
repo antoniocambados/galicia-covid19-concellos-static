@@ -3407,5 +3407,47 @@
         "habitantes": "4484",
         "casos_14d": "34",
         "casos_7d": "19"
+    },
+    {
+        "fecha": "2022-03-25",
+        "municipio": "Cospeito",
+        "habitantes": "4484",
+        "casos_14d": "40",
+        "casos_7d": "22"
+    },
+    {
+        "fecha": "2022-03-26",
+        "municipio": "Cospeito",
+        "habitantes": "4484",
+        "casos_14d": "48",
+        "casos_7d": "25"
+    },
+    {
+        "fecha": "2022-03-28",
+        "municipio": "Cospeito",
+        "habitantes": "4484",
+        "casos_14d": "46",
+        "casos_7d": "24"
+    },
+    {
+        "fecha": "2022-03-29",
+        "municipio": "Cospeito",
+        "habitantes": "4484",
+        "casos_14d": "50",
+        "casos_7d": "28"
+    },
+    {
+        "fecha": "2022-03-30",
+        "municipio": "Cospeito",
+        "habitantes": "4484",
+        "casos_14d": "46",
+        "casos_7d": "26"
+    },
+    {
+        "fecha": "2022-03-31",
+        "municipio": "Cospeito",
+        "habitantes": "4484",
+        "casos_14d": "14",
+        "casos_7d": null
     }
 ]

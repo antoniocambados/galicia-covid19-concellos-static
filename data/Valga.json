@@ -3407,5 +3407,47 @@
         "habitantes": "5869",
         "casos_14d": "59",
         "casos_7d": "38"
+    },
+    {
+        "fecha": "2022-03-25",
+        "municipio": "Valga",
+        "habitantes": "5869",
+        "casos_14d": "58",
+        "casos_7d": "37"
+    },
+    {
+        "fecha": "2022-03-26",
+        "municipio": "Valga",
+        "habitantes": "5869",
+        "casos_14d": "52",
+        "casos_7d": "35"
+    },
+    {
+        "fecha": "2022-03-28",
+        "municipio": "Valga",
+        "habitantes": "5869",
+        "casos_14d": "51",
+        "casos_7d": "24"
+    },
+    {
+        "fecha": "2022-03-29",
+        "municipio": "Valga",
+        "habitantes": "5869",
+        "casos_14d": "49",
+        "casos_7d": "17"
+    },
+    {
+        "fecha": "2022-03-30",
+        "municipio": "Valga",
+        "habitantes": "5869",
+        "casos_14d": "47",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-03-31",
+        "municipio": "Valga",
+        "habitantes": "5869",
+        "casos_14d": "60",
+        "casos_7d": "27"
     }
 ]

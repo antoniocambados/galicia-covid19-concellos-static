@@ -3407,5 +3407,47 @@
         "habitantes": "13744",
         "casos_14d": "112",
         "casos_7d": "75"
+    },
+    {
+        "fecha": "2022-03-25",
+        "municipio": "Cambados",
+        "habitantes": "13744",
+        "casos_14d": "110",
+        "casos_7d": "64"
+    },
+    {
+        "fecha": "2022-03-26",
+        "municipio": "Cambados",
+        "habitantes": "13744",
+        "casos_14d": "106",
+        "casos_7d": "57"
+    },
+    {
+        "fecha": "2022-03-28",
+        "municipio": "Cambados",
+        "habitantes": "13744",
+        "casos_14d": "113",
+        "casos_7d": "52"
+    },
+    {
+        "fecha": "2022-03-29",
+        "municipio": "Cambados",
+        "habitantes": "13744",
+        "casos_14d": "117",
+        "casos_7d": "45"
+    },
+    {
+        "fecha": "2022-03-30",
+        "municipio": "Cambados",
+        "habitantes": "13744",
+        "casos_14d": "117",
+        "casos_7d": "42"
+    },
+    {
+        "fecha": "2022-03-31",
+        "municipio": "Cambados",
+        "habitantes": "13744",
+        "casos_14d": "116",
+        "casos_7d": "65"
     }
 ]

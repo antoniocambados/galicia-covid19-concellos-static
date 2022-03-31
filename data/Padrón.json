@@ -3407,5 +3407,47 @@
         "habitantes": "8384",
         "casos_14d": "72",
         "casos_7d": "42"
+    },
+    {
+        "fecha": "2022-03-25",
+        "municipio": "Padr\u00f3n",
+        "habitantes": "8384",
+        "casos_14d": "75",
+        "casos_7d": "41"
+    },
+    {
+        "fecha": "2022-03-26",
+        "municipio": "Padr\u00f3n",
+        "habitantes": "8384",
+        "casos_14d": "77",
+        "casos_7d": "39"
+    },
+    {
+        "fecha": "2022-03-28",
+        "municipio": "Padr\u00f3n",
+        "habitantes": "8384",
+        "casos_14d": "74",
+        "casos_7d": "32"
+    },
+    {
+        "fecha": "2022-03-29",
+        "municipio": "Padr\u00f3n",
+        "habitantes": "8384",
+        "casos_14d": "72",
+        "casos_7d": "27"
+    },
+    {
+        "fecha": "2022-03-30",
+        "municipio": "Padr\u00f3n",
+        "habitantes": "8384",
+        "casos_14d": "67",
+        "casos_7d": "24"
+    },
+    {
+        "fecha": "2022-03-31",
+        "municipio": "Padr\u00f3n",
+        "habitantes": "8384",
+        "casos_14d": "83",
+        "casos_7d": "45"
     }
 ]

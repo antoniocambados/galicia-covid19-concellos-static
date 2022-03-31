@@ -3407,5 +3407,47 @@
         "habitantes": "8687",
         "casos_14d": "83",
         "casos_7d": "47"
+    },
+    {
+        "fecha": "2022-03-25",
+        "municipio": "Silleda",
+        "habitantes": "8687",
+        "casos_14d": "86",
+        "casos_7d": "47"
+    },
+    {
+        "fecha": "2022-03-26",
+        "municipio": "Silleda",
+        "habitantes": "8687",
+        "casos_14d": "85",
+        "casos_7d": "38"
+    },
+    {
+        "fecha": "2022-03-28",
+        "municipio": "Silleda",
+        "habitantes": "8687",
+        "casos_14d": "85",
+        "casos_7d": "37"
+    },
+    {
+        "fecha": "2022-03-29",
+        "municipio": "Silleda",
+        "habitantes": "8687",
+        "casos_14d": "88",
+        "casos_7d": "40"
+    },
+    {
+        "fecha": "2022-03-30",
+        "municipio": "Silleda",
+        "habitantes": "8687",
+        "casos_14d": "82",
+        "casos_7d": "33"
+    },
+    {
+        "fecha": "2022-03-31",
+        "municipio": "Silleda",
+        "habitantes": "8687",
+        "casos_14d": "66",
+        "casos_7d": "36"
     }
 ]

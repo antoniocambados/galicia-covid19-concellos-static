@@ -3407,5 +3407,47 @@
         "habitantes": "5484",
         "casos_14d": "49",
         "casos_7d": "21"
+    },
+    {
+        "fecha": "2022-03-25",
+        "municipio": "Guitiriz",
+        "habitantes": "5484",
+        "casos_14d": "49",
+        "casos_7d": "20"
+    },
+    {
+        "fecha": "2022-03-26",
+        "municipio": "Guitiriz",
+        "habitantes": "5484",
+        "casos_14d": "52",
+        "casos_7d": "19"
+    },
+    {
+        "fecha": "2022-03-28",
+        "municipio": "Guitiriz",
+        "habitantes": "5484",
+        "casos_14d": "47",
+        "casos_7d": "16"
+    },
+    {
+        "fecha": "2022-03-29",
+        "municipio": "Guitiriz",
+        "habitantes": "5484",
+        "casos_14d": "45",
+        "casos_7d": "16"
+    },
+    {
+        "fecha": "2022-03-30",
+        "municipio": "Guitiriz",
+        "habitantes": "5484",
+        "casos_14d": "41",
+        "casos_7d": "14"
+    },
+    {
+        "fecha": "2022-03-31",
+        "municipio": "Guitiriz",
+        "habitantes": "5484",
+        "casos_14d": "15",
+        "casos_7d": null
     }
 ]

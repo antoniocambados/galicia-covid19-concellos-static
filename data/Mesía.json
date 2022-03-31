@@ -3407,5 +3407,47 @@
         "habitantes": "2530",
         "casos_14d": "14",
         "casos_7d": null
+    },
+    {
+        "fecha": "2022-03-25",
+        "municipio": "Mes\u00eda",
+        "habitantes": "2530",
+        "casos_14d": "14",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-03-26",
+        "municipio": "Mes\u00eda",
+        "habitantes": "2530",
+        "casos_14d": "14",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-03-28",
+        "municipio": "Mes\u00eda",
+        "habitantes": "2530",
+        "casos_14d": "14",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-03-29",
+        "municipio": "Mes\u00eda",
+        "habitantes": "2530",
+        "casos_14d": "17",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-03-30",
+        "municipio": "Mes\u00eda",
+        "habitantes": "2530",
+        "casos_14d": "18",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-03-31",
+        "municipio": "Mes\u00eda",
+        "habitantes": "2530",
+        "casos_14d": "14",
+        "casos_7d": null
     }
 ]

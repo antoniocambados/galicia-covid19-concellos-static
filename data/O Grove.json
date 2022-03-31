@@ -3407,5 +3407,47 @@
         "habitantes": "10650",
         "casos_14d": "92",
         "casos_7d": "50"
+    },
+    {
+        "fecha": "2022-03-25",
+        "municipio": "O Grove",
+        "habitantes": "10650",
+        "casos_14d": "97",
+        "casos_7d": "56"
+    },
+    {
+        "fecha": "2022-03-26",
+        "municipio": "O Grove",
+        "habitantes": "10650",
+        "casos_14d": "97",
+        "casos_7d": "56"
+    },
+    {
+        "fecha": "2022-03-28",
+        "municipio": "O Grove",
+        "habitantes": "10650",
+        "casos_14d": "112",
+        "casos_7d": "67"
+    },
+    {
+        "fecha": "2022-03-29",
+        "municipio": "O Grove",
+        "habitantes": "10650",
+        "casos_14d": "118",
+        "casos_7d": "66"
+    },
+    {
+        "fecha": "2022-03-30",
+        "municipio": "O Grove",
+        "habitantes": "10650",
+        "casos_14d": "119",
+        "casos_7d": "65"
+    },
+    {
+        "fecha": "2022-03-31",
+        "municipio": "O Grove",
+        "habitantes": "10650",
+        "casos_14d": "66",
+        "casos_7d": "41"
     }
 ]

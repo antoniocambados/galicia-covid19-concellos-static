@@ -3407,5 +3407,47 @@
         "habitantes": "3450",
         "casos_14d": "28",
         "casos_7d": "15"
+    },
+    {
+        "fecha": "2022-03-25",
+        "municipio": "A Ba\u00f1a",
+        "habitantes": "3450",
+        "casos_14d": "32",
+        "casos_7d": "17"
+    },
+    {
+        "fecha": "2022-03-26",
+        "municipio": "A Ba\u00f1a",
+        "habitantes": "3450",
+        "casos_14d": "31",
+        "casos_7d": "15"
+    },
+    {
+        "fecha": "2022-03-28",
+        "municipio": "A Ba\u00f1a",
+        "habitantes": "3450",
+        "casos_14d": "35",
+        "casos_7d": "20"
+    },
+    {
+        "fecha": "2022-03-29",
+        "municipio": "A Ba\u00f1a",
+        "habitantes": "3450",
+        "casos_14d": "34",
+        "casos_7d": "18"
+    },
+    {
+        "fecha": "2022-03-30",
+        "municipio": "A Ba\u00f1a",
+        "habitantes": "3450",
+        "casos_14d": "31",
+        "casos_7d": "17"
+    },
+    {
+        "fecha": "2022-03-31",
+        "municipio": "A Ba\u00f1a",
+        "habitantes": "3450",
+        "casos_14d": "37",
+        "casos_7d": "13"
     }
 ]

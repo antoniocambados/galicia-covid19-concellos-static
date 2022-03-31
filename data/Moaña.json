@@ -3407,5 +3407,47 @@
         "habitantes": "19399",
         "casos_14d": "257",
         "casos_7d": "137"
+    },
+    {
+        "fecha": "2022-03-25",
+        "municipio": "Moa\u00f1a",
+        "habitantes": "19399",
+        "casos_14d": "251",
+        "casos_7d": "119"
+    },
+    {
+        "fecha": "2022-03-26",
+        "municipio": "Moa\u00f1a",
+        "habitantes": "19399",
+        "casos_14d": "251",
+        "casos_7d": "117"
+    },
+    {
+        "fecha": "2022-03-28",
+        "municipio": "Moa\u00f1a",
+        "habitantes": "19399",
+        "casos_14d": "244",
+        "casos_7d": "106"
+    },
+    {
+        "fecha": "2022-03-29",
+        "municipio": "Moa\u00f1a",
+        "habitantes": "19399",
+        "casos_14d": "232",
+        "casos_7d": "87"
+    },
+    {
+        "fecha": "2022-03-30",
+        "municipio": "Moa\u00f1a",
+        "habitantes": "19399",
+        "casos_14d": "218",
+        "casos_7d": "72"
+    },
+    {
+        "fecha": "2022-03-31",
+        "municipio": "Moa\u00f1a",
+        "habitantes": "19399",
+        "casos_14d": "159",
+        "casos_7d": "76"
     }
 ]

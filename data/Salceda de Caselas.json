@@ -3407,5 +3407,47 @@
         "habitantes": "9164",
         "casos_14d": "66",
         "casos_7d": "38"
+    },
+    {
+        "fecha": "2022-03-25",
+        "municipio": "Salceda de Caselas",
+        "habitantes": "9164",
+        "casos_14d": "62",
+        "casos_7d": "34"
+    },
+    {
+        "fecha": "2022-03-26",
+        "municipio": "Salceda de Caselas",
+        "habitantes": "9164",
+        "casos_14d": "63",
+        "casos_7d": "27"
+    },
+    {
+        "fecha": "2022-03-28",
+        "municipio": "Salceda de Caselas",
+        "habitantes": "9164",
+        "casos_14d": "61",
+        "casos_7d": "26"
+    },
+    {
+        "fecha": "2022-03-29",
+        "municipio": "Salceda de Caselas",
+        "habitantes": "9164",
+        "casos_14d": "58",
+        "casos_7d": "22"
+    },
+    {
+        "fecha": "2022-03-30",
+        "municipio": "Salceda de Caselas",
+        "habitantes": "9164",
+        "casos_14d": "59",
+        "casos_7d": "18"
+    },
+    {
+        "fecha": "2022-03-31",
+        "municipio": "Salceda de Caselas",
+        "habitantes": "9164",
+        "casos_14d": "42",
+        "casos_7d": null
     }
 ]

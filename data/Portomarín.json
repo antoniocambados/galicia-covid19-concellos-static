@@ -3407,5 +3407,47 @@
         "habitantes": "1471",
         "casos_14d": "12",
         "casos_7d": "10"
+    },
+    {
+        "fecha": "2022-03-25",
+        "municipio": "Portomar\u00edn",
+        "habitantes": "1471",
+        "casos_14d": "13",
+        "casos_7d": "11"
+    },
+    {
+        "fecha": "2022-03-26",
+        "municipio": "Portomar\u00edn",
+        "habitantes": "1471",
+        "casos_14d": "14",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-03-28",
+        "municipio": "Portomar\u00edn",
+        "habitantes": "1471",
+        "casos_14d": "14",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-03-29",
+        "municipio": "Portomar\u00edn",
+        "habitantes": "1471",
+        "casos_14d": "15",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-03-30",
+        "municipio": "Portomar\u00edn",
+        "habitantes": "1471",
+        "casos_14d": "16",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-03-31",
+        "municipio": "Portomar\u00edn",
+        "habitantes": "1471",
+        "casos_14d": "11",
+        "casos_7d": null
     }
 ]

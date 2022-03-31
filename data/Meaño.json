@@ -3407,5 +3407,47 @@
         "habitantes": "5272",
         "casos_14d": "45",
         "casos_7d": "23"
+    },
+    {
+        "fecha": "2022-03-25",
+        "municipio": "Mea\u00f1o",
+        "habitantes": "5272",
+        "casos_14d": "46",
+        "casos_7d": "26"
+    },
+    {
+        "fecha": "2022-03-26",
+        "municipio": "Mea\u00f1o",
+        "habitantes": "5272",
+        "casos_14d": "46",
+        "casos_7d": "27"
+    },
+    {
+        "fecha": "2022-03-28",
+        "municipio": "Mea\u00f1o",
+        "habitantes": "5272",
+        "casos_14d": "42",
+        "casos_7d": "25"
+    },
+    {
+        "fecha": "2022-03-29",
+        "municipio": "Mea\u00f1o",
+        "habitantes": "5272",
+        "casos_14d": "39",
+        "casos_7d": "21"
+    },
+    {
+        "fecha": "2022-03-30",
+        "municipio": "Mea\u00f1o",
+        "habitantes": "5272",
+        "casos_14d": "41",
+        "casos_7d": "20"
+    },
+    {
+        "fecha": "2022-03-31",
+        "municipio": "Mea\u00f1o",
+        "habitantes": "5272",
+        "casos_14d": "20",
+        "casos_7d": "12"
     }
 ]

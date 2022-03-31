@@ -3407,5 +3407,47 @@
         "habitantes": "1429",
         "casos_14d": "21",
         "casos_7d": null
+    },
+    {
+        "fecha": "2022-03-25",
+        "municipio": "Taboadela",
+        "habitantes": "1429",
+        "casos_14d": "22",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-03-26",
+        "municipio": "Taboadela",
+        "habitantes": "1429",
+        "casos_14d": "23",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-03-28",
+        "municipio": "Taboadela",
+        "habitantes": "1429",
+        "casos_14d": "21",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-03-29",
+        "municipio": "Taboadela",
+        "habitantes": "1429",
+        "casos_14d": "21",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-03-30",
+        "municipio": "Taboadela",
+        "habitantes": "1429",
+        "casos_14d": "19",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-03-31",
+        "municipio": "Taboadela",
+        "habitantes": "1429",
+        "casos_14d": "21",
+        "casos_7d": null
     }
 ]

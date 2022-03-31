@@ -3407,5 +3407,47 @@
         "habitantes": "1338",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2022-03-25",
+        "municipio": "Cervantes",
+        "habitantes": "1338",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-03-26",
+        "municipio": "Cervantes",
+        "habitantes": "1338",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-03-28",
+        "municipio": "Cervantes",
+        "habitantes": "1338",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-03-29",
+        "municipio": "Cervantes",
+        "habitantes": "1338",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-03-30",
+        "municipio": "Cervantes",
+        "habitantes": "1338",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-03-31",
+        "municipio": "Cervantes",
+        "habitantes": "1338",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]

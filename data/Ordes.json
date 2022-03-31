@@ -3407,5 +3407,47 @@
         "habitantes": "12674",
         "casos_14d": "79",
         "casos_7d": "50"
+    },
+    {
+        "fecha": "2022-03-25",
+        "municipio": "Ordes",
+        "habitantes": "12674",
+        "casos_14d": "80",
+        "casos_7d": "48"
+    },
+    {
+        "fecha": "2022-03-26",
+        "municipio": "Ordes",
+        "habitantes": "12674",
+        "casos_14d": "82",
+        "casos_7d": "48"
+    },
+    {
+        "fecha": "2022-03-28",
+        "municipio": "Ordes",
+        "habitantes": "12674",
+        "casos_14d": "81",
+        "casos_7d": "37"
+    },
+    {
+        "fecha": "2022-03-29",
+        "municipio": "Ordes",
+        "habitantes": "12674",
+        "casos_14d": "79",
+        "casos_7d": "37"
+    },
+    {
+        "fecha": "2022-03-30",
+        "municipio": "Ordes",
+        "habitantes": "12674",
+        "casos_14d": "75",
+        "casos_7d": "30"
+    },
+    {
+        "fecha": "2022-03-31",
+        "municipio": "Ordes",
+        "habitantes": "12674",
+        "casos_14d": "72",
+        "casos_7d": "41"
     }
 ]

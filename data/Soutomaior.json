@@ -3407,5 +3407,47 @@
         "habitantes": "7395",
         "casos_14d": "80",
         "casos_7d": "50"
+    },
+    {
+        "fecha": "2022-03-25",
+        "municipio": "Soutomaior",
+        "habitantes": "7395",
+        "casos_14d": "82",
+        "casos_7d": "45"
+    },
+    {
+        "fecha": "2022-03-26",
+        "municipio": "Soutomaior",
+        "habitantes": "7395",
+        "casos_14d": "78",
+        "casos_7d": "42"
+    },
+    {
+        "fecha": "2022-03-28",
+        "municipio": "Soutomaior",
+        "habitantes": "7395",
+        "casos_14d": "82",
+        "casos_7d": "32"
+    },
+    {
+        "fecha": "2022-03-29",
+        "municipio": "Soutomaior",
+        "habitantes": "7395",
+        "casos_14d": "75",
+        "casos_7d": "33"
+    },
+    {
+        "fecha": "2022-03-30",
+        "municipio": "Soutomaior",
+        "habitantes": "7395",
+        "casos_14d": "74",
+        "casos_7d": "30"
+    },
+    {
+        "fecha": "2022-03-31",
+        "municipio": "Soutomaior",
+        "habitantes": "7395",
+        "casos_14d": "57",
+        "casos_7d": "32"
     }
 ]

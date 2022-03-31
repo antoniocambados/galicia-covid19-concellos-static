@@ -3407,5 +3407,47 @@
         "habitantes": "19848",
         "casos_14d": "123",
         "casos_7d": "81"
+    },
+    {
+        "fecha": "2022-03-25",
+        "municipio": "O Porri\u00f1o",
+        "habitantes": "19848",
+        "casos_14d": "126",
+        "casos_7d": "83"
+    },
+    {
+        "fecha": "2022-03-26",
+        "municipio": "O Porri\u00f1o",
+        "habitantes": "19848",
+        "casos_14d": "138",
+        "casos_7d": "87"
+    },
+    {
+        "fecha": "2022-03-28",
+        "municipio": "O Porri\u00f1o",
+        "habitantes": "19848",
+        "casos_14d": "136",
+        "casos_7d": "86"
+    },
+    {
+        "fecha": "2022-03-29",
+        "municipio": "O Porri\u00f1o",
+        "habitantes": "19848",
+        "casos_14d": "135",
+        "casos_7d": "76"
+    },
+    {
+        "fecha": "2022-03-30",
+        "municipio": "O Porri\u00f1o",
+        "habitantes": "19848",
+        "casos_14d": "135",
+        "casos_7d": "62"
+    },
+    {
+        "fecha": "2022-03-31",
+        "municipio": "O Porri\u00f1o",
+        "habitantes": "19848",
+        "casos_14d": "102",
+        "casos_7d": "47"
     }
 ]

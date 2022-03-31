@@ -3407,5 +3407,47 @@
         "habitantes": "12122",
         "casos_14d": "139",
         "casos_7d": "70"
+    },
+    {
+        "fecha": "2022-03-25",
+        "municipio": "Baiona",
+        "habitantes": "12122",
+        "casos_14d": "147",
+        "casos_7d": "70"
+    },
+    {
+        "fecha": "2022-03-26",
+        "municipio": "Baiona",
+        "habitantes": "12122",
+        "casos_14d": "151",
+        "casos_7d": "70"
+    },
+    {
+        "fecha": "2022-03-28",
+        "municipio": "Baiona",
+        "habitantes": "12122",
+        "casos_14d": "148",
+        "casos_7d": "70"
+    },
+    {
+        "fecha": "2022-03-29",
+        "municipio": "Baiona",
+        "habitantes": "12122",
+        "casos_14d": "145",
+        "casos_7d": "64"
+    },
+    {
+        "fecha": "2022-03-30",
+        "municipio": "Baiona",
+        "habitantes": "12122",
+        "casos_14d": "125",
+        "casos_7d": "46"
+    },
+    {
+        "fecha": "2022-03-31",
+        "municipio": "Baiona",
+        "habitantes": "12122",
+        "casos_14d": "72",
+        "casos_7d": "35"
     }
 ]

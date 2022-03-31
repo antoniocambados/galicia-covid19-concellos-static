@@ -3407,5 +3407,47 @@
         "habitantes": "1708",
         "casos_14d": "14",
         "casos_7d": null
+    },
+    {
+        "fecha": "2022-03-25",
+        "municipio": "Lobios",
+        "habitantes": "1708",
+        "casos_14d": "12",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-03-26",
+        "municipio": "Lobios",
+        "habitantes": "1708",
+        "casos_14d": "12",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-03-28",
+        "municipio": "Lobios",
+        "habitantes": "1708",
+        "casos_14d": "13",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-03-29",
+        "municipio": "Lobios",
+        "habitantes": "1708",
+        "casos_14d": "12",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-03-30",
+        "municipio": "Lobios",
+        "habitantes": "1708",
+        "casos_14d": "10",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-03-31",
+        "municipio": "Lobios",
+        "habitantes": "1708",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]

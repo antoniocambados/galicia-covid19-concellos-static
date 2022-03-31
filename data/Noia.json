@@ -3407,5 +3407,47 @@
         "habitantes": "14263",
         "casos_14d": "156",
         "casos_7d": "69"
+    },
+    {
+        "fecha": "2022-03-25",
+        "municipio": "Noia",
+        "habitantes": "14263",
+        "casos_14d": "156",
+        "casos_7d": "64"
+    },
+    {
+        "fecha": "2022-03-26",
+        "municipio": "Noia",
+        "habitantes": "14263",
+        "casos_14d": "152",
+        "casos_7d": "62"
+    },
+    {
+        "fecha": "2022-03-28",
+        "municipio": "Noia",
+        "habitantes": "14263",
+        "casos_14d": "139",
+        "casos_7d": "64"
+    },
+    {
+        "fecha": "2022-03-29",
+        "municipio": "Noia",
+        "habitantes": "14263",
+        "casos_14d": "125",
+        "casos_7d": "56"
+    },
+    {
+        "fecha": "2022-03-30",
+        "municipio": "Noia",
+        "habitantes": "14263",
+        "casos_14d": "118",
+        "casos_7d": "49"
+    },
+    {
+        "fecha": "2022-03-31",
+        "municipio": "Noia",
+        "habitantes": "14263",
+        "casos_14d": "100",
+        "casos_7d": "55"
     }
 ]

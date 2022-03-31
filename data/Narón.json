@@ -3407,5 +3407,47 @@
         "habitantes": "39080",
         "casos_14d": "590",
         "casos_7d": "326"
+    },
+    {
+        "fecha": "2022-03-25",
+        "municipio": "Nar\u00f3n",
+        "habitantes": "39080",
+        "casos_14d": "615",
+        "casos_7d": "331"
+    },
+    {
+        "fecha": "2022-03-26",
+        "municipio": "Nar\u00f3n",
+        "habitantes": "39080",
+        "casos_14d": "639",
+        "casos_7d": "365"
+    },
+    {
+        "fecha": "2022-03-28",
+        "municipio": "Nar\u00f3n",
+        "habitantes": "39080",
+        "casos_14d": "639",
+        "casos_7d": "363"
+    },
+    {
+        "fecha": "2022-03-29",
+        "municipio": "Nar\u00f3n",
+        "habitantes": "39080",
+        "casos_14d": "619",
+        "casos_7d": "333"
+    },
+    {
+        "fecha": "2022-03-30",
+        "municipio": "Nar\u00f3n",
+        "habitantes": "39080",
+        "casos_14d": "586",
+        "casos_7d": "274"
+    },
+    {
+        "fecha": "2022-03-31",
+        "municipio": "Nar\u00f3n",
+        "habitantes": "39080",
+        "casos_14d": "255",
+        "casos_7d": "126"
     }
 ]

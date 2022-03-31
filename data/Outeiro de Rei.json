@@ -3407,5 +3407,47 @@
         "habitantes": "5151",
         "casos_14d": "63",
         "casos_7d": "29"
+    },
+    {
+        "fecha": "2022-03-25",
+        "municipio": "Outeiro de Rei",
+        "habitantes": "5151",
+        "casos_14d": "66",
+        "casos_7d": "29"
+    },
+    {
+        "fecha": "2022-03-26",
+        "municipio": "Outeiro de Rei",
+        "habitantes": "5151",
+        "casos_14d": "67",
+        "casos_7d": "25"
+    },
+    {
+        "fecha": "2022-03-28",
+        "municipio": "Outeiro de Rei",
+        "habitantes": "5151",
+        "casos_14d": "64",
+        "casos_7d": "26"
+    },
+    {
+        "fecha": "2022-03-29",
+        "municipio": "Outeiro de Rei",
+        "habitantes": "5151",
+        "casos_14d": "58",
+        "casos_7d": "25"
+    },
+    {
+        "fecha": "2022-03-30",
+        "municipio": "Outeiro de Rei",
+        "habitantes": "5151",
+        "casos_14d": "60",
+        "casos_7d": "29"
+    },
+    {
+        "fecha": "2022-03-31",
+        "municipio": "Outeiro de Rei",
+        "habitantes": "5151",
+        "casos_14d": "32",
+        "casos_7d": "16"
     }
 ]

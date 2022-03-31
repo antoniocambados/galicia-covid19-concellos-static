@@ -3407,5 +3407,47 @@
         "habitantes": "24319",
         "casos_14d": "183",
         "casos_7d": "101"
+    },
+    {
+        "fecha": "2022-03-25",
+        "municipio": "Mar\u00edn",
+        "habitantes": "24319",
+        "casos_14d": "190",
+        "casos_7d": "109"
+    },
+    {
+        "fecha": "2022-03-26",
+        "municipio": "Mar\u00edn",
+        "habitantes": "24319",
+        "casos_14d": "182",
+        "casos_7d": "93"
+    },
+    {
+        "fecha": "2022-03-28",
+        "municipio": "Mar\u00edn",
+        "habitantes": "24319",
+        "casos_14d": "189",
+        "casos_7d": "102"
+    },
+    {
+        "fecha": "2022-03-29",
+        "municipio": "Mar\u00edn",
+        "habitantes": "24319",
+        "casos_14d": "184",
+        "casos_7d": "91"
+    },
+    {
+        "fecha": "2022-03-30",
+        "municipio": "Mar\u00edn",
+        "habitantes": "24319",
+        "casos_14d": "177",
+        "casos_7d": "80"
+    },
+    {
+        "fecha": "2022-03-31",
+        "municipio": "Mar\u00edn",
+        "habitantes": "24319",
+        "casos_14d": "127",
+        "casos_7d": "68"
     }
 ]

@@ -3407,5 +3407,47 @@
         "habitantes": "531",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2022-03-25",
+        "municipio": "San Xo\u00e1n de R\u00edo",
+        "habitantes": "531",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-03-26",
+        "municipio": "San Xo\u00e1n de R\u00edo",
+        "habitantes": "531",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-03-28",
+        "municipio": "San Xo\u00e1n de R\u00edo",
+        "habitantes": "531",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-03-29",
+        "municipio": "San Xo\u00e1n de R\u00edo",
+        "habitantes": "531",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-03-30",
+        "municipio": "San Xo\u00e1n de R\u00edo",
+        "habitantes": "531",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-03-31",
+        "municipio": "San Xo\u00e1n de R\u00edo",
+        "habitantes": "531",
+        "casos_14d": "0",
+        "casos_7d": "0"
     }
 ]

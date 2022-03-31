@@ -3407,5 +3407,47 @@
         "habitantes": "1393",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2022-03-25",
+        "municipio": "Rubi\u00e1",
+        "habitantes": "1393",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-03-26",
+        "municipio": "Rubi\u00e1",
+        "habitantes": "1393",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-03-28",
+        "municipio": "Rubi\u00e1",
+        "habitantes": "1393",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-03-29",
+        "municipio": "Rubi\u00e1",
+        "habitantes": "1393",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-03-30",
+        "municipio": "Rubi\u00e1",
+        "habitantes": "1393",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-03-31",
+        "municipio": "Rubi\u00e1",
+        "habitantes": "1393",
+        "casos_14d": "11",
+        "casos_7d": null
     }
 ]

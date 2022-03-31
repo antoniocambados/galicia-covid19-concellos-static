@@ -3407,5 +3407,47 @@
         "habitantes": "4657",
         "casos_14d": "26",
         "casos_7d": "12"
+    },
+    {
+        "fecha": "2022-03-25",
+        "municipio": "Mux\u00eda",
+        "habitantes": "4657",
+        "casos_14d": "29",
+        "casos_7d": "14"
+    },
+    {
+        "fecha": "2022-03-26",
+        "municipio": "Mux\u00eda",
+        "habitantes": "4657",
+        "casos_14d": "29",
+        "casos_7d": "16"
+    },
+    {
+        "fecha": "2022-03-28",
+        "municipio": "Mux\u00eda",
+        "habitantes": "4657",
+        "casos_14d": "28",
+        "casos_7d": "16"
+    },
+    {
+        "fecha": "2022-03-29",
+        "municipio": "Mux\u00eda",
+        "habitantes": "4657",
+        "casos_14d": "31",
+        "casos_7d": "19"
+    },
+    {
+        "fecha": "2022-03-30",
+        "municipio": "Mux\u00eda",
+        "habitantes": "4657",
+        "casos_14d": "34",
+        "casos_7d": "20"
+    },
+    {
+        "fecha": "2022-03-31",
+        "municipio": "Mux\u00eda",
+        "habitantes": "4657",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]

@@ -3407,5 +3407,47 @@
         "habitantes": "5052",
         "casos_14d": "61",
         "casos_7d": "32"
+    },
+    {
+        "fecha": "2022-03-25",
+        "municipio": "Ribadumia",
+        "habitantes": "5052",
+        "casos_14d": "60",
+        "casos_7d": "30"
+    },
+    {
+        "fecha": "2022-03-26",
+        "municipio": "Ribadumia",
+        "habitantes": "5052",
+        "casos_14d": "57",
+        "casos_7d": "31"
+    },
+    {
+        "fecha": "2022-03-28",
+        "municipio": "Ribadumia",
+        "habitantes": "5052",
+        "casos_14d": "54",
+        "casos_7d": "28"
+    },
+    {
+        "fecha": "2022-03-29",
+        "municipio": "Ribadumia",
+        "habitantes": "5052",
+        "casos_14d": "50",
+        "casos_7d": "22"
+    },
+    {
+        "fecha": "2022-03-30",
+        "municipio": "Ribadumia",
+        "habitantes": "5052",
+        "casos_14d": "48",
+        "casos_7d": "14"
+    },
+    {
+        "fecha": "2022-03-31",
+        "municipio": "Ribadumia",
+        "habitantes": "5052",
+        "casos_14d": "40",
+        "casos_7d": "24"
     }
 ]

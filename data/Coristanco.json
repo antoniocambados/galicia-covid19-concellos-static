@@ -3407,5 +3407,47 @@
         "habitantes": "6074",
         "casos_14d": "32",
         "casos_7d": "17"
+    },
+    {
+        "fecha": "2022-03-25",
+        "municipio": "Coristanco",
+        "habitantes": "6074",
+        "casos_14d": "33",
+        "casos_7d": "17"
+    },
+    {
+        "fecha": "2022-03-26",
+        "municipio": "Coristanco",
+        "habitantes": "6074",
+        "casos_14d": "34",
+        "casos_7d": "17"
+    },
+    {
+        "fecha": "2022-03-28",
+        "municipio": "Coristanco",
+        "habitantes": "6074",
+        "casos_14d": "32",
+        "casos_7d": "18"
+    },
+    {
+        "fecha": "2022-03-29",
+        "municipio": "Coristanco",
+        "habitantes": "6074",
+        "casos_14d": "37",
+        "casos_7d": "18"
+    },
+    {
+        "fecha": "2022-03-30",
+        "municipio": "Coristanco",
+        "habitantes": "6074",
+        "casos_14d": "35",
+        "casos_7d": "19"
+    },
+    {
+        "fecha": "2022-03-31",
+        "municipio": "Coristanco",
+        "habitantes": "6074",
+        "casos_14d": "19",
+        "casos_7d": null
     }
 ]

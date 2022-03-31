@@ -3407,5 +3407,47 @@
         "habitantes": "984",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2022-03-25",
+        "municipio": "Castrelo do Val",
+        "habitantes": "984",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-03-26",
+        "municipio": "Castrelo do Val",
+        "habitantes": "984",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-03-28",
+        "municipio": "Castrelo do Val",
+        "habitantes": "984",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-03-29",
+        "municipio": "Castrelo do Val",
+        "habitantes": "984",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-03-30",
+        "municipio": "Castrelo do Val",
+        "habitantes": "984",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-03-31",
+        "municipio": "Castrelo do Val",
+        "habitantes": "984",
+        "casos_14d": "11",
+        "casos_7d": null
     }
 ]

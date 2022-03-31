@@ -3407,5 +3407,47 @@
         "habitantes": "6827",
         "casos_14d": "64",
         "casos_7d": "40"
+    },
+    {
+        "fecha": "2022-03-25",
+        "municipio": "Negreira",
+        "habitantes": "6827",
+        "casos_14d": "67",
+        "casos_7d": "41"
+    },
+    {
+        "fecha": "2022-03-26",
+        "municipio": "Negreira",
+        "habitantes": "6827",
+        "casos_14d": "73",
+        "casos_7d": "39"
+    },
+    {
+        "fecha": "2022-03-28",
+        "municipio": "Negreira",
+        "habitantes": "6827",
+        "casos_14d": "77",
+        "casos_7d": "39"
+    },
+    {
+        "fecha": "2022-03-29",
+        "municipio": "Negreira",
+        "habitantes": "6827",
+        "casos_14d": "72",
+        "casos_7d": "33"
+    },
+    {
+        "fecha": "2022-03-30",
+        "municipio": "Negreira",
+        "habitantes": "6827",
+        "casos_14d": "69",
+        "casos_7d": "30"
+    },
+    {
+        "fecha": "2022-03-31",
+        "municipio": "Negreira",
+        "habitantes": "6827",
+        "casos_14d": "48",
+        "casos_7d": "18"
     }
 ]

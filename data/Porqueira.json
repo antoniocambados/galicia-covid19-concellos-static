@@ -3407,5 +3407,47 @@
         "habitantes": "815",
         "casos_14d": "21",
         "casos_7d": "12"
+    },
+    {
+        "fecha": "2022-03-25",
+        "municipio": "Porqueira",
+        "habitantes": "815",
+        "casos_14d": "18",
+        "casos_7d": "12"
+    },
+    {
+        "fecha": "2022-03-26",
+        "municipio": "Porqueira",
+        "habitantes": "815",
+        "casos_14d": "17",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-03-28",
+        "municipio": "Porqueira",
+        "habitantes": "815",
+        "casos_14d": "15",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-03-29",
+        "municipio": "Porqueira",
+        "habitantes": "815",
+        "casos_14d": "15",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-03-30",
+        "municipio": "Porqueira",
+        "habitantes": "815",
+        "casos_14d": "13",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-03-31",
+        "municipio": "Porqueira",
+        "habitantes": "815",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]

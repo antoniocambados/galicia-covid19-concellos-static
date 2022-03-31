@@ -3407,5 +3407,47 @@
         "habitantes": "15078",
         "casos_14d": "139",
         "casos_7d": "64"
+    },
+    {
+        "fecha": "2022-03-25",
+        "municipio": "Mos",
+        "habitantes": "15078",
+        "casos_14d": "141",
+        "casos_7d": "62"
+    },
+    {
+        "fecha": "2022-03-26",
+        "municipio": "Mos",
+        "habitantes": "15078",
+        "casos_14d": "148",
+        "casos_7d": "70"
+    },
+    {
+        "fecha": "2022-03-28",
+        "municipio": "Mos",
+        "habitantes": "15078",
+        "casos_14d": "140",
+        "casos_7d": "70"
+    },
+    {
+        "fecha": "2022-03-29",
+        "municipio": "Mos",
+        "habitantes": "15078",
+        "casos_14d": "127",
+        "casos_7d": "60"
+    },
+    {
+        "fecha": "2022-03-30",
+        "municipio": "Mos",
+        "habitantes": "15078",
+        "casos_14d": "114",
+        "casos_7d": "50"
+    },
+    {
+        "fecha": "2022-03-31",
+        "municipio": "Mos",
+        "habitantes": "15078",
+        "casos_14d": "120",
+        "casos_7d": "67"
     }
 ]

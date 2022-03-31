@@ -3407,5 +3407,47 @@
         "habitantes": "215",
         "casos_14d": "0",
         "casos_7d": "0"
+    },
+    {
+        "fecha": "2022-03-25",
+        "municipio": "Negueira de Mu\u00f1iz",
+        "habitantes": "215",
+        "casos_14d": "0",
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2022-03-26",
+        "municipio": "Negueira de Mu\u00f1iz",
+        "habitantes": "215",
+        "casos_14d": "0",
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2022-03-28",
+        "municipio": "Negueira de Mu\u00f1iz",
+        "habitantes": "215",
+        "casos_14d": "0",
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2022-03-29",
+        "municipio": "Negueira de Mu\u00f1iz",
+        "habitantes": "215",
+        "casos_14d": "0",
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2022-03-30",
+        "municipio": "Negueira de Mu\u00f1iz",
+        "habitantes": "215",
+        "casos_14d": "0",
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2022-03-31",
+        "municipio": "Negueira de Mu\u00f1iz",
+        "habitantes": "215",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]

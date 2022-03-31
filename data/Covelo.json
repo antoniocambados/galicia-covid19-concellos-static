@@ -3407,5 +3407,47 @@
         "habitantes": "2396",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2022-03-25",
+        "municipio": "Covelo",
+        "habitantes": "2396",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-03-26",
+        "municipio": "Covelo",
+        "habitantes": "2396",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-03-28",
+        "municipio": "Covelo",
+        "habitantes": "2396",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-03-29",
+        "municipio": "Covelo",
+        "habitantes": "2396",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-03-30",
+        "municipio": "Covelo",
+        "habitantes": "2396",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-03-31",
+        "municipio": "Covelo",
+        "habitantes": "2396",
+        "casos_14d": "14",
+        "casos_7d": null
     }
 ]
