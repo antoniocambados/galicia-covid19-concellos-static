@@ -3449,5 +3449,89 @@
         "habitantes": "12944",
         "casos_14d": "83",
         "casos_7d": "39"
+    },
+    {
+        "fecha": "2022-04-01",
+        "municipio": "Fene",
+        "habitantes": "12944",
+        "casos_14d": "136",
+        "casos_7d": "57"
+    },
+    {
+        "fecha": "2022-04-02",
+        "municipio": "Fene",
+        "habitantes": "12944",
+        "casos_14d": "130",
+        "casos_7d": "57"
+    },
+    {
+        "fecha": "2022-04-04",
+        "municipio": "Fene",
+        "habitantes": "12944",
+        "casos_14d": "127",
+        "casos_7d": "43"
+    },
+    {
+        "fecha": "2022-04-05",
+        "municipio": "Fene",
+        "habitantes": "12944",
+        "casos_14d": "118",
+        "casos_7d": "43"
+    },
+    {
+        "fecha": "2022-04-06",
+        "municipio": "Fene",
+        "habitantes": "12944",
+        "casos_14d": "114",
+        "casos_7d": "45"
+    },
+    {
+        "fecha": "2022-04-07",
+        "municipio": "Fene",
+        "habitantes": "12944",
+        "casos_14d": "100",
+        "casos_7d": "42"
+    },
+    {
+        "fecha": "2022-04-08",
+        "municipio": "Fene",
+        "habitantes": "12944",
+        "casos_14d": "97",
+        "casos_7d": "40"
+    },
+    {
+        "fecha": "2022-04-09",
+        "municipio": "Fene",
+        "habitantes": "12944",
+        "casos_14d": "98",
+        "casos_7d": "41"
+    },
+    {
+        "fecha": "2022-04-11",
+        "municipio": "Fene",
+        "habitantes": "12944",
+        "casos_14d": "86",
+        "casos_7d": "43"
+    },
+    {
+        "fecha": "2022-04-12",
+        "municipio": "Fene",
+        "habitantes": "12944",
+        "casos_14d": "82",
+        "casos_7d": "39"
+    },
+    {
+        "fecha": "2022-04-13",
+        "municipio": "Fene",
+        "habitantes": "12944",
+        "casos_14d": "81",
+        "casos_7d": "36"
+    },
+    {
+        "fecha": "2022-04-14",
+        "municipio": "Fene",
+        "habitantes": "12944",
+        "casos_14d": "84",
+        "casos_7d": "42"
     }
 ]

@@ -3449,5 +3449,89 @@
         "habitantes": "870",
         "casos_14d": "49",
         "casos_7d": "25"
+    },
+    {
+        "fecha": "2022-04-01",
+        "municipio": "Manzaneda",
+        "habitantes": "870",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-02",
+        "municipio": "Manzaneda",
+        "habitantes": "870",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-04",
+        "municipio": "Manzaneda",
+        "habitantes": "870",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-05",
+        "municipio": "Manzaneda",
+        "habitantes": "870",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-06",
+        "municipio": "Manzaneda",
+        "habitantes": "870",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-07",
+        "municipio": "Manzaneda",
+        "habitantes": "870",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-08",
+        "municipio": "Manzaneda",
+        "habitantes": "870",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-09",
+        "municipio": "Manzaneda",
+        "habitantes": "870",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-11",
+        "municipio": "Manzaneda",
+        "habitantes": "870",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-12",
+        "municipio": "Manzaneda",
+        "habitantes": "870",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-13",
+        "municipio": "Manzaneda",
+        "habitantes": "870",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-14",
+        "municipio": "Manzaneda",
+        "habitantes": "870",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]

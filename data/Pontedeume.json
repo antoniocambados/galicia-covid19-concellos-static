@@ -3449,5 +3449,89 @@
         "habitantes": "7777",
         "casos_14d": "63",
         "casos_7d": "41"
+    },
+    {
+        "fecha": "2022-04-01",
+        "municipio": "Pontedeume",
+        "habitantes": "7777",
+        "casos_14d": "136",
+        "casos_7d": "48"
+    },
+    {
+        "fecha": "2022-04-02",
+        "municipio": "Pontedeume",
+        "habitantes": "7777",
+        "casos_14d": "126",
+        "casos_7d": "32"
+    },
+    {
+        "fecha": "2022-04-04",
+        "municipio": "Pontedeume",
+        "habitantes": "7777",
+        "casos_14d": "110",
+        "casos_7d": "30"
+    },
+    {
+        "fecha": "2022-04-05",
+        "municipio": "Pontedeume",
+        "habitantes": "7777",
+        "casos_14d": "94",
+        "casos_7d": "30"
+    },
+    {
+        "fecha": "2022-04-06",
+        "municipio": "Pontedeume",
+        "habitantes": "7777",
+        "casos_14d": "87",
+        "casos_7d": "35"
+    },
+    {
+        "fecha": "2022-04-07",
+        "municipio": "Pontedeume",
+        "habitantes": "7777",
+        "casos_14d": "75",
+        "casos_7d": "36"
+    },
+    {
+        "fecha": "2022-04-08",
+        "municipio": "Pontedeume",
+        "habitantes": "7777",
+        "casos_14d": "70",
+        "casos_7d": "22"
+    },
+    {
+        "fecha": "2022-04-09",
+        "municipio": "Pontedeume",
+        "habitantes": "7777",
+        "casos_14d": "56",
+        "casos_7d": "24"
+    },
+    {
+        "fecha": "2022-04-11",
+        "municipio": "Pontedeume",
+        "habitantes": "7777",
+        "casos_14d": "50",
+        "casos_7d": "20"
+    },
+    {
+        "fecha": "2022-04-12",
+        "municipio": "Pontedeume",
+        "habitantes": "7777",
+        "casos_14d": "51",
+        "casos_7d": "21"
+    },
+    {
+        "fecha": "2022-04-13",
+        "municipio": "Pontedeume",
+        "habitantes": "7777",
+        "casos_14d": "57",
+        "casos_7d": "22"
+    },
+    {
+        "fecha": "2022-04-14",
+        "municipio": "Pontedeume",
+        "habitantes": "7777",
+        "casos_14d": "55",
+        "casos_7d": "19"
     }
 ]

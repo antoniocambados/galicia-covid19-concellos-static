@@ -3449,5 +3449,89 @@
         "habitantes": "3026",
         "casos_14d": "15",
         "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-01",
+        "municipio": "Begonte",
+        "habitantes": "3026",
+        "casos_14d": "17",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-02",
+        "municipio": "Begonte",
+        "habitantes": "3026",
+        "casos_14d": "15",
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2022-04-04",
+        "municipio": "Begonte",
+        "habitantes": "3026",
+        "casos_14d": "14",
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2022-04-05",
+        "municipio": "Begonte",
+        "habitantes": "3026",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2022-04-06",
+        "municipio": "Begonte",
+        "habitantes": "3026",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2022-04-07",
+        "municipio": "Begonte",
+        "habitantes": "3026",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-08",
+        "municipio": "Begonte",
+        "habitantes": "3026",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-09",
+        "municipio": "Begonte",
+        "habitantes": "3026",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-11",
+        "municipio": "Begonte",
+        "habitantes": "3026",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-12",
+        "municipio": "Begonte",
+        "habitantes": "3026",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-13",
+        "municipio": "Begonte",
+        "habitantes": "3026",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-14",
+        "municipio": "Begonte",
+        "habitantes": "3026",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]

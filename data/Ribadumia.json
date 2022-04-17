@@ -3449,5 +3449,89 @@
         "habitantes": "5052",
         "casos_14d": "40",
         "casos_7d": "24"
+    },
+    {
+        "fecha": "2022-04-01",
+        "municipio": "Ribadumia",
+        "habitantes": "5052",
+        "casos_14d": "40",
+        "casos_7d": "10"
+    },
+    {
+        "fecha": "2022-04-02",
+        "municipio": "Ribadumia",
+        "habitantes": "5052",
+        "casos_14d": "46",
+        "casos_7d": "15"
+    },
+    {
+        "fecha": "2022-04-04",
+        "municipio": "Ribadumia",
+        "habitantes": "5052",
+        "casos_14d": "41",
+        "casos_7d": "13"
+    },
+    {
+        "fecha": "2022-04-05",
+        "municipio": "Ribadumia",
+        "habitantes": "5052",
+        "casos_14d": "35",
+        "casos_7d": "13"
+    },
+    {
+        "fecha": "2022-04-06",
+        "municipio": "Ribadumia",
+        "habitantes": "5052",
+        "casos_14d": "27",
+        "casos_7d": "13"
+    },
+    {
+        "fecha": "2022-04-07",
+        "municipio": "Ribadumia",
+        "habitantes": "5052",
+        "casos_14d": "22",
+        "casos_7d": "10"
+    },
+    {
+        "fecha": "2022-04-08",
+        "municipio": "Ribadumia",
+        "habitantes": "5052",
+        "casos_14d": "23",
+        "casos_7d": "13"
+    },
+    {
+        "fecha": "2022-04-09",
+        "municipio": "Ribadumia",
+        "habitantes": "5052",
+        "casos_14d": "23",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-11",
+        "municipio": "Ribadumia",
+        "habitantes": "5052",
+        "casos_14d": "20",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-12",
+        "municipio": "Ribadumia",
+        "habitantes": "5052",
+        "casos_14d": "23",
+        "casos_7d": "10"
+    },
+    {
+        "fecha": "2022-04-13",
+        "municipio": "Ribadumia",
+        "habitantes": "5052",
+        "casos_14d": "25",
+        "casos_7d": "12"
+    },
+    {
+        "fecha": "2022-04-14",
+        "municipio": "Ribadumia",
+        "habitantes": "5052",
+        "casos_14d": "25",
+        "casos_7d": "15"
     }
 ]

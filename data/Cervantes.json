@@ -3449,5 +3449,89 @@
         "habitantes": "1338",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-01",
+        "municipio": "Cervantes",
+        "habitantes": "1338",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-02",
+        "municipio": "Cervantes",
+        "habitantes": "1338",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-04",
+        "municipio": "Cervantes",
+        "habitantes": "1338",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-05",
+        "municipio": "Cervantes",
+        "habitantes": "1338",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-06",
+        "municipio": "Cervantes",
+        "habitantes": "1338",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-07",
+        "municipio": "Cervantes",
+        "habitantes": "1338",
+        "casos_14d": "13",
+        "casos_7d": "12"
+    },
+    {
+        "fecha": "2022-04-08",
+        "municipio": "Cervantes",
+        "habitantes": "1338",
+        "casos_14d": "18",
+        "casos_7d": "16"
+    },
+    {
+        "fecha": "2022-04-09",
+        "municipio": "Cervantes",
+        "habitantes": "1338",
+        "casos_14d": "20",
+        "casos_7d": "19"
+    },
+    {
+        "fecha": "2022-04-11",
+        "municipio": "Cervantes",
+        "habitantes": "1338",
+        "casos_14d": "22",
+        "casos_7d": "19"
+    },
+    {
+        "fecha": "2022-04-12",
+        "municipio": "Cervantes",
+        "habitantes": "1338",
+        "casos_14d": "23",
+        "casos_7d": "20"
+    },
+    {
+        "fecha": "2022-04-13",
+        "municipio": "Cervantes",
+        "habitantes": "1338",
+        "casos_14d": "25",
+        "casos_7d": "22"
+    },
+    {
+        "fecha": "2022-04-14",
+        "municipio": "Cervantes",
+        "habitantes": "1338",
+        "casos_14d": "29",
+        "casos_7d": "17"
     }
 ]

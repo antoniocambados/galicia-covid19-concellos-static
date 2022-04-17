@@ -3449,5 +3449,89 @@
         "habitantes": "5245",
         "casos_14d": "19",
         "casos_7d": "10"
+    },
+    {
+        "fecha": "2022-04-01",
+        "municipio": "Mugardos",
+        "habitantes": "5245",
+        "casos_14d": "83",
+        "casos_7d": "26"
+    },
+    {
+        "fecha": "2022-04-02",
+        "municipio": "Mugardos",
+        "habitantes": "5245",
+        "casos_14d": "70",
+        "casos_7d": "21"
+    },
+    {
+        "fecha": "2022-04-04",
+        "municipio": "Mugardos",
+        "habitantes": "5245",
+        "casos_14d": "68",
+        "casos_7d": "19"
+    },
+    {
+        "fecha": "2022-04-05",
+        "municipio": "Mugardos",
+        "habitantes": "5245",
+        "casos_14d": "63",
+        "casos_7d": "19"
+    },
+    {
+        "fecha": "2022-04-06",
+        "municipio": "Mugardos",
+        "habitantes": "5245",
+        "casos_14d": "59",
+        "casos_7d": "21"
+    },
+    {
+        "fecha": "2022-04-07",
+        "municipio": "Mugardos",
+        "habitantes": "5245",
+        "casos_14d": "50",
+        "casos_7d": "18"
+    },
+    {
+        "fecha": "2022-04-08",
+        "municipio": "Mugardos",
+        "habitantes": "5245",
+        "casos_14d": "44",
+        "casos_7d": "18"
+    },
+    {
+        "fecha": "2022-04-09",
+        "municipio": "Mugardos",
+        "habitantes": "5245",
+        "casos_14d": "39",
+        "casos_7d": "18"
+    },
+    {
+        "fecha": "2022-04-11",
+        "municipio": "Mugardos",
+        "habitantes": "5245",
+        "casos_14d": "34",
+        "casos_7d": "15"
+    },
+    {
+        "fecha": "2022-04-12",
+        "municipio": "Mugardos",
+        "habitantes": "5245",
+        "casos_14d": "35",
+        "casos_7d": "16"
+    },
+    {
+        "fecha": "2022-04-13",
+        "municipio": "Mugardos",
+        "habitantes": "5245",
+        "casos_14d": "35",
+        "casos_7d": "14"
+    },
+    {
+        "fecha": "2022-04-14",
+        "municipio": "Mugardos",
+        "habitantes": "5245",
+        "casos_14d": "34",
+        "casos_7d": "16"
     }
 ]

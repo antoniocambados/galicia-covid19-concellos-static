@@ -3449,5 +3449,89 @@
         "habitantes": "6282",
         "casos_14d": "53",
         "casos_7d": "23"
+    },
+    {
+        "fecha": "2022-04-01",
+        "municipio": "Outes",
+        "habitantes": "6282",
+        "casos_14d": "32",
+        "casos_7d": "10"
+    },
+    {
+        "fecha": "2022-04-02",
+        "municipio": "Outes",
+        "habitantes": "6282",
+        "casos_14d": "32",
+        "casos_7d": "11"
+    },
+    {
+        "fecha": "2022-04-04",
+        "municipio": "Outes",
+        "habitantes": "6282",
+        "casos_14d": "31",
+        "casos_7d": "13"
+    },
+    {
+        "fecha": "2022-04-05",
+        "municipio": "Outes",
+        "habitantes": "6282",
+        "casos_14d": "31",
+        "casos_7d": "12"
+    },
+    {
+        "fecha": "2022-04-06",
+        "municipio": "Outes",
+        "habitantes": "6282",
+        "casos_14d": "29",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-07",
+        "municipio": "Outes",
+        "habitantes": "6282",
+        "casos_14d": "27",
+        "casos_7d": "11"
+    },
+    {
+        "fecha": "2022-04-08",
+        "municipio": "Outes",
+        "habitantes": "6282",
+        "casos_14d": "25",
+        "casos_7d": "15"
+    },
+    {
+        "fecha": "2022-04-09",
+        "municipio": "Outes",
+        "habitantes": "6282",
+        "casos_14d": "23",
+        "casos_7d": "12"
+    },
+    {
+        "fecha": "2022-04-11",
+        "municipio": "Outes",
+        "habitantes": "6282",
+        "casos_14d": "26",
+        "casos_7d": "13"
+    },
+    {
+        "fecha": "2022-04-12",
+        "municipio": "Outes",
+        "habitantes": "6282",
+        "casos_14d": "25",
+        "casos_7d": "13"
+    },
+    {
+        "fecha": "2022-04-13",
+        "municipio": "Outes",
+        "habitantes": "6282",
+        "casos_14d": "24",
+        "casos_7d": "15"
+    },
+    {
+        "fecha": "2022-04-14",
+        "municipio": "Outes",
+        "habitantes": "6282",
+        "casos_14d": "27",
+        "casos_7d": "16"
     }
 ]

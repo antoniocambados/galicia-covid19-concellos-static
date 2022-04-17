@@ -3449,5 +3449,89 @@
         "habitantes": "644",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-01",
+        "municipio": "Mondariz-Balneario",
+        "habitantes": "644",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-02",
+        "municipio": "Mondariz-Balneario",
+        "habitantes": "644",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2022-04-04",
+        "municipio": "Mondariz-Balneario",
+        "habitantes": "644",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2022-04-05",
+        "municipio": "Mondariz-Balneario",
+        "habitantes": "644",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2022-04-06",
+        "municipio": "Mondariz-Balneario",
+        "habitantes": "644",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-07",
+        "municipio": "Mondariz-Balneario",
+        "habitantes": "644",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-08",
+        "municipio": "Mondariz-Balneario",
+        "habitantes": "644",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-09",
+        "municipio": "Mondariz-Balneario",
+        "habitantes": "644",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-11",
+        "municipio": "Mondariz-Balneario",
+        "habitantes": "644",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-12",
+        "municipio": "Mondariz-Balneario",
+        "habitantes": "644",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-13",
+        "municipio": "Mondariz-Balneario",
+        "habitantes": "644",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2022-04-14",
+        "municipio": "Mondariz-Balneario",
+        "habitantes": "644",
+        "casos_14d": null,
+        "casos_7d": "0"
     }
 ]

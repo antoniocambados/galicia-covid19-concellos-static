@@ -3449,5 +3449,89 @@
         "habitantes": "9980",
         "casos_14d": "58",
         "casos_7d": "35"
+    },
+    {
+        "fecha": "2022-04-01",
+        "municipio": "Foz",
+        "habitantes": "9980",
+        "casos_14d": "85",
+        "casos_7d": "27"
+    },
+    {
+        "fecha": "2022-04-02",
+        "municipio": "Foz",
+        "habitantes": "9980",
+        "casos_14d": "87",
+        "casos_7d": "31"
+    },
+    {
+        "fecha": "2022-04-04",
+        "municipio": "Foz",
+        "habitantes": "9980",
+        "casos_14d": "79",
+        "casos_7d": "26"
+    },
+    {
+        "fecha": "2022-04-05",
+        "municipio": "Foz",
+        "habitantes": "9980",
+        "casos_14d": "74",
+        "casos_7d": "31"
+    },
+    {
+        "fecha": "2022-04-06",
+        "municipio": "Foz",
+        "habitantes": "9980",
+        "casos_14d": "73",
+        "casos_7d": "40"
+    },
+    {
+        "fecha": "2022-04-07",
+        "municipio": "Foz",
+        "habitantes": "9980",
+        "casos_14d": "75",
+        "casos_7d": "42"
+    },
+    {
+        "fecha": "2022-04-08",
+        "municipio": "Foz",
+        "habitantes": "9980",
+        "casos_14d": "67",
+        "casos_7d": "40"
+    },
+    {
+        "fecha": "2022-04-09",
+        "municipio": "Foz",
+        "habitantes": "9980",
+        "casos_14d": "83",
+        "casos_7d": "52"
+    },
+    {
+        "fecha": "2022-04-11",
+        "municipio": "Foz",
+        "habitantes": "9980",
+        "casos_14d": "90",
+        "casos_7d": "64"
+    },
+    {
+        "fecha": "2022-04-12",
+        "municipio": "Foz",
+        "habitantes": "9980",
+        "casos_14d": "94",
+        "casos_7d": "62"
+    },
+    {
+        "fecha": "2022-04-13",
+        "municipio": "Foz",
+        "habitantes": "9980",
+        "casos_14d": "102",
+        "casos_7d": "61"
+    },
+    {
+        "fecha": "2022-04-14",
+        "municipio": "Foz",
+        "habitantes": "9980",
+        "casos_14d": "116",
+        "casos_7d": "73"
     }
 ]

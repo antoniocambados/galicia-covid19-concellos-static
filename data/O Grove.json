@@ -3449,5 +3449,89 @@
         "habitantes": "10650",
         "casos_14d": "66",
         "casos_7d": "41"
+    },
+    {
+        "fecha": "2022-04-01",
+        "municipio": "O Grove",
+        "habitantes": "10650",
+        "casos_14d": "111",
+        "casos_7d": "55"
+    },
+    {
+        "fecha": "2022-04-02",
+        "municipio": "O Grove",
+        "habitantes": "10650",
+        "casos_14d": "106",
+        "casos_7d": "50"
+    },
+    {
+        "fecha": "2022-04-04",
+        "municipio": "O Grove",
+        "habitantes": "10650",
+        "casos_14d": "100",
+        "casos_7d": "33"
+    },
+    {
+        "fecha": "2022-04-05",
+        "municipio": "O Grove",
+        "habitantes": "10650",
+        "casos_14d": "89",
+        "casos_7d": "23"
+    },
+    {
+        "fecha": "2022-04-06",
+        "municipio": "O Grove",
+        "habitantes": "10650",
+        "casos_14d": "85",
+        "casos_7d": "20"
+    },
+    {
+        "fecha": "2022-04-07",
+        "municipio": "O Grove",
+        "habitantes": "10650",
+        "casos_14d": "86",
+        "casos_7d": "23"
+    },
+    {
+        "fecha": "2022-04-08",
+        "municipio": "O Grove",
+        "habitantes": "10650",
+        "casos_14d": "82",
+        "casos_7d": "27"
+    },
+    {
+        "fecha": "2022-04-09",
+        "municipio": "O Grove",
+        "habitantes": "10650",
+        "casos_14d": "84",
+        "casos_7d": "34"
+    },
+    {
+        "fecha": "2022-04-11",
+        "municipio": "O Grove",
+        "habitantes": "10650",
+        "casos_14d": "74",
+        "casos_7d": "41"
+    },
+    {
+        "fecha": "2022-04-12",
+        "municipio": "O Grove",
+        "habitantes": "10650",
+        "casos_14d": "70",
+        "casos_7d": "47"
+    },
+    {
+        "fecha": "2022-04-13",
+        "municipio": "O Grove",
+        "habitantes": "10650",
+        "casos_14d": "68",
+        "casos_7d": "48"
+    },
+    {
+        "fecha": "2022-04-14",
+        "municipio": "O Grove",
+        "habitantes": "10650",
+        "casos_14d": "73",
+        "casos_7d": "50"
     }
 ]

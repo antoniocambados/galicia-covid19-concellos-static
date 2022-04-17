@@ -3449,5 +3449,89 @@
         "habitantes": "4440",
         "casos_14d": "22",
         "casos_7d": "13"
+    },
+    {
+        "fecha": "2022-04-01",
+        "municipio": "Mondariz",
+        "habitantes": "4440",
+        "casos_14d": "15",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-02",
+        "municipio": "Mondariz",
+        "habitantes": "4440",
+        "casos_14d": "15",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-04",
+        "municipio": "Mondariz",
+        "habitantes": "4440",
+        "casos_14d": "12",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-05",
+        "municipio": "Mondariz",
+        "habitantes": "4440",
+        "casos_14d": "13",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-06",
+        "municipio": "Mondariz",
+        "habitantes": "4440",
+        "casos_14d": "13",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-07",
+        "municipio": "Mondariz",
+        "habitantes": "4440",
+        "casos_14d": "13",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-08",
+        "municipio": "Mondariz",
+        "habitantes": "4440",
+        "casos_14d": "13",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-09",
+        "municipio": "Mondariz",
+        "habitantes": "4440",
+        "casos_14d": "14",
+        "casos_7d": "10"
+    },
+    {
+        "fecha": "2022-04-11",
+        "municipio": "Mondariz",
+        "habitantes": "4440",
+        "casos_14d": "15",
+        "casos_7d": "10"
+    },
+    {
+        "fecha": "2022-04-12",
+        "municipio": "Mondariz",
+        "habitantes": "4440",
+        "casos_14d": "17",
+        "casos_7d": "10"
+    },
+    {
+        "fecha": "2022-04-13",
+        "municipio": "Mondariz",
+        "habitantes": "4440",
+        "casos_14d": "18",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-14",
+        "municipio": "Mondariz",
+        "habitantes": "4440",
+        "casos_14d": "18",
+        "casos_7d": "10"
     }
 ]

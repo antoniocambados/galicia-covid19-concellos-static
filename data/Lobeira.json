@@ -3449,5 +3449,89 @@
         "habitantes": "798",
         "casos_14d": null,
         "casos_7d": "0"
+    },
+    {
+        "fecha": "2022-04-01",
+        "municipio": "Lobeira",
+        "habitantes": "798",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-02",
+        "municipio": "Lobeira",
+        "habitantes": "798",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-04",
+        "municipio": "Lobeira",
+        "habitantes": "798",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-05",
+        "municipio": "Lobeira",
+        "habitantes": "798",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2022-04-06",
+        "municipio": "Lobeira",
+        "habitantes": "798",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2022-04-07",
+        "municipio": "Lobeira",
+        "habitantes": "798",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2022-04-08",
+        "municipio": "Lobeira",
+        "habitantes": "798",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-09",
+        "municipio": "Lobeira",
+        "habitantes": "798",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-11",
+        "municipio": "Lobeira",
+        "habitantes": "798",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-12",
+        "municipio": "Lobeira",
+        "habitantes": "798",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-13",
+        "municipio": "Lobeira",
+        "habitantes": "798",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-14",
+        "municipio": "Lobeira",
+        "habitantes": "798",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]

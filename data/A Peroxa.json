@@ -3449,5 +3449,89 @@
         "habitantes": "1819",
         "casos_14d": "29",
         "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-01",
+        "municipio": "A Peroxa",
+        "habitantes": "1819",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-02",
+        "municipio": "A Peroxa",
+        "habitantes": "1819",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-04",
+        "municipio": "A Peroxa",
+        "habitantes": "1819",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-05",
+        "municipio": "A Peroxa",
+        "habitantes": "1819",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-06",
+        "municipio": "A Peroxa",
+        "habitantes": "1819",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-07",
+        "municipio": "A Peroxa",
+        "habitantes": "1819",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-08",
+        "municipio": "A Peroxa",
+        "habitantes": "1819",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-09",
+        "municipio": "A Peroxa",
+        "habitantes": "1819",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-11",
+        "municipio": "A Peroxa",
+        "habitantes": "1819",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-12",
+        "municipio": "A Peroxa",
+        "habitantes": "1819",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-13",
+        "municipio": "A Peroxa",
+        "habitantes": "1819",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-14",
+        "municipio": "A Peroxa",
+        "habitantes": "1819",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]

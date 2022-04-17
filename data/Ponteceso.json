@@ -3449,5 +3449,89 @@
         "habitantes": "5502",
         "casos_14d": "32",
         "casos_7d": "18"
+    },
+    {
+        "fecha": "2022-04-01",
+        "municipio": "Ponteceso",
+        "habitantes": "5502",
+        "casos_14d": "52",
+        "casos_7d": "24"
+    },
+    {
+        "fecha": "2022-04-02",
+        "municipio": "Ponteceso",
+        "habitantes": "5502",
+        "casos_14d": "50",
+        "casos_7d": "17"
+    },
+    {
+        "fecha": "2022-04-04",
+        "municipio": "Ponteceso",
+        "habitantes": "5502",
+        "casos_14d": "49",
+        "casos_7d": "17"
+    },
+    {
+        "fecha": "2022-04-05",
+        "municipio": "Ponteceso",
+        "habitantes": "5502",
+        "casos_14d": "49",
+        "casos_7d": "18"
+    },
+    {
+        "fecha": "2022-04-06",
+        "municipio": "Ponteceso",
+        "habitantes": "5502",
+        "casos_14d": "52",
+        "casos_7d": "22"
+    },
+    {
+        "fecha": "2022-04-07",
+        "municipio": "Ponteceso",
+        "habitantes": "5502",
+        "casos_14d": "44",
+        "casos_7d": "20"
+    },
+    {
+        "fecha": "2022-04-08",
+        "municipio": "Ponteceso",
+        "habitantes": "5502",
+        "casos_14d": "44",
+        "casos_7d": "20"
+    },
+    {
+        "fecha": "2022-04-09",
+        "municipio": "Ponteceso",
+        "habitantes": "5502",
+        "casos_14d": "39",
+        "casos_7d": "21"
+    },
+    {
+        "fecha": "2022-04-11",
+        "municipio": "Ponteceso",
+        "habitantes": "5502",
+        "casos_14d": "36",
+        "casos_7d": "18"
+    },
+    {
+        "fecha": "2022-04-12",
+        "municipio": "Ponteceso",
+        "habitantes": "5502",
+        "casos_14d": "37",
+        "casos_7d": "18"
+    },
+    {
+        "fecha": "2022-04-13",
+        "municipio": "Ponteceso",
+        "habitantes": "5502",
+        "casos_14d": "39",
+        "casos_7d": "16"
+    },
+    {
+        "fecha": "2022-04-14",
+        "municipio": "Ponteceso",
+        "habitantes": "5502",
+        "casos_14d": "40",
+        "casos_7d": "20"
     }
 ]

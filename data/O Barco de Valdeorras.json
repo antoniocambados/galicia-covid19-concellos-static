@@ -3449,5 +3449,89 @@
         "habitantes": "13395",
         "casos_14d": "94",
         "casos_7d": "40"
+    },
+    {
+        "fecha": "2022-04-01",
+        "municipio": "O Barco de Valdeorras",
+        "habitantes": "13395",
+        "casos_14d": "102",
+        "casos_7d": "26"
+    },
+    {
+        "fecha": "2022-04-02",
+        "municipio": "O Barco de Valdeorras",
+        "habitantes": "13395",
+        "casos_14d": "91",
+        "casos_7d": "26"
+    },
+    {
+        "fecha": "2022-04-04",
+        "municipio": "O Barco de Valdeorras",
+        "habitantes": "13395",
+        "casos_14d": "88",
+        "casos_7d": "31"
+    },
+    {
+        "fecha": "2022-04-05",
+        "municipio": "O Barco de Valdeorras",
+        "habitantes": "13395",
+        "casos_14d": "84",
+        "casos_7d": "22"
+    },
+    {
+        "fecha": "2022-04-06",
+        "municipio": "O Barco de Valdeorras",
+        "habitantes": "13395",
+        "casos_14d": "79",
+        "casos_7d": "19"
+    },
+    {
+        "fecha": "2022-04-07",
+        "municipio": "O Barco de Valdeorras",
+        "habitantes": "13395",
+        "casos_14d": "73",
+        "casos_7d": "25"
+    },
+    {
+        "fecha": "2022-04-08",
+        "municipio": "O Barco de Valdeorras",
+        "habitantes": "13395",
+        "casos_14d": "59",
+        "casos_7d": "33"
+    },
+    {
+        "fecha": "2022-04-09",
+        "municipio": "O Barco de Valdeorras",
+        "habitantes": "13395",
+        "casos_14d": "60",
+        "casos_7d": "34"
+    },
+    {
+        "fecha": "2022-04-11",
+        "municipio": "O Barco de Valdeorras",
+        "habitantes": "13395",
+        "casos_14d": "67",
+        "casos_7d": "36"
+    },
+    {
+        "fecha": "2022-04-12",
+        "municipio": "O Barco de Valdeorras",
+        "habitantes": "13395",
+        "casos_14d": "66",
+        "casos_7d": "44"
+    },
+    {
+        "fecha": "2022-04-13",
+        "municipio": "O Barco de Valdeorras",
+        "habitantes": "13395",
+        "casos_14d": "65",
+        "casos_7d": "46"
+    },
+    {
+        "fecha": "2022-04-14",
+        "municipio": "O Barco de Valdeorras",
+        "habitantes": "13395",
+        "casos_14d": "73",
+        "casos_7d": "48"
     }
 ]

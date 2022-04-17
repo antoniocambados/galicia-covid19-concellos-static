@@ -3449,5 +3449,89 @@
         "habitantes": "6074",
         "casos_14d": "19",
         "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-01",
+        "municipio": "Coristanco",
+        "habitantes": "6074",
+        "casos_14d": "35",
+        "casos_7d": "18"
+    },
+    {
+        "fecha": "2022-04-02",
+        "municipio": "Coristanco",
+        "habitantes": "6074",
+        "casos_14d": "35",
+        "casos_7d": "18"
+    },
+    {
+        "fecha": "2022-04-04",
+        "municipio": "Coristanco",
+        "habitantes": "6074",
+        "casos_14d": "35",
+        "casos_7d": "17"
+    },
+    {
+        "fecha": "2022-04-05",
+        "municipio": "Coristanco",
+        "habitantes": "6074",
+        "casos_14d": "31",
+        "casos_7d": "13"
+    },
+    {
+        "fecha": "2022-04-06",
+        "municipio": "Coristanco",
+        "habitantes": "6074",
+        "casos_14d": "29",
+        "casos_7d": "10"
+    },
+    {
+        "fecha": "2022-04-07",
+        "municipio": "Coristanco",
+        "habitantes": "6074",
+        "casos_14d": "27",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-08",
+        "municipio": "Coristanco",
+        "habitantes": "6074",
+        "casos_14d": "25",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-09",
+        "municipio": "Coristanco",
+        "habitantes": "6074",
+        "casos_14d": "23",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-11",
+        "municipio": "Coristanco",
+        "habitantes": "6074",
+        "casos_14d": "24",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-12",
+        "municipio": "Coristanco",
+        "habitantes": "6074",
+        "casos_14d": "19",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-13",
+        "municipio": "Coristanco",
+        "habitantes": "6074",
+        "casos_14d": "18",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-14",
+        "municipio": "Coristanco",
+        "habitantes": "6074",
+        "casos_14d": "19",
+        "casos_7d": "10"
     }
 ]

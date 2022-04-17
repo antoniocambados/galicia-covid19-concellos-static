@@ -3449,5 +3449,89 @@
         "habitantes": "1226",
         "casos_14d": null,
         "casos_7d": "0"
+    },
+    {
+        "fecha": "2022-04-01",
+        "municipio": "Moeche",
+        "habitantes": "1226",
+        "casos_14d": "19",
+        "casos_7d": "16"
+    },
+    {
+        "fecha": "2022-04-02",
+        "municipio": "Moeche",
+        "habitantes": "1226",
+        "casos_14d": "23",
+        "casos_7d": "20"
+    },
+    {
+        "fecha": "2022-04-04",
+        "municipio": "Moeche",
+        "habitantes": "1226",
+        "casos_14d": "24",
+        "casos_7d": "21"
+    },
+    {
+        "fecha": "2022-04-05",
+        "municipio": "Moeche",
+        "habitantes": "1226",
+        "casos_14d": "25",
+        "casos_7d": "22"
+    },
+    {
+        "fecha": "2022-04-06",
+        "municipio": "Moeche",
+        "habitantes": "1226",
+        "casos_14d": "25",
+        "casos_7d": "10"
+    },
+    {
+        "fecha": "2022-04-07",
+        "municipio": "Moeche",
+        "habitantes": "1226",
+        "casos_14d": "25",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-08",
+        "municipio": "Moeche",
+        "habitantes": "1226",
+        "casos_14d": "24",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-09",
+        "municipio": "Moeche",
+        "habitantes": "1226",
+        "casos_14d": "26",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-11",
+        "municipio": "Moeche",
+        "habitantes": "1226",
+        "casos_14d": "27",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-12",
+        "municipio": "Moeche",
+        "habitantes": "1226",
+        "casos_14d": "28",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-13",
+        "municipio": "Moeche",
+        "habitantes": "1226",
+        "casos_14d": "16",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-14",
+        "municipio": "Moeche",
+        "habitantes": "1226",
+        "casos_14d": "15",
+        "casos_7d": null
     }
 ]

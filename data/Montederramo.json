@@ -3449,5 +3449,89 @@
         "habitantes": "711",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-01",
+        "municipio": "Montederramo",
+        "habitantes": "711",
+        "casos_14d": "41",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-02",
+        "municipio": "Montederramo",
+        "habitantes": "711",
+        "casos_14d": "41",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-04",
+        "municipio": "Montederramo",
+        "habitantes": "711",
+        "casos_14d": "31",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-05",
+        "municipio": "Montederramo",
+        "habitantes": "711",
+        "casos_14d": "19",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-06",
+        "municipio": "Montederramo",
+        "habitantes": "711",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-07",
+        "municipio": "Montederramo",
+        "habitantes": "711",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-08",
+        "municipio": "Montederramo",
+        "habitantes": "711",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-09",
+        "municipio": "Montederramo",
+        "habitantes": "711",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-11",
+        "municipio": "Montederramo",
+        "habitantes": "711",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-12",
+        "municipio": "Montederramo",
+        "habitantes": "711",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-13",
+        "municipio": "Montederramo",
+        "habitantes": "711",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-14",
+        "municipio": "Montederramo",
+        "habitantes": "711",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]

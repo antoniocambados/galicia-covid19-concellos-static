@@ -3449,5 +3449,89 @@
         "habitantes": "6827",
         "casos_14d": "48",
         "casos_7d": "18"
+    },
+    {
+        "fecha": "2022-04-01",
+        "municipio": "Negreira",
+        "habitantes": "6827",
+        "casos_14d": "59",
+        "casos_7d": "18"
+    },
+    {
+        "fecha": "2022-04-02",
+        "municipio": "Negreira",
+        "habitantes": "6827",
+        "casos_14d": "54",
+        "casos_7d": "15"
+    },
+    {
+        "fecha": "2022-04-04",
+        "municipio": "Negreira",
+        "habitantes": "6827",
+        "casos_14d": "48",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-05",
+        "municipio": "Negreira",
+        "habitantes": "6827",
+        "casos_14d": "43",
+        "casos_7d": "10"
+    },
+    {
+        "fecha": "2022-04-06",
+        "municipio": "Negreira",
+        "habitantes": "6827",
+        "casos_14d": "40",
+        "casos_7d": "10"
+    },
+    {
+        "fecha": "2022-04-07",
+        "municipio": "Negreira",
+        "habitantes": "6827",
+        "casos_14d": "35",
+        "casos_7d": "12"
+    },
+    {
+        "fecha": "2022-04-08",
+        "municipio": "Negreira",
+        "habitantes": "6827",
+        "casos_14d": "28",
+        "casos_7d": "10"
+    },
+    {
+        "fecha": "2022-04-09",
+        "municipio": "Negreira",
+        "habitantes": "6827",
+        "casos_14d": "23",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-11",
+        "municipio": "Negreira",
+        "habitantes": "6827",
+        "casos_14d": "18",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-12",
+        "municipio": "Negreira",
+        "habitantes": "6827",
+        "casos_14d": "18",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-13",
+        "municipio": "Negreira",
+        "habitantes": "6827",
+        "casos_14d": "20",
+        "casos_7d": "10"
+    },
+    {
+        "fecha": "2022-04-14",
+        "municipio": "Negreira",
+        "habitantes": "6827",
+        "casos_14d": "22",
+        "casos_7d": "10"
     }
 ]

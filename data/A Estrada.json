@@ -3449,5 +3449,89 @@
         "habitantes": "20479",
         "casos_14d": "195",
         "casos_7d": "93"
+    },
+    {
+        "fecha": "2022-04-01",
+        "municipio": "A Estrada",
+        "habitantes": "20479",
+        "casos_14d": "182",
+        "casos_7d": "77"
+    },
+    {
+        "fecha": "2022-04-02",
+        "municipio": "A Estrada",
+        "habitantes": "20479",
+        "casos_14d": "171",
+        "casos_7d": "59"
+    },
+    {
+        "fecha": "2022-04-04",
+        "municipio": "A Estrada",
+        "habitantes": "20479",
+        "casos_14d": "151",
+        "casos_7d": "50"
+    },
+    {
+        "fecha": "2022-04-05",
+        "municipio": "A Estrada",
+        "habitantes": "20479",
+        "casos_14d": "144",
+        "casos_7d": "45"
+    },
+    {
+        "fecha": "2022-04-06",
+        "municipio": "A Estrada",
+        "habitantes": "20479",
+        "casos_14d": "137",
+        "casos_7d": "42"
+    },
+    {
+        "fecha": "2022-04-07",
+        "municipio": "A Estrada",
+        "habitantes": "20479",
+        "casos_14d": "121",
+        "casos_7d": "37"
+    },
+    {
+        "fecha": "2022-04-08",
+        "municipio": "A Estrada",
+        "habitantes": "20479",
+        "casos_14d": "113",
+        "casos_7d": "36"
+    },
+    {
+        "fecha": "2022-04-09",
+        "municipio": "A Estrada",
+        "habitantes": "20479",
+        "casos_14d": "97",
+        "casos_7d": "38"
+    },
+    {
+        "fecha": "2022-04-11",
+        "municipio": "A Estrada",
+        "habitantes": "20479",
+        "casos_14d": "89",
+        "casos_7d": "39"
+    },
+    {
+        "fecha": "2022-04-12",
+        "municipio": "A Estrada",
+        "habitantes": "20479",
+        "casos_14d": "92",
+        "casos_7d": "47"
+    },
+    {
+        "fecha": "2022-04-13",
+        "municipio": "A Estrada",
+        "habitantes": "20479",
+        "casos_14d": "93",
+        "casos_7d": "51"
+    },
+    {
+        "fecha": "2022-04-14",
+        "municipio": "A Estrada",
+        "habitantes": "20479",
+        "casos_14d": "97",
+        "casos_7d": "60"
     }
 ]

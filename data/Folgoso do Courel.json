@@ -3449,5 +3449,89 @@
         "habitantes": "1024",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-01",
+        "municipio": "Folgoso do Courel",
+        "habitantes": "1024",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-02",
+        "municipio": "Folgoso do Courel",
+        "habitantes": "1024",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-04",
+        "municipio": "Folgoso do Courel",
+        "habitantes": "1024",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-05",
+        "municipio": "Folgoso do Courel",
+        "habitantes": "1024",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-06",
+        "municipio": "Folgoso do Courel",
+        "habitantes": "1024",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-07",
+        "municipio": "Folgoso do Courel",
+        "habitantes": "1024",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-08",
+        "municipio": "Folgoso do Courel",
+        "habitantes": "1024",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-09",
+        "municipio": "Folgoso do Courel",
+        "habitantes": "1024",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-11",
+        "municipio": "Folgoso do Courel",
+        "habitantes": "1024",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-12",
+        "municipio": "Folgoso do Courel",
+        "habitantes": "1024",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-13",
+        "municipio": "Folgoso do Courel",
+        "habitantes": "1024",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-14",
+        "municipio": "Folgoso do Courel",
+        "habitantes": "1024",
+        "casos_14d": null,
+        "casos_7d": "0"
     }
 ]

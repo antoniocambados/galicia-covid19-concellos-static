@@ -3449,5 +3449,89 @@
         "habitantes": "2605",
         "casos_14d": "10",
         "casos_7d": "0"
+    },
+    {
+        "fecha": "2022-04-01",
+        "municipio": "L\u00e1ncara",
+        "habitantes": "2605",
+        "casos_14d": "24",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-02",
+        "municipio": "L\u00e1ncara",
+        "habitantes": "2605",
+        "casos_14d": "26",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-04",
+        "municipio": "L\u00e1ncara",
+        "habitantes": "2605",
+        "casos_14d": "23",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-05",
+        "municipio": "L\u00e1ncara",
+        "habitantes": "2605",
+        "casos_14d": "21",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-06",
+        "municipio": "L\u00e1ncara",
+        "habitantes": "2605",
+        "casos_14d": "15",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-07",
+        "municipio": "L\u00e1ncara",
+        "habitantes": "2605",
+        "casos_14d": "17",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-08",
+        "municipio": "L\u00e1ncara",
+        "habitantes": "2605",
+        "casos_14d": "15",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-09",
+        "municipio": "L\u00e1ncara",
+        "habitantes": "2605",
+        "casos_14d": "13",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-11",
+        "municipio": "L\u00e1ncara",
+        "habitantes": "2605",
+        "casos_14d": "13",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-12",
+        "municipio": "L\u00e1ncara",
+        "habitantes": "2605",
+        "casos_14d": "12",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-13",
+        "municipio": "L\u00e1ncara",
+        "habitantes": "2605",
+        "casos_14d": "11",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-14",
+        "municipio": "L\u00e1ncara",
+        "habitantes": "2605",
+        "casos_14d": "17",
+        "casos_7d": null
     }
 ]

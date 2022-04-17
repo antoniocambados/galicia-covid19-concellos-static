@@ -3449,5 +3449,89 @@
         "habitantes": "295364",
         "casos_14d": "2106",
         "casos_7d": "983"
+    },
+    {
+        "fecha": "2022-04-01",
+        "municipio": "Vigo",
+        "habitantes": "295364",
+        "casos_14d": "2309",
+        "casos_7d": "908"
+    },
+    {
+        "fecha": "2022-04-02",
+        "municipio": "Vigo",
+        "habitantes": "295364",
+        "casos_14d": "2242",
+        "casos_7d": "766"
+    },
+    {
+        "fecha": "2022-04-04",
+        "municipio": "Vigo",
+        "habitantes": "295364",
+        "casos_14d": "2087",
+        "casos_7d": "616"
+    },
+    {
+        "fecha": "2022-04-05",
+        "municipio": "Vigo",
+        "habitantes": "295364",
+        "casos_14d": "1972",
+        "casos_7d": "657"
+    },
+    {
+        "fecha": "2022-04-06",
+        "municipio": "Vigo",
+        "habitantes": "295364",
+        "casos_14d": "1878",
+        "casos_7d": "750"
+    },
+    {
+        "fecha": "2022-04-07",
+        "municipio": "Vigo",
+        "habitantes": "295364",
+        "casos_14d": "1721",
+        "casos_7d": "762"
+    },
+    {
+        "fecha": "2022-04-08",
+        "municipio": "Vigo",
+        "habitantes": "295364",
+        "casos_14d": "1671",
+        "casos_7d": "764"
+    },
+    {
+        "fecha": "2022-04-09",
+        "municipio": "Vigo",
+        "habitantes": "295364",
+        "casos_14d": "1545",
+        "casos_7d": "780"
+    },
+    {
+        "fecha": "2022-04-11",
+        "municipio": "Vigo",
+        "habitantes": "295364",
+        "casos_14d": "1414",
+        "casos_7d": "798"
+    },
+    {
+        "fecha": "2022-04-12",
+        "municipio": "Vigo",
+        "habitantes": "295364",
+        "casos_14d": "1479",
+        "casos_7d": "823"
+    },
+    {
+        "fecha": "2022-04-13",
+        "municipio": "Vigo",
+        "habitantes": "295364",
+        "casos_14d": "1589",
+        "casos_7d": "840"
+    },
+    {
+        "fecha": "2022-04-14",
+        "municipio": "Vigo",
+        "habitantes": "295364",
+        "casos_14d": "1614",
+        "casos_7d": "853"
     }
 ]

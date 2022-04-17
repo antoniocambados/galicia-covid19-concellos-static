@@ -3449,5 +3449,89 @@
         "habitantes": "1124",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-01",
+        "municipio": "Toques",
+        "habitantes": "1124",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-02",
+        "municipio": "Toques",
+        "habitantes": "1124",
+        "casos_14d": "10",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-04",
+        "municipio": "Toques",
+        "habitantes": "1124",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-05",
+        "municipio": "Toques",
+        "habitantes": "1124",
+        "casos_14d": "10",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-06",
+        "municipio": "Toques",
+        "habitantes": "1124",
+        "casos_14d": "11",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-07",
+        "municipio": "Toques",
+        "habitantes": "1124",
+        "casos_14d": "11",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-08",
+        "municipio": "Toques",
+        "habitantes": "1124",
+        "casos_14d": "11",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-09",
+        "municipio": "Toques",
+        "habitantes": "1124",
+        "casos_14d": "11",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-11",
+        "municipio": "Toques",
+        "habitantes": "1124",
+        "casos_14d": "11",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-12",
+        "municipio": "Toques",
+        "habitantes": "1124",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-13",
+        "municipio": "Toques",
+        "habitantes": "1124",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-14",
+        "municipio": "Toques",
+        "habitantes": "1124",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]

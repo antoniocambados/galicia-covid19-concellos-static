@@ -3449,5 +3449,89 @@
         "habitantes": "9854",
         "casos_14d": "29",
         "casos_7d": "12"
+    },
+    {
+        "fecha": "2022-04-01",
+        "municipio": "Ribadeo",
+        "habitantes": "9854",
+        "casos_14d": "49",
+        "casos_7d": "14"
+    },
+    {
+        "fecha": "2022-04-02",
+        "municipio": "Ribadeo",
+        "habitantes": "9854",
+        "casos_14d": "44",
+        "casos_7d": "14"
+    },
+    {
+        "fecha": "2022-04-04",
+        "municipio": "Ribadeo",
+        "habitantes": "9854",
+        "casos_14d": "44",
+        "casos_7d": "15"
+    },
+    {
+        "fecha": "2022-04-05",
+        "municipio": "Ribadeo",
+        "habitantes": "9854",
+        "casos_14d": "41",
+        "casos_7d": "14"
+    },
+    {
+        "fecha": "2022-04-06",
+        "municipio": "Ribadeo",
+        "habitantes": "9854",
+        "casos_14d": "42",
+        "casos_7d": "19"
+    },
+    {
+        "fecha": "2022-04-07",
+        "municipio": "Ribadeo",
+        "habitantes": "9854",
+        "casos_14d": "45",
+        "casos_7d": "25"
+    },
+    {
+        "fecha": "2022-04-08",
+        "municipio": "Ribadeo",
+        "habitantes": "9854",
+        "casos_14d": "45",
+        "casos_7d": "31"
+    },
+    {
+        "fecha": "2022-04-09",
+        "municipio": "Ribadeo",
+        "habitantes": "9854",
+        "casos_14d": "51",
+        "casos_7d": "37"
+    },
+    {
+        "fecha": "2022-04-11",
+        "municipio": "Ribadeo",
+        "habitantes": "9854",
+        "casos_14d": "53",
+        "casos_7d": "38"
+    },
+    {
+        "fecha": "2022-04-12",
+        "municipio": "Ribadeo",
+        "habitantes": "9854",
+        "casos_14d": "54",
+        "casos_7d": "40"
+    },
+    {
+        "fecha": "2022-04-13",
+        "municipio": "Ribadeo",
+        "habitantes": "9854",
+        "casos_14d": "65",
+        "casos_7d": "46"
+    },
+    {
+        "fecha": "2022-04-14",
+        "municipio": "Ribadeo",
+        "habitantes": "9854",
+        "casos_14d": "81",
+        "casos_7d": "56"
     }
 ]

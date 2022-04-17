@@ -3449,5 +3449,89 @@
         "habitantes": "1307",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-01",
+        "municipio": "Vilar de Barrio",
+        "habitantes": "1307",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-02",
+        "municipio": "Vilar de Barrio",
+        "habitantes": "1307",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-04",
+        "municipio": "Vilar de Barrio",
+        "habitantes": "1307",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-05",
+        "municipio": "Vilar de Barrio",
+        "habitantes": "1307",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-06",
+        "municipio": "Vilar de Barrio",
+        "habitantes": "1307",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-07",
+        "municipio": "Vilar de Barrio",
+        "habitantes": "1307",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-08",
+        "municipio": "Vilar de Barrio",
+        "habitantes": "1307",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-09",
+        "municipio": "Vilar de Barrio",
+        "habitantes": "1307",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-11",
+        "municipio": "Vilar de Barrio",
+        "habitantes": "1307",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-12",
+        "municipio": "Vilar de Barrio",
+        "habitantes": "1307",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-13",
+        "municipio": "Vilar de Barrio",
+        "habitantes": "1307",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2022-04-14",
+        "municipio": "Vilar de Barrio",
+        "habitantes": "1307",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]

@@ -3449,5 +3449,89 @@
         "habitantes": "11347",
         "casos_14d": "91",
         "casos_7d": "35"
+    },
+    {
+        "fecha": "2022-04-01",
+        "municipio": "A Laracha",
+        "habitantes": "11347",
+        "casos_14d": "110",
+        "casos_7d": "52"
+    },
+    {
+        "fecha": "2022-04-02",
+        "municipio": "A Laracha",
+        "habitantes": "11347",
+        "casos_14d": "114",
+        "casos_7d": "47"
+    },
+    {
+        "fecha": "2022-04-04",
+        "municipio": "A Laracha",
+        "habitantes": "11347",
+        "casos_14d": "102",
+        "casos_7d": "33"
+    },
+    {
+        "fecha": "2022-04-05",
+        "municipio": "A Laracha",
+        "habitantes": "11347",
+        "casos_14d": "108",
+        "casos_7d": "37"
+    },
+    {
+        "fecha": "2022-04-06",
+        "municipio": "A Laracha",
+        "habitantes": "11347",
+        "casos_14d": "101",
+        "casos_7d": "36"
+    },
+    {
+        "fecha": "2022-04-07",
+        "municipio": "A Laracha",
+        "habitantes": "11347",
+        "casos_14d": "92",
+        "casos_7d": "36"
+    },
+    {
+        "fecha": "2022-04-08",
+        "municipio": "A Laracha",
+        "habitantes": "11347",
+        "casos_14d": "85",
+        "casos_7d": "33"
+    },
+    {
+        "fecha": "2022-04-09",
+        "municipio": "A Laracha",
+        "habitantes": "11347",
+        "casos_14d": "79",
+        "casos_7d": "32"
+    },
+    {
+        "fecha": "2022-04-11",
+        "municipio": "A Laracha",
+        "habitantes": "11347",
+        "casos_14d": "69",
+        "casos_7d": "36"
+    },
+    {
+        "fecha": "2022-04-12",
+        "municipio": "A Laracha",
+        "habitantes": "11347",
+        "casos_14d": "68",
+        "casos_7d": "31"
+    },
+    {
+        "fecha": "2022-04-13",
+        "municipio": "A Laracha",
+        "habitantes": "11347",
+        "casos_14d": "71",
+        "casos_7d": "35"
+    },
+    {
+        "fecha": "2022-04-14",
+        "municipio": "A Laracha",
+        "habitantes": "11347",
+        "casos_14d": "69",
+        "casos_7d": "33"
     }
 ]

@@ -3449,5 +3449,89 @@
         "habitantes": "3388",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-01",
+        "municipio": "Forcarei",
+        "habitantes": "3388",
+        "casos_14d": "44",
+        "casos_7d": "30"
+    },
+    {
+        "fecha": "2022-04-02",
+        "municipio": "Forcarei",
+        "habitantes": "3388",
+        "casos_14d": "85",
+        "casos_7d": "67"
+    },
+    {
+        "fecha": "2022-04-04",
+        "municipio": "Forcarei",
+        "habitantes": "3388",
+        "casos_14d": "82",
+        "casos_7d": "65"
+    },
+    {
+        "fecha": "2022-04-05",
+        "municipio": "Forcarei",
+        "habitantes": "3388",
+        "casos_14d": "87",
+        "casos_7d": "68"
+    },
+    {
+        "fecha": "2022-04-06",
+        "municipio": "Forcarei",
+        "habitantes": "3388",
+        "casos_14d": "86",
+        "casos_7d": "53"
+    },
+    {
+        "fecha": "2022-04-07",
+        "municipio": "Forcarei",
+        "habitantes": "3388",
+        "casos_14d": "86",
+        "casos_7d": "54"
+    },
+    {
+        "fecha": "2022-04-08",
+        "municipio": "Forcarei",
+        "habitantes": "3388",
+        "casos_14d": "97",
+        "casos_7d": "67"
+    },
+    {
+        "fecha": "2022-04-09",
+        "municipio": "Forcarei",
+        "habitantes": "3388",
+        "casos_14d": "97",
+        "casos_7d": "30"
+    },
+    {
+        "fecha": "2022-04-11",
+        "municipio": "Forcarei",
+        "habitantes": "3388",
+        "casos_14d": "98",
+        "casos_7d": "33"
+    },
+    {
+        "fecha": "2022-04-12",
+        "municipio": "Forcarei",
+        "habitantes": "3388",
+        "casos_14d": "97",
+        "casos_7d": "29"
+    },
+    {
+        "fecha": "2022-04-13",
+        "municipio": "Forcarei",
+        "habitantes": "3388",
+        "casos_14d": "80",
+        "casos_7d": "27"
+    },
+    {
+        "fecha": "2022-04-14",
+        "municipio": "Forcarei",
+        "habitantes": "3388",
+        "casos_14d": "78",
+        "casos_7d": "24"
     }
 ]

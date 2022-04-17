@@ -3449,5 +3449,89 @@
         "habitantes": "1278",
         "casos_14d": null,
         "casos_7d": "0"
+    },
+    {
+        "fecha": "2022-04-01",
+        "municipio": "Samos",
+        "habitantes": "1278",
+        "casos_14d": "29",
+        "casos_7d": "20"
+    },
+    {
+        "fecha": "2022-04-02",
+        "municipio": "Samos",
+        "habitantes": "1278",
+        "casos_14d": "28",
+        "casos_7d": "18"
+    },
+    {
+        "fecha": "2022-04-04",
+        "municipio": "Samos",
+        "habitantes": "1278",
+        "casos_14d": "24",
+        "casos_7d": "16"
+    },
+    {
+        "fecha": "2022-04-05",
+        "municipio": "Samos",
+        "habitantes": "1278",
+        "casos_14d": "24",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-06",
+        "municipio": "Samos",
+        "habitantes": "1278",
+        "casos_14d": "24",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-07",
+        "municipio": "Samos",
+        "habitantes": "1278",
+        "casos_14d": "22",
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2022-04-08",
+        "municipio": "Samos",
+        "habitantes": "1278",
+        "casos_14d": "20",
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2022-04-09",
+        "municipio": "Samos",
+        "habitantes": "1278",
+        "casos_14d": "18",
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2022-04-11",
+        "municipio": "Samos",
+        "habitantes": "1278",
+        "casos_14d": "16",
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2022-04-12",
+        "municipio": "Samos",
+        "habitantes": "1278",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2022-04-13",
+        "municipio": "Samos",
+        "habitantes": "1278",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2022-04-14",
+        "municipio": "Samos",
+        "habitantes": "1278",
+        "casos_14d": "0",
+        "casos_7d": "0"
     }
 ]

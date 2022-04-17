@@ -3449,5 +3449,89 @@
         "habitantes": "943",
         "casos_14d": "10",
         "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-01",
+        "municipio": "Verea",
+        "habitantes": "943",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-02",
+        "municipio": "Verea",
+        "habitantes": "943",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-04",
+        "municipio": "Verea",
+        "habitantes": "943",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-05",
+        "municipio": "Verea",
+        "habitantes": "943",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2022-04-06",
+        "municipio": "Verea",
+        "habitantes": "943",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2022-04-07",
+        "municipio": "Verea",
+        "habitantes": "943",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2022-04-08",
+        "municipio": "Verea",
+        "habitantes": "943",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2022-04-09",
+        "municipio": "Verea",
+        "habitantes": "943",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-11",
+        "municipio": "Verea",
+        "habitantes": "943",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-12",
+        "municipio": "Verea",
+        "habitantes": "943",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-13",
+        "municipio": "Verea",
+        "habitantes": "943",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-14",
+        "municipio": "Verea",
+        "habitantes": "943",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]

@@ -3449,5 +3449,89 @@
         "habitantes": "24319",
         "casos_14d": "127",
         "casos_7d": "68"
+    },
+    {
+        "fecha": "2022-04-01",
+        "municipio": "Mar\u00edn",
+        "habitantes": "24319",
+        "casos_14d": "177",
+        "casos_7d": "68"
+    },
+    {
+        "fecha": "2022-04-02",
+        "municipio": "Mar\u00edn",
+        "habitantes": "24319",
+        "casos_14d": "168",
+        "casos_7d": "75"
+    },
+    {
+        "fecha": "2022-04-04",
+        "municipio": "Mar\u00edn",
+        "habitantes": "24319",
+        "casos_14d": "156",
+        "casos_7d": "54"
+    },
+    {
+        "fecha": "2022-04-05",
+        "municipio": "Mar\u00edn",
+        "habitantes": "24319",
+        "casos_14d": "149",
+        "casos_7d": "58"
+    },
+    {
+        "fecha": "2022-04-06",
+        "municipio": "Mar\u00edn",
+        "habitantes": "24319",
+        "casos_14d": "146",
+        "casos_7d": "66"
+    },
+    {
+        "fecha": "2022-04-07",
+        "municipio": "Mar\u00edn",
+        "habitantes": "24319",
+        "casos_14d": "145",
+        "casos_7d": "69"
+    },
+    {
+        "fecha": "2022-04-08",
+        "municipio": "Mar\u00edn",
+        "habitantes": "24319",
+        "casos_14d": "143",
+        "casos_7d": "75"
+    },
+    {
+        "fecha": "2022-04-09",
+        "municipio": "Mar\u00edn",
+        "habitantes": "24319",
+        "casos_14d": "152",
+        "casos_7d": "78"
+    },
+    {
+        "fecha": "2022-04-11",
+        "municipio": "Mar\u00edn",
+        "habitantes": "24319",
+        "casos_14d": "144",
+        "casos_7d": "91"
+    },
+    {
+        "fecha": "2022-04-12",
+        "municipio": "Mar\u00edn",
+        "habitantes": "24319",
+        "casos_14d": "152",
+        "casos_7d": "95"
+    },
+    {
+        "fecha": "2022-04-13",
+        "municipio": "Mar\u00edn",
+        "habitantes": "24319",
+        "casos_14d": "162",
+        "casos_7d": "97"
+    },
+    {
+        "fecha": "2022-04-14",
+        "municipio": "Mar\u00edn",
+        "habitantes": "24319",
+        "casos_14d": "171",
+        "casos_7d": "103"
     }
 ]

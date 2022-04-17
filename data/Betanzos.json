@@ -3449,5 +3449,89 @@
         "habitantes": "12959",
         "casos_14d": "129",
         "casos_7d": "91"
+    },
+    {
+        "fecha": "2022-04-01",
+        "municipio": "Betanzos",
+        "habitantes": "12959",
+        "casos_14d": "101",
+        "casos_7d": "52"
+    },
+    {
+        "fecha": "2022-04-02",
+        "municipio": "Betanzos",
+        "habitantes": "12959",
+        "casos_14d": "98",
+        "casos_7d": "48"
+    },
+    {
+        "fecha": "2022-04-04",
+        "municipio": "Betanzos",
+        "habitantes": "12959",
+        "casos_14d": "102",
+        "casos_7d": "40"
+    },
+    {
+        "fecha": "2022-04-05",
+        "municipio": "Betanzos",
+        "habitantes": "12959",
+        "casos_14d": "96",
+        "casos_7d": "32"
+    },
+    {
+        "fecha": "2022-04-06",
+        "municipio": "Betanzos",
+        "habitantes": "12959",
+        "casos_14d": "92",
+        "casos_7d": "34"
+    },
+    {
+        "fecha": "2022-04-07",
+        "municipio": "Betanzos",
+        "habitantes": "12959",
+        "casos_14d": "93",
+        "casos_7d": "37"
+    },
+    {
+        "fecha": "2022-04-08",
+        "municipio": "Betanzos",
+        "habitantes": "12959",
+        "casos_14d": "87",
+        "casos_7d": "35"
+    },
+    {
+        "fecha": "2022-04-09",
+        "municipio": "Betanzos",
+        "habitantes": "12959",
+        "casos_14d": "77",
+        "casos_7d": "29"
+    },
+    {
+        "fecha": "2022-04-11",
+        "municipio": "Betanzos",
+        "habitantes": "12959",
+        "casos_14d": "69",
+        "casos_7d": "29"
+    },
+    {
+        "fecha": "2022-04-12",
+        "municipio": "Betanzos",
+        "habitantes": "12959",
+        "casos_14d": "65",
+        "casos_7d": "33"
+    },
+    {
+        "fecha": "2022-04-13",
+        "municipio": "Betanzos",
+        "habitantes": "12959",
+        "casos_14d": "79",
+        "casos_7d": "45"
+    },
+    {
+        "fecha": "2022-04-14",
+        "municipio": "Betanzos",
+        "habitantes": "12959",
+        "casos_14d": "86",
+        "casos_7d": "49"
     }
 ]

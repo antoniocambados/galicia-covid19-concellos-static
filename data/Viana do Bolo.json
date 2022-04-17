@@ -3449,5 +3449,89 @@
         "habitantes": "2886",
         "casos_14d": "46",
         "casos_7d": "21"
+    },
+    {
+        "fecha": "2022-04-01",
+        "municipio": "Viana do Bolo",
+        "habitantes": "2886",
+        "casos_14d": "25",
+        "casos_7d": "13"
+    },
+    {
+        "fecha": "2022-04-02",
+        "municipio": "Viana do Bolo",
+        "habitantes": "2886",
+        "casos_14d": "24",
+        "casos_7d": "12"
+    },
+    {
+        "fecha": "2022-04-04",
+        "municipio": "Viana do Bolo",
+        "habitantes": "2886",
+        "casos_14d": "23",
+        "casos_7d": "12"
+    },
+    {
+        "fecha": "2022-04-05",
+        "municipio": "Viana do Bolo",
+        "habitantes": "2886",
+        "casos_14d": "21",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-06",
+        "municipio": "Viana do Bolo",
+        "habitantes": "2886",
+        "casos_14d": "20",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-07",
+        "municipio": "Viana do Bolo",
+        "habitantes": "2886",
+        "casos_14d": "18",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-08",
+        "municipio": "Viana do Bolo",
+        "habitantes": "2886",
+        "casos_14d": "15",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-09",
+        "municipio": "Viana do Bolo",
+        "habitantes": "2886",
+        "casos_14d": "13",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-11",
+        "municipio": "Viana do Bolo",
+        "habitantes": "2886",
+        "casos_14d": "13",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-12",
+        "municipio": "Viana do Bolo",
+        "habitantes": "2886",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-13",
+        "municipio": "Viana do Bolo",
+        "habitantes": "2886",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-14",
+        "municipio": "Viana do Bolo",
+        "habitantes": "2886",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]

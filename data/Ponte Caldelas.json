@@ -3449,5 +3449,89 @@
         "habitantes": "5494",
         "casos_14d": "27",
         "casos_7d": "14"
+    },
+    {
+        "fecha": "2022-04-01",
+        "municipio": "Ponte Caldelas",
+        "habitantes": "5494",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-02",
+        "municipio": "Ponte Caldelas",
+        "habitantes": "5494",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-04",
+        "municipio": "Ponte Caldelas",
+        "habitantes": "5494",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-05",
+        "municipio": "Ponte Caldelas",
+        "habitantes": "5494",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-06",
+        "municipio": "Ponte Caldelas",
+        "habitantes": "5494",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-07",
+        "municipio": "Ponte Caldelas",
+        "habitantes": "5494",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-08",
+        "municipio": "Ponte Caldelas",
+        "habitantes": "5494",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-09",
+        "municipio": "Ponte Caldelas",
+        "habitantes": "5494",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-11",
+        "municipio": "Ponte Caldelas",
+        "habitantes": "5494",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-12",
+        "municipio": "Ponte Caldelas",
+        "habitantes": "5494",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-13",
+        "municipio": "Ponte Caldelas",
+        "habitantes": "5494",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-14",
+        "municipio": "Ponte Caldelas",
+        "habitantes": "5494",
+        "casos_14d": "10",
+        "casos_7d": null
     }
 ]

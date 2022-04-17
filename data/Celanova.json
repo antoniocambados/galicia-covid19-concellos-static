@@ -3449,5 +3449,89 @@
         "habitantes": "5649",
         "casos_14d": "57",
         "casos_7d": "31"
+    },
+    {
+        "fecha": "2022-04-01",
+        "municipio": "Celanova",
+        "habitantes": "5649",
+        "casos_14d": "22",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-02",
+        "municipio": "Celanova",
+        "habitantes": "5649",
+        "casos_14d": "19",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-04",
+        "municipio": "Celanova",
+        "habitantes": "5649",
+        "casos_14d": "18",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-05",
+        "municipio": "Celanova",
+        "habitantes": "5649",
+        "casos_14d": "19",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-06",
+        "municipio": "Celanova",
+        "habitantes": "5649",
+        "casos_14d": "15",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-07",
+        "municipio": "Celanova",
+        "habitantes": "5649",
+        "casos_14d": "12",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-08",
+        "municipio": "Celanova",
+        "habitantes": "5649",
+        "casos_14d": "12",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-09",
+        "municipio": "Celanova",
+        "habitantes": "5649",
+        "casos_14d": "12",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-11",
+        "municipio": "Celanova",
+        "habitantes": "5649",
+        "casos_14d": "16",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-12",
+        "municipio": "Celanova",
+        "habitantes": "5649",
+        "casos_14d": "14",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-13",
+        "municipio": "Celanova",
+        "habitantes": "5649",
+        "casos_14d": "13",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-14",
+        "municipio": "Celanova",
+        "habitantes": "5649",
+        "casos_14d": "15",
+        "casos_7d": "11"
     }
 ]

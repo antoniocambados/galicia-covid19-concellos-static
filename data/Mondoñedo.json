@@ -3449,5 +3449,89 @@
         "habitantes": "3568",
         "casos_14d": "28",
         "casos_7d": "13"
+    },
+    {
+        "fecha": "2022-04-01",
+        "municipio": "Mondo\u00f1edo",
+        "habitantes": "3568",
+        "casos_14d": "50",
+        "casos_7d": "41"
+    },
+    {
+        "fecha": "2022-04-02",
+        "municipio": "Mondo\u00f1edo",
+        "habitantes": "3568",
+        "casos_14d": "53",
+        "casos_7d": "43"
+    },
+    {
+        "fecha": "2022-04-04",
+        "municipio": "Mondo\u00f1edo",
+        "habitantes": "3568",
+        "casos_14d": "54",
+        "casos_7d": "41"
+    },
+    {
+        "fecha": "2022-04-05",
+        "municipio": "Mondo\u00f1edo",
+        "habitantes": "3568",
+        "casos_14d": "63",
+        "casos_7d": "48"
+    },
+    {
+        "fecha": "2022-04-06",
+        "municipio": "Mondo\u00f1edo",
+        "habitantes": "3568",
+        "casos_14d": "71",
+        "casos_7d": "51"
+    },
+    {
+        "fecha": "2022-04-07",
+        "municipio": "Mondo\u00f1edo",
+        "habitantes": "3568",
+        "casos_14d": "70",
+        "casos_7d": "44"
+    },
+    {
+        "fecha": "2022-04-08",
+        "municipio": "Mondo\u00f1edo",
+        "habitantes": "3568",
+        "casos_14d": "72",
+        "casos_7d": "31"
+    },
+    {
+        "fecha": "2022-04-09",
+        "municipio": "Mondo\u00f1edo",
+        "habitantes": "3568",
+        "casos_14d": "71",
+        "casos_7d": "28"
+    },
+    {
+        "fecha": "2022-04-11",
+        "municipio": "Mondo\u00f1edo",
+        "habitantes": "3568",
+        "casos_14d": "74",
+        "casos_7d": "33"
+    },
+    {
+        "fecha": "2022-04-12",
+        "municipio": "Mondo\u00f1edo",
+        "habitantes": "3568",
+        "casos_14d": "73",
+        "casos_7d": "25"
+    },
+    {
+        "fecha": "2022-04-13",
+        "municipio": "Mondo\u00f1edo",
+        "habitantes": "3568",
+        "casos_14d": "75",
+        "casos_7d": "24"
+    },
+    {
+        "fecha": "2022-04-14",
+        "municipio": "Mondo\u00f1edo",
+        "habitantes": "3568",
+        "casos_14d": "68",
+        "casos_7d": "24"
     }
 ]

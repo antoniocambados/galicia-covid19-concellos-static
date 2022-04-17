@@ -3449,5 +3449,89 @@
         "habitantes": "1688",
         "casos_14d": "13",
         "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-01",
+        "municipio": "Alfoz",
+        "habitantes": "1688",
+        "casos_14d": "10",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-02",
+        "municipio": "Alfoz",
+        "habitantes": "1688",
+        "casos_14d": "10",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-04",
+        "municipio": "Alfoz",
+        "habitantes": "1688",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-05",
+        "municipio": "Alfoz",
+        "habitantes": "1688",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-06",
+        "municipio": "Alfoz",
+        "habitantes": "1688",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-07",
+        "municipio": "Alfoz",
+        "habitantes": "1688",
+        "casos_14d": "11",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-08",
+        "municipio": "Alfoz",
+        "habitantes": "1688",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-09",
+        "municipio": "Alfoz",
+        "habitantes": "1688",
+        "casos_14d": "14",
+        "casos_7d": "10"
+    },
+    {
+        "fecha": "2022-04-11",
+        "municipio": "Alfoz",
+        "habitantes": "1688",
+        "casos_14d": "19",
+        "casos_7d": "15"
+    },
+    {
+        "fecha": "2022-04-12",
+        "municipio": "Alfoz",
+        "habitantes": "1688",
+        "casos_14d": "18",
+        "casos_7d": "15"
+    },
+    {
+        "fecha": "2022-04-13",
+        "municipio": "Alfoz",
+        "habitantes": "1688",
+        "casos_14d": "22",
+        "casos_7d": "19"
+    },
+    {
+        "fecha": "2022-04-14",
+        "municipio": "Alfoz",
+        "habitantes": "1688",
+        "casos_14d": "24",
+        "casos_7d": "17"
     }
 ]

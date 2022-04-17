@@ -3449,5 +3449,89 @@
         "habitantes": "97260",
         "casos_14d": "932",
         "casos_7d": "434"
+    },
+    {
+        "fecha": "2022-04-01",
+        "municipio": "Santiago de Compostela",
+        "habitantes": "97260",
+        "casos_14d": "1017",
+        "casos_7d": "365"
+    },
+    {
+        "fecha": "2022-04-02",
+        "municipio": "Santiago de Compostela",
+        "habitantes": "97260",
+        "casos_14d": "962",
+        "casos_7d": "304"
+    },
+    {
+        "fecha": "2022-04-04",
+        "municipio": "Santiago de Compostela",
+        "habitantes": "97260",
+        "casos_14d": "887",
+        "casos_7d": "241"
+    },
+    {
+        "fecha": "2022-04-05",
+        "municipio": "Santiago de Compostela",
+        "habitantes": "97260",
+        "casos_14d": "791",
+        "casos_7d": "235"
+    },
+    {
+        "fecha": "2022-04-06",
+        "municipio": "Santiago de Compostela",
+        "habitantes": "97260",
+        "casos_14d": "723",
+        "casos_7d": "238"
+    },
+    {
+        "fecha": "2022-04-07",
+        "municipio": "Santiago de Compostela",
+        "habitantes": "97260",
+        "casos_14d": "643",
+        "casos_7d": "238"
+    },
+    {
+        "fecha": "2022-04-08",
+        "municipio": "Santiago de Compostela",
+        "habitantes": "97260",
+        "casos_14d": "642",
+        "casos_7d": "277"
+    },
+    {
+        "fecha": "2022-04-09",
+        "municipio": "Santiago de Compostela",
+        "habitantes": "97260",
+        "casos_14d": "604",
+        "casos_7d": "300"
+    },
+    {
+        "fecha": "2022-04-11",
+        "municipio": "Santiago de Compostela",
+        "habitantes": "97260",
+        "casos_14d": "589",
+        "casos_7d": "348"
+    },
+    {
+        "fecha": "2022-04-12",
+        "municipio": "Santiago de Compostela",
+        "habitantes": "97260",
+        "casos_14d": "581",
+        "casos_7d": "348"
+    },
+    {
+        "fecha": "2022-04-13",
+        "municipio": "Santiago de Compostela",
+        "habitantes": "97260",
+        "casos_14d": "636",
+        "casos_7d": "400"
+    },
+    {
+        "fecha": "2022-04-14",
+        "municipio": "Santiago de Compostela",
+        "habitantes": "97260",
+        "casos_14d": "657",
+        "casos_7d": "420"
     }
 ]

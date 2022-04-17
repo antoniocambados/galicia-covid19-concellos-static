@@ -3449,5 +3449,89 @@
         "habitantes": "36075",
         "casos_14d": "265",
         "casos_7d": "141"
+    },
+    {
+        "fecha": "2022-04-01",
+        "municipio": "Oleiros",
+        "habitantes": "36075",
+        "casos_14d": "252",
+        "casos_7d": "92"
+    },
+    {
+        "fecha": "2022-04-02",
+        "municipio": "Oleiros",
+        "habitantes": "36075",
+        "casos_14d": "242",
+        "casos_7d": "80"
+    },
+    {
+        "fecha": "2022-04-04",
+        "municipio": "Oleiros",
+        "habitantes": "36075",
+        "casos_14d": "221",
+        "casos_7d": "70"
+    },
+    {
+        "fecha": "2022-04-05",
+        "municipio": "Oleiros",
+        "habitantes": "36075",
+        "casos_14d": "202",
+        "casos_7d": "69"
+    },
+    {
+        "fecha": "2022-04-06",
+        "municipio": "Oleiros",
+        "habitantes": "36075",
+        "casos_14d": "189",
+        "casos_7d": "65"
+    },
+    {
+        "fecha": "2022-04-07",
+        "municipio": "Oleiros",
+        "habitantes": "36075",
+        "casos_14d": "173",
+        "casos_7d": "65"
+    },
+    {
+        "fecha": "2022-04-08",
+        "municipio": "Oleiros",
+        "habitantes": "36075",
+        "casos_14d": "160",
+        "casos_7d": "68"
+    },
+    {
+        "fecha": "2022-04-09",
+        "municipio": "Oleiros",
+        "habitantes": "36075",
+        "casos_14d": "147",
+        "casos_7d": "67"
+    },
+    {
+        "fecha": "2022-04-11",
+        "municipio": "Oleiros",
+        "habitantes": "36075",
+        "casos_14d": "138",
+        "casos_7d": "68"
+    },
+    {
+        "fecha": "2022-04-12",
+        "municipio": "Oleiros",
+        "habitantes": "36075",
+        "casos_14d": "137",
+        "casos_7d": "68"
+    },
+    {
+        "fecha": "2022-04-13",
+        "municipio": "Oleiros",
+        "habitantes": "36075",
+        "casos_14d": "140",
+        "casos_7d": "75"
+    },
+    {
+        "fecha": "2022-04-14",
+        "municipio": "Oleiros",
+        "habitantes": "36075",
+        "casos_14d": "146",
+        "casos_7d": "81"
     }
 ]

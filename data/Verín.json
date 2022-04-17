@@ -3449,5 +3449,89 @@
         "habitantes": "13723",
         "casos_14d": "103",
         "casos_7d": "61"
+    },
+    {
+        "fecha": "2022-04-01",
+        "municipio": "Ver\u00edn",
+        "habitantes": "13723",
+        "casos_14d": "150",
+        "casos_7d": "44"
+    },
+    {
+        "fecha": "2022-04-02",
+        "municipio": "Ver\u00edn",
+        "habitantes": "13723",
+        "casos_14d": "130",
+        "casos_7d": "37"
+    },
+    {
+        "fecha": "2022-04-04",
+        "municipio": "Ver\u00edn",
+        "habitantes": "13723",
+        "casos_14d": "115",
+        "casos_7d": "38"
+    },
+    {
+        "fecha": "2022-04-05",
+        "municipio": "Ver\u00edn",
+        "habitantes": "13723",
+        "casos_14d": "108",
+        "casos_7d": "27"
+    },
+    {
+        "fecha": "2022-04-06",
+        "municipio": "Ver\u00edn",
+        "habitantes": "13723",
+        "casos_14d": "107",
+        "casos_7d": "17"
+    },
+    {
+        "fecha": "2022-04-07",
+        "municipio": "Ver\u00edn",
+        "habitantes": "13723",
+        "casos_14d": "84",
+        "casos_7d": "16"
+    },
+    {
+        "fecha": "2022-04-08",
+        "municipio": "Ver\u00edn",
+        "habitantes": "13723",
+        "casos_14d": "62",
+        "casos_7d": "18"
+    },
+    {
+        "fecha": "2022-04-09",
+        "municipio": "Ver\u00edn",
+        "habitantes": "13723",
+        "casos_14d": "59",
+        "casos_7d": "22"
+    },
+    {
+        "fecha": "2022-04-11",
+        "municipio": "Ver\u00edn",
+        "habitantes": "13723",
+        "casos_14d": "63",
+        "casos_7d": "25"
+    },
+    {
+        "fecha": "2022-04-12",
+        "municipio": "Ver\u00edn",
+        "habitantes": "13723",
+        "casos_14d": "54",
+        "casos_7d": "27"
+    },
+    {
+        "fecha": "2022-04-13",
+        "municipio": "Ver\u00edn",
+        "habitantes": "13723",
+        "casos_14d": "46",
+        "casos_7d": "29"
+    },
+    {
+        "fecha": "2022-04-14",
+        "municipio": "Ver\u00edn",
+        "habitantes": "13723",
+        "casos_14d": "48",
+        "casos_7d": "32"
     }
 ]

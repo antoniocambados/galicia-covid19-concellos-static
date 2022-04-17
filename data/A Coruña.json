@@ -3449,5 +3449,89 @@
         "habitantes": "245711",
         "casos_14d": "1648",
         "casos_7d": "841"
+    },
+    {
+        "fecha": "2022-04-01",
+        "municipio": "A Coru\u00f1a",
+        "habitantes": "245711",
+        "casos_14d": "2172",
+        "casos_7d": "764"
+    },
+    {
+        "fecha": "2022-04-02",
+        "municipio": "A Coru\u00f1a",
+        "habitantes": "245711",
+        "casos_14d": "2046",
+        "casos_7d": "622"
+    },
+    {
+        "fecha": "2022-04-04",
+        "municipio": "A Coru\u00f1a",
+        "habitantes": "245711",
+        "casos_14d": "1871",
+        "casos_7d": "533"
+    },
+    {
+        "fecha": "2022-04-05",
+        "municipio": "A Coru\u00f1a",
+        "habitantes": "245711",
+        "casos_14d": "1735",
+        "casos_7d": "496"
+    },
+    {
+        "fecha": "2022-04-06",
+        "municipio": "A Coru\u00f1a",
+        "habitantes": "245711",
+        "casos_14d": "1600",
+        "casos_7d": "499"
+    },
+    {
+        "fecha": "2022-04-07",
+        "municipio": "A Coru\u00f1a",
+        "habitantes": "245711",
+        "casos_14d": "1454",
+        "casos_7d": "549"
+    },
+    {
+        "fecha": "2022-04-08",
+        "municipio": "A Coru\u00f1a",
+        "habitantes": "245711",
+        "casos_14d": "1301",
+        "casos_7d": "537"
+    },
+    {
+        "fecha": "2022-04-09",
+        "municipio": "A Coru\u00f1a",
+        "habitantes": "245711",
+        "casos_14d": "1203",
+        "casos_7d": "579"
+    },
+    {
+        "fecha": "2022-04-11",
+        "municipio": "A Coru\u00f1a",
+        "habitantes": "245711",
+        "casos_14d": "1141",
+        "casos_7d": "606"
+    },
+    {
+        "fecha": "2022-04-12",
+        "municipio": "A Coru\u00f1a",
+        "habitantes": "245711",
+        "casos_14d": "1133",
+        "casos_7d": "636"
+    },
+    {
+        "fecha": "2022-04-13",
+        "municipio": "A Coru\u00f1a",
+        "habitantes": "245711",
+        "casos_14d": "1182",
+        "casos_7d": "682"
+    },
+    {
+        "fecha": "2022-04-14",
+        "municipio": "A Coru\u00f1a",
+        "habitantes": "245711",
+        "casos_14d": "1238",
+        "casos_7d": "688"
     }
 ]

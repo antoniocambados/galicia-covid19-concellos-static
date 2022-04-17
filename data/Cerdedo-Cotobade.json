@@ -3449,5 +3449,89 @@
         "habitantes": "5699",
         "casos_14d": "19",
         "casos_7d": "12"
+    },
+    {
+        "fecha": "2022-04-01",
+        "municipio": "Cerdedo-Cotobade",
+        "habitantes": "5699",
+        "casos_14d": "31",
+        "casos_7d": "19"
+    },
+    {
+        "fecha": "2022-04-02",
+        "municipio": "Cerdedo-Cotobade",
+        "habitantes": "5699",
+        "casos_14d": "32",
+        "casos_7d": "18"
+    },
+    {
+        "fecha": "2022-04-04",
+        "municipio": "Cerdedo-Cotobade",
+        "habitantes": "5699",
+        "casos_14d": "35",
+        "casos_7d": "17"
+    },
+    {
+        "fecha": "2022-04-05",
+        "municipio": "Cerdedo-Cotobade",
+        "habitantes": "5699",
+        "casos_14d": "34",
+        "casos_7d": "13"
+    },
+    {
+        "fecha": "2022-04-06",
+        "municipio": "Cerdedo-Cotobade",
+        "habitantes": "5699",
+        "casos_14d": "37",
+        "casos_7d": "16"
+    },
+    {
+        "fecha": "2022-04-07",
+        "municipio": "Cerdedo-Cotobade",
+        "habitantes": "5699",
+        "casos_14d": "35",
+        "casos_7d": "16"
+    },
+    {
+        "fecha": "2022-04-08",
+        "municipio": "Cerdedo-Cotobade",
+        "habitantes": "5699",
+        "casos_14d": "37",
+        "casos_7d": "18"
+    },
+    {
+        "fecha": "2022-04-09",
+        "municipio": "Cerdedo-Cotobade",
+        "habitantes": "5699",
+        "casos_14d": "35",
+        "casos_7d": "17"
+    },
+    {
+        "fecha": "2022-04-11",
+        "municipio": "Cerdedo-Cotobade",
+        "habitantes": "5699",
+        "casos_14d": "32",
+        "casos_7d": "15"
+    },
+    {
+        "fecha": "2022-04-12",
+        "municipio": "Cerdedo-Cotobade",
+        "habitantes": "5699",
+        "casos_14d": "29",
+        "casos_7d": "16"
+    },
+    {
+        "fecha": "2022-04-13",
+        "municipio": "Cerdedo-Cotobade",
+        "habitantes": "5699",
+        "casos_14d": "34",
+        "casos_7d": "18"
+    },
+    {
+        "fecha": "2022-04-14",
+        "municipio": "Cerdedo-Cotobade",
+        "habitantes": "5699",
+        "casos_14d": "39",
+        "casos_7d": "23"
     }
 ]

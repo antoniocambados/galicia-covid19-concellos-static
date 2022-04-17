@@ -3449,5 +3449,89 @@
         "habitantes": "24648",
         "casos_14d": "193",
         "casos_7d": "102"
+    },
+    {
+        "fecha": "2022-04-01",
+        "municipio": "Cambre",
+        "habitantes": "24648",
+        "casos_14d": "203",
+        "casos_7d": "62"
+    },
+    {
+        "fecha": "2022-04-02",
+        "municipio": "Cambre",
+        "habitantes": "24648",
+        "casos_14d": "192",
+        "casos_7d": "44"
+    },
+    {
+        "fecha": "2022-04-04",
+        "municipio": "Cambre",
+        "habitantes": "24648",
+        "casos_14d": "167",
+        "casos_7d": "35"
+    },
+    {
+        "fecha": "2022-04-05",
+        "municipio": "Cambre",
+        "habitantes": "24648",
+        "casos_14d": "156",
+        "casos_7d": "29"
+    },
+    {
+        "fecha": "2022-04-06",
+        "municipio": "Cambre",
+        "habitantes": "24648",
+        "casos_14d": "144",
+        "casos_7d": "29"
+    },
+    {
+        "fecha": "2022-04-07",
+        "municipio": "Cambre",
+        "habitantes": "24648",
+        "casos_14d": "115",
+        "casos_7d": "31"
+    },
+    {
+        "fecha": "2022-04-08",
+        "municipio": "Cambre",
+        "habitantes": "24648",
+        "casos_14d": "96",
+        "casos_7d": "35"
+    },
+    {
+        "fecha": "2022-04-09",
+        "municipio": "Cambre",
+        "habitantes": "24648",
+        "casos_14d": "77",
+        "casos_7d": "33"
+    },
+    {
+        "fecha": "2022-04-11",
+        "municipio": "Cambre",
+        "habitantes": "24648",
+        "casos_14d": "77",
+        "casos_7d": "42"
+    },
+    {
+        "fecha": "2022-04-12",
+        "municipio": "Cambre",
+        "habitantes": "24648",
+        "casos_14d": "75",
+        "casos_7d": "46"
+    },
+    {
+        "fecha": "2022-04-13",
+        "municipio": "Cambre",
+        "habitantes": "24648",
+        "casos_14d": "77",
+        "casos_7d": "48"
+    },
+    {
+        "fecha": "2022-04-14",
+        "municipio": "Cambre",
+        "habitantes": "24648",
+        "casos_14d": "82",
+        "casos_7d": "51"
     }
 ]

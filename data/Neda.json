@@ -3449,5 +3449,89 @@
         "habitantes": "5079",
         "casos_14d": "48",
         "casos_7d": "21"
+    },
+    {
+        "fecha": "2022-04-01",
+        "municipio": "Neda",
+        "habitantes": "5079",
+        "casos_14d": "62",
+        "casos_7d": "31"
+    },
+    {
+        "fecha": "2022-04-02",
+        "municipio": "Neda",
+        "habitantes": "5079",
+        "casos_14d": "64",
+        "casos_7d": "31"
+    },
+    {
+        "fecha": "2022-04-04",
+        "municipio": "Neda",
+        "habitantes": "5079",
+        "casos_14d": "64",
+        "casos_7d": "29"
+    },
+    {
+        "fecha": "2022-04-05",
+        "municipio": "Neda",
+        "habitantes": "5079",
+        "casos_14d": "56",
+        "casos_7d": "26"
+    },
+    {
+        "fecha": "2022-04-06",
+        "municipio": "Neda",
+        "habitantes": "5079",
+        "casos_14d": "54",
+        "casos_7d": "29"
+    },
+    {
+        "fecha": "2022-04-07",
+        "municipio": "Neda",
+        "habitantes": "5079",
+        "casos_14d": "50",
+        "casos_7d": "25"
+    },
+    {
+        "fecha": "2022-04-08",
+        "municipio": "Neda",
+        "habitantes": "5079",
+        "casos_14d": "59",
+        "casos_7d": "28"
+    },
+    {
+        "fecha": "2022-04-09",
+        "municipio": "Neda",
+        "habitantes": "5079",
+        "casos_14d": "58",
+        "casos_7d": "27"
+    },
+    {
+        "fecha": "2022-04-11",
+        "municipio": "Neda",
+        "habitantes": "5079",
+        "casos_14d": "55",
+        "casos_7d": "26"
+    },
+    {
+        "fecha": "2022-04-12",
+        "municipio": "Neda",
+        "habitantes": "5079",
+        "casos_14d": "53",
+        "casos_7d": "27"
+    },
+    {
+        "fecha": "2022-04-13",
+        "municipio": "Neda",
+        "habitantes": "5079",
+        "casos_14d": "57",
+        "casos_7d": "28"
+    },
+    {
+        "fecha": "2022-04-14",
+        "municipio": "Neda",
+        "habitantes": "5079",
+        "casos_14d": "59",
+        "casos_7d": "34"
     }
 ]

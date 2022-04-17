@@ -3449,5 +3449,89 @@
         "habitantes": "1118",
         "casos_14d": "11",
         "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-01",
+        "municipio": "Trabada",
+        "habitantes": "1118",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-02",
+        "municipio": "Trabada",
+        "habitantes": "1118",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-04",
+        "municipio": "Trabada",
+        "habitantes": "1118",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-05",
+        "municipio": "Trabada",
+        "habitantes": "1118",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-06",
+        "municipio": "Trabada",
+        "habitantes": "1118",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-07",
+        "municipio": "Trabada",
+        "habitantes": "1118",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-08",
+        "municipio": "Trabada",
+        "habitantes": "1118",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-09",
+        "municipio": "Trabada",
+        "habitantes": "1118",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-11",
+        "municipio": "Trabada",
+        "habitantes": "1118",
+        "casos_14d": "11",
+        "casos_7d": "10"
+    },
+    {
+        "fecha": "2022-04-12",
+        "municipio": "Trabada",
+        "habitantes": "1118",
+        "casos_14d": "17",
+        "casos_7d": "14"
+    },
+    {
+        "fecha": "2022-04-13",
+        "municipio": "Trabada",
+        "habitantes": "1118",
+        "casos_14d": "19",
+        "casos_7d": "16"
+    },
+    {
+        "fecha": "2022-04-14",
+        "municipio": "Trabada",
+        "habitantes": "1118",
+        "casos_14d": "21",
+        "casos_7d": "18"
     }
 ]

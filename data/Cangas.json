@@ -3449,5 +3449,89 @@
         "habitantes": "26542",
         "casos_14d": "259",
         "casos_7d": "118"
+    },
+    {
+        "fecha": "2022-04-01",
+        "municipio": "Cangas",
+        "habitantes": "26542",
+        "casos_14d": "292",
+        "casos_7d": "106"
+    },
+    {
+        "fecha": "2022-04-02",
+        "municipio": "Cangas",
+        "habitantes": "26542",
+        "casos_14d": "292",
+        "casos_7d": "107"
+    },
+    {
+        "fecha": "2022-04-04",
+        "municipio": "Cangas",
+        "habitantes": "26542",
+        "casos_14d": "267",
+        "casos_7d": "94"
+    },
+    {
+        "fecha": "2022-04-05",
+        "municipio": "Cangas",
+        "habitantes": "26542",
+        "casos_14d": "244",
+        "casos_7d": "85"
+    },
+    {
+        "fecha": "2022-04-06",
+        "municipio": "Cangas",
+        "habitantes": "26542",
+        "casos_14d": "218",
+        "casos_7d": "84"
+    },
+    {
+        "fecha": "2022-04-07",
+        "municipio": "Cangas",
+        "habitantes": "26542",
+        "casos_14d": "208",
+        "casos_7d": "84"
+    },
+    {
+        "fecha": "2022-04-08",
+        "municipio": "Cangas",
+        "habitantes": "26542",
+        "casos_14d": "188",
+        "casos_7d": "82"
+    },
+    {
+        "fecha": "2022-04-09",
+        "municipio": "Cangas",
+        "habitantes": "26542",
+        "casos_14d": "176",
+        "casos_7d": "69"
+    },
+    {
+        "fecha": "2022-04-11",
+        "municipio": "Cangas",
+        "habitantes": "26542",
+        "casos_14d": "160",
+        "casos_7d": "66"
+    },
+    {
+        "fecha": "2022-04-12",
+        "municipio": "Cangas",
+        "habitantes": "26542",
+        "casos_14d": "157",
+        "casos_7d": "72"
+    },
+    {
+        "fecha": "2022-04-13",
+        "municipio": "Cangas",
+        "habitantes": "26542",
+        "casos_14d": "155",
+        "casos_7d": "71"
+    },
+    {
+        "fecha": "2022-04-14",
+        "municipio": "Cangas",
+        "habitantes": "26542",
+        "casos_14d": "147",
+        "casos_7d": "63"
     }
 ]

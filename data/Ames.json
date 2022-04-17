@@ -3449,5 +3449,89 @@
         "habitantes": "31793",
         "casos_14d": "303",
         "casos_7d": "161"
+    },
+    {
+        "fecha": "2022-04-01",
+        "municipio": "Ames",
+        "habitantes": "31793",
+        "casos_14d": "388",
+        "casos_7d": "122"
+    },
+    {
+        "fecha": "2022-04-02",
+        "municipio": "Ames",
+        "habitantes": "31793",
+        "casos_14d": "366",
+        "casos_7d": "101"
+    },
+    {
+        "fecha": "2022-04-04",
+        "municipio": "Ames",
+        "habitantes": "31793",
+        "casos_14d": "324",
+        "casos_7d": "62"
+    },
+    {
+        "fecha": "2022-04-05",
+        "municipio": "Ames",
+        "habitantes": "31793",
+        "casos_14d": "275",
+        "casos_7d": "49"
+    },
+    {
+        "fecha": "2022-04-06",
+        "municipio": "Ames",
+        "habitantes": "31793",
+        "casos_14d": "250",
+        "casos_7d": "62"
+    },
+    {
+        "fecha": "2022-04-07",
+        "municipio": "Ames",
+        "habitantes": "31793",
+        "casos_14d": "216",
+        "casos_7d": "62"
+    },
+    {
+        "fecha": "2022-04-08",
+        "municipio": "Ames",
+        "habitantes": "31793",
+        "casos_14d": "193",
+        "casos_7d": "73"
+    },
+    {
+        "fecha": "2022-04-09",
+        "municipio": "Ames",
+        "habitantes": "31793",
+        "casos_14d": "171",
+        "casos_7d": "72"
+    },
+    {
+        "fecha": "2022-04-11",
+        "municipio": "Ames",
+        "habitantes": "31793",
+        "casos_14d": "133",
+        "casos_7d": "71"
+    },
+    {
+        "fecha": "2022-04-12",
+        "municipio": "Ames",
+        "habitantes": "31793",
+        "casos_14d": "122",
+        "casos_7d": "73"
+    },
+    {
+        "fecha": "2022-04-13",
+        "municipio": "Ames",
+        "habitantes": "31793",
+        "casos_14d": "126",
+        "casos_7d": "64"
+    },
+    {
+        "fecha": "2022-04-14",
+        "municipio": "Ames",
+        "habitantes": "31793",
+        "casos_14d": "130",
+        "casos_7d": "68"
     }
 ]

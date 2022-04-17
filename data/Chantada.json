@@ -3449,5 +3449,89 @@
         "habitantes": "8192",
         "casos_14d": "81",
         "casos_7d": "49"
+    },
+    {
+        "fecha": "2022-04-01",
+        "municipio": "Chantada",
+        "habitantes": "8192",
+        "casos_14d": "45",
+        "casos_7d": "14"
+    },
+    {
+        "fecha": "2022-04-02",
+        "municipio": "Chantada",
+        "habitantes": "8192",
+        "casos_14d": "40",
+        "casos_7d": "10"
+    },
+    {
+        "fecha": "2022-04-04",
+        "municipio": "Chantada",
+        "habitantes": "8192",
+        "casos_14d": "29",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-05",
+        "municipio": "Chantada",
+        "habitantes": "8192",
+        "casos_14d": "27",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-06",
+        "municipio": "Chantada",
+        "habitantes": "8192",
+        "casos_14d": "23",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-07",
+        "municipio": "Chantada",
+        "habitantes": "8192",
+        "casos_14d": "20",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-08",
+        "municipio": "Chantada",
+        "habitantes": "8192",
+        "casos_14d": "21",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-09",
+        "municipio": "Chantada",
+        "habitantes": "8192",
+        "casos_14d": "22",
+        "casos_7d": "12"
+    },
+    {
+        "fecha": "2022-04-11",
+        "municipio": "Chantada",
+        "habitantes": "8192",
+        "casos_14d": "18",
+        "casos_7d": "11"
+    },
+    {
+        "fecha": "2022-04-12",
+        "municipio": "Chantada",
+        "habitantes": "8192",
+        "casos_14d": "20",
+        "casos_7d": "12"
+    },
+    {
+        "fecha": "2022-04-13",
+        "municipio": "Chantada",
+        "habitantes": "8192",
+        "casos_14d": "20",
+        "casos_7d": "12"
+    },
+    {
+        "fecha": "2022-04-14",
+        "municipio": "Chantada",
+        "habitantes": "8192",
+        "casos_14d": "19",
+        "casos_7d": "12"
     }
 ]

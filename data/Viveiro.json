@@ -3449,5 +3449,89 @@
         "habitantes": "15466",
         "casos_14d": "190",
         "casos_7d": "141"
+    },
+    {
+        "fecha": "2022-04-01",
+        "municipio": "Viveiro",
+        "habitantes": "15466",
+        "casos_14d": "243",
+        "casos_7d": "90"
+    },
+    {
+        "fecha": "2022-04-02",
+        "municipio": "Viveiro",
+        "habitantes": "15466",
+        "casos_14d": "235",
+        "casos_7d": "83"
+    },
+    {
+        "fecha": "2022-04-04",
+        "municipio": "Viveiro",
+        "habitantes": "15466",
+        "casos_14d": "238",
+        "casos_7d": "100"
+    },
+    {
+        "fecha": "2022-04-05",
+        "municipio": "Viveiro",
+        "habitantes": "15466",
+        "casos_14d": "224",
+        "casos_7d": "88"
+    },
+    {
+        "fecha": "2022-04-06",
+        "municipio": "Viveiro",
+        "habitantes": "15466",
+        "casos_14d": "210",
+        "casos_7d": "94"
+    },
+    {
+        "fecha": "2022-04-07",
+        "municipio": "Viveiro",
+        "habitantes": "15466",
+        "casos_14d": "175",
+        "casos_7d": "86"
+    },
+    {
+        "fecha": "2022-04-08",
+        "municipio": "Viveiro",
+        "habitantes": "15466",
+        "casos_14d": "166",
+        "casos_7d": "76"
+    },
+    {
+        "fecha": "2022-04-09",
+        "municipio": "Viveiro",
+        "habitantes": "15466",
+        "casos_14d": "152",
+        "casos_7d": "69"
+    },
+    {
+        "fecha": "2022-04-11",
+        "municipio": "Viveiro",
+        "habitantes": "15466",
+        "casos_14d": "142",
+        "casos_7d": "42"
+    },
+    {
+        "fecha": "2022-04-12",
+        "municipio": "Viveiro",
+        "habitantes": "15466",
+        "casos_14d": "125",
+        "casos_7d": "37"
+    },
+    {
+        "fecha": "2022-04-13",
+        "municipio": "Viveiro",
+        "habitantes": "15466",
+        "casos_14d": "131",
+        "casos_7d": "37"
+    },
+    {
+        "fecha": "2022-04-14",
+        "municipio": "Viveiro",
+        "habitantes": "15466",
+        "casos_14d": "121",
+        "casos_7d": "35"
     }
 ]

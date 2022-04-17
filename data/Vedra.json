@@ -3449,5 +3449,89 @@
         "habitantes": "5036",
         "casos_14d": "29",
         "casos_7d": "12"
+    },
+    {
+        "fecha": "2022-04-01",
+        "municipio": "Vedra",
+        "habitantes": "5036",
+        "casos_14d": "75",
+        "casos_7d": "26"
+    },
+    {
+        "fecha": "2022-04-02",
+        "municipio": "Vedra",
+        "habitantes": "5036",
+        "casos_14d": "72",
+        "casos_7d": "25"
+    },
+    {
+        "fecha": "2022-04-04",
+        "municipio": "Vedra",
+        "habitantes": "5036",
+        "casos_14d": "66",
+        "casos_7d": "21"
+    },
+    {
+        "fecha": "2022-04-05",
+        "municipio": "Vedra",
+        "habitantes": "5036",
+        "casos_14d": "55",
+        "casos_7d": "22"
+    },
+    {
+        "fecha": "2022-04-06",
+        "municipio": "Vedra",
+        "habitantes": "5036",
+        "casos_14d": "48",
+        "casos_7d": "19"
+    },
+    {
+        "fecha": "2022-04-07",
+        "municipio": "Vedra",
+        "habitantes": "5036",
+        "casos_14d": "48",
+        "casos_7d": "20"
+    },
+    {
+        "fecha": "2022-04-08",
+        "municipio": "Vedra",
+        "habitantes": "5036",
+        "casos_14d": "48",
+        "casos_7d": "22"
+    },
+    {
+        "fecha": "2022-04-09",
+        "municipio": "Vedra",
+        "habitantes": "5036",
+        "casos_14d": "49",
+        "casos_7d": "24"
+    },
+    {
+        "fecha": "2022-04-11",
+        "municipio": "Vedra",
+        "habitantes": "5036",
+        "casos_14d": "47",
+        "casos_7d": "26"
+    },
+    {
+        "fecha": "2022-04-12",
+        "municipio": "Vedra",
+        "habitantes": "5036",
+        "casos_14d": "47",
+        "casos_7d": "25"
+    },
+    {
+        "fecha": "2022-04-13",
+        "municipio": "Vedra",
+        "habitantes": "5036",
+        "casos_14d": "45",
+        "casos_7d": "26"
+    },
+    {
+        "fecha": "2022-04-14",
+        "municipio": "Vedra",
+        "habitantes": "5036",
+        "casos_14d": "46",
+        "casos_7d": "26"
     }
 ]

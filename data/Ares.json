@@ -3449,5 +3449,89 @@
         "habitantes": "5732",
         "casos_14d": "27",
         "casos_7d": "24"
+    },
+    {
+        "fecha": "2022-04-01",
+        "municipio": "Ares",
+        "habitantes": "5732",
+        "casos_14d": "82",
+        "casos_7d": "32"
+    },
+    {
+        "fecha": "2022-04-02",
+        "municipio": "Ares",
+        "habitantes": "5732",
+        "casos_14d": "77",
+        "casos_7d": "18"
+    },
+    {
+        "fecha": "2022-04-04",
+        "municipio": "Ares",
+        "habitantes": "5732",
+        "casos_14d": "61",
+        "casos_7d": "12"
+    },
+    {
+        "fecha": "2022-04-05",
+        "municipio": "Ares",
+        "habitantes": "5732",
+        "casos_14d": "54",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-06",
+        "municipio": "Ares",
+        "habitantes": "5732",
+        "casos_14d": "47",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-07",
+        "municipio": "Ares",
+        "habitantes": "5732",
+        "casos_14d": "44",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-08",
+        "municipio": "Ares",
+        "habitantes": "5732",
+        "casos_14d": "42",
+        "casos_7d": "10"
+    },
+    {
+        "fecha": "2022-04-09",
+        "municipio": "Ares",
+        "habitantes": "5732",
+        "casos_14d": "27",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-11",
+        "municipio": "Ares",
+        "habitantes": "5732",
+        "casos_14d": "29",
+        "casos_7d": "17"
+    },
+    {
+        "fecha": "2022-04-12",
+        "municipio": "Ares",
+        "habitantes": "5732",
+        "casos_14d": "28",
+        "casos_7d": "20"
+    },
+    {
+        "fecha": "2022-04-13",
+        "municipio": "Ares",
+        "habitantes": "5732",
+        "casos_14d": "26",
+        "casos_7d": "21"
+    },
+    {
+        "fecha": "2022-04-14",
+        "municipio": "Ares",
+        "habitantes": "5732",
+        "casos_14d": "28",
+        "casos_7d": "20"
     }
 ]

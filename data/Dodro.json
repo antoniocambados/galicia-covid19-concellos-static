@@ -3449,5 +3449,89 @@
         "habitantes": "2768",
         "casos_14d": "17",
         "casos_7d": "11"
+    },
+    {
+        "fecha": "2022-04-01",
+        "municipio": "Dodro",
+        "habitantes": "2768",
+        "casos_14d": "17",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-02",
+        "municipio": "Dodro",
+        "habitantes": "2768",
+        "casos_14d": "17",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-04",
+        "municipio": "Dodro",
+        "habitantes": "2768",
+        "casos_14d": "15",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-05",
+        "municipio": "Dodro",
+        "habitantes": "2768",
+        "casos_14d": "15",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-06",
+        "municipio": "Dodro",
+        "habitantes": "2768",
+        "casos_14d": "15",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-07",
+        "municipio": "Dodro",
+        "habitantes": "2768",
+        "casos_14d": "14",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-08",
+        "municipio": "Dodro",
+        "habitantes": "2768",
+        "casos_14d": "17",
+        "casos_7d": "11"
+    },
+    {
+        "fecha": "2022-04-09",
+        "municipio": "Dodro",
+        "habitantes": "2768",
+        "casos_14d": "19",
+        "casos_7d": "15"
+    },
+    {
+        "fecha": "2022-04-11",
+        "municipio": "Dodro",
+        "habitantes": "2768",
+        "casos_14d": "19",
+        "casos_7d": "14"
+    },
+    {
+        "fecha": "2022-04-12",
+        "municipio": "Dodro",
+        "habitantes": "2768",
+        "casos_14d": "22",
+        "casos_7d": "15"
+    },
+    {
+        "fecha": "2022-04-13",
+        "municipio": "Dodro",
+        "habitantes": "2768",
+        "casos_14d": "23",
+        "casos_7d": "16"
+    },
+    {
+        "fecha": "2022-04-14",
+        "municipio": "Dodro",
+        "habitantes": "2768",
+        "casos_14d": "22",
+        "casos_7d": "14"
     }
 ]

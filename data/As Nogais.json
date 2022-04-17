@@ -3449,5 +3449,89 @@
         "habitantes": "1079",
         "casos_14d": "12",
         "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-01",
+        "municipio": "As Nogais",
+        "habitantes": "1079",
+        "casos_14d": "0",
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2022-04-02",
+        "municipio": "As Nogais",
+        "habitantes": "1079",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-04",
+        "municipio": "As Nogais",
+        "habitantes": "1079",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-05",
+        "municipio": "As Nogais",
+        "habitantes": "1079",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-06",
+        "municipio": "As Nogais",
+        "habitantes": "1079",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-07",
+        "municipio": "As Nogais",
+        "habitantes": "1079",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-08",
+        "municipio": "As Nogais",
+        "habitantes": "1079",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-09",
+        "municipio": "As Nogais",
+        "habitantes": "1079",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-11",
+        "municipio": "As Nogais",
+        "habitantes": "1079",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-12",
+        "municipio": "As Nogais",
+        "habitantes": "1079",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-13",
+        "municipio": "As Nogais",
+        "habitantes": "1079",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-14",
+        "municipio": "As Nogais",
+        "habitantes": "1079",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]

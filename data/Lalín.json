@@ -3449,5 +3449,89 @@
         "habitantes": "20218",
         "casos_14d": "149",
         "casos_7d": "90"
+    },
+    {
+        "fecha": "2022-04-01",
+        "municipio": "Lal\u00edn",
+        "habitantes": "20218",
+        "casos_14d": "159",
+        "casos_7d": "40"
+    },
+    {
+        "fecha": "2022-04-02",
+        "municipio": "Lal\u00edn",
+        "habitantes": "20218",
+        "casos_14d": "149",
+        "casos_7d": "31"
+    },
+    {
+        "fecha": "2022-04-04",
+        "municipio": "Lal\u00edn",
+        "habitantes": "20218",
+        "casos_14d": "130",
+        "casos_7d": "25"
+    },
+    {
+        "fecha": "2022-04-05",
+        "municipio": "Lal\u00edn",
+        "habitantes": "20218",
+        "casos_14d": "115",
+        "casos_7d": "20"
+    },
+    {
+        "fecha": "2022-04-06",
+        "municipio": "Lal\u00edn",
+        "habitantes": "20218",
+        "casos_14d": "104",
+        "casos_7d": "27"
+    },
+    {
+        "fecha": "2022-04-07",
+        "municipio": "Lal\u00edn",
+        "habitantes": "20218",
+        "casos_14d": "87",
+        "casos_7d": "28"
+    },
+    {
+        "fecha": "2022-04-08",
+        "municipio": "Lal\u00edn",
+        "habitantes": "20218",
+        "casos_14d": "71",
+        "casos_7d": "31"
+    },
+    {
+        "fecha": "2022-04-09",
+        "municipio": "Lal\u00edn",
+        "habitantes": "20218",
+        "casos_14d": "63",
+        "casos_7d": "32"
+    },
+    {
+        "fecha": "2022-04-11",
+        "municipio": "Lal\u00edn",
+        "habitantes": "20218",
+        "casos_14d": "62",
+        "casos_7d": "37"
+    },
+    {
+        "fecha": "2022-04-12",
+        "municipio": "Lal\u00edn",
+        "habitantes": "20218",
+        "casos_14d": "61",
+        "casos_7d": "41"
+    },
+    {
+        "fecha": "2022-04-13",
+        "municipio": "Lal\u00edn",
+        "habitantes": "20218",
+        "casos_14d": "65",
+        "casos_7d": "38"
+    },
+    {
+        "fecha": "2022-04-14",
+        "municipio": "Lal\u00edn",
+        "habitantes": "20218",
+        "casos_14d": "69",
+        "casos_7d": "41"
     }
 ]

@@ -3449,5 +3449,89 @@
         "habitantes": "14072",
         "casos_14d": "127",
         "casos_7d": "63"
+    },
+    {
+        "fecha": "2022-04-01",
+        "municipio": "Vilalba",
+        "habitantes": "14072",
+        "casos_14d": "224",
+        "casos_7d": "79"
+    },
+    {
+        "fecha": "2022-04-02",
+        "municipio": "Vilalba",
+        "habitantes": "14072",
+        "casos_14d": "205",
+        "casos_7d": "69"
+    },
+    {
+        "fecha": "2022-04-04",
+        "municipio": "Vilalba",
+        "habitantes": "14072",
+        "casos_14d": "182",
+        "casos_7d": "35"
+    },
+    {
+        "fecha": "2022-04-05",
+        "municipio": "Vilalba",
+        "habitantes": "14072",
+        "casos_14d": "156",
+        "casos_7d": "27"
+    },
+    {
+        "fecha": "2022-04-06",
+        "municipio": "Vilalba",
+        "habitantes": "14072",
+        "casos_14d": "144",
+        "casos_7d": "30"
+    },
+    {
+        "fecha": "2022-04-07",
+        "municipio": "Vilalba",
+        "habitantes": "14072",
+        "casos_14d": "122",
+        "casos_7d": "31"
+    },
+    {
+        "fecha": "2022-04-08",
+        "municipio": "Vilalba",
+        "habitantes": "14072",
+        "casos_14d": "118",
+        "casos_7d": "39"
+    },
+    {
+        "fecha": "2022-04-09",
+        "municipio": "Vilalba",
+        "habitantes": "14072",
+        "casos_14d": "107",
+        "casos_7d": "38"
+    },
+    {
+        "fecha": "2022-04-11",
+        "municipio": "Vilalba",
+        "habitantes": "14072",
+        "casos_14d": "76",
+        "casos_7d": "41"
+    },
+    {
+        "fecha": "2022-04-12",
+        "municipio": "Vilalba",
+        "habitantes": "14072",
+        "casos_14d": "65",
+        "casos_7d": "38"
+    },
+    {
+        "fecha": "2022-04-13",
+        "municipio": "Vilalba",
+        "habitantes": "14072",
+        "casos_14d": "71",
+        "casos_7d": "41"
+    },
+    {
+        "fecha": "2022-04-14",
+        "municipio": "Vilalba",
+        "habitantes": "14072",
+        "casos_14d": "78",
+        "casos_7d": "47"
     }
 ]

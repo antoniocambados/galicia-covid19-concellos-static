@@ -3449,5 +3449,89 @@
         "habitantes": "5484",
         "casos_14d": "15",
         "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-01",
+        "municipio": "Guitiriz",
+        "habitantes": "5484",
+        "casos_14d": "32",
+        "casos_7d": "12"
+    },
+    {
+        "fecha": "2022-04-02",
+        "municipio": "Guitiriz",
+        "habitantes": "5484",
+        "casos_14d": "26",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-04",
+        "municipio": "Guitiriz",
+        "habitantes": "5484",
+        "casos_14d": "22",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-05",
+        "municipio": "Guitiriz",
+        "habitantes": "5484",
+        "casos_14d": "22",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-06",
+        "municipio": "Guitiriz",
+        "habitantes": "5484",
+        "casos_14d": "21",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-07",
+        "municipio": "Guitiriz",
+        "habitantes": "5484",
+        "casos_14d": "26",
+        "casos_7d": "10"
+    },
+    {
+        "fecha": "2022-04-08",
+        "municipio": "Guitiriz",
+        "habitantes": "5484",
+        "casos_14d": "22",
+        "casos_7d": "10"
+    },
+    {
+        "fecha": "2022-04-09",
+        "municipio": "Guitiriz",
+        "habitantes": "5484",
+        "casos_14d": "19",
+        "casos_7d": "12"
+    },
+    {
+        "fecha": "2022-04-11",
+        "municipio": "Guitiriz",
+        "habitantes": "5484",
+        "casos_14d": "21",
+        "casos_7d": "15"
+    },
+    {
+        "fecha": "2022-04-12",
+        "municipio": "Guitiriz",
+        "habitantes": "5484",
+        "casos_14d": "23",
+        "casos_7d": "17"
+    },
+    {
+        "fecha": "2022-04-13",
+        "municipio": "Guitiriz",
+        "habitantes": "5484",
+        "casos_14d": "25",
+        "casos_7d": "18"
+    },
+    {
+        "fecha": "2022-04-14",
+        "municipio": "Guitiriz",
+        "habitantes": "5484",
+        "casos_14d": "26",
+        "casos_7d": "16"
     }
 ]

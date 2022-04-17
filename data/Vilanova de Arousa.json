@@ -3449,5 +3449,89 @@
         "habitantes": "10302",
         "casos_14d": "64",
         "casos_7d": "45"
+    },
+    {
+        "fecha": "2022-04-01",
+        "municipio": "Vilanova de Arousa",
+        "habitantes": "10302",
+        "casos_14d": "78",
+        "casos_7d": "32"
+    },
+    {
+        "fecha": "2022-04-02",
+        "municipio": "Vilanova de Arousa",
+        "habitantes": "10302",
+        "casos_14d": "73",
+        "casos_7d": "24"
+    },
+    {
+        "fecha": "2022-04-04",
+        "municipio": "Vilanova de Arousa",
+        "habitantes": "10302",
+        "casos_14d": "79",
+        "casos_7d": "26"
+    },
+    {
+        "fecha": "2022-04-05",
+        "municipio": "Vilanova de Arousa",
+        "habitantes": "10302",
+        "casos_14d": "72",
+        "casos_7d": "25"
+    },
+    {
+        "fecha": "2022-04-06",
+        "municipio": "Vilanova de Arousa",
+        "habitantes": "10302",
+        "casos_14d": "67",
+        "casos_7d": "28"
+    },
+    {
+        "fecha": "2022-04-07",
+        "municipio": "Vilanova de Arousa",
+        "habitantes": "10302",
+        "casos_14d": "68",
+        "casos_7d": "32"
+    },
+    {
+        "fecha": "2022-04-08",
+        "municipio": "Vilanova de Arousa",
+        "habitantes": "10302",
+        "casos_14d": "67",
+        "casos_7d": "35"
+    },
+    {
+        "fecha": "2022-04-09",
+        "municipio": "Vilanova de Arousa",
+        "habitantes": "10302",
+        "casos_14d": "57",
+        "casos_7d": "33"
+    },
+    {
+        "fecha": "2022-04-11",
+        "municipio": "Vilanova de Arousa",
+        "habitantes": "10302",
+        "casos_14d": "54",
+        "casos_7d": "28"
+    },
+    {
+        "fecha": "2022-04-12",
+        "municipio": "Vilanova de Arousa",
+        "habitantes": "10302",
+        "casos_14d": "56",
+        "casos_7d": "31"
+    },
+    {
+        "fecha": "2022-04-13",
+        "municipio": "Vilanova de Arousa",
+        "habitantes": "10302",
+        "casos_14d": "59",
+        "casos_7d": "31"
+    },
+    {
+        "fecha": "2022-04-14",
+        "municipio": "Vilanova de Arousa",
+        "habitantes": "10302",
+        "casos_14d": "58",
+        "casos_7d": "26"
     }
 ]

@@ -3449,5 +3449,89 @@
         "habitantes": "66065",
         "casos_14d": "383",
         "casos_7d": "156"
+    },
+    {
+        "fecha": "2022-04-01",
+        "municipio": "Ferrol",
+        "habitantes": "66065",
+        "casos_14d": "697",
+        "casos_7d": "263"
+    },
+    {
+        "fecha": "2022-04-02",
+        "municipio": "Ferrol",
+        "habitantes": "66065",
+        "casos_14d": "676",
+        "casos_7d": "209"
+    },
+    {
+        "fecha": "2022-04-04",
+        "municipio": "Ferrol",
+        "habitantes": "66065",
+        "casos_14d": "628",
+        "casos_7d": "173"
+    },
+    {
+        "fecha": "2022-04-05",
+        "municipio": "Ferrol",
+        "habitantes": "66065",
+        "casos_14d": "570",
+        "casos_7d": "169"
+    },
+    {
+        "fecha": "2022-04-06",
+        "municipio": "Ferrol",
+        "habitantes": "66065",
+        "casos_14d": "530",
+        "casos_7d": "172"
+    },
+    {
+        "fecha": "2022-04-07",
+        "municipio": "Ferrol",
+        "habitantes": "66065",
+        "casos_14d": "482",
+        "casos_7d": "186"
+    },
+    {
+        "fecha": "2022-04-08",
+        "municipio": "Ferrol",
+        "habitantes": "66065",
+        "casos_14d": "454",
+        "casos_7d": "191"
+    },
+    {
+        "fecha": "2022-04-09",
+        "municipio": "Ferrol",
+        "habitantes": "66065",
+        "casos_14d": "410",
+        "casos_7d": "201"
+    },
+    {
+        "fecha": "2022-04-11",
+        "municipio": "Ferrol",
+        "habitantes": "66065",
+        "casos_14d": "390",
+        "casos_7d": "217"
+    },
+    {
+        "fecha": "2022-04-12",
+        "municipio": "Ferrol",
+        "habitantes": "66065",
+        "casos_14d": "419",
+        "casos_7d": "250"
+    },
+    {
+        "fecha": "2022-04-13",
+        "municipio": "Ferrol",
+        "habitantes": "66065",
+        "casos_14d": "429",
+        "casos_7d": "257"
+    },
+    {
+        "fecha": "2022-04-14",
+        "municipio": "Ferrol",
+        "habitantes": "66065",
+        "casos_14d": "453",
+        "casos_7d": "267"
     }
 ]

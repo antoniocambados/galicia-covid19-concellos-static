@@ -3449,5 +3449,89 @@
         "habitantes": "2529",
         "casos_14d": "21",
         "casos_7d": "13"
+    },
+    {
+        "fecha": "2022-04-01",
+        "municipio": "Monterrei",
+        "habitantes": "2529",
+        "casos_14d": "17",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-02",
+        "municipio": "Monterrei",
+        "habitantes": "2529",
+        "casos_14d": "18",
+        "casos_7d": "11"
+    },
+    {
+        "fecha": "2022-04-04",
+        "municipio": "Monterrei",
+        "habitantes": "2529",
+        "casos_14d": "13",
+        "casos_7d": "11"
+    },
+    {
+        "fecha": "2022-04-05",
+        "municipio": "Monterrei",
+        "habitantes": "2529",
+        "casos_14d": "13",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-06",
+        "municipio": "Monterrei",
+        "habitantes": "2529",
+        "casos_14d": "13",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-07",
+        "municipio": "Monterrei",
+        "habitantes": "2529",
+        "casos_14d": "14",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-08",
+        "municipio": "Monterrei",
+        "habitantes": "2529",
+        "casos_14d": "14",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-09",
+        "municipio": "Monterrei",
+        "habitantes": "2529",
+        "casos_14d": "14",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-11",
+        "municipio": "Monterrei",
+        "habitantes": "2529",
+        "casos_14d": "15",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-12",
+        "municipio": "Monterrei",
+        "habitantes": "2529",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-13",
+        "municipio": "Monterrei",
+        "habitantes": "2529",
+        "casos_14d": "14",
+        "casos_7d": "11"
+    },
+    {
+        "fecha": "2022-04-14",
+        "municipio": "Monterrei",
+        "habitantes": "2529",
+        "casos_14d": "15",
+        "casos_7d": "11"
     }
 ]

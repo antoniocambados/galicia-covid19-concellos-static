@@ -3449,5 +3449,89 @@
         "habitantes": "2285",
         "casos_14d": "13",
         "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-01",
+        "municipio": "Bobor\u00e1s",
+        "habitantes": "2285",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-02",
+        "municipio": "Bobor\u00e1s",
+        "habitantes": "2285",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-04",
+        "municipio": "Bobor\u00e1s",
+        "habitantes": "2285",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-05",
+        "municipio": "Bobor\u00e1s",
+        "habitantes": "2285",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-06",
+        "municipio": "Bobor\u00e1s",
+        "habitantes": "2285",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-07",
+        "municipio": "Bobor\u00e1s",
+        "habitantes": "2285",
+        "casos_14d": "10",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-08",
+        "municipio": "Bobor\u00e1s",
+        "habitantes": "2285",
+        "casos_14d": "10",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-09",
+        "municipio": "Bobor\u00e1s",
+        "habitantes": "2285",
+        "casos_14d": "11",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-11",
+        "municipio": "Bobor\u00e1s",
+        "habitantes": "2285",
+        "casos_14d": "10",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-12",
+        "municipio": "Bobor\u00e1s",
+        "habitantes": "2285",
+        "casos_14d": "11",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-13",
+        "municipio": "Bobor\u00e1s",
+        "habitantes": "2285",
+        "casos_14d": "13",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-14",
+        "municipio": "Bobor\u00e1s",
+        "habitantes": "2285",
+        "casos_14d": "16",
+        "casos_7d": "10"
     }
 ]

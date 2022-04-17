@@ -3449,5 +3449,89 @@
         "habitantes": "13744",
         "casos_14d": "116",
         "casos_7d": "65"
+    },
+    {
+        "fecha": "2022-04-01",
+        "municipio": "Cambados",
+        "habitantes": "13744",
+        "casos_14d": "107",
+        "casos_7d": "43"
+    },
+    {
+        "fecha": "2022-04-02",
+        "municipio": "Cambados",
+        "habitantes": "13744",
+        "casos_14d": "111",
+        "casos_7d": "54"
+    },
+    {
+        "fecha": "2022-04-04",
+        "municipio": "Cambados",
+        "habitantes": "13744",
+        "casos_14d": "105",
+        "casos_7d": "53"
+    },
+    {
+        "fecha": "2022-04-05",
+        "municipio": "Cambados",
+        "habitantes": "13744",
+        "casos_14d": "95",
+        "casos_7d": "50"
+    },
+    {
+        "fecha": "2022-04-06",
+        "municipio": "Cambados",
+        "habitantes": "13744",
+        "casos_14d": "87",
+        "casos_7d": "45"
+    },
+    {
+        "fecha": "2022-04-07",
+        "municipio": "Cambados",
+        "habitantes": "13744",
+        "casos_14d": "94",
+        "casos_7d": "49"
+    },
+    {
+        "fecha": "2022-04-08",
+        "municipio": "Cambados",
+        "habitantes": "13744",
+        "casos_14d": "95",
+        "casos_7d": "52"
+    },
+    {
+        "fecha": "2022-04-09",
+        "municipio": "Cambados",
+        "habitantes": "13744",
+        "casos_14d": "103",
+        "casos_7d": "49"
+    },
+    {
+        "fecha": "2022-04-11",
+        "municipio": "Cambados",
+        "habitantes": "13744",
+        "casos_14d": "109",
+        "casos_7d": "56"
+    },
+    {
+        "fecha": "2022-04-12",
+        "municipio": "Cambados",
+        "habitantes": "13744",
+        "casos_14d": "111",
+        "casos_7d": "61"
+    },
+    {
+        "fecha": "2022-04-13",
+        "municipio": "Cambados",
+        "habitantes": "13744",
+        "casos_14d": "107",
+        "casos_7d": "62"
+    },
+    {
+        "fecha": "2022-04-14",
+        "municipio": "Cambados",
+        "habitantes": "13744",
+        "casos_14d": "104",
+        "casos_7d": "55"
     }
 ]

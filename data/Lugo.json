@@ -3449,5 +3449,89 @@
         "habitantes": "98276",
         "casos_14d": "1028",
         "casos_7d": "498"
+    },
+    {
+        "fecha": "2022-04-01",
+        "municipio": "Lugo",
+        "habitantes": "98276",
+        "casos_14d": "931",
+        "casos_7d": "340"
+    },
+    {
+        "fecha": "2022-04-02",
+        "municipio": "Lugo",
+        "habitantes": "98276",
+        "casos_14d": "882",
+        "casos_7d": "291"
+    },
+    {
+        "fecha": "2022-04-04",
+        "municipio": "Lugo",
+        "habitantes": "98276",
+        "casos_14d": "807",
+        "casos_7d": "231"
+    },
+    {
+        "fecha": "2022-04-05",
+        "municipio": "Lugo",
+        "habitantes": "98276",
+        "casos_14d": "751",
+        "casos_7d": "230"
+    },
+    {
+        "fecha": "2022-04-06",
+        "municipio": "Lugo",
+        "habitantes": "98276",
+        "casos_14d": "707",
+        "casos_7d": "247"
+    },
+    {
+        "fecha": "2022-04-07",
+        "municipio": "Lugo",
+        "habitantes": "98276",
+        "casos_14d": "621",
+        "casos_7d": "245"
+    },
+    {
+        "fecha": "2022-04-08",
+        "municipio": "Lugo",
+        "habitantes": "98276",
+        "casos_14d": "584",
+        "casos_7d": "243"
+    },
+    {
+        "fecha": "2022-04-09",
+        "municipio": "Lugo",
+        "habitantes": "98276",
+        "casos_14d": "549",
+        "casos_7d": "257"
+    },
+    {
+        "fecha": "2022-04-11",
+        "municipio": "Lugo",
+        "habitantes": "98276",
+        "casos_14d": "515",
+        "casos_7d": "283"
+    },
+    {
+        "fecha": "2022-04-12",
+        "municipio": "Lugo",
+        "habitantes": "98276",
+        "casos_14d": "509",
+        "casos_7d": "277"
+    },
+    {
+        "fecha": "2022-04-13",
+        "municipio": "Lugo",
+        "habitantes": "98276",
+        "casos_14d": "548",
+        "casos_7d": "299"
+    },
+    {
+        "fecha": "2022-04-14",
+        "municipio": "Lugo",
+        "habitantes": "98276",
+        "casos_14d": "581",
+        "casos_7d": "335"
     }
 ]

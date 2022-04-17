@@ -3449,5 +3449,89 @@
         "habitantes": "13330",
         "casos_14d": "98",
         "casos_7d": "34"
+    },
+    {
+        "fecha": "2022-04-01",
+        "municipio": "Sarria",
+        "habitantes": "13330",
+        "casos_14d": "103",
+        "casos_7d": "41"
+    },
+    {
+        "fecha": "2022-04-02",
+        "municipio": "Sarria",
+        "habitantes": "13330",
+        "casos_14d": "106",
+        "casos_7d": "40"
+    },
+    {
+        "fecha": "2022-04-04",
+        "municipio": "Sarria",
+        "habitantes": "13330",
+        "casos_14d": "94",
+        "casos_7d": "36"
+    },
+    {
+        "fecha": "2022-04-05",
+        "municipio": "Sarria",
+        "habitantes": "13330",
+        "casos_14d": "94",
+        "casos_7d": "40"
+    },
+    {
+        "fecha": "2022-04-06",
+        "municipio": "Sarria",
+        "habitantes": "13330",
+        "casos_14d": "86",
+        "casos_7d": "42"
+    },
+    {
+        "fecha": "2022-04-07",
+        "municipio": "Sarria",
+        "habitantes": "13330",
+        "casos_14d": "82",
+        "casos_7d": "37"
+    },
+    {
+        "fecha": "2022-04-08",
+        "municipio": "Sarria",
+        "habitantes": "13330",
+        "casos_14d": "78",
+        "casos_7d": "37"
+    },
+    {
+        "fecha": "2022-04-09",
+        "municipio": "Sarria",
+        "habitantes": "13330",
+        "casos_14d": "78",
+        "casos_7d": "38"
+    },
+    {
+        "fecha": "2022-04-11",
+        "municipio": "Sarria",
+        "habitantes": "13330",
+        "casos_14d": "75",
+        "casos_7d": "39"
+    },
+    {
+        "fecha": "2022-04-12",
+        "municipio": "Sarria",
+        "habitantes": "13330",
+        "casos_14d": "76",
+        "casos_7d": "36"
+    },
+    {
+        "fecha": "2022-04-13",
+        "municipio": "Sarria",
+        "habitantes": "13330",
+        "casos_14d": "86",
+        "casos_7d": "44"
+    },
+    {
+        "fecha": "2022-04-14",
+        "municipio": "Sarria",
+        "habitantes": "13330",
+        "casos_14d": "85",
+        "casos_7d": "48"
     }
 ]

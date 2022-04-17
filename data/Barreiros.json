@@ -3449,5 +3449,89 @@
         "habitantes": "2934",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-01",
+        "municipio": "Barreiros",
+        "habitantes": "2934",
+        "casos_14d": "32",
+        "casos_7d": "12"
+    },
+    {
+        "fecha": "2022-04-02",
+        "municipio": "Barreiros",
+        "habitantes": "2934",
+        "casos_14d": "30",
+        "casos_7d": "13"
+    },
+    {
+        "fecha": "2022-04-04",
+        "municipio": "Barreiros",
+        "habitantes": "2934",
+        "casos_14d": "28",
+        "casos_7d": "10"
+    },
+    {
+        "fecha": "2022-04-05",
+        "municipio": "Barreiros",
+        "habitantes": "2934",
+        "casos_14d": "27",
+        "casos_7d": "10"
+    },
+    {
+        "fecha": "2022-04-06",
+        "municipio": "Barreiros",
+        "habitantes": "2934",
+        "casos_14d": "26",
+        "casos_7d": "12"
+    },
+    {
+        "fecha": "2022-04-07",
+        "municipio": "Barreiros",
+        "habitantes": "2934",
+        "casos_14d": "27",
+        "casos_7d": "13"
+    },
+    {
+        "fecha": "2022-04-08",
+        "municipio": "Barreiros",
+        "habitantes": "2934",
+        "casos_14d": "25",
+        "casos_7d": "13"
+    },
+    {
+        "fecha": "2022-04-09",
+        "municipio": "Barreiros",
+        "habitantes": "2934",
+        "casos_14d": "27",
+        "casos_7d": "14"
+    },
+    {
+        "fecha": "2022-04-11",
+        "municipio": "Barreiros",
+        "habitantes": "2934",
+        "casos_14d": "27",
+        "casos_7d": "17"
+    },
+    {
+        "fecha": "2022-04-12",
+        "municipio": "Barreiros",
+        "habitantes": "2934",
+        "casos_14d": "27",
+        "casos_7d": "17"
+    },
+    {
+        "fecha": "2022-04-13",
+        "municipio": "Barreiros",
+        "habitantes": "2934",
+        "casos_14d": "31",
+        "casos_7d": "19"
+    },
+    {
+        "fecha": "2022-04-14",
+        "municipio": "Barreiros",
+        "habitantes": "2934",
+        "casos_14d": "40",
+        "casos_7d": "27"
     }
 ]

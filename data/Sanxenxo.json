@@ -3449,5 +3449,89 @@
         "habitantes": "17347",
         "casos_14d": "117",
         "casos_7d": "68"
+    },
+    {
+        "fecha": "2022-04-01",
+        "municipio": "Sanxenxo",
+        "habitantes": "17347",
+        "casos_14d": "139",
+        "casos_7d": "50"
+    },
+    {
+        "fecha": "2022-04-02",
+        "municipio": "Sanxenxo",
+        "habitantes": "17347",
+        "casos_14d": "130",
+        "casos_7d": "37"
+    },
+    {
+        "fecha": "2022-04-04",
+        "municipio": "Sanxenxo",
+        "habitantes": "17347",
+        "casos_14d": "113",
+        "casos_7d": "22"
+    },
+    {
+        "fecha": "2022-04-05",
+        "municipio": "Sanxenxo",
+        "habitantes": "17347",
+        "casos_14d": "111",
+        "casos_7d": "27"
+    },
+    {
+        "fecha": "2022-04-06",
+        "municipio": "Sanxenxo",
+        "habitantes": "17347",
+        "casos_14d": "104",
+        "casos_7d": "27"
+    },
+    {
+        "fecha": "2022-04-07",
+        "municipio": "Sanxenxo",
+        "habitantes": "17347",
+        "casos_14d": "90",
+        "casos_7d": "23"
+    },
+    {
+        "fecha": "2022-04-08",
+        "municipio": "Sanxenxo",
+        "habitantes": "17347",
+        "casos_14d": "73",
+        "casos_7d": "23"
+    },
+    {
+        "fecha": "2022-04-09",
+        "municipio": "Sanxenxo",
+        "habitantes": "17347",
+        "casos_14d": "57",
+        "casos_7d": "20"
+    },
+    {
+        "fecha": "2022-04-11",
+        "municipio": "Sanxenxo",
+        "habitantes": "17347",
+        "casos_14d": "43",
+        "casos_7d": "21"
+    },
+    {
+        "fecha": "2022-04-12",
+        "municipio": "Sanxenxo",
+        "habitantes": "17347",
+        "casos_14d": "46",
+        "casos_7d": "19"
+    },
+    {
+        "fecha": "2022-04-13",
+        "municipio": "Sanxenxo",
+        "habitantes": "17347",
+        "casos_14d": "51",
+        "casos_7d": "24"
+    },
+    {
+        "fecha": "2022-04-14",
+        "municipio": "Sanxenxo",
+        "habitantes": "17347",
+        "casos_14d": "56",
+        "casos_7d": "33"
     }
 ]

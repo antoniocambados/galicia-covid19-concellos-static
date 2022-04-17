@@ -3449,5 +3449,89 @@
         "habitantes": "1176",
         "casos_14d": null,
         "casos_7d": "0"
+    },
+    {
+        "fecha": "2022-04-01",
+        "municipio": "Pi\u00f1or",
+        "habitantes": "1176",
+        "casos_14d": "21",
+        "casos_7d": "13"
+    },
+    {
+        "fecha": "2022-04-02",
+        "municipio": "Pi\u00f1or",
+        "habitantes": "1176",
+        "casos_14d": "21",
+        "casos_7d": "12"
+    },
+    {
+        "fecha": "2022-04-04",
+        "municipio": "Pi\u00f1or",
+        "habitantes": "1176",
+        "casos_14d": "21",
+        "casos_7d": "12"
+    },
+    {
+        "fecha": "2022-04-05",
+        "municipio": "Pi\u00f1or",
+        "habitantes": "1176",
+        "casos_14d": "21",
+        "casos_7d": "12"
+    },
+    {
+        "fecha": "2022-04-06",
+        "municipio": "Pi\u00f1or",
+        "habitantes": "1176",
+        "casos_14d": "21",
+        "casos_7d": "10"
+    },
+    {
+        "fecha": "2022-04-07",
+        "municipio": "Pi\u00f1or",
+        "habitantes": "1176",
+        "casos_14d": "21",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-08",
+        "municipio": "Pi\u00f1or",
+        "habitantes": "1176",
+        "casos_14d": "19",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-09",
+        "municipio": "Pi\u00f1or",
+        "habitantes": "1176",
+        "casos_14d": "16",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-11",
+        "municipio": "Pi\u00f1or",
+        "habitantes": "1176",
+        "casos_14d": "16",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-12",
+        "municipio": "Pi\u00f1or",
+        "habitantes": "1176",
+        "casos_14d": "15",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-13",
+        "municipio": "Pi\u00f1or",
+        "habitantes": "1176",
+        "casos_14d": "11",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-14",
+        "municipio": "Pi\u00f1or",
+        "habitantes": "1176",
+        "casos_14d": null,
+        "casos_7d": "0"
     }
 ]

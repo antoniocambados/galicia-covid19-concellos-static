@@ -3449,5 +3449,89 @@
         "habitantes": "13499",
         "casos_14d": "69",
         "casos_7d": "38"
+    },
+    {
+        "fecha": "2022-04-01",
+        "municipio": "Tomi\u00f1o",
+        "habitantes": "13499",
+        "casos_14d": "86",
+        "casos_7d": "34"
+    },
+    {
+        "fecha": "2022-04-02",
+        "municipio": "Tomi\u00f1o",
+        "habitantes": "13499",
+        "casos_14d": "86",
+        "casos_7d": "36"
+    },
+    {
+        "fecha": "2022-04-04",
+        "municipio": "Tomi\u00f1o",
+        "habitantes": "13499",
+        "casos_14d": "82",
+        "casos_7d": "32"
+    },
+    {
+        "fecha": "2022-04-05",
+        "municipio": "Tomi\u00f1o",
+        "habitantes": "13499",
+        "casos_14d": "68",
+        "casos_7d": "27"
+    },
+    {
+        "fecha": "2022-04-06",
+        "municipio": "Tomi\u00f1o",
+        "habitantes": "13499",
+        "casos_14d": "62",
+        "casos_7d": "26"
+    },
+    {
+        "fecha": "2022-04-07",
+        "municipio": "Tomi\u00f1o",
+        "habitantes": "13499",
+        "casos_14d": "58",
+        "casos_7d": "24"
+    },
+    {
+        "fecha": "2022-04-08",
+        "municipio": "Tomi\u00f1o",
+        "habitantes": "13499",
+        "casos_14d": "62",
+        "casos_7d": "28"
+    },
+    {
+        "fecha": "2022-04-09",
+        "municipio": "Tomi\u00f1o",
+        "habitantes": "13499",
+        "casos_14d": "60",
+        "casos_7d": "24"
+    },
+    {
+        "fecha": "2022-04-11",
+        "municipio": "Tomi\u00f1o",
+        "habitantes": "13499",
+        "casos_14d": "64",
+        "casos_7d": "32"
+    },
+    {
+        "fecha": "2022-04-12",
+        "municipio": "Tomi\u00f1o",
+        "habitantes": "13499",
+        "casos_14d": "60",
+        "casos_7d": "33"
+    },
+    {
+        "fecha": "2022-04-13",
+        "municipio": "Tomi\u00f1o",
+        "habitantes": "13499",
+        "casos_14d": "60",
+        "casos_7d": "34"
+    },
+    {
+        "fecha": "2022-04-14",
+        "municipio": "Tomi\u00f1o",
+        "habitantes": "13499",
+        "casos_14d": "56",
+        "casos_7d": "32"
     }
 ]

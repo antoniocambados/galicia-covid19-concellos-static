@@ -3449,5 +3449,89 @@
         "habitantes": "7500",
         "casos_14d": "63",
         "casos_7d": "33"
+    },
+    {
+        "fecha": "2022-04-01",
+        "municipio": "Oroso",
+        "habitantes": "7500",
+        "casos_14d": "71",
+        "casos_7d": "22"
+    },
+    {
+        "fecha": "2022-04-02",
+        "municipio": "Oroso",
+        "habitantes": "7500",
+        "casos_14d": "64",
+        "casos_7d": "19"
+    },
+    {
+        "fecha": "2022-04-04",
+        "municipio": "Oroso",
+        "habitantes": "7500",
+        "casos_14d": "61",
+        "casos_7d": "12"
+    },
+    {
+        "fecha": "2022-04-05",
+        "municipio": "Oroso",
+        "habitantes": "7500",
+        "casos_14d": "53",
+        "casos_7d": "11"
+    },
+    {
+        "fecha": "2022-04-06",
+        "municipio": "Oroso",
+        "habitantes": "7500",
+        "casos_14d": "46",
+        "casos_7d": "11"
+    },
+    {
+        "fecha": "2022-04-07",
+        "municipio": "Oroso",
+        "habitantes": "7500",
+        "casos_14d": "35",
+        "casos_7d": "11"
+    },
+    {
+        "fecha": "2022-04-08",
+        "municipio": "Oroso",
+        "habitantes": "7500",
+        "casos_14d": "41",
+        "casos_7d": "19"
+    },
+    {
+        "fecha": "2022-04-09",
+        "municipio": "Oroso",
+        "habitantes": "7500",
+        "casos_14d": "48",
+        "casos_7d": "29"
+    },
+    {
+        "fecha": "2022-04-11",
+        "municipio": "Oroso",
+        "habitantes": "7500",
+        "casos_14d": "42",
+        "casos_7d": "30"
+    },
+    {
+        "fecha": "2022-04-12",
+        "municipio": "Oroso",
+        "habitantes": "7500",
+        "casos_14d": "41",
+        "casos_7d": "30"
+    },
+    {
+        "fecha": "2022-04-13",
+        "municipio": "Oroso",
+        "habitantes": "7500",
+        "casos_14d": "45",
+        "casos_7d": "34"
+    },
+    {
+        "fecha": "2022-04-14",
+        "municipio": "Oroso",
+        "habitantes": "7500",
+        "casos_14d": "49",
+        "casos_7d": "38"
     }
 ]

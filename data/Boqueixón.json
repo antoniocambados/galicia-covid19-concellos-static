@@ -3449,5 +3449,89 @@
         "habitantes": "4220",
         "casos_14d": "32",
         "casos_7d": "17"
+    },
+    {
+        "fecha": "2022-04-01",
+        "municipio": "Boqueix\u00f3n",
+        "habitantes": "4220",
+        "casos_14d": "33",
+        "casos_7d": "18"
+    },
+    {
+        "fecha": "2022-04-02",
+        "municipio": "Boqueix\u00f3n",
+        "habitantes": "4220",
+        "casos_14d": "32",
+        "casos_7d": "13"
+    },
+    {
+        "fecha": "2022-04-04",
+        "municipio": "Boqueix\u00f3n",
+        "habitantes": "4220",
+        "casos_14d": "27",
+        "casos_7d": "10"
+    },
+    {
+        "fecha": "2022-04-05",
+        "municipio": "Boqueix\u00f3n",
+        "habitantes": "4220",
+        "casos_14d": "20",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-06",
+        "municipio": "Boqueix\u00f3n",
+        "habitantes": "4220",
+        "casos_14d": "22",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-07",
+        "municipio": "Boqueix\u00f3n",
+        "habitantes": "4220",
+        "casos_14d": "24",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-08",
+        "municipio": "Boqueix\u00f3n",
+        "habitantes": "4220",
+        "casos_14d": "23",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-09",
+        "municipio": "Boqueix\u00f3n",
+        "habitantes": "4220",
+        "casos_14d": "18",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-11",
+        "municipio": "Boqueix\u00f3n",
+        "habitantes": "4220",
+        "casos_14d": "17",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-12",
+        "municipio": "Boqueix\u00f3n",
+        "habitantes": "4220",
+        "casos_14d": "15",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-13",
+        "municipio": "Boqueix\u00f3n",
+        "habitantes": "4220",
+        "casos_14d": "17",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-14",
+        "municipio": "Boqueix\u00f3n",
+        "habitantes": "4220",
+        "casos_14d": "16",
+        "casos_7d": null
     }
 ]

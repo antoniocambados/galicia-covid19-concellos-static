@@ -3449,5 +3449,89 @@
         "habitantes": "2530",
         "casos_14d": "14",
         "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-01",
+        "municipio": "Mes\u00eda",
+        "habitantes": "2530",
+        "casos_14d": "13",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-02",
+        "municipio": "Mes\u00eda",
+        "habitantes": "2530",
+        "casos_14d": "14",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-04",
+        "municipio": "Mes\u00eda",
+        "habitantes": "2530",
+        "casos_14d": "13",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-05",
+        "municipio": "Mes\u00eda",
+        "habitantes": "2530",
+        "casos_14d": "11",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-06",
+        "municipio": "Mes\u00eda",
+        "habitantes": "2530",
+        "casos_14d": "12",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-07",
+        "municipio": "Mes\u00eda",
+        "habitantes": "2530",
+        "casos_14d": "11",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-08",
+        "municipio": "Mes\u00eda",
+        "habitantes": "2530",
+        "casos_14d": "13",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-09",
+        "municipio": "Mes\u00eda",
+        "habitantes": "2530",
+        "casos_14d": "13",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-11",
+        "municipio": "Mes\u00eda",
+        "habitantes": "2530",
+        "casos_14d": "18",
+        "casos_7d": "10"
+    },
+    {
+        "fecha": "2022-04-12",
+        "municipio": "Mes\u00eda",
+        "habitantes": "2530",
+        "casos_14d": "16",
+        "casos_7d": "12"
+    },
+    {
+        "fecha": "2022-04-13",
+        "municipio": "Mes\u00eda",
+        "habitantes": "2530",
+        "casos_14d": "15",
+        "casos_7d": "12"
+    },
+    {
+        "fecha": "2022-04-14",
+        "municipio": "Mes\u00eda",
+        "habitantes": "2530",
+        "casos_14d": "15",
+        "casos_7d": "12"
     }
 ]

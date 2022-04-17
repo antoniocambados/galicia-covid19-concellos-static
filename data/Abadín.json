@@ -3449,5 +3449,89 @@
         "habitantes": "2367",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-01",
+        "municipio": "Abad\u00edn",
+        "habitantes": "2367",
+        "casos_14d": "14",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-02",
+        "municipio": "Abad\u00edn",
+        "habitantes": "2367",
+        "casos_14d": "13",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-04",
+        "municipio": "Abad\u00edn",
+        "habitantes": "2367",
+        "casos_14d": "16",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-05",
+        "municipio": "Abad\u00edn",
+        "habitantes": "2367",
+        "casos_14d": "14",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-06",
+        "municipio": "Abad\u00edn",
+        "habitantes": "2367",
+        "casos_14d": "14",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-07",
+        "municipio": "Abad\u00edn",
+        "habitantes": "2367",
+        "casos_14d": "13",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-08",
+        "municipio": "Abad\u00edn",
+        "habitantes": "2367",
+        "casos_14d": "13",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-09",
+        "municipio": "Abad\u00edn",
+        "habitantes": "2367",
+        "casos_14d": "12",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-11",
+        "municipio": "Abad\u00edn",
+        "habitantes": "2367",
+        "casos_14d": "15",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-12",
+        "municipio": "Abad\u00edn",
+        "habitantes": "2367",
+        "casos_14d": "16",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-13",
+        "municipio": "Abad\u00edn",
+        "habitantes": "2367",
+        "casos_14d": "17",
+        "casos_7d": "10"
+    },
+    {
+        "fecha": "2022-04-14",
+        "municipio": "Abad\u00edn",
+        "habitantes": "2367",
+        "casos_14d": "19",
+        "casos_7d": "12"
     }
 ]

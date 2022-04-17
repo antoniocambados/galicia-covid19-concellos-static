@@ -3449,5 +3449,89 @@
         "habitantes": "31349",
         "casos_14d": "202",
         "casos_7d": "100"
+    },
+    {
+        "fecha": "2022-04-01",
+        "municipio": "Carballo",
+        "habitantes": "31349",
+        "casos_14d": "203",
+        "casos_7d": "58"
+    },
+    {
+        "fecha": "2022-04-02",
+        "municipio": "Carballo",
+        "habitantes": "31349",
+        "casos_14d": "191",
+        "casos_7d": "42"
+    },
+    {
+        "fecha": "2022-04-04",
+        "municipio": "Carballo",
+        "habitantes": "31349",
+        "casos_14d": "165",
+        "casos_7d": "31"
+    },
+    {
+        "fecha": "2022-04-05",
+        "municipio": "Carballo",
+        "habitantes": "31349",
+        "casos_14d": "148",
+        "casos_7d": "28"
+    },
+    {
+        "fecha": "2022-04-06",
+        "municipio": "Carballo",
+        "habitantes": "31349",
+        "casos_14d": "127",
+        "casos_7d": "27"
+    },
+    {
+        "fecha": "2022-04-07",
+        "municipio": "Carballo",
+        "habitantes": "31349",
+        "casos_14d": "106",
+        "casos_7d": "28"
+    },
+    {
+        "fecha": "2022-04-08",
+        "municipio": "Carballo",
+        "habitantes": "31349",
+        "casos_14d": "88",
+        "casos_7d": "30"
+    },
+    {
+        "fecha": "2022-04-09",
+        "municipio": "Carballo",
+        "habitantes": "31349",
+        "casos_14d": "72",
+        "casos_7d": "30"
+    },
+    {
+        "fecha": "2022-04-11",
+        "municipio": "Carballo",
+        "habitantes": "31349",
+        "casos_14d": "62",
+        "casos_7d": "31"
+    },
+    {
+        "fecha": "2022-04-12",
+        "municipio": "Carballo",
+        "habitantes": "31349",
+        "casos_14d": "68",
+        "casos_7d": "40"
+    },
+    {
+        "fecha": "2022-04-13",
+        "municipio": "Carballo",
+        "habitantes": "31349",
+        "casos_14d": "71",
+        "casos_7d": "44"
+    },
+    {
+        "fecha": "2022-04-14",
+        "municipio": "Carballo",
+        "habitantes": "31349",
+        "casos_14d": "73",
+        "casos_7d": "45"
     }
 ]

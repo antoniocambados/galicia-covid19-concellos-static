@@ -3449,5 +3449,89 @@
         "habitantes": "1502",
         "casos_14d": null,
         "casos_7d": "0"
+    },
+    {
+        "fecha": "2022-04-01",
+        "municipio": "Mu\u00ed\u00f1os",
+        "habitantes": "1502",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-02",
+        "municipio": "Mu\u00ed\u00f1os",
+        "habitantes": "1502",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-04",
+        "municipio": "Mu\u00ed\u00f1os",
+        "habitantes": "1502",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-05",
+        "municipio": "Mu\u00ed\u00f1os",
+        "habitantes": "1502",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-06",
+        "municipio": "Mu\u00ed\u00f1os",
+        "habitantes": "1502",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-07",
+        "municipio": "Mu\u00ed\u00f1os",
+        "habitantes": "1502",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-08",
+        "municipio": "Mu\u00ed\u00f1os",
+        "habitantes": "1502",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-09",
+        "municipio": "Mu\u00ed\u00f1os",
+        "habitantes": "1502",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-11",
+        "municipio": "Mu\u00ed\u00f1os",
+        "habitantes": "1502",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-12",
+        "municipio": "Mu\u00ed\u00f1os",
+        "habitantes": "1502",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-13",
+        "municipio": "Mu\u00ed\u00f1os",
+        "habitantes": "1502",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-14",
+        "municipio": "Mu\u00ed\u00f1os",
+        "habitantes": "1502",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]

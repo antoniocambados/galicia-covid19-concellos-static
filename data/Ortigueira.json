@@ -3449,5 +3449,89 @@
         "habitantes": "5671",
         "casos_14d": "14",
         "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-01",
+        "municipio": "Ortigueira",
+        "habitantes": "5671",
+        "casos_14d": "65",
+        "casos_7d": "19"
+    },
+    {
+        "fecha": "2022-04-02",
+        "municipio": "Ortigueira",
+        "habitantes": "5671",
+        "casos_14d": "62",
+        "casos_7d": "17"
+    },
+    {
+        "fecha": "2022-04-04",
+        "municipio": "Ortigueira",
+        "habitantes": "5671",
+        "casos_14d": "50",
+        "casos_7d": "14"
+    },
+    {
+        "fecha": "2022-04-05",
+        "municipio": "Ortigueira",
+        "habitantes": "5671",
+        "casos_14d": "49",
+        "casos_7d": "13"
+    },
+    {
+        "fecha": "2022-04-06",
+        "municipio": "Ortigueira",
+        "habitantes": "5671",
+        "casos_14d": "47",
+        "casos_7d": "15"
+    },
+    {
+        "fecha": "2022-04-07",
+        "municipio": "Ortigueira",
+        "habitantes": "5671",
+        "casos_14d": "44",
+        "casos_7d": "13"
+    },
+    {
+        "fecha": "2022-04-08",
+        "municipio": "Ortigueira",
+        "habitantes": "5671",
+        "casos_14d": "33",
+        "casos_7d": "14"
+    },
+    {
+        "fecha": "2022-04-09",
+        "municipio": "Ortigueira",
+        "habitantes": "5671",
+        "casos_14d": "29",
+        "casos_7d": "12"
+    },
+    {
+        "fecha": "2022-04-11",
+        "municipio": "Ortigueira",
+        "habitantes": "5671",
+        "casos_14d": "25",
+        "casos_7d": "11"
+    },
+    {
+        "fecha": "2022-04-12",
+        "municipio": "Ortigueira",
+        "habitantes": "5671",
+        "casos_14d": "23",
+        "casos_7d": "10"
+    },
+    {
+        "fecha": "2022-04-13",
+        "municipio": "Ortigueira",
+        "habitantes": "5671",
+        "casos_14d": "23",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-14",
+        "municipio": "Ortigueira",
+        "habitantes": "5671",
+        "casos_14d": "22",
+        "casos_7d": null
     }
 ]

@@ -3449,5 +3449,89 @@
         "habitantes": "1393",
         "casos_14d": "11",
         "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-01",
+        "municipio": "Rubi\u00e1",
+        "habitantes": "1393",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-02",
+        "municipio": "Rubi\u00e1",
+        "habitantes": "1393",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-04",
+        "municipio": "Rubi\u00e1",
+        "habitantes": "1393",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-05",
+        "municipio": "Rubi\u00e1",
+        "habitantes": "1393",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-06",
+        "municipio": "Rubi\u00e1",
+        "habitantes": "1393",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-07",
+        "municipio": "Rubi\u00e1",
+        "habitantes": "1393",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-08",
+        "municipio": "Rubi\u00e1",
+        "habitantes": "1393",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-09",
+        "municipio": "Rubi\u00e1",
+        "habitantes": "1393",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-11",
+        "municipio": "Rubi\u00e1",
+        "habitantes": "1393",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-12",
+        "municipio": "Rubi\u00e1",
+        "habitantes": "1393",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-13",
+        "municipio": "Rubi\u00e1",
+        "habitantes": "1393",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-14",
+        "municipio": "Rubi\u00e1",
+        "habitantes": "1393",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]

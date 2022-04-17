@@ -3449,5 +3449,89 @@
         "habitantes": "5391",
         "casos_14d": "32",
         "casos_7d": "11"
+    },
+    {
+        "fecha": "2022-04-01",
+        "municipio": "Malpica de Berganti\u00f1os",
+        "habitantes": "5391",
+        "casos_14d": "42",
+        "casos_7d": "20"
+    },
+    {
+        "fecha": "2022-04-02",
+        "municipio": "Malpica de Berganti\u00f1os",
+        "habitantes": "5391",
+        "casos_14d": "42",
+        "casos_7d": "17"
+    },
+    {
+        "fecha": "2022-04-04",
+        "municipio": "Malpica de Berganti\u00f1os",
+        "habitantes": "5391",
+        "casos_14d": "40",
+        "casos_7d": "14"
+    },
+    {
+        "fecha": "2022-04-05",
+        "municipio": "Malpica de Berganti\u00f1os",
+        "habitantes": "5391",
+        "casos_14d": "43",
+        "casos_7d": "11"
+    },
+    {
+        "fecha": "2022-04-06",
+        "municipio": "Malpica de Berganti\u00f1os",
+        "habitantes": "5391",
+        "casos_14d": "41",
+        "casos_7d": "11"
+    },
+    {
+        "fecha": "2022-04-07",
+        "municipio": "Malpica de Berganti\u00f1os",
+        "habitantes": "5391",
+        "casos_14d": "35",
+        "casos_7d": "11"
+    },
+    {
+        "fecha": "2022-04-08",
+        "municipio": "Malpica de Berganti\u00f1os",
+        "habitantes": "5391",
+        "casos_14d": "32",
+        "casos_7d": "12"
+    },
+    {
+        "fecha": "2022-04-09",
+        "municipio": "Malpica de Berganti\u00f1os",
+        "habitantes": "5391",
+        "casos_14d": "27",
+        "casos_7d": "11"
+    },
+    {
+        "fecha": "2022-04-11",
+        "municipio": "Malpica de Berganti\u00f1os",
+        "habitantes": "5391",
+        "casos_14d": "25",
+        "casos_7d": "12"
+    },
+    {
+        "fecha": "2022-04-12",
+        "municipio": "Malpica de Berganti\u00f1os",
+        "habitantes": "5391",
+        "casos_14d": "18",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-13",
+        "municipio": "Malpica de Berganti\u00f1os",
+        "habitantes": "5391",
+        "casos_14d": "18",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-14",
+        "municipio": "Malpica de Berganti\u00f1os",
+        "habitantes": "5391",
+        "casos_14d": "18",
+        "casos_7d": null
     }
 ]

@@ -3449,5 +3449,89 @@
         "habitantes": "32262",
         "casos_14d": "183",
         "casos_7d": "102"
+    },
+    {
+        "fecha": "2022-04-01",
+        "municipio": "Arteixo",
+        "habitantes": "32262",
+        "casos_14d": "221",
+        "casos_7d": "82"
+    },
+    {
+        "fecha": "2022-04-02",
+        "municipio": "Arteixo",
+        "habitantes": "32262",
+        "casos_14d": "218",
+        "casos_7d": "69"
+    },
+    {
+        "fecha": "2022-04-04",
+        "municipio": "Arteixo",
+        "habitantes": "32262",
+        "casos_14d": "202",
+        "casos_7d": "55"
+    },
+    {
+        "fecha": "2022-04-05",
+        "municipio": "Arteixo",
+        "habitantes": "32262",
+        "casos_14d": "181",
+        "casos_7d": "55"
+    },
+    {
+        "fecha": "2022-04-06",
+        "municipio": "Arteixo",
+        "habitantes": "32262",
+        "casos_14d": "173",
+        "casos_7d": "56"
+    },
+    {
+        "fecha": "2022-04-07",
+        "municipio": "Arteixo",
+        "habitantes": "32262",
+        "casos_14d": "157",
+        "casos_7d": "56"
+    },
+    {
+        "fecha": "2022-04-08",
+        "municipio": "Arteixo",
+        "habitantes": "32262",
+        "casos_14d": "142",
+        "casos_7d": "60"
+    },
+    {
+        "fecha": "2022-04-09",
+        "municipio": "Arteixo",
+        "habitantes": "32262",
+        "casos_14d": "128",
+        "casos_7d": "59"
+    },
+    {
+        "fecha": "2022-04-11",
+        "municipio": "Arteixo",
+        "habitantes": "32262",
+        "casos_14d": "117",
+        "casos_7d": "62"
+    },
+    {
+        "fecha": "2022-04-12",
+        "municipio": "Arteixo",
+        "habitantes": "32262",
+        "casos_14d": "117",
+        "casos_7d": "62"
+    },
+    {
+        "fecha": "2022-04-13",
+        "municipio": "Arteixo",
+        "habitantes": "32262",
+        "casos_14d": "122",
+        "casos_7d": "66"
+    },
+    {
+        "fecha": "2022-04-14",
+        "municipio": "Arteixo",
+        "habitantes": "32262",
+        "casos_14d": "133",
+        "casos_7d": "77"
     }
 ]

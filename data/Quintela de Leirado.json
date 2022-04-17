@@ -3449,5 +3449,89 @@
         "habitantes": "619",
         "casos_14d": null,
         "casos_7d": "0"
+    },
+    {
+        "fecha": "2022-04-01",
+        "municipio": "Quintela de Leirado",
+        "habitantes": "619",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-02",
+        "municipio": "Quintela de Leirado",
+        "habitantes": "619",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-04",
+        "municipio": "Quintela de Leirado",
+        "habitantes": "619",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2022-04-05",
+        "municipio": "Quintela de Leirado",
+        "habitantes": "619",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2022-04-06",
+        "municipio": "Quintela de Leirado",
+        "habitantes": "619",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2022-04-07",
+        "municipio": "Quintela de Leirado",
+        "habitantes": "619",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2022-04-08",
+        "municipio": "Quintela de Leirado",
+        "habitantes": "619",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2022-04-09",
+        "municipio": "Quintela de Leirado",
+        "habitantes": "619",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2022-04-11",
+        "municipio": "Quintela de Leirado",
+        "habitantes": "619",
+        "casos_14d": "0",
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2022-04-12",
+        "municipio": "Quintela de Leirado",
+        "habitantes": "619",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-13",
+        "municipio": "Quintela de Leirado",
+        "habitantes": "619",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-14",
+        "municipio": "Quintela de Leirado",
+        "habitantes": "619",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]

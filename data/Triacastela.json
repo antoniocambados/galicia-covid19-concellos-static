@@ -3449,5 +3449,89 @@
         "habitantes": "641",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-01",
+        "municipio": "Triacastela",
+        "habitantes": "641",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2022-04-02",
+        "municipio": "Triacastela",
+        "habitantes": "641",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2022-04-04",
+        "municipio": "Triacastela",
+        "habitantes": "641",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-05",
+        "municipio": "Triacastela",
+        "habitantes": "641",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-06",
+        "municipio": "Triacastela",
+        "habitantes": "641",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-07",
+        "municipio": "Triacastela",
+        "habitantes": "641",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-08",
+        "municipio": "Triacastela",
+        "habitantes": "641",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-09",
+        "municipio": "Triacastela",
+        "habitantes": "641",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-11",
+        "municipio": "Triacastela",
+        "habitantes": "641",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2022-04-12",
+        "municipio": "Triacastela",
+        "habitantes": "641",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2022-04-13",
+        "municipio": "Triacastela",
+        "habitantes": "641",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-14",
+        "municipio": "Triacastela",
+        "habitantes": "641",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]

@@ -3449,5 +3449,89 @@
         "habitantes": "4708",
         "casos_14d": "45",
         "casos_7d": "24"
+    },
+    {
+        "fecha": "2022-04-01",
+        "municipio": "Fisterra",
+        "habitantes": "4708",
+        "casos_14d": "35",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-02",
+        "municipio": "Fisterra",
+        "habitantes": "4708",
+        "casos_14d": "30",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-04",
+        "municipio": "Fisterra",
+        "habitantes": "4708",
+        "casos_14d": "22",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-05",
+        "municipio": "Fisterra",
+        "habitantes": "4708",
+        "casos_14d": "19",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-06",
+        "municipio": "Fisterra",
+        "habitantes": "4708",
+        "casos_14d": "16",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-07",
+        "municipio": "Fisterra",
+        "habitantes": "4708",
+        "casos_14d": "13",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-08",
+        "municipio": "Fisterra",
+        "habitantes": "4708",
+        "casos_14d": "11",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-09",
+        "municipio": "Fisterra",
+        "habitantes": "4708",
+        "casos_14d": "13",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-11",
+        "municipio": "Fisterra",
+        "habitantes": "4708",
+        "casos_14d": "11",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-12",
+        "municipio": "Fisterra",
+        "habitantes": "4708",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-13",
+        "municipio": "Fisterra",
+        "habitantes": "4708",
+        "casos_14d": "10",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-14",
+        "municipio": "Fisterra",
+        "habitantes": "4708",
+        "casos_14d": "11",
+        "casos_7d": null
     }
 ]
