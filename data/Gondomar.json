@@ -3533,5 +3533,33 @@
         "habitantes": "14286",
         "casos_14d": "33",
         "casos_7d": "18"
+    },
+    {
+        "fecha": "2022-04-18",
+        "municipio": "Gondomar",
+        "habitantes": "14286",
+        "casos_14d": "33",
+        "casos_7d": "18"
+    },
+    {
+        "fecha": "2022-04-19",
+        "municipio": "Gondomar",
+        "habitantes": "14286",
+        "casos_14d": "34",
+        "casos_7d": "15"
+    },
+    {
+        "fecha": "2022-04-20",
+        "municipio": "Gondomar",
+        "habitantes": "14286",
+        "casos_14d": "37",
+        "casos_7d": "17"
+    },
+    {
+        "fecha": "2022-04-21",
+        "municipio": "Gondomar",
+        "habitantes": "14286",
+        "casos_14d": "40",
+        "casos_7d": "22"
     }
 ]

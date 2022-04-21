@@ -3533,5 +3533,33 @@
         "habitantes": "1366",
         "casos_14d": "10",
         "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-18",
+        "municipio": "O P\u00e1ramo",
+        "habitantes": "1366",
+        "casos_14d": "13",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-19",
+        "municipio": "O P\u00e1ramo",
+        "habitantes": "1366",
+        "casos_14d": "18",
+        "casos_7d": "14"
+    },
+    {
+        "fecha": "2022-04-20",
+        "municipio": "O P\u00e1ramo",
+        "habitantes": "1366",
+        "casos_14d": "22",
+        "casos_7d": "17"
+    },
+    {
+        "fecha": "2022-04-21",
+        "municipio": "O P\u00e1ramo",
+        "habitantes": "1366",
+        "casos_14d": "21",
+        "casos_7d": "15"
     }
 ]

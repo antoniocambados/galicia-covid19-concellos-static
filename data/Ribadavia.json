@@ -3533,5 +3533,33 @@
         "habitantes": "5024",
         "casos_14d": "30",
         "casos_7d": "19"
+    },
+    {
+        "fecha": "2022-04-18",
+        "municipio": "Ribadavia",
+        "habitantes": "5024",
+        "casos_14d": "34",
+        "casos_7d": "19"
+    },
+    {
+        "fecha": "2022-04-19",
+        "municipio": "Ribadavia",
+        "habitantes": "5024",
+        "casos_14d": "38",
+        "casos_7d": "20"
+    },
+    {
+        "fecha": "2022-04-20",
+        "municipio": "Ribadavia",
+        "habitantes": "5024",
+        "casos_14d": "38",
+        "casos_7d": "21"
+    },
+    {
+        "fecha": "2022-04-21",
+        "municipio": "Ribadavia",
+        "habitantes": "5024",
+        "casos_14d": "41",
+        "casos_7d": "22"
     }
 ]

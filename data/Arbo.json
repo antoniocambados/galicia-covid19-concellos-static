@@ -3533,5 +3533,33 @@
         "habitantes": "2580",
         "casos_14d": "11",
         "casos_7d": "11"
+    },
+    {
+        "fecha": "2022-04-18",
+        "municipio": "Arbo",
+        "habitantes": "2580",
+        "casos_14d": "17",
+        "casos_7d": "13"
+    },
+    {
+        "fecha": "2022-04-19",
+        "municipio": "Arbo",
+        "habitantes": "2580",
+        "casos_14d": "18",
+        "casos_7d": "11"
+    },
+    {
+        "fecha": "2022-04-20",
+        "municipio": "Arbo",
+        "habitantes": "2580",
+        "casos_14d": "19",
+        "casos_7d": "10"
+    },
+    {
+        "fecha": "2022-04-21",
+        "municipio": "Arbo",
+        "habitantes": "2580",
+        "casos_14d": "21",
+        "casos_7d": "10"
     }
 ]

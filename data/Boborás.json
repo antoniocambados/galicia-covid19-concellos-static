@@ -3533,5 +3533,33 @@
         "habitantes": "2285",
         "casos_14d": "16",
         "casos_7d": "10"
+    },
+    {
+        "fecha": "2022-04-18",
+        "municipio": "Bobor\u00e1s",
+        "habitantes": "2285",
+        "casos_14d": "18",
+        "casos_7d": "13"
+    },
+    {
+        "fecha": "2022-04-19",
+        "municipio": "Bobor\u00e1s",
+        "habitantes": "2285",
+        "casos_14d": "18",
+        "casos_7d": "12"
+    },
+    {
+        "fecha": "2022-04-20",
+        "municipio": "Bobor\u00e1s",
+        "habitantes": "2285",
+        "casos_14d": "16",
+        "casos_7d": "10"
+    },
+    {
+        "fecha": "2022-04-21",
+        "municipio": "Bobor\u00e1s",
+        "habitantes": "2285",
+        "casos_14d": "15",
+        "casos_7d": null
     }
 ]

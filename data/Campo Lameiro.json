@@ -3533,5 +3533,33 @@
         "habitantes": "1817",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-18",
+        "municipio": "Campo Lameiro",
+        "habitantes": "1817",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-19",
+        "municipio": "Campo Lameiro",
+        "habitantes": "1817",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-20",
+        "municipio": "Campo Lameiro",
+        "habitantes": "1817",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-21",
+        "municipio": "Campo Lameiro",
+        "habitantes": "1817",
+        "casos_14d": "10",
+        "casos_7d": null
     }
 ]

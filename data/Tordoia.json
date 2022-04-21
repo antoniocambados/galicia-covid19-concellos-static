@@ -3533,5 +3533,33 @@
         "habitantes": "3299",
         "casos_14d": "17",
         "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-18",
+        "municipio": "Tordoia",
+        "habitantes": "3299",
+        "casos_14d": "16",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-19",
+        "municipio": "Tordoia",
+        "habitantes": "3299",
+        "casos_14d": "16",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-20",
+        "municipio": "Tordoia",
+        "habitantes": "3299",
+        "casos_14d": "15",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-21",
+        "municipio": "Tordoia",
+        "habitantes": "3299",
+        "casos_14d": "13",
+        "casos_7d": null
     }
 ]

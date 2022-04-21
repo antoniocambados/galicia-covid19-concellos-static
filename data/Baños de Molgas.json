@@ -3533,5 +3533,33 @@
         "habitantes": "1519",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-18",
+        "municipio": "Ba\u00f1os de Molgas",
+        "habitantes": "1519",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-19",
+        "municipio": "Ba\u00f1os de Molgas",
+        "habitantes": "1519",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-20",
+        "municipio": "Ba\u00f1os de Molgas",
+        "habitantes": "1519",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-21",
+        "municipio": "Ba\u00f1os de Molgas",
+        "habitantes": "1519",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]

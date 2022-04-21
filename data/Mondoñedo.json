@@ -3533,5 +3533,33 @@
         "habitantes": "3568",
         "casos_14d": "68",
         "casos_7d": "24"
+    },
+    {
+        "fecha": "2022-04-18",
+        "municipio": "Mondo\u00f1edo",
+        "habitantes": "3568",
+        "casos_14d": "85",
+        "casos_7d": "52"
+    },
+    {
+        "fecha": "2022-04-19",
+        "municipio": "Mondo\u00f1edo",
+        "habitantes": "3568",
+        "casos_14d": "76",
+        "casos_7d": "51"
+    },
+    {
+        "fecha": "2022-04-20",
+        "municipio": "Mondo\u00f1edo",
+        "habitantes": "3568",
+        "casos_14d": "70",
+        "casos_7d": "46"
+    },
+    {
+        "fecha": "2022-04-21",
+        "municipio": "Mondo\u00f1edo",
+        "habitantes": "3568",
+        "casos_14d": "72",
+        "casos_7d": "48"
     }
 ]

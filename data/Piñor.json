@@ -3533,5 +3533,33 @@
         "habitantes": "1176",
         "casos_14d": null,
         "casos_7d": "0"
+    },
+    {
+        "fecha": "2022-04-18",
+        "municipio": "Pi\u00f1or",
+        "habitantes": "1176",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2022-04-19",
+        "municipio": "Pi\u00f1or",
+        "habitantes": "1176",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2022-04-20",
+        "municipio": "Pi\u00f1or",
+        "habitantes": "1176",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2022-04-21",
+        "municipio": "Pi\u00f1or",
+        "habitantes": "1176",
+        "casos_14d": "0",
+        "casos_7d": "0"
     }
 ]

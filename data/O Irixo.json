@@ -3533,5 +3533,33 @@
         "habitantes": "1466",
         "casos_14d": "12",
         "casos_7d": "10"
+    },
+    {
+        "fecha": "2022-04-18",
+        "municipio": "O Irixo",
+        "habitantes": "1466",
+        "casos_14d": "14",
+        "casos_7d": "12"
+    },
+    {
+        "fecha": "2022-04-19",
+        "municipio": "O Irixo",
+        "habitantes": "1466",
+        "casos_14d": "16",
+        "casos_7d": "13"
+    },
+    {
+        "fecha": "2022-04-20",
+        "municipio": "O Irixo",
+        "habitantes": "1466",
+        "casos_14d": "16",
+        "casos_7d": "12"
+    },
+    {
+        "fecha": "2022-04-21",
+        "municipio": "O Irixo",
+        "habitantes": "1466",
+        "casos_14d": "31",
+        "casos_7d": "21"
     }
 ]

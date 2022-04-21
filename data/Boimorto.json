@@ -3533,5 +3533,33 @@
         "habitantes": "1985",
         "casos_14d": "31",
         "casos_7d": "21"
+    },
+    {
+        "fecha": "2022-04-18",
+        "municipio": "Boimorto",
+        "habitantes": "1985",
+        "casos_14d": "43",
+        "casos_7d": "28"
+    },
+    {
+        "fecha": "2022-04-19",
+        "municipio": "Boimorto",
+        "habitantes": "1985",
+        "casos_14d": "46",
+        "casos_7d": "29"
+    },
+    {
+        "fecha": "2022-04-20",
+        "municipio": "Boimorto",
+        "habitantes": "1985",
+        "casos_14d": "49",
+        "casos_7d": "28"
+    },
+    {
+        "fecha": "2022-04-21",
+        "municipio": "Boimorto",
+        "habitantes": "1985",
+        "casos_14d": "44",
+        "casos_7d": "23"
     }
 ]
