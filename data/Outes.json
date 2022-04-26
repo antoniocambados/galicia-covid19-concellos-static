@@ -3561,5 +3561,33 @@
         "habitantes": "6282",
         "casos_14d": "40",
         "casos_7d": "24"
+    },
+    {
+        "fecha": "2022-04-22",
+        "municipio": "Outes",
+        "habitantes": "6282",
+        "casos_14d": "42",
+        "casos_7d": "27"
+    },
+    {
+        "fecha": "2022-04-23",
+        "municipio": "Outes",
+        "habitantes": "6282",
+        "casos_14d": "45",
+        "casos_7d": "30"
+    },
+    {
+        "fecha": "2022-04-25",
+        "municipio": "Outes",
+        "habitantes": "6282",
+        "casos_14d": "48",
+        "casos_7d": "30"
+    },
+    {
+        "fecha": "2022-04-26",
+        "municipio": "Outes",
+        "habitantes": "6282",
+        "casos_14d": "51",
+        "casos_7d": "32"
     }
 ]

@@ -3561,5 +3561,33 @@
         "habitantes": "1162",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-22",
+        "municipio": "Sarreaus",
+        "habitantes": "1162",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-23",
+        "municipio": "Sarreaus",
+        "habitantes": "1162",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-25",
+        "municipio": "Sarreaus",
+        "habitantes": "1162",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-26",
+        "municipio": "Sarreaus",
+        "habitantes": "1162",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]

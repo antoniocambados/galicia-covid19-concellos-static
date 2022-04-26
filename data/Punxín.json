@@ -3561,5 +3561,33 @@
         "habitantes": "693",
         "casos_14d": null,
         "casos_7d": "0"
+    },
+    {
+        "fecha": "2022-04-22",
+        "municipio": "Punx\u00edn",
+        "habitantes": "693",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2022-04-23",
+        "municipio": "Punx\u00edn",
+        "habitantes": "693",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2022-04-25",
+        "municipio": "Punx\u00edn",
+        "habitantes": "693",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-26",
+        "municipio": "Punx\u00edn",
+        "habitantes": "693",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]

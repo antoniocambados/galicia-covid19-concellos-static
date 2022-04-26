@@ -3561,5 +3561,33 @@
         "habitantes": "2940",
         "casos_14d": "19",
         "casos_7d": "15"
+    },
+    {
+        "fecha": "2022-04-22",
+        "municipio": "Portas",
+        "habitantes": "2940",
+        "casos_14d": "23",
+        "casos_7d": "17"
+    },
+    {
+        "fecha": "2022-04-23",
+        "municipio": "Portas",
+        "habitantes": "2940",
+        "casos_14d": "27",
+        "casos_7d": "20"
+    },
+    {
+        "fecha": "2022-04-25",
+        "municipio": "Portas",
+        "habitantes": "2940",
+        "casos_14d": "28",
+        "casos_7d": "19"
+    },
+    {
+        "fecha": "2022-04-26",
+        "municipio": "Portas",
+        "habitantes": "2940",
+        "casos_14d": "30",
+        "casos_7d": "18"
     }
 ]

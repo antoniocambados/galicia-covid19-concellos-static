@@ -3561,5 +3561,33 @@
         "habitantes": "5180",
         "casos_14d": "104",
         "casos_7d": "94"
+    },
+    {
+        "fecha": "2022-04-22",
+        "municipio": "A Ca\u00f1iza",
+        "habitantes": "5180",
+        "casos_14d": "106",
+        "casos_7d": "93"
+    },
+    {
+        "fecha": "2022-04-23",
+        "municipio": "A Ca\u00f1iza",
+        "habitantes": "5180",
+        "casos_14d": "110",
+        "casos_7d": "96"
+    },
+    {
+        "fecha": "2022-04-25",
+        "municipio": "A Ca\u00f1iza",
+        "habitantes": "5180",
+        "casos_14d": "111",
+        "casos_7d": "96"
+    },
+    {
+        "fecha": "2022-04-26",
+        "municipio": "A Ca\u00f1iza",
+        "habitantes": "5180",
+        "casos_14d": "113",
+        "casos_7d": "94"
     }
 ]

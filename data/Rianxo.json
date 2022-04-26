@@ -3561,5 +3561,33 @@
         "habitantes": "11033",
         "casos_14d": "72",
         "casos_7d": "41"
+    },
+    {
+        "fecha": "2022-04-22",
+        "municipio": "Rianxo",
+        "habitantes": "11033",
+        "casos_14d": "79",
+        "casos_7d": "43"
+    },
+    {
+        "fecha": "2022-04-23",
+        "municipio": "Rianxo",
+        "habitantes": "11033",
+        "casos_14d": "80",
+        "casos_7d": "46"
+    },
+    {
+        "fecha": "2022-04-25",
+        "municipio": "Rianxo",
+        "habitantes": "11033",
+        "casos_14d": "85",
+        "casos_7d": "44"
+    },
+    {
+        "fecha": "2022-04-26",
+        "municipio": "Rianxo",
+        "habitantes": "11033",
+        "casos_14d": "82",
+        "casos_7d": "41"
     }
 ]

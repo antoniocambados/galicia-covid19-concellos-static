@@ -3561,5 +3561,33 @@
         "habitantes": "1024",
         "casos_14d": "0",
         "casos_7d": "0"
+    },
+    {
+        "fecha": "2022-04-22",
+        "municipio": "Folgoso do Courel",
+        "habitantes": "1024",
+        "casos_14d": "0",
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2022-04-23",
+        "municipio": "Folgoso do Courel",
+        "habitantes": "1024",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-25",
+        "municipio": "Folgoso do Courel",
+        "habitantes": "1024",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-26",
+        "municipio": "Folgoso do Courel",
+        "habitantes": "1024",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]

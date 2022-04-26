@@ -3561,5 +3561,33 @@
         "habitantes": "1471",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-22",
+        "municipio": "Portomar\u00edn",
+        "habitantes": "1471",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-23",
+        "municipio": "Portomar\u00edn",
+        "habitantes": "1471",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-25",
+        "municipio": "Portomar\u00edn",
+        "habitantes": "1471",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-26",
+        "municipio": "Portomar\u00edn",
+        "habitantes": "1471",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]

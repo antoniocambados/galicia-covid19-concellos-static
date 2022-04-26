@@ -3561,5 +3561,33 @@
         "habitantes": "5246",
         "casos_14d": "26",
         "casos_7d": "13"
+    },
+    {
+        "fecha": "2022-04-22",
+        "municipio": "Vila de Cruces",
+        "habitantes": "5246",
+        "casos_14d": "27",
+        "casos_7d": "13"
+    },
+    {
+        "fecha": "2022-04-23",
+        "municipio": "Vila de Cruces",
+        "habitantes": "5246",
+        "casos_14d": "26",
+        "casos_7d": "13"
+    },
+    {
+        "fecha": "2022-04-25",
+        "municipio": "Vila de Cruces",
+        "habitantes": "5246",
+        "casos_14d": "25",
+        "casos_7d": "13"
+    },
+    {
+        "fecha": "2022-04-26",
+        "municipio": "Vila de Cruces",
+        "habitantes": "5246",
+        "casos_14d": "23",
+        "casos_7d": null
     }
 ]

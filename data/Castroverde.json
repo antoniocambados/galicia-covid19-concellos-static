@@ -3561,5 +3561,33 @@
         "habitantes": "2617",
         "casos_14d": "33",
         "casos_7d": "25"
+    },
+    {
+        "fecha": "2022-04-22",
+        "municipio": "Castroverde",
+        "habitantes": "2617",
+        "casos_14d": "32",
+        "casos_7d": "25"
+    },
+    {
+        "fecha": "2022-04-23",
+        "municipio": "Castroverde",
+        "habitantes": "2617",
+        "casos_14d": "32",
+        "casos_7d": "17"
+    },
+    {
+        "fecha": "2022-04-25",
+        "municipio": "Castroverde",
+        "habitantes": "2617",
+        "casos_14d": "32",
+        "casos_7d": "21"
+    },
+    {
+        "fecha": "2022-04-26",
+        "municipio": "Castroverde",
+        "habitantes": "2617",
+        "casos_14d": "34",
+        "casos_7d": "13"
     }
 ]

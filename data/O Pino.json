@@ -3561,5 +3561,33 @@
         "habitantes": "4641",
         "casos_14d": "27",
         "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-22",
+        "municipio": "O Pino",
+        "habitantes": "4641",
+        "casos_14d": "30",
+        "casos_7d": "13"
+    },
+    {
+        "fecha": "2022-04-23",
+        "municipio": "O Pino",
+        "habitantes": "4641",
+        "casos_14d": "31",
+        "casos_7d": "16"
+    },
+    {
+        "fecha": "2022-04-25",
+        "municipio": "O Pino",
+        "habitantes": "4641",
+        "casos_14d": "29",
+        "casos_7d": "16"
+    },
+    {
+        "fecha": "2022-04-26",
+        "municipio": "O Pino",
+        "habitantes": "4641",
+        "casos_14d": "28",
+        "casos_7d": "18"
     }
 ]

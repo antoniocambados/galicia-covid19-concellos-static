@@ -3561,5 +3561,33 @@
         "habitantes": "2137",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-22",
+        "municipio": "San Cristovo de Cea",
+        "habitantes": "2137",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-23",
+        "municipio": "San Cristovo de Cea",
+        "habitantes": "2137",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-25",
+        "municipio": "San Cristovo de Cea",
+        "habitantes": "2137",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-26",
+        "municipio": "San Cristovo de Cea",
+        "habitantes": "2137",
+        "casos_14d": "10",
+        "casos_7d": null
     }
 ]
