@@ -3589,5 +3589,194 @@
         "habitantes": "15078",
         "casos_14d": "62",
         "casos_7d": "25"
+    },
+    {
+        "fecha": "2022-04-27",
+        "municipio": "Mos",
+        "habitantes": "15078",
+        "casos_14d": "61",
+        "casos_7d": "26"
+    },
+    {
+        "fecha": "2022-04-28",
+        "municipio": "Mos",
+        "habitantes": "15078",
+        "casos_14d": "61",
+        "casos_7d": "26"
+    },
+    {
+        "fecha": "2022-04-29",
+        "municipio": "Mos",
+        "habitantes": "15078",
+        "casos_14d": "62",
+        "casos_7d": "28"
+    },
+    {
+        "fecha": "2022-04-30",
+        "municipio": "Mos",
+        "habitantes": "15078",
+        "casos_14d": "59",
+        "casos_7d": "24"
+    },
+    {
+        "fecha": "2022-05-02",
+        "municipio": "Mos",
+        "habitantes": "15078",
+        "casos_14d": "52",
+        "casos_7d": "26"
+    },
+    {
+        "fecha": "2022-05-03",
+        "municipio": "Mos",
+        "habitantes": "15078",
+        "casos_14d": "53",
+        "casos_7d": "28"
+    },
+    {
+        "fecha": "2022-05-04",
+        "municipio": "Mos",
+        "habitantes": "15078",
+        "casos_14d": "55",
+        "casos_7d": "29"
+    },
+    {
+        "fecha": "2022-05-05",
+        "municipio": "Mos",
+        "habitantes": "15078",
+        "casos_14d": "54",
+        "casos_7d": "28"
+    },
+    {
+        "fecha": "2022-05-06",
+        "municipio": "Mos",
+        "habitantes": "15078",
+        "casos_14d": "58",
+        "casos_7d": "30"
+    },
+    {
+        "fecha": "2022-05-07",
+        "municipio": "Mos",
+        "habitantes": "15078",
+        "casos_14d": "58",
+        "casos_7d": "34"
+    },
+    {
+        "fecha": "2022-05-09",
+        "municipio": "Mos",
+        "habitantes": "15078",
+        "casos_14d": "58",
+        "casos_7d": "32"
+    },
+    {
+        "fecha": "2022-05-10",
+        "municipio": "Mos",
+        "habitantes": "15078",
+        "casos_14d": "66",
+        "casos_7d": "38"
+    },
+    {
+        "fecha": "2022-05-11",
+        "municipio": "Mos",
+        "habitantes": "15078",
+        "casos_14d": "73",
+        "casos_7d": "44"
+    },
+    {
+        "fecha": "2022-05-12",
+        "municipio": "Mos",
+        "habitantes": "15078",
+        "casos_14d": "69",
+        "casos_7d": "41"
+    },
+    {
+        "fecha": "2022-05-13",
+        "municipio": "Mos",
+        "habitantes": "15078",
+        "casos_14d": "70",
+        "casos_7d": "40"
+    },
+    {
+        "fecha": "2022-05-14",
+        "municipio": "Mos",
+        "habitantes": "15078",
+        "casos_14d": "80",
+        "casos_7d": "46"
+    },
+    {
+        "fecha": "2022-05-16",
+        "municipio": "Mos",
+        "habitantes": "15078",
+        "casos_14d": "77",
+        "casos_7d": "45"
+    },
+    {
+        "fecha": "2022-05-17",
+        "municipio": "Mos",
+        "habitantes": "15078",
+        "casos_14d": "74",
+        "casos_7d": "36"
+    },
+    {
+        "fecha": "2022-05-18",
+        "municipio": "Mos",
+        "habitantes": "15078",
+        "casos_14d": "73",
+        "casos_7d": "29"
+    },
+    {
+        "fecha": "2022-05-19",
+        "municipio": "Mos",
+        "habitantes": "15078",
+        "casos_14d": "70",
+        "casos_7d": "29"
+    },
+    {
+        "fecha": "2022-05-20",
+        "municipio": "Mos",
+        "habitantes": "15078",
+        "casos_14d": "66",
+        "casos_7d": "26"
+    },
+    {
+        "fecha": "2022-05-21",
+        "municipio": "Mos",
+        "habitantes": "15078",
+        "casos_14d": "67",
+        "casos_7d": "21"
+    },
+    {
+        "fecha": "2022-05-23",
+        "municipio": "Mos",
+        "habitantes": "15078",
+        "casos_14d": "72",
+        "casos_7d": "27"
+    },
+    {
+        "fecha": "2022-05-24",
+        "municipio": "Mos",
+        "habitantes": "15078",
+        "casos_14d": "62",
+        "casos_7d": "26"
+    },
+    {
+        "fecha": "2022-05-25",
+        "municipio": "Mos",
+        "habitantes": "15078",
+        "casos_14d": "55",
+        "casos_7d": "26"
+    },
+    {
+        "fecha": "2022-05-26",
+        "municipio": "Mos",
+        "habitantes": "15078",
+        "casos_14d": "56",
+        "casos_7d": "27"
+    },
+    {
+        "fecha": "2022-05-27",
+        "municipio": "Mos",
+        "habitantes": "15078",
+        "casos_14d": "56",
+        "casos_7d": "30"
     }
 ]

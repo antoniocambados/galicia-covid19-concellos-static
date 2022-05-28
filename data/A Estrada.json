@@ -3589,5 +3589,194 @@
         "habitantes": "20479",
         "casos_14d": "130",
         "casos_7d": "73"
+    },
+    {
+        "fecha": "2022-04-27",
+        "municipio": "A Estrada",
+        "habitantes": "20479",
+        "casos_14d": "135",
+        "casos_7d": "80"
+    },
+    {
+        "fecha": "2022-04-28",
+        "municipio": "A Estrada",
+        "habitantes": "20479",
+        "casos_14d": "133",
+        "casos_7d": "80"
+    },
+    {
+        "fecha": "2022-04-29",
+        "municipio": "A Estrada",
+        "habitantes": "20479",
+        "casos_14d": "135",
+        "casos_7d": "74"
+    },
+    {
+        "fecha": "2022-04-30",
+        "municipio": "A Estrada",
+        "habitantes": "20479",
+        "casos_14d": "133",
+        "casos_7d": "68"
+    },
+    {
+        "fecha": "2022-05-02",
+        "municipio": "A Estrada",
+        "habitantes": "20479",
+        "casos_14d": "139",
+        "casos_7d": "77"
+    },
+    {
+        "fecha": "2022-05-03",
+        "municipio": "A Estrada",
+        "habitantes": "20479",
+        "casos_14d": "150",
+        "casos_7d": "77"
+    },
+    {
+        "fecha": "2022-05-04",
+        "municipio": "A Estrada",
+        "habitantes": "20479",
+        "casos_14d": "169",
+        "casos_7d": "89"
+    },
+    {
+        "fecha": "2022-05-05",
+        "municipio": "A Estrada",
+        "habitantes": "20479",
+        "casos_14d": "164",
+        "casos_7d": "84"
+    },
+    {
+        "fecha": "2022-05-06",
+        "municipio": "A Estrada",
+        "habitantes": "20479",
+        "casos_14d": "164",
+        "casos_7d": "90"
+    },
+    {
+        "fecha": "2022-05-07",
+        "municipio": "A Estrada",
+        "habitantes": "20479",
+        "casos_14d": "173",
+        "casos_7d": "105"
+    },
+    {
+        "fecha": "2022-05-09",
+        "municipio": "A Estrada",
+        "habitantes": "20479",
+        "casos_14d": "182",
+        "casos_7d": "105"
+    },
+    {
+        "fecha": "2022-05-10",
+        "municipio": "A Estrada",
+        "habitantes": "20479",
+        "casos_14d": "188",
+        "casos_7d": "111"
+    },
+    {
+        "fecha": "2022-05-11",
+        "municipio": "A Estrada",
+        "habitantes": "20479",
+        "casos_14d": "193",
+        "casos_7d": "104"
+    },
+    {
+        "fecha": "2022-05-12",
+        "municipio": "A Estrada",
+        "habitantes": "20479",
+        "casos_14d": "199",
+        "casos_7d": "115"
+    },
+    {
+        "fecha": "2022-05-13",
+        "municipio": "A Estrada",
+        "habitantes": "20479",
+        "casos_14d": "205",
+        "casos_7d": "115"
+    },
+    {
+        "fecha": "2022-05-14",
+        "municipio": "A Estrada",
+        "habitantes": "20479",
+        "casos_14d": "207",
+        "casos_7d": "102"
+    },
+    {
+        "fecha": "2022-05-16",
+        "municipio": "A Estrada",
+        "habitantes": "20479",
+        "casos_14d": "194",
+        "casos_7d": "89"
+    },
+    {
+        "fecha": "2022-05-17",
+        "municipio": "A Estrada",
+        "habitantes": "20479",
+        "casos_14d": "195",
+        "casos_7d": "84"
+    },
+    {
+        "fecha": "2022-05-18",
+        "municipio": "A Estrada",
+        "habitantes": "20479",
+        "casos_14d": "173",
+        "casos_7d": "69"
+    },
+    {
+        "fecha": "2022-05-19",
+        "municipio": "A Estrada",
+        "habitantes": "20479",
+        "casos_14d": "174",
+        "casos_7d": "59"
+    },
+    {
+        "fecha": "2022-05-20",
+        "municipio": "A Estrada",
+        "habitantes": "20479",
+        "casos_14d": "166",
+        "casos_7d": "51"
+    },
+    {
+        "fecha": "2022-05-21",
+        "municipio": "A Estrada",
+        "habitantes": "20479",
+        "casos_14d": "151",
+        "casos_7d": "49"
+    },
+    {
+        "fecha": "2022-05-23",
+        "municipio": "A Estrada",
+        "habitantes": "20479",
+        "casos_14d": "143",
+        "casos_7d": "54"
+    },
+    {
+        "fecha": "2022-05-24",
+        "municipio": "A Estrada",
+        "habitantes": "20479",
+        "casos_14d": "129",
+        "casos_7d": "45"
+    },
+    {
+        "fecha": "2022-05-25",
+        "municipio": "A Estrada",
+        "habitantes": "20479",
+        "casos_14d": "111",
+        "casos_7d": "42"
+    },
+    {
+        "fecha": "2022-05-26",
+        "municipio": "A Estrada",
+        "habitantes": "20479",
+        "casos_14d": "91",
+        "casos_7d": "32"
+    },
+    {
+        "fecha": "2022-05-27",
+        "municipio": "A Estrada",
+        "habitantes": "20479",
+        "casos_14d": "78",
+        "casos_7d": "27"
     }
 ]

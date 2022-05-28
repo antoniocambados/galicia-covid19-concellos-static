@@ -3589,5 +3589,194 @@
         "habitantes": "66065",
         "casos_14d": "525",
         "casos_7d": "280"
+    },
+    {
+        "fecha": "2022-04-27",
+        "municipio": "Ferrol",
+        "habitantes": "66065",
+        "casos_14d": "533",
+        "casos_7d": "288"
+    },
+    {
+        "fecha": "2022-04-28",
+        "municipio": "Ferrol",
+        "habitantes": "66065",
+        "casos_14d": "551",
+        "casos_7d": "298"
+    },
+    {
+        "fecha": "2022-04-29",
+        "municipio": "Ferrol",
+        "habitantes": "66065",
+        "casos_14d": "560",
+        "casos_7d": "300"
+    },
+    {
+        "fecha": "2022-04-30",
+        "municipio": "Ferrol",
+        "habitantes": "66065",
+        "casos_14d": "580",
+        "casos_7d": "300"
+    },
+    {
+        "fecha": "2022-05-02",
+        "municipio": "Ferrol",
+        "habitantes": "66065",
+        "casos_14d": "565",
+        "casos_7d": "284"
+    },
+    {
+        "fecha": "2022-05-03",
+        "municipio": "Ferrol",
+        "habitantes": "66065",
+        "casos_14d": "574",
+        "casos_7d": "294"
+    },
+    {
+        "fecha": "2022-05-04",
+        "municipio": "Ferrol",
+        "habitantes": "66065",
+        "casos_14d": "598",
+        "casos_7d": "311"
+    },
+    {
+        "fecha": "2022-05-05",
+        "municipio": "Ferrol",
+        "habitantes": "66065",
+        "casos_14d": "578",
+        "casos_7d": "281"
+    },
+    {
+        "fecha": "2022-05-06",
+        "municipio": "Ferrol",
+        "habitantes": "66065",
+        "casos_14d": "573",
+        "casos_7d": "274"
+    },
+    {
+        "fecha": "2022-05-07",
+        "municipio": "Ferrol",
+        "habitantes": "66065",
+        "casos_14d": "566",
+        "casos_7d": "267"
+    },
+    {
+        "fecha": "2022-05-09",
+        "municipio": "Ferrol",
+        "habitantes": "66065",
+        "casos_14d": "558",
+        "casos_7d": "275"
+    },
+    {
+        "fecha": "2022-05-10",
+        "municipio": "Ferrol",
+        "habitantes": "66065",
+        "casos_14d": "572",
+        "casos_7d": "278"
+    },
+    {
+        "fecha": "2022-05-11",
+        "municipio": "Ferrol",
+        "habitantes": "66065",
+        "casos_14d": "571",
+        "casos_7d": "260"
+    },
+    {
+        "fecha": "2022-05-12",
+        "municipio": "Ferrol",
+        "habitantes": "66065",
+        "casos_14d": "552",
+        "casos_7d": "271"
+    },
+    {
+        "fecha": "2022-05-13",
+        "municipio": "Ferrol",
+        "habitantes": "66065",
+        "casos_14d": "534",
+        "casos_7d": "260"
+    },
+    {
+        "fecha": "2022-05-14",
+        "municipio": "Ferrol",
+        "habitantes": "66065",
+        "casos_14d": "527",
+        "casos_7d": "260"
+    },
+    {
+        "fecha": "2022-05-16",
+        "municipio": "Ferrol",
+        "habitantes": "66065",
+        "casos_14d": "518",
+        "casos_7d": "243"
+    },
+    {
+        "fecha": "2022-05-17",
+        "municipio": "Ferrol",
+        "habitantes": "66065",
+        "casos_14d": "502",
+        "casos_7d": "224"
+    },
+    {
+        "fecha": "2022-05-18",
+        "municipio": "Ferrol",
+        "habitantes": "66065",
+        "casos_14d": "469",
+        "casos_7d": "209"
+    },
+    {
+        "fecha": "2022-05-19",
+        "municipio": "Ferrol",
+        "habitantes": "66065",
+        "casos_14d": "456",
+        "casos_7d": "185"
+    },
+    {
+        "fecha": "2022-05-20",
+        "municipio": "Ferrol",
+        "habitantes": "66065",
+        "casos_14d": "431",
+        "casos_7d": "171"
+    },
+    {
+        "fecha": "2022-05-21",
+        "municipio": "Ferrol",
+        "habitantes": "66065",
+        "casos_14d": "430",
+        "casos_7d": "170"
+    },
+    {
+        "fecha": "2022-05-23",
+        "municipio": "Ferrol",
+        "habitantes": "66065",
+        "casos_14d": "423",
+        "casos_7d": "180"
+    },
+    {
+        "fecha": "2022-05-24",
+        "municipio": "Ferrol",
+        "habitantes": "66065",
+        "casos_14d": "402",
+        "casos_7d": "178"
+    },
+    {
+        "fecha": "2022-05-25",
+        "municipio": "Ferrol",
+        "habitantes": "66065",
+        "casos_14d": "393",
+        "casos_7d": "184"
+    },
+    {
+        "fecha": "2022-05-26",
+        "municipio": "Ferrol",
+        "habitantes": "66065",
+        "casos_14d": "374",
+        "casos_7d": "189"
+    },
+    {
+        "fecha": "2022-05-27",
+        "municipio": "Ferrol",
+        "habitantes": "66065",
+        "casos_14d": "358",
+        "casos_7d": "187"
     }
 ]

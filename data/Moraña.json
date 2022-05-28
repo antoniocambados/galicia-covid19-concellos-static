@@ -3589,5 +3589,194 @@
         "habitantes": "4179",
         "casos_14d": "17",
         "casos_7d": "12"
+    },
+    {
+        "fecha": "2022-04-27",
+        "municipio": "Mora\u00f1a",
+        "habitantes": "4179",
+        "casos_14d": "19",
+        "casos_7d": "14"
+    },
+    {
+        "fecha": "2022-04-28",
+        "municipio": "Mora\u00f1a",
+        "habitantes": "4179",
+        "casos_14d": "19",
+        "casos_7d": "13"
+    },
+    {
+        "fecha": "2022-04-29",
+        "municipio": "Mora\u00f1a",
+        "habitantes": "4179",
+        "casos_14d": "23",
+        "casos_7d": "15"
+    },
+    {
+        "fecha": "2022-04-30",
+        "municipio": "Mora\u00f1a",
+        "habitantes": "4179",
+        "casos_14d": "25",
+        "casos_7d": "15"
+    },
+    {
+        "fecha": "2022-05-02",
+        "municipio": "Mora\u00f1a",
+        "habitantes": "4179",
+        "casos_14d": "28",
+        "casos_7d": "17"
+    },
+    {
+        "fecha": "2022-05-03",
+        "municipio": "Mora\u00f1a",
+        "habitantes": "4179",
+        "casos_14d": "28",
+        "casos_7d": "16"
+    },
+    {
+        "fecha": "2022-05-04",
+        "municipio": "Mora\u00f1a",
+        "habitantes": "4179",
+        "casos_14d": "28",
+        "casos_7d": "14"
+    },
+    {
+        "fecha": "2022-05-05",
+        "municipio": "Mora\u00f1a",
+        "habitantes": "4179",
+        "casos_14d": "32",
+        "casos_7d": "19"
+    },
+    {
+        "fecha": "2022-05-06",
+        "municipio": "Mora\u00f1a",
+        "habitantes": "4179",
+        "casos_14d": "32",
+        "casos_7d": "17"
+    },
+    {
+        "fecha": "2022-05-07",
+        "municipio": "Mora\u00f1a",
+        "habitantes": "4179",
+        "casos_14d": "30",
+        "casos_7d": "15"
+    },
+    {
+        "fecha": "2022-05-09",
+        "municipio": "Mora\u00f1a",
+        "habitantes": "4179",
+        "casos_14d": "32",
+        "casos_7d": "15"
+    },
+    {
+        "fecha": "2022-05-10",
+        "municipio": "Mora\u00f1a",
+        "habitantes": "4179",
+        "casos_14d": "36",
+        "casos_7d": "20"
+    },
+    {
+        "fecha": "2022-05-11",
+        "municipio": "Mora\u00f1a",
+        "habitantes": "4179",
+        "casos_14d": "35",
+        "casos_7d": "22"
+    },
+    {
+        "fecha": "2022-05-12",
+        "municipio": "Mora\u00f1a",
+        "habitantes": "4179",
+        "casos_14d": "34",
+        "casos_7d": "16"
+    },
+    {
+        "fecha": "2022-05-13",
+        "municipio": "Mora\u00f1a",
+        "habitantes": "4179",
+        "casos_14d": "32",
+        "casos_7d": "16"
+    },
+    {
+        "fecha": "2022-05-14",
+        "municipio": "Mora\u00f1a",
+        "habitantes": "4179",
+        "casos_14d": "30",
+        "casos_7d": "15"
+    },
+    {
+        "fecha": "2022-05-16",
+        "municipio": "Mora\u00f1a",
+        "habitantes": "4179",
+        "casos_14d": "26",
+        "casos_7d": "11"
+    },
+    {
+        "fecha": "2022-05-17",
+        "municipio": "Mora\u00f1a",
+        "habitantes": "4179",
+        "casos_14d": "25",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-18",
+        "municipio": "Mora\u00f1a",
+        "habitantes": "4179",
+        "casos_14d": "26",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-19",
+        "municipio": "Mora\u00f1a",
+        "habitantes": "4179",
+        "casos_14d": "20",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-20",
+        "municipio": "Mora\u00f1a",
+        "habitantes": "4179",
+        "casos_14d": "19",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-21",
+        "municipio": "Mora\u00f1a",
+        "habitantes": "4179",
+        "casos_14d": "21",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-23",
+        "municipio": "Mora\u00f1a",
+        "habitantes": "4179",
+        "casos_14d": "18",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-24",
+        "municipio": "Mora\u00f1a",
+        "habitantes": "4179",
+        "casos_14d": "14",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-25",
+        "municipio": "Mora\u00f1a",
+        "habitantes": "4179",
+        "casos_14d": "13",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-26",
+        "municipio": "Mora\u00f1a",
+        "habitantes": "4179",
+        "casos_14d": "15",
+        "casos_7d": "11"
+    },
+    {
+        "fecha": "2022-05-27",
+        "municipio": "Mora\u00f1a",
+        "habitantes": "4179",
+        "casos_14d": "13",
+        "casos_7d": "10"
     }
 ]

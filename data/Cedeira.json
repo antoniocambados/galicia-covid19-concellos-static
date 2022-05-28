@@ -3589,5 +3589,194 @@
         "habitantes": "6640",
         "casos_14d": "56",
         "casos_7d": "23"
+    },
+    {
+        "fecha": "2022-04-27",
+        "municipio": "Cedeira",
+        "habitantes": "6640",
+        "casos_14d": "59",
+        "casos_7d": "24"
+    },
+    {
+        "fecha": "2022-04-28",
+        "municipio": "Cedeira",
+        "habitantes": "6640",
+        "casos_14d": "63",
+        "casos_7d": "29"
+    },
+    {
+        "fecha": "2022-04-29",
+        "municipio": "Cedeira",
+        "habitantes": "6640",
+        "casos_14d": "52",
+        "casos_7d": "30"
+    },
+    {
+        "fecha": "2022-04-30",
+        "municipio": "Cedeira",
+        "habitantes": "6640",
+        "casos_14d": "46",
+        "casos_7d": "26"
+    },
+    {
+        "fecha": "2022-05-02",
+        "municipio": "Cedeira",
+        "habitantes": "6640",
+        "casos_14d": "44",
+        "casos_7d": "24"
+    },
+    {
+        "fecha": "2022-05-03",
+        "municipio": "Cedeira",
+        "habitantes": "6640",
+        "casos_14d": "46",
+        "casos_7d": "23"
+    },
+    {
+        "fecha": "2022-05-04",
+        "municipio": "Cedeira",
+        "habitantes": "6640",
+        "casos_14d": "48",
+        "casos_7d": "24"
+    },
+    {
+        "fecha": "2022-05-05",
+        "municipio": "Cedeira",
+        "habitantes": "6640",
+        "casos_14d": "47",
+        "casos_7d": "18"
+    },
+    {
+        "fecha": "2022-05-06",
+        "municipio": "Cedeira",
+        "habitantes": "6640",
+        "casos_14d": "46",
+        "casos_7d": "16"
+    },
+    {
+        "fecha": "2022-05-07",
+        "municipio": "Cedeira",
+        "habitantes": "6640",
+        "casos_14d": "44",
+        "casos_7d": "18"
+    },
+    {
+        "fecha": "2022-05-09",
+        "municipio": "Cedeira",
+        "habitantes": "6640",
+        "casos_14d": "47",
+        "casos_7d": "23"
+    },
+    {
+        "fecha": "2022-05-10",
+        "municipio": "Cedeira",
+        "habitantes": "6640",
+        "casos_14d": "44",
+        "casos_7d": "21"
+    },
+    {
+        "fecha": "2022-05-11",
+        "municipio": "Cedeira",
+        "habitantes": "6640",
+        "casos_14d": "42",
+        "casos_7d": "18"
+    },
+    {
+        "fecha": "2022-05-12",
+        "municipio": "Cedeira",
+        "habitantes": "6640",
+        "casos_14d": "37",
+        "casos_7d": "19"
+    },
+    {
+        "fecha": "2022-05-13",
+        "municipio": "Cedeira",
+        "habitantes": "6640",
+        "casos_14d": "32",
+        "casos_7d": "16"
+    },
+    {
+        "fecha": "2022-05-14",
+        "municipio": "Cedeira",
+        "habitantes": "6640",
+        "casos_14d": "34",
+        "casos_7d": "16"
+    },
+    {
+        "fecha": "2022-05-16",
+        "municipio": "Cedeira",
+        "habitantes": "6640",
+        "casos_14d": "32",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-17",
+        "municipio": "Cedeira",
+        "habitantes": "6640",
+        "casos_14d": "29",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-18",
+        "municipio": "Cedeira",
+        "habitantes": "6640",
+        "casos_14d": "26",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-19",
+        "municipio": "Cedeira",
+        "habitantes": "6640",
+        "casos_14d": "24",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-20",
+        "municipio": "Cedeira",
+        "habitantes": "6640",
+        "casos_14d": "23",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-21",
+        "municipio": "Cedeira",
+        "habitantes": "6640",
+        "casos_14d": "23",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-23",
+        "municipio": "Cedeira",
+        "habitantes": "6640",
+        "casos_14d": "19",
+        "casos_7d": "10"
+    },
+    {
+        "fecha": "2022-05-24",
+        "municipio": "Cedeira",
+        "habitantes": "6640",
+        "casos_14d": "18",
+        "casos_7d": "10"
+    },
+    {
+        "fecha": "2022-05-25",
+        "municipio": "Cedeira",
+        "habitantes": "6640",
+        "casos_14d": "19",
+        "casos_7d": "11"
+    },
+    {
+        "fecha": "2022-05-26",
+        "municipio": "Cedeira",
+        "habitantes": "6640",
+        "casos_14d": "15",
+        "casos_7d": "10"
+    },
+    {
+        "fecha": "2022-05-27",
+        "municipio": "Cedeira",
+        "habitantes": "6640",
+        "casos_14d": "19",
+        "casos_7d": "12"
     }
 ]

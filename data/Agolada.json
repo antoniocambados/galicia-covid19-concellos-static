@@ -3589,5 +3589,194 @@
         "habitantes": "2344",
         "casos_14d": "14",
         "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-27",
+        "municipio": "Agolada",
+        "habitantes": "2344",
+        "casos_14d": "13",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-28",
+        "municipio": "Agolada",
+        "habitantes": "2344",
+        "casos_14d": "12",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-29",
+        "municipio": "Agolada",
+        "habitantes": "2344",
+        "casos_14d": "12",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-30",
+        "municipio": "Agolada",
+        "habitantes": "2344",
+        "casos_14d": "13",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-02",
+        "municipio": "Agolada",
+        "habitantes": "2344",
+        "casos_14d": "13",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-03",
+        "municipio": "Agolada",
+        "habitantes": "2344",
+        "casos_14d": "10",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-04",
+        "municipio": "Agolada",
+        "habitantes": "2344",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-05",
+        "municipio": "Agolada",
+        "habitantes": "2344",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-06",
+        "municipio": "Agolada",
+        "habitantes": "2344",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-07",
+        "municipio": "Agolada",
+        "habitantes": "2344",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-09",
+        "municipio": "Agolada",
+        "habitantes": "2344",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-10",
+        "municipio": "Agolada",
+        "habitantes": "2344",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-11",
+        "municipio": "Agolada",
+        "habitantes": "2344",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-12",
+        "municipio": "Agolada",
+        "habitantes": "2344",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-13",
+        "municipio": "Agolada",
+        "habitantes": "2344",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-14",
+        "municipio": "Agolada",
+        "habitantes": "2344",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-16",
+        "municipio": "Agolada",
+        "habitantes": "2344",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-17",
+        "municipio": "Agolada",
+        "habitantes": "2344",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-18",
+        "municipio": "Agolada",
+        "habitantes": "2344",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-19",
+        "municipio": "Agolada",
+        "habitantes": "2344",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-20",
+        "municipio": "Agolada",
+        "habitantes": "2344",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-21",
+        "municipio": "Agolada",
+        "habitantes": "2344",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-23",
+        "municipio": "Agolada",
+        "habitantes": "2344",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-24",
+        "municipio": "Agolada",
+        "habitantes": "2344",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-25",
+        "municipio": "Agolada",
+        "habitantes": "2344",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-26",
+        "municipio": "Agolada",
+        "habitantes": "2344",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-27",
+        "municipio": "Agolada",
+        "habitantes": "2344",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]

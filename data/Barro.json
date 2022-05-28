@@ -3589,5 +3589,194 @@
         "habitantes": "3680",
         "casos_14d": "11",
         "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-27",
+        "municipio": "Barro",
+        "habitantes": "3680",
+        "casos_14d": "11",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-28",
+        "municipio": "Barro",
+        "habitantes": "3680",
+        "casos_14d": "11",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-29",
+        "municipio": "Barro",
+        "habitantes": "3680",
+        "casos_14d": "10",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-30",
+        "municipio": "Barro",
+        "habitantes": "3680",
+        "casos_14d": "11",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-02",
+        "municipio": "Barro",
+        "habitantes": "3680",
+        "casos_14d": "13",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-03",
+        "municipio": "Barro",
+        "habitantes": "3680",
+        "casos_14d": "13",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-04",
+        "municipio": "Barro",
+        "habitantes": "3680",
+        "casos_14d": "11",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-05",
+        "municipio": "Barro",
+        "habitantes": "3680",
+        "casos_14d": "11",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-06",
+        "municipio": "Barro",
+        "habitantes": "3680",
+        "casos_14d": "10",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-07",
+        "municipio": "Barro",
+        "habitantes": "3680",
+        "casos_14d": "12",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-09",
+        "municipio": "Barro",
+        "habitantes": "3680",
+        "casos_14d": "14",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-10",
+        "municipio": "Barro",
+        "habitantes": "3680",
+        "casos_14d": "14",
+        "casos_7d": "10"
+    },
+    {
+        "fecha": "2022-05-11",
+        "municipio": "Barro",
+        "habitantes": "3680",
+        "casos_14d": "15",
+        "casos_7d": "11"
+    },
+    {
+        "fecha": "2022-05-12",
+        "municipio": "Barro",
+        "habitantes": "3680",
+        "casos_14d": "17",
+        "casos_7d": "12"
+    },
+    {
+        "fecha": "2022-05-13",
+        "municipio": "Barro",
+        "habitantes": "3680",
+        "casos_14d": "20",
+        "casos_7d": "14"
+    },
+    {
+        "fecha": "2022-05-14",
+        "municipio": "Barro",
+        "habitantes": "3680",
+        "casos_14d": "20",
+        "casos_7d": "13"
+    },
+    {
+        "fecha": "2022-05-16",
+        "municipio": "Barro",
+        "habitantes": "3680",
+        "casos_14d": "18",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-17",
+        "municipio": "Barro",
+        "habitantes": "3680",
+        "casos_14d": "19",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-18",
+        "municipio": "Barro",
+        "habitantes": "3680",
+        "casos_14d": "19",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-19",
+        "municipio": "Barro",
+        "habitantes": "3680",
+        "casos_14d": "18",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-20",
+        "municipio": "Barro",
+        "habitantes": "3680",
+        "casos_14d": "18",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-21",
+        "municipio": "Barro",
+        "habitantes": "3680",
+        "casos_14d": "18",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-23",
+        "municipio": "Barro",
+        "habitantes": "3680",
+        "casos_14d": "16",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-24",
+        "municipio": "Barro",
+        "habitantes": "3680",
+        "casos_14d": "15",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-25",
+        "municipio": "Barro",
+        "habitantes": "3680",
+        "casos_14d": "14",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-26",
+        "municipio": "Barro",
+        "habitantes": "3680",
+        "casos_14d": "13",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-27",
+        "municipio": "Barro",
+        "habitantes": "3680",
+        "casos_14d": "10",
+        "casos_7d": null
     }
 ]

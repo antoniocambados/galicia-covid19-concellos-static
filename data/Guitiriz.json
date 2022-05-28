@@ -3589,5 +3589,194 @@
         "habitantes": "5484",
         "casos_14d": "35",
         "casos_7d": "16"
+    },
+    {
+        "fecha": "2022-04-27",
+        "municipio": "Guitiriz",
+        "habitantes": "5484",
+        "casos_14d": "34",
+        "casos_7d": "16"
+    },
+    {
+        "fecha": "2022-04-28",
+        "municipio": "Guitiriz",
+        "habitantes": "5484",
+        "casos_14d": "32",
+        "casos_7d": "17"
+    },
+    {
+        "fecha": "2022-04-29",
+        "municipio": "Guitiriz",
+        "habitantes": "5484",
+        "casos_14d": "33",
+        "casos_7d": "15"
+    },
+    {
+        "fecha": "2022-04-30",
+        "municipio": "Guitiriz",
+        "habitantes": "5484",
+        "casos_14d": "35",
+        "casos_7d": "14"
+    },
+    {
+        "fecha": "2022-05-02",
+        "municipio": "Guitiriz",
+        "habitantes": "5484",
+        "casos_14d": "37",
+        "casos_7d": "17"
+    },
+    {
+        "fecha": "2022-05-03",
+        "municipio": "Guitiriz",
+        "habitantes": "5484",
+        "casos_14d": "33",
+        "casos_7d": "17"
+    },
+    {
+        "fecha": "2022-05-04",
+        "municipio": "Guitiriz",
+        "habitantes": "5484",
+        "casos_14d": "30",
+        "casos_7d": "14"
+    },
+    {
+        "fecha": "2022-05-05",
+        "municipio": "Guitiriz",
+        "habitantes": "5484",
+        "casos_14d": "33",
+        "casos_7d": "16"
+    },
+    {
+        "fecha": "2022-05-06",
+        "municipio": "Guitiriz",
+        "habitantes": "5484",
+        "casos_14d": "30",
+        "casos_7d": "15"
+    },
+    {
+        "fecha": "2022-05-07",
+        "municipio": "Guitiriz",
+        "habitantes": "5484",
+        "casos_14d": "35",
+        "casos_7d": "21"
+    },
+    {
+        "fecha": "2022-05-09",
+        "municipio": "Guitiriz",
+        "habitantes": "5484",
+        "casos_14d": "34",
+        "casos_7d": "17"
+    },
+    {
+        "fecha": "2022-05-10",
+        "municipio": "Guitiriz",
+        "habitantes": "5484",
+        "casos_14d": "35",
+        "casos_7d": "18"
+    },
+    {
+        "fecha": "2022-05-11",
+        "municipio": "Guitiriz",
+        "habitantes": "5484",
+        "casos_14d": "34",
+        "casos_7d": "20"
+    },
+    {
+        "fecha": "2022-05-12",
+        "municipio": "Guitiriz",
+        "habitantes": "5484",
+        "casos_14d": "34",
+        "casos_7d": "18"
+    },
+    {
+        "fecha": "2022-05-13",
+        "municipio": "Guitiriz",
+        "habitantes": "5484",
+        "casos_14d": "39",
+        "casos_7d": "24"
+    },
+    {
+        "fecha": "2022-05-14",
+        "municipio": "Guitiriz",
+        "habitantes": "5484",
+        "casos_14d": "36",
+        "casos_7d": "15"
+    },
+    {
+        "fecha": "2022-05-16",
+        "municipio": "Guitiriz",
+        "habitantes": "5484",
+        "casos_14d": "31",
+        "casos_7d": "14"
+    },
+    {
+        "fecha": "2022-05-17",
+        "municipio": "Guitiriz",
+        "habitantes": "5484",
+        "casos_14d": "31",
+        "casos_7d": "13"
+    },
+    {
+        "fecha": "2022-05-18",
+        "municipio": "Guitiriz",
+        "habitantes": "5484",
+        "casos_14d": "32",
+        "casos_7d": "12"
+    },
+    {
+        "fecha": "2022-05-19",
+        "municipio": "Guitiriz",
+        "habitantes": "5484",
+        "casos_14d": "30",
+        "casos_7d": "12"
+    },
+    {
+        "fecha": "2022-05-20",
+        "municipio": "Guitiriz",
+        "habitantes": "5484",
+        "casos_14d": "32",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-21",
+        "municipio": "Guitiriz",
+        "habitantes": "5484",
+        "casos_14d": "23",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-23",
+        "municipio": "Guitiriz",
+        "habitantes": "5484",
+        "casos_14d": "20",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-24",
+        "municipio": "Guitiriz",
+        "habitantes": "5484",
+        "casos_14d": "21",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-25",
+        "municipio": "Guitiriz",
+        "habitantes": "5484",
+        "casos_14d": "21",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-26",
+        "municipio": "Guitiriz",
+        "habitantes": "5484",
+        "casos_14d": "20",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-27",
+        "municipio": "Guitiriz",
+        "habitantes": "5484",
+        "casos_14d": "13",
+        "casos_7d": null
     }
 ]

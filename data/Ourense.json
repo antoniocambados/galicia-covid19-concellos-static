@@ -3589,5 +3589,194 @@
         "habitantes": "105233",
         "casos_14d": "832",
         "casos_7d": "464"
+    },
+    {
+        "fecha": "2022-04-27",
+        "municipio": "Ourense",
+        "habitantes": "105233",
+        "casos_14d": "843",
+        "casos_7d": "471"
+    },
+    {
+        "fecha": "2022-04-28",
+        "municipio": "Ourense",
+        "habitantes": "105233",
+        "casos_14d": "851",
+        "casos_7d": "449"
+    },
+    {
+        "fecha": "2022-04-29",
+        "municipio": "Ourense",
+        "habitantes": "105233",
+        "casos_14d": "869",
+        "casos_7d": "443"
+    },
+    {
+        "fecha": "2022-04-30",
+        "municipio": "Ourense",
+        "habitantes": "105233",
+        "casos_14d": "910",
+        "casos_7d": "452"
+    },
+    {
+        "fecha": "2022-05-02",
+        "municipio": "Ourense",
+        "habitantes": "105233",
+        "casos_14d": "938",
+        "casos_7d": "489"
+    },
+    {
+        "fecha": "2022-05-03",
+        "municipio": "Ourense",
+        "habitantes": "105233",
+        "casos_14d": "941",
+        "casos_7d": "477"
+    },
+    {
+        "fecha": "2022-05-04",
+        "municipio": "Ourense",
+        "habitantes": "105233",
+        "casos_14d": "927",
+        "casos_7d": "456"
+    },
+    {
+        "fecha": "2022-05-05",
+        "municipio": "Ourense",
+        "habitantes": "105233",
+        "casos_14d": "907",
+        "casos_7d": "458"
+    },
+    {
+        "fecha": "2022-05-06",
+        "municipio": "Ourense",
+        "habitantes": "105233",
+        "casos_14d": "873",
+        "casos_7d": "430"
+    },
+    {
+        "fecha": "2022-05-07",
+        "municipio": "Ourense",
+        "habitantes": "105233",
+        "casos_14d": "850",
+        "casos_7d": "398"
+    },
+    {
+        "fecha": "2022-05-09",
+        "municipio": "Ourense",
+        "habitantes": "105233",
+        "casos_14d": "879",
+        "casos_7d": "390"
+    },
+    {
+        "fecha": "2022-05-10",
+        "municipio": "Ourense",
+        "habitantes": "105233",
+        "casos_14d": "872",
+        "casos_7d": "395"
+    },
+    {
+        "fecha": "2022-05-11",
+        "municipio": "Ourense",
+        "habitantes": "105233",
+        "casos_14d": "855",
+        "casos_7d": "399"
+    },
+    {
+        "fecha": "2022-05-12",
+        "municipio": "Ourense",
+        "habitantes": "105233",
+        "casos_14d": "840",
+        "casos_7d": "382"
+    },
+    {
+        "fecha": "2022-05-13",
+        "municipio": "Ourense",
+        "habitantes": "105233",
+        "casos_14d": "845",
+        "casos_7d": "415"
+    },
+    {
+        "fecha": "2022-05-14",
+        "municipio": "Ourense",
+        "habitantes": "105233",
+        "casos_14d": "825",
+        "casos_7d": "426"
+    },
+    {
+        "fecha": "2022-05-16",
+        "municipio": "Ourense",
+        "habitantes": "105233",
+        "casos_14d": "771",
+        "casos_7d": "380"
+    },
+    {
+        "fecha": "2022-05-17",
+        "municipio": "Ourense",
+        "habitantes": "105233",
+        "casos_14d": "766",
+        "casos_7d": "370"
+    },
+    {
+        "fecha": "2022-05-18",
+        "municipio": "Ourense",
+        "habitantes": "105233",
+        "casos_14d": "720",
+        "casos_7d": "321"
+    },
+    {
+        "fecha": "2022-05-19",
+        "municipio": "Ourense",
+        "habitantes": "105233",
+        "casos_14d": "687",
+        "casos_7d": "305"
+    },
+    {
+        "fecha": "2022-05-20",
+        "municipio": "Ourense",
+        "habitantes": "105233",
+        "casos_14d": "693",
+        "casos_7d": "278"
+    },
+    {
+        "fecha": "2022-05-21",
+        "municipio": "Ourense",
+        "habitantes": "105233",
+        "casos_14d": "687",
+        "casos_7d": "262"
+    },
+    {
+        "fecha": "2022-05-23",
+        "municipio": "Ourense",
+        "habitantes": "105233",
+        "casos_14d": "650",
+        "casos_7d": "271"
+    },
+    {
+        "fecha": "2022-05-24",
+        "municipio": "Ourense",
+        "habitantes": "105233",
+        "casos_14d": "624",
+        "casos_7d": "255"
+    },
+    {
+        "fecha": "2022-05-25",
+        "municipio": "Ourense",
+        "habitantes": "105233",
+        "casos_14d": "601",
+        "casos_7d": "282"
+    },
+    {
+        "fecha": "2022-05-26",
+        "municipio": "Ourense",
+        "habitantes": "105233",
+        "casos_14d": "581",
+        "casos_7d": "278"
+    },
+    {
+        "fecha": "2022-05-27",
+        "municipio": "Ourense",
+        "habitantes": "105233",
+        "casos_14d": "553",
+        "casos_7d": "276"
     }
 ]

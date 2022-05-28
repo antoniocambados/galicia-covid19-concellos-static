@@ -3589,5 +3589,194 @@
         "habitantes": "1266",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-27",
+        "municipio": "Rairiz de Veiga",
+        "habitantes": "1266",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-28",
+        "municipio": "Rairiz de Veiga",
+        "habitantes": "1266",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-29",
+        "municipio": "Rairiz de Veiga",
+        "habitantes": "1266",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-30",
+        "municipio": "Rairiz de Veiga",
+        "habitantes": "1266",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-02",
+        "municipio": "Rairiz de Veiga",
+        "habitantes": "1266",
+        "casos_14d": "10",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-03",
+        "municipio": "Rairiz de Veiga",
+        "habitantes": "1266",
+        "casos_14d": "10",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-04",
+        "municipio": "Rairiz de Veiga",
+        "habitantes": "1266",
+        "casos_14d": "10",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-05",
+        "municipio": "Rairiz de Veiga",
+        "habitantes": "1266",
+        "casos_14d": "12",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-06",
+        "municipio": "Rairiz de Veiga",
+        "habitantes": "1266",
+        "casos_14d": "12",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-07",
+        "municipio": "Rairiz de Veiga",
+        "habitantes": "1266",
+        "casos_14d": "11",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-09",
+        "municipio": "Rairiz de Veiga",
+        "habitantes": "1266",
+        "casos_14d": "11",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-10",
+        "municipio": "Rairiz de Veiga",
+        "habitantes": "1266",
+        "casos_14d": "11",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-11",
+        "municipio": "Rairiz de Veiga",
+        "habitantes": "1266",
+        "casos_14d": "10",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-12",
+        "municipio": "Rairiz de Veiga",
+        "habitantes": "1266",
+        "casos_14d": "10",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-13",
+        "municipio": "Rairiz de Veiga",
+        "habitantes": "1266",
+        "casos_14d": "10",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-14",
+        "municipio": "Rairiz de Veiga",
+        "habitantes": "1266",
+        "casos_14d": "10",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-16",
+        "municipio": "Rairiz de Veiga",
+        "habitantes": "1266",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-17",
+        "municipio": "Rairiz de Veiga",
+        "habitantes": "1266",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-18",
+        "municipio": "Rairiz de Veiga",
+        "habitantes": "1266",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-19",
+        "municipio": "Rairiz de Veiga",
+        "habitantes": "1266",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-20",
+        "municipio": "Rairiz de Veiga",
+        "habitantes": "1266",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-21",
+        "municipio": "Rairiz de Veiga",
+        "habitantes": "1266",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-23",
+        "municipio": "Rairiz de Veiga",
+        "habitantes": "1266",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-24",
+        "municipio": "Rairiz de Veiga",
+        "habitantes": "1266",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-25",
+        "municipio": "Rairiz de Veiga",
+        "habitantes": "1266",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-26",
+        "municipio": "Rairiz de Veiga",
+        "habitantes": "1266",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2022-05-27",
+        "municipio": "Rairiz de Veiga",
+        "habitantes": "1266",
+        "casos_14d": null,
+        "casos_7d": "0"
     }
 ]

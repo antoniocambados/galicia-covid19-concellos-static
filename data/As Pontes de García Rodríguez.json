@@ -3589,5 +3589,194 @@
         "habitantes": "10138",
         "casos_14d": "72",
         "casos_7d": "43"
+    },
+    {
+        "fecha": "2022-04-27",
+        "municipio": "As Pontes de Garc\u00eda Rodr\u00edguez",
+        "habitantes": "10138",
+        "casos_14d": "73",
+        "casos_7d": "44"
+    },
+    {
+        "fecha": "2022-04-28",
+        "municipio": "As Pontes de Garc\u00eda Rodr\u00edguez",
+        "habitantes": "10138",
+        "casos_14d": "80",
+        "casos_7d": "46"
+    },
+    {
+        "fecha": "2022-04-29",
+        "municipio": "As Pontes de Garc\u00eda Rodr\u00edguez",
+        "habitantes": "10138",
+        "casos_14d": "85",
+        "casos_7d": "50"
+    },
+    {
+        "fecha": "2022-04-30",
+        "municipio": "As Pontes de Garc\u00eda Rodr\u00edguez",
+        "habitantes": "10138",
+        "casos_14d": "87",
+        "casos_7d": "51"
+    },
+    {
+        "fecha": "2022-05-02",
+        "municipio": "As Pontes de Garc\u00eda Rodr\u00edguez",
+        "habitantes": "10138",
+        "casos_14d": "89",
+        "casos_7d": "45"
+    },
+    {
+        "fecha": "2022-05-03",
+        "municipio": "As Pontes de Garc\u00eda Rodr\u00edguez",
+        "habitantes": "10138",
+        "casos_14d": "91",
+        "casos_7d": "48"
+    },
+    {
+        "fecha": "2022-05-04",
+        "municipio": "As Pontes de Garc\u00eda Rodr\u00edguez",
+        "habitantes": "10138",
+        "casos_14d": "90",
+        "casos_7d": "46"
+    },
+    {
+        "fecha": "2022-05-05",
+        "municipio": "As Pontes de Garc\u00eda Rodr\u00edguez",
+        "habitantes": "10138",
+        "casos_14d": "86",
+        "casos_7d": "40"
+    },
+    {
+        "fecha": "2022-05-06",
+        "municipio": "As Pontes de Garc\u00eda Rodr\u00edguez",
+        "habitantes": "10138",
+        "casos_14d": "90",
+        "casos_7d": "40"
+    },
+    {
+        "fecha": "2022-05-07",
+        "municipio": "As Pontes de Garc\u00eda Rodr\u00edguez",
+        "habitantes": "10138",
+        "casos_14d": "88",
+        "casos_7d": "37"
+    },
+    {
+        "fecha": "2022-05-09",
+        "municipio": "As Pontes de Garc\u00eda Rodr\u00edguez",
+        "habitantes": "10138",
+        "casos_14d": "82",
+        "casos_7d": "37"
+    },
+    {
+        "fecha": "2022-05-10",
+        "municipio": "As Pontes de Garc\u00eda Rodr\u00edguez",
+        "habitantes": "10138",
+        "casos_14d": "83",
+        "casos_7d": "35"
+    },
+    {
+        "fecha": "2022-05-11",
+        "municipio": "As Pontes de Garc\u00eda Rodr\u00edguez",
+        "habitantes": "10138",
+        "casos_14d": "78",
+        "casos_7d": "32"
+    },
+    {
+        "fecha": "2022-05-12",
+        "municipio": "As Pontes de Garc\u00eda Rodr\u00edguez",
+        "habitantes": "10138",
+        "casos_14d": "72",
+        "casos_7d": "32"
+    },
+    {
+        "fecha": "2022-05-13",
+        "municipio": "As Pontes de Garc\u00eda Rodr\u00edguez",
+        "habitantes": "10138",
+        "casos_14d": "67",
+        "casos_7d": "27"
+    },
+    {
+        "fecha": "2022-05-14",
+        "municipio": "As Pontes de Garc\u00eda Rodr\u00edguez",
+        "habitantes": "10138",
+        "casos_14d": "63",
+        "casos_7d": "26"
+    },
+    {
+        "fecha": "2022-05-16",
+        "municipio": "As Pontes de Garc\u00eda Rodr\u00edguez",
+        "habitantes": "10138",
+        "casos_14d": "63",
+        "casos_7d": "26"
+    },
+    {
+        "fecha": "2022-05-17",
+        "municipio": "As Pontes de Garc\u00eda Rodr\u00edguez",
+        "habitantes": "10138",
+        "casos_14d": "57",
+        "casos_7d": "22"
+    },
+    {
+        "fecha": "2022-05-18",
+        "municipio": "As Pontes de Garc\u00eda Rodr\u00edguez",
+        "habitantes": "10138",
+        "casos_14d": "59",
+        "casos_7d": "27"
+    },
+    {
+        "fecha": "2022-05-19",
+        "municipio": "As Pontes de Garc\u00eda Rodr\u00edguez",
+        "habitantes": "10138",
+        "casos_14d": "56",
+        "casos_7d": "24"
+    },
+    {
+        "fecha": "2022-05-20",
+        "municipio": "As Pontes de Garc\u00eda Rodr\u00edguez",
+        "habitantes": "10138",
+        "casos_14d": "56",
+        "casos_7d": "29"
+    },
+    {
+        "fecha": "2022-05-21",
+        "municipio": "As Pontes de Garc\u00eda Rodr\u00edguez",
+        "habitantes": "10138",
+        "casos_14d": "53",
+        "casos_7d": "27"
+    },
+    {
+        "fecha": "2022-05-23",
+        "municipio": "As Pontes de Garc\u00eda Rodr\u00edguez",
+        "habitantes": "10138",
+        "casos_14d": "50",
+        "casos_7d": "24"
+    },
+    {
+        "fecha": "2022-05-24",
+        "municipio": "As Pontes de Garc\u00eda Rodr\u00edguez",
+        "habitantes": "10138",
+        "casos_14d": "47",
+        "casos_7d": "25"
+    },
+    {
+        "fecha": "2022-05-25",
+        "municipio": "As Pontes de Garc\u00eda Rodr\u00edguez",
+        "habitantes": "10138",
+        "casos_14d": "48",
+        "casos_7d": "21"
+    },
+    {
+        "fecha": "2022-05-26",
+        "municipio": "As Pontes de Garc\u00eda Rodr\u00edguez",
+        "habitantes": "10138",
+        "casos_14d": "49",
+        "casos_7d": "25"
+    },
+    {
+        "fecha": "2022-05-27",
+        "municipio": "As Pontes de Garc\u00eda Rodr\u00edguez",
+        "habitantes": "10138",
+        "casos_14d": "43",
+        "casos_7d": "14"
     }
 ]

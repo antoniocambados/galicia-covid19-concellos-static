@@ -3589,5 +3589,194 @@
         "habitantes": "7406",
         "casos_14d": "97",
         "casos_7d": "55"
+    },
+    {
+        "fecha": "2022-04-27",
+        "municipio": "Melide",
+        "habitantes": "7406",
+        "casos_14d": "96",
+        "casos_7d": "55"
+    },
+    {
+        "fecha": "2022-04-28",
+        "municipio": "Melide",
+        "habitantes": "7406",
+        "casos_14d": "97",
+        "casos_7d": "59"
+    },
+    {
+        "fecha": "2022-04-29",
+        "municipio": "Melide",
+        "habitantes": "7406",
+        "casos_14d": "102",
+        "casos_7d": "60"
+    },
+    {
+        "fecha": "2022-04-30",
+        "municipio": "Melide",
+        "habitantes": "7406",
+        "casos_14d": "103",
+        "casos_7d": "58"
+    },
+    {
+        "fecha": "2022-05-02",
+        "municipio": "Melide",
+        "habitantes": "7406",
+        "casos_14d": "104",
+        "casos_7d": "55"
+    },
+    {
+        "fecha": "2022-05-03",
+        "municipio": "Melide",
+        "habitantes": "7406",
+        "casos_14d": "102",
+        "casos_7d": "47"
+    },
+    {
+        "fecha": "2022-05-04",
+        "municipio": "Melide",
+        "habitantes": "7406",
+        "casos_14d": "104",
+        "casos_7d": "49"
+    },
+    {
+        "fecha": "2022-05-05",
+        "municipio": "Melide",
+        "habitantes": "7406",
+        "casos_14d": "107",
+        "casos_7d": "48"
+    },
+    {
+        "fecha": "2022-05-06",
+        "municipio": "Melide",
+        "habitantes": "7406",
+        "casos_14d": "105",
+        "casos_7d": "45"
+    },
+    {
+        "fecha": "2022-05-07",
+        "municipio": "Melide",
+        "habitantes": "7406",
+        "casos_14d": "101",
+        "casos_7d": "43"
+    },
+    {
+        "fecha": "2022-05-09",
+        "municipio": "Melide",
+        "habitantes": "7406",
+        "casos_14d": "94",
+        "casos_7d": "39"
+    },
+    {
+        "fecha": "2022-05-10",
+        "municipio": "Melide",
+        "habitantes": "7406",
+        "casos_14d": "84",
+        "casos_7d": "37"
+    },
+    {
+        "fecha": "2022-05-11",
+        "municipio": "Melide",
+        "habitantes": "7406",
+        "casos_14d": "81",
+        "casos_7d": "32"
+    },
+    {
+        "fecha": "2022-05-12",
+        "municipio": "Melide",
+        "habitantes": "7406",
+        "casos_14d": "74",
+        "casos_7d": "26"
+    },
+    {
+        "fecha": "2022-05-13",
+        "municipio": "Melide",
+        "habitantes": "7406",
+        "casos_14d": "64",
+        "casos_7d": "19"
+    },
+    {
+        "fecha": "2022-05-14",
+        "municipio": "Melide",
+        "habitantes": "7406",
+        "casos_14d": "58",
+        "casos_7d": "15"
+    },
+    {
+        "fecha": "2022-05-16",
+        "municipio": "Melide",
+        "habitantes": "7406",
+        "casos_14d": "56",
+        "casos_7d": "17"
+    },
+    {
+        "fecha": "2022-05-17",
+        "municipio": "Melide",
+        "habitantes": "7406",
+        "casos_14d": "51",
+        "casos_7d": "14"
+    },
+    {
+        "fecha": "2022-05-18",
+        "municipio": "Melide",
+        "habitantes": "7406",
+        "casos_14d": "45",
+        "casos_7d": "13"
+    },
+    {
+        "fecha": "2022-05-19",
+        "municipio": "Melide",
+        "habitantes": "7406",
+        "casos_14d": "38",
+        "casos_7d": "12"
+    },
+    {
+        "fecha": "2022-05-20",
+        "municipio": "Melide",
+        "habitantes": "7406",
+        "casos_14d": "32",
+        "casos_7d": "13"
+    },
+    {
+        "fecha": "2022-05-21",
+        "municipio": "Melide",
+        "habitantes": "7406",
+        "casos_14d": "28",
+        "casos_7d": "13"
+    },
+    {
+        "fecha": "2022-05-23",
+        "municipio": "Melide",
+        "habitantes": "7406",
+        "casos_14d": "28",
+        "casos_7d": "11"
+    },
+    {
+        "fecha": "2022-05-24",
+        "municipio": "Melide",
+        "habitantes": "7406",
+        "casos_14d": "26",
+        "casos_7d": "12"
+    },
+    {
+        "fecha": "2022-05-25",
+        "municipio": "Melide",
+        "habitantes": "7406",
+        "casos_14d": "27",
+        "casos_7d": "14"
+    },
+    {
+        "fecha": "2022-05-26",
+        "municipio": "Melide",
+        "habitantes": "7406",
+        "casos_14d": "28",
+        "casos_7d": "16"
+    },
+    {
+        "fecha": "2022-05-27",
+        "municipio": "Melide",
+        "habitantes": "7406",
+        "casos_14d": "30",
+        "casos_7d": "17"
     }
 ]

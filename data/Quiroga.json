@@ -3589,5 +3589,194 @@
         "habitantes": "3207",
         "casos_14d": "39",
         "casos_7d": "31"
+    },
+    {
+        "fecha": "2022-04-27",
+        "municipio": "Quiroga",
+        "habitantes": "3207",
+        "casos_14d": "41",
+        "casos_7d": "31"
+    },
+    {
+        "fecha": "2022-04-28",
+        "municipio": "Quiroga",
+        "habitantes": "3207",
+        "casos_14d": "44",
+        "casos_7d": "31"
+    },
+    {
+        "fecha": "2022-04-29",
+        "municipio": "Quiroga",
+        "habitantes": "3207",
+        "casos_14d": "49",
+        "casos_7d": "28"
+    },
+    {
+        "fecha": "2022-04-30",
+        "municipio": "Quiroga",
+        "habitantes": "3207",
+        "casos_14d": "55",
+        "casos_7d": "32"
+    },
+    {
+        "fecha": "2022-05-02",
+        "municipio": "Quiroga",
+        "habitantes": "3207",
+        "casos_14d": "58",
+        "casos_7d": "33"
+    },
+    {
+        "fecha": "2022-05-03",
+        "municipio": "Quiroga",
+        "habitantes": "3207",
+        "casos_14d": "64",
+        "casos_7d": "33"
+    },
+    {
+        "fecha": "2022-05-04",
+        "municipio": "Quiroga",
+        "habitantes": "3207",
+        "casos_14d": "62",
+        "casos_7d": "31"
+    },
+    {
+        "fecha": "2022-05-05",
+        "municipio": "Quiroga",
+        "habitantes": "3207",
+        "casos_14d": "65",
+        "casos_7d": "34"
+    },
+    {
+        "fecha": "2022-05-06",
+        "municipio": "Quiroga",
+        "habitantes": "3207",
+        "casos_14d": "60",
+        "casos_7d": "32"
+    },
+    {
+        "fecha": "2022-05-07",
+        "municipio": "Quiroga",
+        "habitantes": "3207",
+        "casos_14d": "90",
+        "casos_7d": "58"
+    },
+    {
+        "fecha": "2022-05-09",
+        "municipio": "Quiroga",
+        "habitantes": "3207",
+        "casos_14d": "89",
+        "casos_7d": "56"
+    },
+    {
+        "fecha": "2022-05-10",
+        "municipio": "Quiroga",
+        "habitantes": "3207",
+        "casos_14d": "98",
+        "casos_7d": "65"
+    },
+    {
+        "fecha": "2022-05-11",
+        "municipio": "Quiroga",
+        "habitantes": "3207",
+        "casos_14d": "114",
+        "casos_7d": "83"
+    },
+    {
+        "fecha": "2022-05-12",
+        "municipio": "Quiroga",
+        "habitantes": "3207",
+        "casos_14d": "112",
+        "casos_7d": "78"
+    },
+    {
+        "fecha": "2022-05-13",
+        "municipio": "Quiroga",
+        "habitantes": "3207",
+        "casos_14d": "109",
+        "casos_7d": "77"
+    },
+    {
+        "fecha": "2022-05-14",
+        "municipio": "Quiroga",
+        "habitantes": "3207",
+        "casos_14d": "107",
+        "casos_7d": "49"
+    },
+    {
+        "fecha": "2022-05-16",
+        "municipio": "Quiroga",
+        "habitantes": "3207",
+        "casos_14d": "104",
+        "casos_7d": "48"
+    },
+    {
+        "fecha": "2022-05-17",
+        "municipio": "Quiroga",
+        "habitantes": "3207",
+        "casos_14d": "99",
+        "casos_7d": "34"
+    },
+    {
+        "fecha": "2022-05-18",
+        "municipio": "Quiroga",
+        "habitantes": "3207",
+        "casos_14d": "97",
+        "casos_7d": "14"
+    },
+    {
+        "fecha": "2022-05-19",
+        "municipio": "Quiroga",
+        "habitantes": "3207",
+        "casos_14d": "89",
+        "casos_7d": "11"
+    },
+    {
+        "fecha": "2022-05-20",
+        "municipio": "Quiroga",
+        "habitantes": "3207",
+        "casos_14d": "85",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-21",
+        "municipio": "Quiroga",
+        "habitantes": "3207",
+        "casos_14d": "53",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-23",
+        "municipio": "Quiroga",
+        "habitantes": "3207",
+        "casos_14d": "51",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-24",
+        "municipio": "Quiroga",
+        "habitantes": "3207",
+        "casos_14d": "36",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-25",
+        "municipio": "Quiroga",
+        "habitantes": "3207",
+        "casos_14d": "16",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-26",
+        "municipio": "Quiroga",
+        "habitantes": "3207",
+        "casos_14d": "14",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-27",
+        "municipio": "Quiroga",
+        "habitantes": "3207",
+        "casos_14d": "11",
+        "casos_7d": null
     }
 ]

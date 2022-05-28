@@ -3589,5 +3589,194 @@
         "habitantes": "30402",
         "casos_14d": "157",
         "casos_7d": "92"
+    },
+    {
+        "fecha": "2022-04-27",
+        "municipio": "Culleredo",
+        "habitantes": "30402",
+        "casos_14d": "156",
+        "casos_7d": "81"
+    },
+    {
+        "fecha": "2022-04-28",
+        "municipio": "Culleredo",
+        "habitantes": "30402",
+        "casos_14d": "167",
+        "casos_7d": "85"
+    },
+    {
+        "fecha": "2022-04-29",
+        "municipio": "Culleredo",
+        "habitantes": "30402",
+        "casos_14d": "165",
+        "casos_7d": "83"
+    },
+    {
+        "fecha": "2022-04-30",
+        "municipio": "Culleredo",
+        "habitantes": "30402",
+        "casos_14d": "178",
+        "casos_7d": "88"
+    },
+    {
+        "fecha": "2022-05-02",
+        "municipio": "Culleredo",
+        "habitantes": "30402",
+        "casos_14d": "201",
+        "casos_7d": "100"
+    },
+    {
+        "fecha": "2022-05-03",
+        "municipio": "Culleredo",
+        "habitantes": "30402",
+        "casos_14d": "198",
+        "casos_7d": "105"
+    },
+    {
+        "fecha": "2022-05-04",
+        "municipio": "Culleredo",
+        "habitantes": "30402",
+        "casos_14d": "181",
+        "casos_7d": "99"
+    },
+    {
+        "fecha": "2022-05-05",
+        "municipio": "Culleredo",
+        "habitantes": "30402",
+        "casos_14d": "188",
+        "casos_7d": "102"
+    },
+    {
+        "fecha": "2022-05-06",
+        "municipio": "Culleredo",
+        "habitantes": "30402",
+        "casos_14d": "198",
+        "casos_7d": "114"
+    },
+    {
+        "fecha": "2022-05-07",
+        "municipio": "Culleredo",
+        "habitantes": "30402",
+        "casos_14d": "195",
+        "casos_7d": "106"
+    },
+    {
+        "fecha": "2022-05-09",
+        "municipio": "Culleredo",
+        "habitantes": "30402",
+        "casos_14d": "200",
+        "casos_7d": "101"
+    },
+    {
+        "fecha": "2022-05-10",
+        "municipio": "Culleredo",
+        "habitantes": "30402",
+        "casos_14d": "211",
+        "casos_7d": "107"
+    },
+    {
+        "fecha": "2022-05-11",
+        "municipio": "Culleredo",
+        "habitantes": "30402",
+        "casos_14d": "203",
+        "casos_7d": "105"
+    },
+    {
+        "fecha": "2022-05-12",
+        "municipio": "Culleredo",
+        "habitantes": "30402",
+        "casos_14d": "206",
+        "casos_7d": "104"
+    },
+    {
+        "fecha": "2022-05-13",
+        "municipio": "Culleredo",
+        "habitantes": "30402",
+        "casos_14d": "210",
+        "casos_7d": "95"
+    },
+    {
+        "fecha": "2022-05-14",
+        "municipio": "Culleredo",
+        "habitantes": "30402",
+        "casos_14d": "211",
+        "casos_7d": "105"
+    },
+    {
+        "fecha": "2022-05-16",
+        "municipio": "Culleredo",
+        "habitantes": "30402",
+        "casos_14d": "192",
+        "casos_7d": "91"
+    },
+    {
+        "fecha": "2022-05-17",
+        "municipio": "Culleredo",
+        "habitantes": "30402",
+        "casos_14d": "184",
+        "casos_7d": "77"
+    },
+    {
+        "fecha": "2022-05-18",
+        "municipio": "Culleredo",
+        "habitantes": "30402",
+        "casos_14d": "180",
+        "casos_7d": "75"
+    },
+    {
+        "fecha": "2022-05-19",
+        "municipio": "Culleredo",
+        "habitantes": "30402",
+        "casos_14d": "169",
+        "casos_7d": "65"
+    },
+    {
+        "fecha": "2022-05-20",
+        "municipio": "Culleredo",
+        "habitantes": "30402",
+        "casos_14d": "153",
+        "casos_7d": "58"
+    },
+    {
+        "fecha": "2022-05-21",
+        "municipio": "Culleredo",
+        "habitantes": "30402",
+        "casos_14d": "155",
+        "casos_7d": "51"
+    },
+    {
+        "fecha": "2022-05-23",
+        "municipio": "Culleredo",
+        "habitantes": "30402",
+        "casos_14d": "150",
+        "casos_7d": "60"
+    },
+    {
+        "fecha": "2022-05-24",
+        "municipio": "Culleredo",
+        "habitantes": "30402",
+        "casos_14d": "147",
+        "casos_7d": "71"
+    },
+    {
+        "fecha": "2022-05-25",
+        "municipio": "Culleredo",
+        "habitantes": "30402",
+        "casos_14d": "157",
+        "casos_7d": "83"
+    },
+    {
+        "fecha": "2022-05-26",
+        "municipio": "Culleredo",
+        "habitantes": "30402",
+        "casos_14d": "136",
+        "casos_7d": "71"
+    },
+    {
+        "fecha": "2022-05-27",
+        "municipio": "Culleredo",
+        "habitantes": "30402",
+        "casos_14d": "131",
+        "casos_7d": "73"
     }
 ]

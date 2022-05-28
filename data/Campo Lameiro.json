@@ -3589,5 +3589,194 @@
         "habitantes": "1817",
         "casos_14d": "12",
         "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-27",
+        "municipio": "Campo Lameiro",
+        "habitantes": "1817",
+        "casos_14d": "11",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-28",
+        "municipio": "Campo Lameiro",
+        "habitantes": "1817",
+        "casos_14d": "12",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-29",
+        "municipio": "Campo Lameiro",
+        "habitantes": "1817",
+        "casos_14d": "12",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-30",
+        "municipio": "Campo Lameiro",
+        "habitantes": "1817",
+        "casos_14d": "12",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-02",
+        "municipio": "Campo Lameiro",
+        "habitantes": "1817",
+        "casos_14d": "12",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-03",
+        "municipio": "Campo Lameiro",
+        "habitantes": "1817",
+        "casos_14d": "11",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-04",
+        "municipio": "Campo Lameiro",
+        "habitantes": "1817",
+        "casos_14d": "13",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-05",
+        "municipio": "Campo Lameiro",
+        "habitantes": "1817",
+        "casos_14d": "10",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-06",
+        "municipio": "Campo Lameiro",
+        "habitantes": "1817",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-07",
+        "municipio": "Campo Lameiro",
+        "habitantes": "1817",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-09",
+        "municipio": "Campo Lameiro",
+        "habitantes": "1817",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-10",
+        "municipio": "Campo Lameiro",
+        "habitantes": "1817",
+        "casos_14d": "10",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-11",
+        "municipio": "Campo Lameiro",
+        "habitantes": "1817",
+        "casos_14d": "10",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-12",
+        "municipio": "Campo Lameiro",
+        "habitantes": "1817",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-13",
+        "municipio": "Campo Lameiro",
+        "habitantes": "1817",
+        "casos_14d": "11",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-14",
+        "municipio": "Campo Lameiro",
+        "habitantes": "1817",
+        "casos_14d": "11",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-16",
+        "municipio": "Campo Lameiro",
+        "habitantes": "1817",
+        "casos_14d": "11",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-17",
+        "municipio": "Campo Lameiro",
+        "habitantes": "1817",
+        "casos_14d": "12",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-18",
+        "municipio": "Campo Lameiro",
+        "habitantes": "1817",
+        "casos_14d": "10",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-19",
+        "municipio": "Campo Lameiro",
+        "habitantes": "1817",
+        "casos_14d": "11",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-20",
+        "municipio": "Campo Lameiro",
+        "habitantes": "1817",
+        "casos_14d": "11",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-21",
+        "municipio": "Campo Lameiro",
+        "habitantes": "1817",
+        "casos_14d": "12",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-23",
+        "municipio": "Campo Lameiro",
+        "habitantes": "1817",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-24",
+        "municipio": "Campo Lameiro",
+        "habitantes": "1817",
+        "casos_14d": "10",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-25",
+        "municipio": "Campo Lameiro",
+        "habitantes": "1817",
+        "casos_14d": "12",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-26",
+        "municipio": "Campo Lameiro",
+        "habitantes": "1817",
+        "casos_14d": "12",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-27",
+        "municipio": "Campo Lameiro",
+        "habitantes": "1817",
+        "casos_14d": "11",
+        "casos_7d": null
     }
 ]

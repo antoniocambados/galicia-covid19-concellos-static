@@ -3589,5 +3589,194 @@
         "habitantes": "4926",
         "casos_14d": "11",
         "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-27",
+        "municipio": "A Illa de Arousa",
+        "habitantes": "4926",
+        "casos_14d": "13",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-28",
+        "municipio": "A Illa de Arousa",
+        "habitantes": "4926",
+        "casos_14d": "13",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-29",
+        "municipio": "A Illa de Arousa",
+        "habitantes": "4926",
+        "casos_14d": "13",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-30",
+        "municipio": "A Illa de Arousa",
+        "habitantes": "4926",
+        "casos_14d": "15",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-02",
+        "municipio": "A Illa de Arousa",
+        "habitantes": "4926",
+        "casos_14d": "18",
+        "casos_7d": "11"
+    },
+    {
+        "fecha": "2022-05-03",
+        "municipio": "A Illa de Arousa",
+        "habitantes": "4926",
+        "casos_14d": "19",
+        "casos_7d": "12"
+    },
+    {
+        "fecha": "2022-05-04",
+        "municipio": "A Illa de Arousa",
+        "habitantes": "4926",
+        "casos_14d": "20",
+        "casos_7d": "13"
+    },
+    {
+        "fecha": "2022-05-05",
+        "municipio": "A Illa de Arousa",
+        "habitantes": "4926",
+        "casos_14d": "24",
+        "casos_7d": "16"
+    },
+    {
+        "fecha": "2022-05-06",
+        "municipio": "A Illa de Arousa",
+        "habitantes": "4926",
+        "casos_14d": "25",
+        "casos_7d": "16"
+    },
+    {
+        "fecha": "2022-05-07",
+        "municipio": "A Illa de Arousa",
+        "habitantes": "4926",
+        "casos_14d": "24",
+        "casos_7d": "16"
+    },
+    {
+        "fecha": "2022-05-09",
+        "municipio": "A Illa de Arousa",
+        "habitantes": "4926",
+        "casos_14d": "24",
+        "casos_7d": "13"
+    },
+    {
+        "fecha": "2022-05-10",
+        "municipio": "A Illa de Arousa",
+        "habitantes": "4926",
+        "casos_14d": "24",
+        "casos_7d": "12"
+    },
+    {
+        "fecha": "2022-05-11",
+        "municipio": "A Illa de Arousa",
+        "habitantes": "4926",
+        "casos_14d": "22",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-12",
+        "municipio": "A Illa de Arousa",
+        "habitantes": "4926",
+        "casos_14d": "20",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-13",
+        "municipio": "A Illa de Arousa",
+        "habitantes": "4926",
+        "casos_14d": "20",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-14",
+        "municipio": "A Illa de Arousa",
+        "habitantes": "4926",
+        "casos_14d": "20",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-16",
+        "municipio": "A Illa de Arousa",
+        "habitantes": "4926",
+        "casos_14d": "18",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-17",
+        "municipio": "A Illa de Arousa",
+        "habitantes": "4926",
+        "casos_14d": "17",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-18",
+        "municipio": "A Illa de Arousa",
+        "habitantes": "4926",
+        "casos_14d": "13",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-19",
+        "municipio": "A Illa de Arousa",
+        "habitantes": "4926",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-20",
+        "municipio": "A Illa de Arousa",
+        "habitantes": "4926",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-21",
+        "municipio": "A Illa de Arousa",
+        "habitantes": "4926",
+        "casos_14d": "11",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-23",
+        "municipio": "A Illa de Arousa",
+        "habitantes": "4926",
+        "casos_14d": "11",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-24",
+        "municipio": "A Illa de Arousa",
+        "habitantes": "4926",
+        "casos_14d": "10",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-25",
+        "municipio": "A Illa de Arousa",
+        "habitantes": "4926",
+        "casos_14d": "11",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-26",
+        "municipio": "A Illa de Arousa",
+        "habitantes": "4926",
+        "casos_14d": "11",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-27",
+        "municipio": "A Illa de Arousa",
+        "habitantes": "4926",
+        "casos_14d": "11",
+        "casos_7d": null
     }
 ]

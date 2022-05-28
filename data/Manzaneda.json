@@ -3589,5 +3589,194 @@
         "habitantes": "870",
         "casos_14d": "15",
         "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-27",
+        "municipio": "Manzaneda",
+        "habitantes": "870",
+        "casos_14d": "19",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-28",
+        "municipio": "Manzaneda",
+        "habitantes": "870",
+        "casos_14d": "20",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-29",
+        "municipio": "Manzaneda",
+        "habitantes": "870",
+        "casos_14d": "16",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-30",
+        "municipio": "Manzaneda",
+        "habitantes": "870",
+        "casos_14d": "16",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-02",
+        "municipio": "Manzaneda",
+        "habitantes": "870",
+        "casos_14d": "14",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-03",
+        "municipio": "Manzaneda",
+        "habitantes": "870",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-04",
+        "municipio": "Manzaneda",
+        "habitantes": "870",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-05",
+        "municipio": "Manzaneda",
+        "habitantes": "870",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2022-05-06",
+        "municipio": "Manzaneda",
+        "habitantes": "870",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-07",
+        "municipio": "Manzaneda",
+        "habitantes": "870",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-09",
+        "municipio": "Manzaneda",
+        "habitantes": "870",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-10",
+        "municipio": "Manzaneda",
+        "habitantes": "870",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-11",
+        "municipio": "Manzaneda",
+        "habitantes": "870",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-12",
+        "municipio": "Manzaneda",
+        "habitantes": "870",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-13",
+        "municipio": "Manzaneda",
+        "habitantes": "870",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2022-05-14",
+        "municipio": "Manzaneda",
+        "habitantes": "870",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-16",
+        "municipio": "Manzaneda",
+        "habitantes": "870",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-17",
+        "municipio": "Manzaneda",
+        "habitantes": "870",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-18",
+        "municipio": "Manzaneda",
+        "habitantes": "870",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-19",
+        "municipio": "Manzaneda",
+        "habitantes": "870",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-20",
+        "municipio": "Manzaneda",
+        "habitantes": "870",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-21",
+        "municipio": "Manzaneda",
+        "habitantes": "870",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-23",
+        "municipio": "Manzaneda",
+        "habitantes": "870",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-24",
+        "municipio": "Manzaneda",
+        "habitantes": "870",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-25",
+        "municipio": "Manzaneda",
+        "habitantes": "870",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-26",
+        "municipio": "Manzaneda",
+        "habitantes": "870",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-27",
+        "municipio": "Manzaneda",
+        "habitantes": "870",
+        "casos_14d": null,
+        "casos_7d": "0"
     }
 ]

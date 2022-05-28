@@ -3589,5 +3589,194 @@
         "habitantes": "24319",
         "casos_14d": "211",
         "casos_7d": "108"
+    },
+    {
+        "fecha": "2022-04-27",
+        "municipio": "Mar\u00edn",
+        "habitantes": "24319",
+        "casos_14d": "208",
+        "casos_7d": "98"
+    },
+    {
+        "fecha": "2022-04-28",
+        "municipio": "Mar\u00edn",
+        "habitantes": "24319",
+        "casos_14d": "206",
+        "casos_7d": "96"
+    },
+    {
+        "fecha": "2022-04-29",
+        "municipio": "Mar\u00edn",
+        "habitantes": "24319",
+        "casos_14d": "226",
+        "casos_7d": "104"
+    },
+    {
+        "fecha": "2022-04-30",
+        "municipio": "Mar\u00edn",
+        "habitantes": "24319",
+        "casos_14d": "220",
+        "casos_7d": "103"
+    },
+    {
+        "fecha": "2022-05-02",
+        "municipio": "Mar\u00edn",
+        "habitantes": "24319",
+        "casos_14d": "231",
+        "casos_7d": "104"
+    },
+    {
+        "fecha": "2022-05-03",
+        "municipio": "Mar\u00edn",
+        "habitantes": "24319",
+        "casos_14d": "218",
+        "casos_7d": "110"
+    },
+    {
+        "fecha": "2022-05-04",
+        "municipio": "Mar\u00edn",
+        "habitantes": "24319",
+        "casos_14d": "212",
+        "casos_7d": "114"
+    },
+    {
+        "fecha": "2022-05-05",
+        "municipio": "Mar\u00edn",
+        "habitantes": "24319",
+        "casos_14d": "203",
+        "casos_7d": "107"
+    },
+    {
+        "fecha": "2022-05-06",
+        "municipio": "Mar\u00edn",
+        "habitantes": "24319",
+        "casos_14d": "194",
+        "casos_7d": "90"
+    },
+    {
+        "fecha": "2022-05-07",
+        "municipio": "Mar\u00edn",
+        "habitantes": "24319",
+        "casos_14d": "190",
+        "casos_7d": "87"
+    },
+    {
+        "fecha": "2022-05-09",
+        "municipio": "Mar\u00edn",
+        "habitantes": "24319",
+        "casos_14d": "184",
+        "casos_7d": "80"
+    },
+    {
+        "fecha": "2022-05-10",
+        "municipio": "Mar\u00edn",
+        "habitantes": "24319",
+        "casos_14d": "185",
+        "casos_7d": "75"
+    },
+    {
+        "fecha": "2022-05-11",
+        "municipio": "Mar\u00edn",
+        "habitantes": "24319",
+        "casos_14d": "189",
+        "casos_7d": "76"
+    },
+    {
+        "fecha": "2022-05-12",
+        "municipio": "Mar\u00edn",
+        "habitantes": "24319",
+        "casos_14d": "183",
+        "casos_7d": "77"
+    },
+    {
+        "fecha": "2022-05-13",
+        "municipio": "Mar\u00edn",
+        "habitantes": "24319",
+        "casos_14d": "173",
+        "casos_7d": "84"
+    },
+    {
+        "fecha": "2022-05-14",
+        "municipio": "Mar\u00edn",
+        "habitantes": "24319",
+        "casos_14d": "174",
+        "casos_7d": "88"
+    },
+    {
+        "fecha": "2022-05-16",
+        "municipio": "Mar\u00edn",
+        "habitantes": "24319",
+        "casos_14d": "159",
+        "casos_7d": "80"
+    },
+    {
+        "fecha": "2022-05-17",
+        "municipio": "Mar\u00edn",
+        "habitantes": "24319",
+        "casos_14d": "152",
+        "casos_7d": "77"
+    },
+    {
+        "fecha": "2022-05-18",
+        "municipio": "Mar\u00edn",
+        "habitantes": "24319",
+        "casos_14d": "139",
+        "casos_7d": "63"
+    },
+    {
+        "fecha": "2022-05-19",
+        "municipio": "Mar\u00edn",
+        "habitantes": "24319",
+        "casos_14d": "134",
+        "casos_7d": "57"
+    },
+    {
+        "fecha": "2022-05-20",
+        "municipio": "Mar\u00edn",
+        "habitantes": "24319",
+        "casos_14d": "131",
+        "casos_7d": "47"
+    },
+    {
+        "fecha": "2022-05-21",
+        "municipio": "Mar\u00edn",
+        "habitantes": "24319",
+        "casos_14d": "128",
+        "casos_7d": "40"
+    },
+    {
+        "fecha": "2022-05-23",
+        "municipio": "Mar\u00edn",
+        "habitantes": "24319",
+        "casos_14d": "117",
+        "casos_7d": "37"
+    },
+    {
+        "fecha": "2022-05-24",
+        "municipio": "Mar\u00edn",
+        "habitantes": "24319",
+        "casos_14d": "114",
+        "casos_7d": "37"
+    },
+    {
+        "fecha": "2022-05-25",
+        "municipio": "Mar\u00edn",
+        "habitantes": "24319",
+        "casos_14d": "109",
+        "casos_7d": "46"
+    },
+    {
+        "fecha": "2022-05-26",
+        "municipio": "Mar\u00edn",
+        "habitantes": "24319",
+        "casos_14d": "101",
+        "casos_7d": "44"
+    },
+    {
+        "fecha": "2022-05-27",
+        "municipio": "Mar\u00edn",
+        "habitantes": "24319",
+        "casos_14d": "93",
+        "casos_7d": "46"
     }
 ]

@@ -3589,5 +3589,194 @@
         "habitantes": "1085",
         "casos_14d": "13",
         "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-27",
+        "municipio": "Cortegada",
+        "habitantes": "1085",
+        "casos_14d": "10",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-28",
+        "municipio": "Cortegada",
+        "habitantes": "1085",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-29",
+        "municipio": "Cortegada",
+        "habitantes": "1085",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-30",
+        "municipio": "Cortegada",
+        "habitantes": "1085",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-02",
+        "municipio": "Cortegada",
+        "habitantes": "1085",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-03",
+        "municipio": "Cortegada",
+        "habitantes": "1085",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-04",
+        "municipio": "Cortegada",
+        "habitantes": "1085",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-05",
+        "municipio": "Cortegada",
+        "habitantes": "1085",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-06",
+        "municipio": "Cortegada",
+        "habitantes": "1085",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-07",
+        "municipio": "Cortegada",
+        "habitantes": "1085",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-09",
+        "municipio": "Cortegada",
+        "habitantes": "1085",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-10",
+        "municipio": "Cortegada",
+        "habitantes": "1085",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-11",
+        "municipio": "Cortegada",
+        "habitantes": "1085",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-12",
+        "municipio": "Cortegada",
+        "habitantes": "1085",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-13",
+        "municipio": "Cortegada",
+        "habitantes": "1085",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-14",
+        "municipio": "Cortegada",
+        "habitantes": "1085",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-16",
+        "municipio": "Cortegada",
+        "habitantes": "1085",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-17",
+        "municipio": "Cortegada",
+        "habitantes": "1085",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-18",
+        "municipio": "Cortegada",
+        "habitantes": "1085",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-19",
+        "municipio": "Cortegada",
+        "habitantes": "1085",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-20",
+        "municipio": "Cortegada",
+        "habitantes": "1085",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-21",
+        "municipio": "Cortegada",
+        "habitantes": "1085",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-23",
+        "municipio": "Cortegada",
+        "habitantes": "1085",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2022-05-24",
+        "municipio": "Cortegada",
+        "habitantes": "1085",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2022-05-25",
+        "municipio": "Cortegada",
+        "habitantes": "1085",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2022-05-26",
+        "municipio": "Cortegada",
+        "habitantes": "1085",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-27",
+        "municipio": "Cortegada",
+        "habitantes": "1085",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]

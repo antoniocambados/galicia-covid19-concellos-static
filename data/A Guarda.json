@@ -3589,5 +3589,194 @@
         "habitantes": "9977",
         "casos_14d": "55",
         "casos_7d": "26"
+    },
+    {
+        "fecha": "2022-04-27",
+        "municipio": "A Guarda",
+        "habitantes": "9977",
+        "casos_14d": "48",
+        "casos_7d": "21"
+    },
+    {
+        "fecha": "2022-04-28",
+        "municipio": "A Guarda",
+        "habitantes": "9977",
+        "casos_14d": "49",
+        "casos_7d": "21"
+    },
+    {
+        "fecha": "2022-04-29",
+        "municipio": "A Guarda",
+        "habitantes": "9977",
+        "casos_14d": "43",
+        "casos_7d": "20"
+    },
+    {
+        "fecha": "2022-04-30",
+        "municipio": "A Guarda",
+        "habitantes": "9977",
+        "casos_14d": "40",
+        "casos_7d": "19"
+    },
+    {
+        "fecha": "2022-05-02",
+        "municipio": "A Guarda",
+        "habitantes": "9977",
+        "casos_14d": "40",
+        "casos_7d": "16"
+    },
+    {
+        "fecha": "2022-05-03",
+        "municipio": "A Guarda",
+        "habitantes": "9977",
+        "casos_14d": "43",
+        "casos_7d": "17"
+    },
+    {
+        "fecha": "2022-05-04",
+        "municipio": "A Guarda",
+        "habitantes": "9977",
+        "casos_14d": "37",
+        "casos_7d": "16"
+    },
+    {
+        "fecha": "2022-05-05",
+        "municipio": "A Guarda",
+        "habitantes": "9977",
+        "casos_14d": "39",
+        "casos_7d": "18"
+    },
+    {
+        "fecha": "2022-05-06",
+        "municipio": "A Guarda",
+        "habitantes": "9977",
+        "casos_14d": "38",
+        "casos_7d": "18"
+    },
+    {
+        "fecha": "2022-05-07",
+        "municipio": "A Guarda",
+        "habitantes": "9977",
+        "casos_14d": "39",
+        "casos_7d": "20"
+    },
+    {
+        "fecha": "2022-05-09",
+        "municipio": "A Guarda",
+        "habitantes": "9977",
+        "casos_14d": "35",
+        "casos_7d": "20"
+    },
+    {
+        "fecha": "2022-05-10",
+        "municipio": "A Guarda",
+        "habitantes": "9977",
+        "casos_14d": "34",
+        "casos_7d": "17"
+    },
+    {
+        "fecha": "2022-05-11",
+        "municipio": "A Guarda",
+        "habitantes": "9977",
+        "casos_14d": "38",
+        "casos_7d": "22"
+    },
+    {
+        "fecha": "2022-05-12",
+        "municipio": "A Guarda",
+        "habitantes": "9977",
+        "casos_14d": "39",
+        "casos_7d": "21"
+    },
+    {
+        "fecha": "2022-05-13",
+        "municipio": "A Guarda",
+        "habitantes": "9977",
+        "casos_14d": "44",
+        "casos_7d": "26"
+    },
+    {
+        "fecha": "2022-05-14",
+        "municipio": "A Guarda",
+        "habitantes": "9977",
+        "casos_14d": "43",
+        "casos_7d": "23"
+    },
+    {
+        "fecha": "2022-05-16",
+        "municipio": "A Guarda",
+        "habitantes": "9977",
+        "casos_14d": "43",
+        "casos_7d": "23"
+    },
+    {
+        "fecha": "2022-05-17",
+        "municipio": "A Guarda",
+        "habitantes": "9977",
+        "casos_14d": "39",
+        "casos_7d": "22"
+    },
+    {
+        "fecha": "2022-05-18",
+        "municipio": "A Guarda",
+        "habitantes": "9977",
+        "casos_14d": "40",
+        "casos_7d": "18"
+    },
+    {
+        "fecha": "2022-05-19",
+        "municipio": "A Guarda",
+        "habitantes": "9977",
+        "casos_14d": "36",
+        "casos_7d": "15"
+    },
+    {
+        "fecha": "2022-05-20",
+        "municipio": "A Guarda",
+        "habitantes": "9977",
+        "casos_14d": "38",
+        "casos_7d": "12"
+    },
+    {
+        "fecha": "2022-05-21",
+        "municipio": "A Guarda",
+        "habitantes": "9977",
+        "casos_14d": "39",
+        "casos_7d": "16"
+    },
+    {
+        "fecha": "2022-05-23",
+        "municipio": "A Guarda",
+        "habitantes": "9977",
+        "casos_14d": "40",
+        "casos_7d": "17"
+    },
+    {
+        "fecha": "2022-05-24",
+        "municipio": "A Guarda",
+        "habitantes": "9977",
+        "casos_14d": "37",
+        "casos_7d": "15"
+    },
+    {
+        "fecha": "2022-05-25",
+        "municipio": "A Guarda",
+        "habitantes": "9977",
+        "casos_14d": "30",
+        "casos_7d": "12"
+    },
+    {
+        "fecha": "2022-05-26",
+        "municipio": "A Guarda",
+        "habitantes": "9977",
+        "casos_14d": "27",
+        "casos_7d": "12"
+    },
+    {
+        "fecha": "2022-05-27",
+        "municipio": "A Guarda",
+        "habitantes": "9977",
+        "casos_14d": "23",
+        "casos_7d": "11"
     }
 ]

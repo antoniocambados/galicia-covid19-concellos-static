@@ -3589,5 +3589,194 @@
         "habitantes": "17082",
         "casos_14d": "87",
         "casos_7d": "49"
+    },
+    {
+        "fecha": "2022-04-27",
+        "municipio": "Poio",
+        "habitantes": "17082",
+        "casos_14d": "93",
+        "casos_7d": "56"
+    },
+    {
+        "fecha": "2022-04-28",
+        "municipio": "Poio",
+        "habitantes": "17082",
+        "casos_14d": "102",
+        "casos_7d": "60"
+    },
+    {
+        "fecha": "2022-04-29",
+        "municipio": "Poio",
+        "habitantes": "17082",
+        "casos_14d": "108",
+        "casos_7d": "63"
+    },
+    {
+        "fecha": "2022-04-30",
+        "municipio": "Poio",
+        "habitantes": "17082",
+        "casos_14d": "115",
+        "casos_7d": "66"
+    },
+    {
+        "fecha": "2022-05-02",
+        "municipio": "Poio",
+        "habitantes": "17082",
+        "casos_14d": "113",
+        "casos_7d": "61"
+    },
+    {
+        "fecha": "2022-05-03",
+        "municipio": "Poio",
+        "habitantes": "17082",
+        "casos_14d": "112",
+        "casos_7d": "65"
+    },
+    {
+        "fecha": "2022-05-04",
+        "municipio": "Poio",
+        "habitantes": "17082",
+        "casos_14d": "110",
+        "casos_7d": "55"
+    },
+    {
+        "fecha": "2022-05-05",
+        "municipio": "Poio",
+        "habitantes": "17082",
+        "casos_14d": "116",
+        "casos_7d": "57"
+    },
+    {
+        "fecha": "2022-05-06",
+        "municipio": "Poio",
+        "habitantes": "17082",
+        "casos_14d": "116",
+        "casos_7d": "54"
+    },
+    {
+        "fecha": "2022-05-07",
+        "municipio": "Poio",
+        "habitantes": "17082",
+        "casos_14d": "114",
+        "casos_7d": "49"
+    },
+    {
+        "fecha": "2022-05-09",
+        "municipio": "Poio",
+        "habitantes": "17082",
+        "casos_14d": "115",
+        "casos_7d": "54"
+    },
+    {
+        "fecha": "2022-05-10",
+        "municipio": "Poio",
+        "habitantes": "17082",
+        "casos_14d": "112",
+        "casos_7d": "47"
+    },
+    {
+        "fecha": "2022-05-11",
+        "municipio": "Poio",
+        "habitantes": "17082",
+        "casos_14d": "107",
+        "casos_7d": "51"
+    },
+    {
+        "fecha": "2022-05-12",
+        "municipio": "Poio",
+        "habitantes": "17082",
+        "casos_14d": "103",
+        "casos_7d": "44"
+    },
+    {
+        "fecha": "2022-05-13",
+        "municipio": "Poio",
+        "habitantes": "17082",
+        "casos_14d": "100",
+        "casos_7d": "44"
+    },
+    {
+        "fecha": "2022-05-14",
+        "municipio": "Poio",
+        "habitantes": "17082",
+        "casos_14d": "98",
+        "casos_7d": "48"
+    },
+    {
+        "fecha": "2022-05-16",
+        "municipio": "Poio",
+        "habitantes": "17082",
+        "casos_14d": "101",
+        "casos_7d": "46"
+    },
+    {
+        "fecha": "2022-05-17",
+        "municipio": "Poio",
+        "habitantes": "17082",
+        "casos_14d": "96",
+        "casos_7d": "48"
+    },
+    {
+        "fecha": "2022-05-18",
+        "municipio": "Poio",
+        "habitantes": "17082",
+        "casos_14d": "97",
+        "casos_7d": "46"
+    },
+    {
+        "fecha": "2022-05-19",
+        "municipio": "Poio",
+        "habitantes": "17082",
+        "casos_14d": "89",
+        "casos_7d": "45"
+    },
+    {
+        "fecha": "2022-05-20",
+        "municipio": "Poio",
+        "habitantes": "17082",
+        "casos_14d": "88",
+        "casos_7d": "44"
+    },
+    {
+        "fecha": "2022-05-21",
+        "municipio": "Poio",
+        "habitantes": "17082",
+        "casos_14d": "92",
+        "casos_7d": "44"
+    },
+    {
+        "fecha": "2022-05-23",
+        "municipio": "Poio",
+        "habitantes": "17082",
+        "casos_14d": "87",
+        "casos_7d": "41"
+    },
+    {
+        "fecha": "2022-05-24",
+        "municipio": "Poio",
+        "habitantes": "17082",
+        "casos_14d": "87",
+        "casos_7d": "39"
+    },
+    {
+        "fecha": "2022-05-25",
+        "municipio": "Poio",
+        "habitantes": "17082",
+        "casos_14d": "82",
+        "casos_7d": "36"
+    },
+    {
+        "fecha": "2022-05-26",
+        "municipio": "Poio",
+        "habitantes": "17082",
+        "casos_14d": "81",
+        "casos_7d": "36"
+    },
+    {
+        "fecha": "2022-05-27",
+        "municipio": "Poio",
+        "habitantes": "17082",
+        "casos_14d": "80",
+        "casos_7d": "36"
     }
 ]

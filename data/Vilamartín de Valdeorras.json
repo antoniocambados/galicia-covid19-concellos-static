@@ -3589,5 +3589,194 @@
         "habitantes": "1790",
         "casos_14d": "62",
         "casos_7d": "57"
+    },
+    {
+        "fecha": "2022-04-27",
+        "municipio": "Vilamart\u00edn de Valdeorras",
+        "habitantes": "1790",
+        "casos_14d": "87",
+        "casos_7d": "81"
+    },
+    {
+        "fecha": "2022-04-28",
+        "municipio": "Vilamart\u00edn de Valdeorras",
+        "habitantes": "1790",
+        "casos_14d": "87",
+        "casos_7d": "78"
+    },
+    {
+        "fecha": "2022-04-29",
+        "municipio": "Vilamart\u00edn de Valdeorras",
+        "habitantes": "1790",
+        "casos_14d": "118",
+        "casos_7d": "106"
+    },
+    {
+        "fecha": "2022-04-30",
+        "municipio": "Vilamart\u00edn de Valdeorras",
+        "habitantes": "1790",
+        "casos_14d": "141",
+        "casos_7d": "129"
+    },
+    {
+        "fecha": "2022-05-02",
+        "municipio": "Vilamart\u00edn de Valdeorras",
+        "habitantes": "1790",
+        "casos_14d": "156",
+        "casos_7d": "99"
+    },
+    {
+        "fecha": "2022-05-03",
+        "municipio": "Vilamart\u00edn de Valdeorras",
+        "habitantes": "1790",
+        "casos_14d": "156",
+        "casos_7d": "99"
+    },
+    {
+        "fecha": "2022-05-04",
+        "municipio": "Vilamart\u00edn de Valdeorras",
+        "habitantes": "1790",
+        "casos_14d": "161",
+        "casos_7d": "80"
+    },
+    {
+        "fecha": "2022-05-05",
+        "municipio": "Vilamart\u00edn de Valdeorras",
+        "habitantes": "1790",
+        "casos_14d": "178",
+        "casos_7d": "100"
+    },
+    {
+        "fecha": "2022-05-06",
+        "municipio": "Vilamart\u00edn de Valdeorras",
+        "habitantes": "1790",
+        "casos_14d": "175",
+        "casos_7d": "69"
+    },
+    {
+        "fecha": "2022-05-07",
+        "municipio": "Vilamart\u00edn de Valdeorras",
+        "habitantes": "1790",
+        "casos_14d": "176",
+        "casos_7d": "47"
+    },
+    {
+        "fecha": "2022-05-09",
+        "municipio": "Vilamart\u00edn de Valdeorras",
+        "habitantes": "1790",
+        "casos_14d": "130",
+        "casos_7d": "31"
+    },
+    {
+        "fecha": "2022-05-10",
+        "municipio": "Vilamart\u00edn de Valdeorras",
+        "habitantes": "1790",
+        "casos_14d": "130",
+        "casos_7d": "31"
+    },
+    {
+        "fecha": "2022-05-11",
+        "municipio": "Vilamart\u00edn de Valdeorras",
+        "habitantes": "1790",
+        "casos_14d": "105",
+        "casos_7d": "25"
+    },
+    {
+        "fecha": "2022-05-12",
+        "municipio": "Vilamart\u00edn de Valdeorras",
+        "habitantes": "1790",
+        "casos_14d": "108",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-13",
+        "municipio": "Vilamart\u00edn de Valdeorras",
+        "habitantes": "1790",
+        "casos_14d": "80",
+        "casos_7d": "11"
+    },
+    {
+        "fecha": "2022-05-14",
+        "municipio": "Vilamart\u00edn de Valdeorras",
+        "habitantes": "1790",
+        "casos_14d": "61",
+        "casos_7d": "14"
+    },
+    {
+        "fecha": "2022-05-16",
+        "municipio": "Vilamart\u00edn de Valdeorras",
+        "habitantes": "1790",
+        "casos_14d": "44",
+        "casos_7d": "13"
+    },
+    {
+        "fecha": "2022-05-17",
+        "municipio": "Vilamart\u00edn de Valdeorras",
+        "habitantes": "1790",
+        "casos_14d": "44",
+        "casos_7d": "13"
+    },
+    {
+        "fecha": "2022-05-18",
+        "municipio": "Vilamart\u00edn de Valdeorras",
+        "habitantes": "1790",
+        "casos_14d": "36",
+        "casos_7d": "11"
+    },
+    {
+        "fecha": "2022-05-19",
+        "municipio": "Vilamart\u00edn de Valdeorras",
+        "habitantes": "1790",
+        "casos_14d": "18",
+        "casos_7d": "10"
+    },
+    {
+        "fecha": "2022-05-20",
+        "municipio": "Vilamart\u00edn de Valdeorras",
+        "habitantes": "1790",
+        "casos_14d": "18",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-21",
+        "municipio": "Vilamart\u00edn de Valdeorras",
+        "habitantes": "1790",
+        "casos_14d": "17",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-23",
+        "municipio": "Vilamart\u00edn de Valdeorras",
+        "habitantes": "1790",
+        "casos_14d": "17",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-24",
+        "municipio": "Vilamart\u00edn de Valdeorras",
+        "habitantes": "1790",
+        "casos_14d": "17",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-25",
+        "municipio": "Vilamart\u00edn de Valdeorras",
+        "habitantes": "1790",
+        "casos_14d": "16",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-26",
+        "municipio": "Vilamart\u00edn de Valdeorras",
+        "habitantes": "1790",
+        "casos_14d": "14",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-27",
+        "municipio": "Vilamart\u00edn de Valdeorras",
+        "habitantes": "1790",
+        "casos_14d": "11",
+        "casos_7d": null
     }
 ]

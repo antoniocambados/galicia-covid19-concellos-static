@@ -3589,5 +3589,194 @@
         "habitantes": "7777",
         "casos_14d": "47",
         "casos_7d": "29"
+    },
+    {
+        "fecha": "2022-04-27",
+        "municipio": "Pontedeume",
+        "habitantes": "7777",
+        "casos_14d": "49",
+        "casos_7d": "35"
+    },
+    {
+        "fecha": "2022-04-28",
+        "municipio": "Pontedeume",
+        "habitantes": "7777",
+        "casos_14d": "52",
+        "casos_7d": "35"
+    },
+    {
+        "fecha": "2022-04-29",
+        "municipio": "Pontedeume",
+        "habitantes": "7777",
+        "casos_14d": "54",
+        "casos_7d": "34"
+    },
+    {
+        "fecha": "2022-04-30",
+        "municipio": "Pontedeume",
+        "habitantes": "7777",
+        "casos_14d": "56",
+        "casos_7d": "32"
+    },
+    {
+        "fecha": "2022-05-02",
+        "municipio": "Pontedeume",
+        "habitantes": "7777",
+        "casos_14d": "56",
+        "casos_7d": "30"
+    },
+    {
+        "fecha": "2022-05-03",
+        "municipio": "Pontedeume",
+        "habitantes": "7777",
+        "casos_14d": "59",
+        "casos_7d": "30"
+    },
+    {
+        "fecha": "2022-05-04",
+        "municipio": "Pontedeume",
+        "habitantes": "7777",
+        "casos_14d": "59",
+        "casos_7d": "24"
+    },
+    {
+        "fecha": "2022-05-05",
+        "municipio": "Pontedeume",
+        "habitantes": "7777",
+        "casos_14d": "59",
+        "casos_7d": "24"
+    },
+    {
+        "fecha": "2022-05-06",
+        "municipio": "Pontedeume",
+        "habitantes": "7777",
+        "casos_14d": "62",
+        "casos_7d": "28"
+    },
+    {
+        "fecha": "2022-05-07",
+        "municipio": "Pontedeume",
+        "habitantes": "7777",
+        "casos_14d": "61",
+        "casos_7d": "29"
+    },
+    {
+        "fecha": "2022-05-09",
+        "municipio": "Pontedeume",
+        "habitantes": "7777",
+        "casos_14d": "60",
+        "casos_7d": "30"
+    },
+    {
+        "fecha": "2022-05-10",
+        "municipio": "Pontedeume",
+        "habitantes": "7777",
+        "casos_14d": "58",
+        "casos_7d": "28"
+    },
+    {
+        "fecha": "2022-05-11",
+        "municipio": "Pontedeume",
+        "habitantes": "7777",
+        "casos_14d": "50",
+        "casos_7d": "26"
+    },
+    {
+        "fecha": "2022-05-12",
+        "municipio": "Pontedeume",
+        "habitantes": "7777",
+        "casos_14d": "48",
+        "casos_7d": "24"
+    },
+    {
+        "fecha": "2022-05-13",
+        "municipio": "Pontedeume",
+        "habitantes": "7777",
+        "casos_14d": "48",
+        "casos_7d": "20"
+    },
+    {
+        "fecha": "2022-05-14",
+        "municipio": "Pontedeume",
+        "habitantes": "7777",
+        "casos_14d": "50",
+        "casos_7d": "21"
+    },
+    {
+        "fecha": "2022-05-16",
+        "municipio": "Pontedeume",
+        "habitantes": "7777",
+        "casos_14d": "51",
+        "casos_7d": "21"
+    },
+    {
+        "fecha": "2022-05-17",
+        "municipio": "Pontedeume",
+        "habitantes": "7777",
+        "casos_14d": "48",
+        "casos_7d": "20"
+    },
+    {
+        "fecha": "2022-05-18",
+        "municipio": "Pontedeume",
+        "habitantes": "7777",
+        "casos_14d": "48",
+        "casos_7d": "22"
+    },
+    {
+        "fecha": "2022-05-19",
+        "municipio": "Pontedeume",
+        "habitantes": "7777",
+        "casos_14d": "44",
+        "casos_7d": "20"
+    },
+    {
+        "fecha": "2022-05-20",
+        "municipio": "Pontedeume",
+        "habitantes": "7777",
+        "casos_14d": "41",
+        "casos_7d": "21"
+    },
+    {
+        "fecha": "2022-05-21",
+        "municipio": "Pontedeume",
+        "habitantes": "7777",
+        "casos_14d": "38",
+        "casos_7d": "17"
+    },
+    {
+        "fecha": "2022-05-23",
+        "municipio": "Pontedeume",
+        "habitantes": "7777",
+        "casos_14d": "40",
+        "casos_7d": "19"
+    },
+    {
+        "fecha": "2022-05-24",
+        "municipio": "Pontedeume",
+        "habitantes": "7777",
+        "casos_14d": "42",
+        "casos_7d": "22"
+    },
+    {
+        "fecha": "2022-05-25",
+        "municipio": "Pontedeume",
+        "habitantes": "7777",
+        "casos_14d": "41",
+        "casos_7d": "19"
+    },
+    {
+        "fecha": "2022-05-26",
+        "municipio": "Pontedeume",
+        "habitantes": "7777",
+        "casos_14d": "41",
+        "casos_7d": "21"
+    },
+    {
+        "fecha": "2022-05-27",
+        "municipio": "Pontedeume",
+        "habitantes": "7777",
+        "casos_14d": "40",
+        "casos_7d": "19"
     }
 ]

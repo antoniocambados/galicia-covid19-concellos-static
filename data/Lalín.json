@@ -3589,5 +3589,194 @@
         "habitantes": "20218",
         "casos_14d": "95",
         "casos_7d": "59"
+    },
+    {
+        "fecha": "2022-04-27",
+        "municipio": "Lal\u00edn",
+        "habitantes": "20218",
+        "casos_14d": "101",
+        "casos_7d": "59"
+    },
+    {
+        "fecha": "2022-04-28",
+        "municipio": "Lal\u00edn",
+        "habitantes": "20218",
+        "casos_14d": "103",
+        "casos_7d": "57"
+    },
+    {
+        "fecha": "2022-04-29",
+        "municipio": "Lal\u00edn",
+        "habitantes": "20218",
+        "casos_14d": "107",
+        "casos_7d": "60"
+    },
+    {
+        "fecha": "2022-04-30",
+        "municipio": "Lal\u00edn",
+        "habitantes": "20218",
+        "casos_14d": "114",
+        "casos_7d": "59"
+    },
+    {
+        "fecha": "2022-05-02",
+        "municipio": "Lal\u00edn",
+        "habitantes": "20218",
+        "casos_14d": "119",
+        "casos_7d": "66"
+    },
+    {
+        "fecha": "2022-05-03",
+        "municipio": "Lal\u00edn",
+        "habitantes": "20218",
+        "casos_14d": "120",
+        "casos_7d": "61"
+    },
+    {
+        "fecha": "2022-05-04",
+        "municipio": "Lal\u00edn",
+        "habitantes": "20218",
+        "casos_14d": "121",
+        "casos_7d": "62"
+    },
+    {
+        "fecha": "2022-05-05",
+        "municipio": "Lal\u00edn",
+        "habitantes": "20218",
+        "casos_14d": "124",
+        "casos_7d": "67"
+    },
+    {
+        "fecha": "2022-05-06",
+        "municipio": "Lal\u00edn",
+        "habitantes": "20218",
+        "casos_14d": "125",
+        "casos_7d": "65"
+    },
+    {
+        "fecha": "2022-05-07",
+        "municipio": "Lal\u00edn",
+        "habitantes": "20218",
+        "casos_14d": "115",
+        "casos_7d": "56"
+    },
+    {
+        "fecha": "2022-05-09",
+        "municipio": "Lal\u00edn",
+        "habitantes": "20218",
+        "casos_14d": "120",
+        "casos_7d": "54"
+    },
+    {
+        "fecha": "2022-05-10",
+        "municipio": "Lal\u00edn",
+        "habitantes": "20218",
+        "casos_14d": "115",
+        "casos_7d": "54"
+    },
+    {
+        "fecha": "2022-05-11",
+        "municipio": "Lal\u00edn",
+        "habitantes": "20218",
+        "casos_14d": "110",
+        "casos_7d": "48"
+    },
+    {
+        "fecha": "2022-05-12",
+        "municipio": "Lal\u00edn",
+        "habitantes": "20218",
+        "casos_14d": "111",
+        "casos_7d": "44"
+    },
+    {
+        "fecha": "2022-05-13",
+        "municipio": "Lal\u00edn",
+        "habitantes": "20218",
+        "casos_14d": "108",
+        "casos_7d": "43"
+    },
+    {
+        "fecha": "2022-05-14",
+        "municipio": "Lal\u00edn",
+        "habitantes": "20218",
+        "casos_14d": "102",
+        "casos_7d": "46"
+    },
+    {
+        "fecha": "2022-05-16",
+        "municipio": "Lal\u00edn",
+        "habitantes": "20218",
+        "casos_14d": "94",
+        "casos_7d": "40"
+    },
+    {
+        "fecha": "2022-05-17",
+        "municipio": "Lal\u00edn",
+        "habitantes": "20218",
+        "casos_14d": "92",
+        "casos_7d": "38"
+    },
+    {
+        "fecha": "2022-05-18",
+        "municipio": "Lal\u00edn",
+        "habitantes": "20218",
+        "casos_14d": "83",
+        "casos_7d": "35"
+    },
+    {
+        "fecha": "2022-05-19",
+        "municipio": "Lal\u00edn",
+        "habitantes": "20218",
+        "casos_14d": "72",
+        "casos_7d": "28"
+    },
+    {
+        "fecha": "2022-05-20",
+        "municipio": "Lal\u00edn",
+        "habitantes": "20218",
+        "casos_14d": "71",
+        "casos_7d": "28"
+    },
+    {
+        "fecha": "2022-05-21",
+        "municipio": "Lal\u00edn",
+        "habitantes": "20218",
+        "casos_14d": "77",
+        "casos_7d": "31"
+    },
+    {
+        "fecha": "2022-05-23",
+        "municipio": "Lal\u00edn",
+        "habitantes": "20218",
+        "casos_14d": "72",
+        "casos_7d": "32"
+    },
+    {
+        "fecha": "2022-05-24",
+        "municipio": "Lal\u00edn",
+        "habitantes": "20218",
+        "casos_14d": "66",
+        "casos_7d": "28"
+    },
+    {
+        "fecha": "2022-05-25",
+        "municipio": "Lal\u00edn",
+        "habitantes": "20218",
+        "casos_14d": "63",
+        "casos_7d": "28"
+    },
+    {
+        "fecha": "2022-05-26",
+        "municipio": "Lal\u00edn",
+        "habitantes": "20218",
+        "casos_14d": "56",
+        "casos_7d": "28"
+    },
+    {
+        "fecha": "2022-05-27",
+        "municipio": "Lal\u00edn",
+        "habitantes": "20218",
+        "casos_14d": "52",
+        "casos_7d": "24"
     }
 ]

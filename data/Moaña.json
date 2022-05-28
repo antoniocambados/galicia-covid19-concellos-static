@@ -3589,5 +3589,194 @@
         "habitantes": "19399",
         "casos_14d": "106",
         "casos_7d": "64"
+    },
+    {
+        "fecha": "2022-04-27",
+        "municipio": "Moa\u00f1a",
+        "habitantes": "19399",
+        "casos_14d": "102",
+        "casos_7d": "58"
+    },
+    {
+        "fecha": "2022-04-28",
+        "municipio": "Moa\u00f1a",
+        "habitantes": "19399",
+        "casos_14d": "103",
+        "casos_7d": "58"
+    },
+    {
+        "fecha": "2022-04-29",
+        "municipio": "Moa\u00f1a",
+        "habitantes": "19399",
+        "casos_14d": "112",
+        "casos_7d": "58"
+    },
+    {
+        "fecha": "2022-04-30",
+        "municipio": "Moa\u00f1a",
+        "habitantes": "19399",
+        "casos_14d": "116",
+        "casos_7d": "56"
+    },
+    {
+        "fecha": "2022-05-02",
+        "municipio": "Moa\u00f1a",
+        "habitantes": "19399",
+        "casos_14d": "123",
+        "casos_7d": "60"
+    },
+    {
+        "fecha": "2022-05-03",
+        "municipio": "Moa\u00f1a",
+        "habitantes": "19399",
+        "casos_14d": "121",
+        "casos_7d": "57"
+    },
+    {
+        "fecha": "2022-05-04",
+        "municipio": "Moa\u00f1a",
+        "habitantes": "19399",
+        "casos_14d": "109",
+        "casos_7d": "51"
+    },
+    {
+        "fecha": "2022-05-05",
+        "municipio": "Moa\u00f1a",
+        "habitantes": "19399",
+        "casos_14d": "114",
+        "casos_7d": "56"
+    },
+    {
+        "fecha": "2022-05-06",
+        "municipio": "Moa\u00f1a",
+        "habitantes": "19399",
+        "casos_14d": "109",
+        "casos_7d": "51"
+    },
+    {
+        "fecha": "2022-05-07",
+        "municipio": "Moa\u00f1a",
+        "habitantes": "19399",
+        "casos_14d": "109",
+        "casos_7d": "53"
+    },
+    {
+        "fecha": "2022-05-09",
+        "municipio": "Moa\u00f1a",
+        "habitantes": "19399",
+        "casos_14d": "112",
+        "casos_7d": "52"
+    },
+    {
+        "fecha": "2022-05-10",
+        "municipio": "Moa\u00f1a",
+        "habitantes": "19399",
+        "casos_14d": "103",
+        "casos_7d": "46"
+    },
+    {
+        "fecha": "2022-05-11",
+        "municipio": "Moa\u00f1a",
+        "habitantes": "19399",
+        "casos_14d": "101",
+        "casos_7d": "50"
+    },
+    {
+        "fecha": "2022-05-12",
+        "municipio": "Moa\u00f1a",
+        "habitantes": "19399",
+        "casos_14d": "96",
+        "casos_7d": "40"
+    },
+    {
+        "fecha": "2022-05-13",
+        "municipio": "Moa\u00f1a",
+        "habitantes": "19399",
+        "casos_14d": "86",
+        "casos_7d": "35"
+    },
+    {
+        "fecha": "2022-05-14",
+        "municipio": "Moa\u00f1a",
+        "habitantes": "19399",
+        "casos_14d": "85",
+        "casos_7d": "32"
+    },
+    {
+        "fecha": "2022-05-16",
+        "municipio": "Moa\u00f1a",
+        "habitantes": "19399",
+        "casos_14d": "82",
+        "casos_7d": "30"
+    },
+    {
+        "fecha": "2022-05-17",
+        "municipio": "Moa\u00f1a",
+        "habitantes": "19399",
+        "casos_14d": "82",
+        "casos_7d": "36"
+    },
+    {
+        "fecha": "2022-05-18",
+        "municipio": "Moa\u00f1a",
+        "habitantes": "19399",
+        "casos_14d": "80",
+        "casos_7d": "30"
+    },
+    {
+        "fecha": "2022-05-19",
+        "municipio": "Moa\u00f1a",
+        "habitantes": "19399",
+        "casos_14d": "74",
+        "casos_7d": "34"
+    },
+    {
+        "fecha": "2022-05-20",
+        "municipio": "Moa\u00f1a",
+        "habitantes": "19399",
+        "casos_14d": "74",
+        "casos_7d": "39"
+    },
+    {
+        "fecha": "2022-05-21",
+        "municipio": "Moa\u00f1a",
+        "habitantes": "19399",
+        "casos_14d": "71",
+        "casos_7d": "39"
+    },
+    {
+        "fecha": "2022-05-23",
+        "municipio": "Moa\u00f1a",
+        "habitantes": "19399",
+        "casos_14d": "71",
+        "casos_7d": "41"
+    },
+    {
+        "fecha": "2022-05-24",
+        "municipio": "Moa\u00f1a",
+        "habitantes": "19399",
+        "casos_14d": "71",
+        "casos_7d": "35"
+    },
+    {
+        "fecha": "2022-05-25",
+        "municipio": "Moa\u00f1a",
+        "habitantes": "19399",
+        "casos_14d": "70",
+        "casos_7d": "40"
+    },
+    {
+        "fecha": "2022-05-26",
+        "municipio": "Moa\u00f1a",
+        "habitantes": "19399",
+        "casos_14d": "70",
+        "casos_7d": "36"
+    },
+    {
+        "fecha": "2022-05-27",
+        "municipio": "Moa\u00f1a",
+        "habitantes": "19399",
+        "casos_14d": "70",
+        "casos_7d": "31"
     }
 ]

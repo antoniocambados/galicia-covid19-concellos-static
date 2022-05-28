@@ -3589,5 +3589,194 @@
         "habitantes": "29218",
         "casos_14d": "133",
         "casos_7d": "60"
+    },
+    {
+        "fecha": "2022-04-27",
+        "municipio": "Redondela",
+        "habitantes": "29218",
+        "casos_14d": "135",
+        "casos_7d": "61"
+    },
+    {
+        "fecha": "2022-04-28",
+        "municipio": "Redondela",
+        "habitantes": "29218",
+        "casos_14d": "147",
+        "casos_7d": "69"
+    },
+    {
+        "fecha": "2022-04-29",
+        "municipio": "Redondela",
+        "habitantes": "29218",
+        "casos_14d": "156",
+        "casos_7d": "81"
+    },
+    {
+        "fecha": "2022-04-30",
+        "municipio": "Redondela",
+        "habitantes": "29218",
+        "casos_14d": "165",
+        "casos_7d": "89"
+    },
+    {
+        "fecha": "2022-05-02",
+        "municipio": "Redondela",
+        "habitantes": "29218",
+        "casos_14d": "180",
+        "casos_7d": "109"
+    },
+    {
+        "fecha": "2022-05-03",
+        "municipio": "Redondela",
+        "habitantes": "29218",
+        "casos_14d": "176",
+        "casos_7d": "116"
+    },
+    {
+        "fecha": "2022-05-04",
+        "municipio": "Redondela",
+        "habitantes": "29218",
+        "casos_14d": "177",
+        "casos_7d": "116"
+    },
+    {
+        "fecha": "2022-05-05",
+        "municipio": "Redondela",
+        "habitantes": "29218",
+        "casos_14d": "188",
+        "casos_7d": "119"
+    },
+    {
+        "fecha": "2022-05-06",
+        "municipio": "Redondela",
+        "habitantes": "29218",
+        "casos_14d": "199",
+        "casos_7d": "118"
+    },
+    {
+        "fecha": "2022-05-07",
+        "municipio": "Redondela",
+        "habitantes": "29218",
+        "casos_14d": "202",
+        "casos_7d": "113"
+    },
+    {
+        "fecha": "2022-05-09",
+        "municipio": "Redondela",
+        "habitantes": "29218",
+        "casos_14d": "212",
+        "casos_7d": "103"
+    },
+    {
+        "fecha": "2022-05-10",
+        "municipio": "Redondela",
+        "habitantes": "29218",
+        "casos_14d": "216",
+        "casos_7d": "100"
+    },
+    {
+        "fecha": "2022-05-11",
+        "municipio": "Redondela",
+        "habitantes": "29218",
+        "casos_14d": "205",
+        "casos_7d": "89"
+    },
+    {
+        "fecha": "2022-05-12",
+        "municipio": "Redondela",
+        "habitantes": "29218",
+        "casos_14d": "202",
+        "casos_7d": "83"
+    },
+    {
+        "fecha": "2022-05-13",
+        "municipio": "Redondela",
+        "habitantes": "29218",
+        "casos_14d": "194",
+        "casos_7d": "76"
+    },
+    {
+        "fecha": "2022-05-14",
+        "municipio": "Redondela",
+        "habitantes": "29218",
+        "casos_14d": "183",
+        "casos_7d": "70"
+    },
+    {
+        "fecha": "2022-05-16",
+        "municipio": "Redondela",
+        "habitantes": "29218",
+        "casos_14d": "176",
+        "casos_7d": "73"
+    },
+    {
+        "fecha": "2022-05-17",
+        "municipio": "Redondela",
+        "habitantes": "29218",
+        "casos_14d": "172",
+        "casos_7d": "72"
+    },
+    {
+        "fecha": "2022-05-18",
+        "municipio": "Redondela",
+        "habitantes": "29218",
+        "casos_14d": "164",
+        "casos_7d": "75"
+    },
+    {
+        "fecha": "2022-05-19",
+        "municipio": "Redondela",
+        "habitantes": "29218",
+        "casos_14d": "149",
+        "casos_7d": "66"
+    },
+    {
+        "fecha": "2022-05-20",
+        "municipio": "Redondela",
+        "habitantes": "29218",
+        "casos_14d": "140",
+        "casos_7d": "64"
+    },
+    {
+        "fecha": "2022-05-21",
+        "municipio": "Redondela",
+        "habitantes": "29218",
+        "casos_14d": "134",
+        "casos_7d": "64"
+    },
+    {
+        "fecha": "2022-05-23",
+        "municipio": "Redondela",
+        "habitantes": "29218",
+        "casos_14d": "127",
+        "casos_7d": "54"
+    },
+    {
+        "fecha": "2022-05-24",
+        "municipio": "Redondela",
+        "habitantes": "29218",
+        "casos_14d": "122",
+        "casos_7d": "50"
+    },
+    {
+        "fecha": "2022-05-25",
+        "municipio": "Redondela",
+        "habitantes": "29218",
+        "casos_14d": "123",
+        "casos_7d": "48"
+    },
+    {
+        "fecha": "2022-05-26",
+        "municipio": "Redondela",
+        "habitantes": "29218",
+        "casos_14d": "113",
+        "casos_7d": "47"
+    },
+    {
+        "fecha": "2022-05-27",
+        "municipio": "Redondela",
+        "habitantes": "29218",
+        "casos_14d": "112",
+        "casos_7d": "48"
     }
 ]

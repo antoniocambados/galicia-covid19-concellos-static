@@ -3589,5 +3589,194 @@
         "habitantes": "2556",
         "casos_14d": "24",
         "casos_7d": "16"
+    },
+    {
+        "fecha": "2022-04-27",
+        "municipio": "Baralla",
+        "habitantes": "2556",
+        "casos_14d": "25",
+        "casos_7d": "18"
+    },
+    {
+        "fecha": "2022-04-28",
+        "municipio": "Baralla",
+        "habitantes": "2556",
+        "casos_14d": "25",
+        "casos_7d": "17"
+    },
+    {
+        "fecha": "2022-04-29",
+        "municipio": "Baralla",
+        "habitantes": "2556",
+        "casos_14d": "26",
+        "casos_7d": "16"
+    },
+    {
+        "fecha": "2022-04-30",
+        "municipio": "Baralla",
+        "habitantes": "2556",
+        "casos_14d": "25",
+        "casos_7d": "17"
+    },
+    {
+        "fecha": "2022-05-02",
+        "municipio": "Baralla",
+        "habitantes": "2556",
+        "casos_14d": "24",
+        "casos_7d": "13"
+    },
+    {
+        "fecha": "2022-05-03",
+        "municipio": "Baralla",
+        "habitantes": "2556",
+        "casos_14d": "24",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-04",
+        "municipio": "Baralla",
+        "habitantes": "2556",
+        "casos_14d": "24",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-05",
+        "municipio": "Baralla",
+        "habitantes": "2556",
+        "casos_14d": "27",
+        "casos_7d": "10"
+    },
+    {
+        "fecha": "2022-05-06",
+        "municipio": "Baralla",
+        "habitantes": "2556",
+        "casos_14d": "23",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-07",
+        "municipio": "Baralla",
+        "habitantes": "2556",
+        "casos_14d": "26",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-09",
+        "municipio": "Baralla",
+        "habitantes": "2556",
+        "casos_14d": "21",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-10",
+        "municipio": "Baralla",
+        "habitantes": "2556",
+        "casos_14d": "16",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-11",
+        "municipio": "Baralla",
+        "habitantes": "2556",
+        "casos_14d": "14",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-12",
+        "municipio": "Baralla",
+        "habitantes": "2556",
+        "casos_14d": "16",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-13",
+        "municipio": "Baralla",
+        "habitantes": "2556",
+        "casos_14d": "13",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-14",
+        "municipio": "Baralla",
+        "habitantes": "2556",
+        "casos_14d": "13",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-16",
+        "municipio": "Baralla",
+        "habitantes": "2556",
+        "casos_14d": "12",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-17",
+        "municipio": "Baralla",
+        "habitantes": "2556",
+        "casos_14d": "13",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-18",
+        "municipio": "Baralla",
+        "habitantes": "2556",
+        "casos_14d": "13",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-19",
+        "municipio": "Baralla",
+        "habitantes": "2556",
+        "casos_14d": "11",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-20",
+        "municipio": "Baralla",
+        "habitantes": "2556",
+        "casos_14d": "11",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-21",
+        "municipio": "Baralla",
+        "habitantes": "2556",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-23",
+        "municipio": "Baralla",
+        "habitantes": "2556",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-24",
+        "municipio": "Baralla",
+        "habitantes": "2556",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-25",
+        "municipio": "Baralla",
+        "habitantes": "2556",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-26",
+        "municipio": "Baralla",
+        "habitantes": "2556",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2022-05-27",
+        "municipio": "Baralla",
+        "habitantes": "2556",
+        "casos_14d": null,
+        "casos_7d": "0"
     }
 ]

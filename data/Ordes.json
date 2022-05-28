@@ -3589,5 +3589,194 @@
         "habitantes": "12674",
         "casos_14d": "124",
         "casos_7d": "61"
+    },
+    {
+        "fecha": "2022-04-27",
+        "municipio": "Ordes",
+        "habitantes": "12674",
+        "casos_14d": "126",
+        "casos_7d": "52"
+    },
+    {
+        "fecha": "2022-04-28",
+        "municipio": "Ordes",
+        "habitantes": "12674",
+        "casos_14d": "122",
+        "casos_7d": "51"
+    },
+    {
+        "fecha": "2022-04-29",
+        "municipio": "Ordes",
+        "habitantes": "12674",
+        "casos_14d": "118",
+        "casos_7d": "56"
+    },
+    {
+        "fecha": "2022-04-30",
+        "municipio": "Ordes",
+        "habitantes": "12674",
+        "casos_14d": "126",
+        "casos_7d": "61"
+    },
+    {
+        "fecha": "2022-05-02",
+        "municipio": "Ordes",
+        "habitantes": "12674",
+        "casos_14d": "114",
+        "casos_7d": "55"
+    },
+    {
+        "fecha": "2022-05-03",
+        "municipio": "Ordes",
+        "habitantes": "12674",
+        "casos_14d": "117",
+        "casos_7d": "56"
+    },
+    {
+        "fecha": "2022-05-04",
+        "municipio": "Ordes",
+        "habitantes": "12674",
+        "casos_14d": "113",
+        "casos_7d": "61"
+    },
+    {
+        "fecha": "2022-05-05",
+        "municipio": "Ordes",
+        "habitantes": "12674",
+        "casos_14d": "111",
+        "casos_7d": "60"
+    },
+    {
+        "fecha": "2022-05-06",
+        "municipio": "Ordes",
+        "habitantes": "12674",
+        "casos_14d": "118",
+        "casos_7d": "62"
+    },
+    {
+        "fecha": "2022-05-07",
+        "municipio": "Ordes",
+        "habitantes": "12674",
+        "casos_14d": "121",
+        "casos_7d": "60"
+    },
+    {
+        "fecha": "2022-05-09",
+        "municipio": "Ordes",
+        "habitantes": "12674",
+        "casos_14d": "111",
+        "casos_7d": "56"
+    },
+    {
+        "fecha": "2022-05-10",
+        "municipio": "Ordes",
+        "habitantes": "12674",
+        "casos_14d": "107",
+        "casos_7d": "51"
+    },
+    {
+        "fecha": "2022-05-11",
+        "municipio": "Ordes",
+        "habitantes": "12674",
+        "casos_14d": "104",
+        "casos_7d": "43"
+    },
+    {
+        "fecha": "2022-05-12",
+        "municipio": "Ordes",
+        "habitantes": "12674",
+        "casos_14d": "102",
+        "casos_7d": "42"
+    },
+    {
+        "fecha": "2022-05-13",
+        "municipio": "Ordes",
+        "habitantes": "12674",
+        "casos_14d": "101",
+        "casos_7d": "39"
+    },
+    {
+        "fecha": "2022-05-14",
+        "municipio": "Ordes",
+        "habitantes": "12674",
+        "casos_14d": "94",
+        "casos_7d": "34"
+    },
+    {
+        "fecha": "2022-05-16",
+        "municipio": "Ordes",
+        "habitantes": "12674",
+        "casos_14d": "88",
+        "casos_7d": "32"
+    },
+    {
+        "fecha": "2022-05-17",
+        "municipio": "Ordes",
+        "habitantes": "12674",
+        "casos_14d": "82",
+        "casos_7d": "31"
+    },
+    {
+        "fecha": "2022-05-18",
+        "municipio": "Ordes",
+        "habitantes": "12674",
+        "casos_14d": "73",
+        "casos_7d": "30"
+    },
+    {
+        "fecha": "2022-05-19",
+        "municipio": "Ordes",
+        "habitantes": "12674",
+        "casos_14d": "70",
+        "casos_7d": "28"
+    },
+    {
+        "fecha": "2022-05-20",
+        "municipio": "Ordes",
+        "habitantes": "12674",
+        "casos_14d": "65",
+        "casos_7d": "26"
+    },
+    {
+        "fecha": "2022-05-21",
+        "municipio": "Ordes",
+        "habitantes": "12674",
+        "casos_14d": "59",
+        "casos_7d": "25"
+    },
+    {
+        "fecha": "2022-05-23",
+        "municipio": "Ordes",
+        "habitantes": "12674",
+        "casos_14d": "55",
+        "casos_7d": "23"
+    },
+    {
+        "fecha": "2022-05-24",
+        "municipio": "Ordes",
+        "habitantes": "12674",
+        "casos_14d": "52",
+        "casos_7d": "21"
+    },
+    {
+        "fecha": "2022-05-25",
+        "municipio": "Ordes",
+        "habitantes": "12674",
+        "casos_14d": "48",
+        "casos_7d": "18"
+    },
+    {
+        "fecha": "2022-05-26",
+        "municipio": "Ordes",
+        "habitantes": "12674",
+        "casos_14d": "44",
+        "casos_7d": "16"
+    },
+    {
+        "fecha": "2022-05-27",
+        "municipio": "Ordes",
+        "habitantes": "12674",
+        "casos_14d": "40",
+        "casos_7d": "14"
     }
 ]

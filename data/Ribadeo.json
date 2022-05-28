@@ -3589,5 +3589,194 @@
         "habitantes": "9854",
         "casos_14d": "97",
         "casos_7d": "47"
+    },
+    {
+        "fecha": "2022-04-27",
+        "municipio": "Ribadeo",
+        "habitantes": "9854",
+        "casos_14d": "94",
+        "casos_7d": "39"
+    },
+    {
+        "fecha": "2022-04-28",
+        "municipio": "Ribadeo",
+        "habitantes": "9854",
+        "casos_14d": "84",
+        "casos_7d": "40"
+    },
+    {
+        "fecha": "2022-04-29",
+        "municipio": "Ribadeo",
+        "habitantes": "9854",
+        "casos_14d": "92",
+        "casos_7d": "49"
+    },
+    {
+        "fecha": "2022-04-30",
+        "municipio": "Ribadeo",
+        "habitantes": "9854",
+        "casos_14d": "91",
+        "casos_7d": "47"
+    },
+    {
+        "fecha": "2022-05-02",
+        "municipio": "Ribadeo",
+        "habitantes": "9854",
+        "casos_14d": "93",
+        "casos_7d": "46"
+    },
+    {
+        "fecha": "2022-05-03",
+        "municipio": "Ribadeo",
+        "habitantes": "9854",
+        "casos_14d": "90",
+        "casos_7d": "43"
+    },
+    {
+        "fecha": "2022-05-04",
+        "municipio": "Ribadeo",
+        "habitantes": "9854",
+        "casos_14d": "82",
+        "casos_7d": "43"
+    },
+    {
+        "fecha": "2022-05-05",
+        "municipio": "Ribadeo",
+        "habitantes": "9854",
+        "casos_14d": "81",
+        "casos_7d": "41"
+    },
+    {
+        "fecha": "2022-05-06",
+        "municipio": "Ribadeo",
+        "habitantes": "9854",
+        "casos_14d": "84",
+        "casos_7d": "35"
+    },
+    {
+        "fecha": "2022-05-07",
+        "municipio": "Ribadeo",
+        "habitantes": "9854",
+        "casos_14d": "83",
+        "casos_7d": "36"
+    },
+    {
+        "fecha": "2022-05-09",
+        "municipio": "Ribadeo",
+        "habitantes": "9854",
+        "casos_14d": "77",
+        "casos_7d": "31"
+    },
+    {
+        "fecha": "2022-05-10",
+        "municipio": "Ribadeo",
+        "habitantes": "9854",
+        "casos_14d": "71",
+        "casos_7d": "28"
+    },
+    {
+        "fecha": "2022-05-11",
+        "municipio": "Ribadeo",
+        "habitantes": "9854",
+        "casos_14d": "66",
+        "casos_7d": "23"
+    },
+    {
+        "fecha": "2022-05-12",
+        "municipio": "Ribadeo",
+        "habitantes": "9854",
+        "casos_14d": "61",
+        "casos_7d": "20"
+    },
+    {
+        "fecha": "2022-05-13",
+        "municipio": "Ribadeo",
+        "habitantes": "9854",
+        "casos_14d": "53",
+        "casos_7d": "18"
+    },
+    {
+        "fecha": "2022-05-14",
+        "municipio": "Ribadeo",
+        "habitantes": "9854",
+        "casos_14d": "52",
+        "casos_7d": "17"
+    },
+    {
+        "fecha": "2022-05-16",
+        "municipio": "Ribadeo",
+        "habitantes": "9854",
+        "casos_14d": "50",
+        "casos_7d": "20"
+    },
+    {
+        "fecha": "2022-05-17",
+        "municipio": "Ribadeo",
+        "habitantes": "9854",
+        "casos_14d": "49",
+        "casos_7d": "21"
+    },
+    {
+        "fecha": "2022-05-18",
+        "municipio": "Ribadeo",
+        "habitantes": "9854",
+        "casos_14d": "41",
+        "casos_7d": "18"
+    },
+    {
+        "fecha": "2022-05-19",
+        "municipio": "Ribadeo",
+        "habitantes": "9854",
+        "casos_14d": "37",
+        "casos_7d": "17"
+    },
+    {
+        "fecha": "2022-05-20",
+        "municipio": "Ribadeo",
+        "habitantes": "9854",
+        "casos_14d": "34",
+        "casos_7d": "16"
+    },
+    {
+        "fecha": "2022-05-21",
+        "municipio": "Ribadeo",
+        "habitantes": "9854",
+        "casos_14d": "29",
+        "casos_7d": "12"
+    },
+    {
+        "fecha": "2022-05-23",
+        "municipio": "Ribadeo",
+        "habitantes": "9854",
+        "casos_14d": "30",
+        "casos_7d": "10"
+    },
+    {
+        "fecha": "2022-05-24",
+        "municipio": "Ribadeo",
+        "habitantes": "9854",
+        "casos_14d": "30",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-25",
+        "municipio": "Ribadeo",
+        "habitantes": "9854",
+        "casos_14d": "30",
+        "casos_7d": "12"
+    },
+    {
+        "fecha": "2022-05-26",
+        "municipio": "Ribadeo",
+        "habitantes": "9854",
+        "casos_14d": "30",
+        "casos_7d": "13"
+    },
+    {
+        "fecha": "2022-05-27",
+        "municipio": "Ribadeo",
+        "habitantes": "9854",
+        "casos_14d": "26",
+        "casos_7d": "10"
     }
 ]

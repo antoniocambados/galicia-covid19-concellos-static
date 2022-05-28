@@ -3589,5 +3589,194 @@
         "habitantes": "3273",
         "casos_14d": "25",
         "casos_7d": "17"
+    },
+    {
+        "fecha": "2022-04-27",
+        "municipio": "Xove",
+        "habitantes": "3273",
+        "casos_14d": "24",
+        "casos_7d": "16"
+    },
+    {
+        "fecha": "2022-04-28",
+        "municipio": "Xove",
+        "habitantes": "3273",
+        "casos_14d": "24",
+        "casos_7d": "14"
+    },
+    {
+        "fecha": "2022-04-29",
+        "municipio": "Xove",
+        "habitantes": "3273",
+        "casos_14d": "30",
+        "casos_7d": "15"
+    },
+    {
+        "fecha": "2022-04-30",
+        "municipio": "Xove",
+        "habitantes": "3273",
+        "casos_14d": "33",
+        "casos_7d": "16"
+    },
+    {
+        "fecha": "2022-05-02",
+        "municipio": "Xove",
+        "habitantes": "3273",
+        "casos_14d": "31",
+        "casos_7d": "15"
+    },
+    {
+        "fecha": "2022-05-03",
+        "municipio": "Xove",
+        "habitantes": "3273",
+        "casos_14d": "30",
+        "casos_7d": "13"
+    },
+    {
+        "fecha": "2022-05-04",
+        "municipio": "Xove",
+        "habitantes": "3273",
+        "casos_14d": "33",
+        "casos_7d": "17"
+    },
+    {
+        "fecha": "2022-05-05",
+        "municipio": "Xove",
+        "habitantes": "3273",
+        "casos_14d": "33",
+        "casos_7d": "19"
+    },
+    {
+        "fecha": "2022-05-06",
+        "municipio": "Xove",
+        "habitantes": "3273",
+        "casos_14d": "30",
+        "casos_7d": "15"
+    },
+    {
+        "fecha": "2022-05-07",
+        "municipio": "Xove",
+        "habitantes": "3273",
+        "casos_14d": "28",
+        "casos_7d": "12"
+    },
+    {
+        "fecha": "2022-05-09",
+        "municipio": "Xove",
+        "habitantes": "3273",
+        "casos_14d": "28",
+        "casos_7d": "13"
+    },
+    {
+        "fecha": "2022-05-10",
+        "municipio": "Xove",
+        "habitantes": "3273",
+        "casos_14d": "25",
+        "casos_7d": "12"
+    },
+    {
+        "fecha": "2022-05-11",
+        "municipio": "Xove",
+        "habitantes": "3273",
+        "casos_14d": "23",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-12",
+        "municipio": "Xove",
+        "habitantes": "3273",
+        "casos_14d": "23",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-13",
+        "municipio": "Xove",
+        "habitantes": "3273",
+        "casos_14d": "17",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-14",
+        "municipio": "Xove",
+        "habitantes": "3273",
+        "casos_14d": "14",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-16",
+        "municipio": "Xove",
+        "habitantes": "3273",
+        "casos_14d": "15",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-17",
+        "municipio": "Xove",
+        "habitantes": "3273",
+        "casos_14d": "14",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-18",
+        "municipio": "Xove",
+        "habitantes": "3273",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-19",
+        "municipio": "Xove",
+        "habitantes": "3273",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-20",
+        "municipio": "Xove",
+        "habitantes": "3273",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-21",
+        "municipio": "Xove",
+        "habitantes": "3273",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-23",
+        "municipio": "Xove",
+        "habitantes": "3273",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-24",
+        "municipio": "Xove",
+        "habitantes": "3273",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-25",
+        "municipio": "Xove",
+        "habitantes": "3273",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-26",
+        "municipio": "Xove",
+        "habitantes": "3273",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-27",
+        "municipio": "Xove",
+        "habitantes": "3273",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]

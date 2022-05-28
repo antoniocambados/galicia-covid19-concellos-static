@@ -3589,5 +3589,194 @@
         "habitantes": "36075",
         "casos_14d": "239",
         "casos_7d": "159"
+    },
+    {
+        "fecha": "2022-04-27",
+        "municipio": "Oleiros",
+        "habitantes": "36075",
+        "casos_14d": "240",
+        "casos_7d": "158"
+    },
+    {
+        "fecha": "2022-04-28",
+        "municipio": "Oleiros",
+        "habitantes": "36075",
+        "casos_14d": "245",
+        "casos_7d": "159"
+    },
+    {
+        "fecha": "2022-04-29",
+        "municipio": "Oleiros",
+        "habitantes": "36075",
+        "casos_14d": "242",
+        "casos_7d": "153"
+    },
+    {
+        "fecha": "2022-04-30",
+        "municipio": "Oleiros",
+        "habitantes": "36075",
+        "casos_14d": "261",
+        "casos_7d": "159"
+    },
+    {
+        "fecha": "2022-05-02",
+        "municipio": "Oleiros",
+        "habitantes": "36075",
+        "casos_14d": "284",
+        "casos_7d": "160"
+    },
+    {
+        "fecha": "2022-05-03",
+        "municipio": "Oleiros",
+        "habitantes": "36075",
+        "casos_14d": "284",
+        "casos_7d": "125"
+    },
+    {
+        "fecha": "2022-05-04",
+        "municipio": "Oleiros",
+        "habitantes": "36075",
+        "casos_14d": "280",
+        "casos_7d": "122"
+    },
+    {
+        "fecha": "2022-05-05",
+        "municipio": "Oleiros",
+        "habitantes": "36075",
+        "casos_14d": "280",
+        "casos_7d": "120"
+    },
+    {
+        "fecha": "2022-05-06",
+        "municipio": "Oleiros",
+        "habitantes": "36075",
+        "casos_14d": "279",
+        "casos_7d": "125"
+    },
+    {
+        "fecha": "2022-05-07",
+        "municipio": "Oleiros",
+        "habitantes": "36075",
+        "casos_14d": "271",
+        "casos_7d": "111"
+    },
+    {
+        "fecha": "2022-05-09",
+        "municipio": "Oleiros",
+        "habitantes": "36075",
+        "casos_14d": "261",
+        "casos_7d": "99"
+    },
+    {
+        "fecha": "2022-05-10",
+        "municipio": "Oleiros",
+        "habitantes": "36075",
+        "casos_14d": "226",
+        "casos_7d": "100"
+    },
+    {
+        "fecha": "2022-05-11",
+        "municipio": "Oleiros",
+        "habitantes": "36075",
+        "casos_14d": "223",
+        "casos_7d": "100"
+    },
+    {
+        "fecha": "2022-05-12",
+        "municipio": "Oleiros",
+        "habitantes": "36075",
+        "casos_14d": "227",
+        "casos_7d": "106"
+    },
+    {
+        "fecha": "2022-05-13",
+        "municipio": "Oleiros",
+        "habitantes": "36075",
+        "casos_14d": "222",
+        "casos_7d": "98"
+    },
+    {
+        "fecha": "2022-05-14",
+        "municipio": "Oleiros",
+        "habitantes": "36075",
+        "casos_14d": "211",
+        "casos_7d": "100"
+    },
+    {
+        "fecha": "2022-05-16",
+        "municipio": "Oleiros",
+        "habitantes": "36075",
+        "casos_14d": "189",
+        "casos_7d": "90"
+    },
+    {
+        "fecha": "2022-05-17",
+        "municipio": "Oleiros",
+        "habitantes": "36075",
+        "casos_14d": "188",
+        "casos_7d": "86"
+    },
+    {
+        "fecha": "2022-05-18",
+        "municipio": "Oleiros",
+        "habitantes": "36075",
+        "casos_14d": "183",
+        "casos_7d": "81"
+    },
+    {
+        "fecha": "2022-05-19",
+        "municipio": "Oleiros",
+        "habitantes": "36075",
+        "casos_14d": "179",
+        "casos_7d": "71"
+    },
+    {
+        "fecha": "2022-05-20",
+        "municipio": "Oleiros",
+        "habitantes": "36075",
+        "casos_14d": "178",
+        "casos_7d": "78"
+    },
+    {
+        "fecha": "2022-05-21",
+        "municipio": "Oleiros",
+        "habitantes": "36075",
+        "casos_14d": "172",
+        "casos_7d": "71"
+    },
+    {
+        "fecha": "2022-05-23",
+        "municipio": "Oleiros",
+        "habitantes": "36075",
+        "casos_14d": "161",
+        "casos_7d": "71"
+    },
+    {
+        "fecha": "2022-05-24",
+        "municipio": "Oleiros",
+        "habitantes": "36075",
+        "casos_14d": "157",
+        "casos_7d": "70"
+    },
+    {
+        "fecha": "2022-05-25",
+        "municipio": "Oleiros",
+        "habitantes": "36075",
+        "casos_14d": "161",
+        "casos_7d": "79"
+    },
+    {
+        "fecha": "2022-05-26",
+        "municipio": "Oleiros",
+        "habitantes": "36075",
+        "casos_14d": "145",
+        "casos_7d": "73"
+    },
+    {
+        "fecha": "2022-05-27",
+        "municipio": "Oleiros",
+        "habitantes": "36075",
+        "casos_14d": "149",
+        "casos_7d": "70"
     }
 ]

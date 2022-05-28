@@ -3589,5 +3589,194 @@
         "habitantes": "31793",
         "casos_14d": "218",
         "casos_7d": "124"
+    },
+    {
+        "fecha": "2022-04-27",
+        "municipio": "Ames",
+        "habitantes": "31793",
+        "casos_14d": "225",
+        "casos_7d": "122"
+    },
+    {
+        "fecha": "2022-04-28",
+        "municipio": "Ames",
+        "habitantes": "31793",
+        "casos_14d": "244",
+        "casos_7d": "136"
+    },
+    {
+        "fecha": "2022-04-29",
+        "municipio": "Ames",
+        "habitantes": "31793",
+        "casos_14d": "260",
+        "casos_7d": "143"
+    },
+    {
+        "fecha": "2022-04-30",
+        "municipio": "Ames",
+        "habitantes": "31793",
+        "casos_14d": "264",
+        "casos_7d": "142"
+    },
+    {
+        "fecha": "2022-05-02",
+        "municipio": "Ames",
+        "habitantes": "31793",
+        "casos_14d": "266",
+        "casos_7d": "136"
+    },
+    {
+        "fecha": "2022-05-03",
+        "municipio": "Ames",
+        "habitantes": "31793",
+        "casos_14d": "254",
+        "casos_7d": "129"
+    },
+    {
+        "fecha": "2022-05-04",
+        "municipio": "Ames",
+        "habitantes": "31793",
+        "casos_14d": "255",
+        "casos_7d": "133"
+    },
+    {
+        "fecha": "2022-05-05",
+        "municipio": "Ames",
+        "habitantes": "31793",
+        "casos_14d": "257",
+        "casos_7d": "121"
+    },
+    {
+        "fecha": "2022-05-06",
+        "municipio": "Ames",
+        "habitantes": "31793",
+        "casos_14d": "263",
+        "casos_7d": "120"
+    },
+    {
+        "fecha": "2022-05-07",
+        "municipio": "Ames",
+        "habitantes": "31793",
+        "casos_14d": "266",
+        "casos_7d": "124"
+    },
+    {
+        "fecha": "2022-05-09",
+        "municipio": "Ames",
+        "habitantes": "31793",
+        "casos_14d": "255",
+        "casos_7d": "119"
+    },
+    {
+        "fecha": "2022-05-10",
+        "municipio": "Ames",
+        "habitantes": "31793",
+        "casos_14d": "249",
+        "casos_7d": "120"
+    },
+    {
+        "fecha": "2022-05-11",
+        "municipio": "Ames",
+        "habitantes": "31793",
+        "casos_14d": "244",
+        "casos_7d": "111"
+    },
+    {
+        "fecha": "2022-05-12",
+        "municipio": "Ames",
+        "habitantes": "31793",
+        "casos_14d": "224",
+        "casos_7d": "103"
+    },
+    {
+        "fecha": "2022-05-13",
+        "municipio": "Ames",
+        "habitantes": "31793",
+        "casos_14d": "213",
+        "casos_7d": "93"
+    },
+    {
+        "fecha": "2022-05-14",
+        "municipio": "Ames",
+        "habitantes": "31793",
+        "casos_14d": "213",
+        "casos_7d": "89"
+    },
+    {
+        "fecha": "2022-05-16",
+        "municipio": "Ames",
+        "habitantes": "31793",
+        "casos_14d": "206",
+        "casos_7d": "87"
+    },
+    {
+        "fecha": "2022-05-17",
+        "municipio": "Ames",
+        "habitantes": "31793",
+        "casos_14d": "205",
+        "casos_7d": "85"
+    },
+    {
+        "fecha": "2022-05-18",
+        "municipio": "Ames",
+        "habitantes": "31793",
+        "casos_14d": "195",
+        "casos_7d": "84"
+    },
+    {
+        "fecha": "2022-05-19",
+        "municipio": "Ames",
+        "habitantes": "31793",
+        "casos_14d": "190",
+        "casos_7d": "87"
+    },
+    {
+        "fecha": "2022-05-20",
+        "municipio": "Ames",
+        "habitantes": "31793",
+        "casos_14d": "178",
+        "casos_7d": "85"
+    },
+    {
+        "fecha": "2022-05-21",
+        "municipio": "Ames",
+        "habitantes": "31793",
+        "casos_14d": "166",
+        "casos_7d": "77"
+    },
+    {
+        "fecha": "2022-05-23",
+        "municipio": "Ames",
+        "habitantes": "31793",
+        "casos_14d": "163",
+        "casos_7d": "76"
+    },
+    {
+        "fecha": "2022-05-24",
+        "municipio": "Ames",
+        "habitantes": "31793",
+        "casos_14d": "162",
+        "casos_7d": "77"
+    },
+    {
+        "fecha": "2022-05-25",
+        "municipio": "Ames",
+        "habitantes": "31793",
+        "casos_14d": "162",
+        "casos_7d": "78"
+    },
+    {
+        "fecha": "2022-05-26",
+        "municipio": "Ames",
+        "habitantes": "31793",
+        "casos_14d": "168",
+        "casos_7d": "81"
+    },
+    {
+        "fecha": "2022-05-27",
+        "municipio": "Ames",
+        "habitantes": "31793",
+        "casos_14d": "159",
+        "casos_7d": "74"
     }
 ]

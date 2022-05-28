@@ -3589,5 +3589,194 @@
         "habitantes": "6827",
         "casos_14d": "26",
         "casos_7d": "13"
+    },
+    {
+        "fecha": "2022-04-27",
+        "municipio": "Negreira",
+        "habitantes": "6827",
+        "casos_14d": "26",
+        "casos_7d": "12"
+    },
+    {
+        "fecha": "2022-04-28",
+        "municipio": "Negreira",
+        "habitantes": "6827",
+        "casos_14d": "28",
+        "casos_7d": "16"
+    },
+    {
+        "fecha": "2022-04-29",
+        "municipio": "Negreira",
+        "habitantes": "6827",
+        "casos_14d": "32",
+        "casos_7d": "19"
+    },
+    {
+        "fecha": "2022-04-30",
+        "municipio": "Negreira",
+        "habitantes": "6827",
+        "casos_14d": "36",
+        "casos_7d": "21"
+    },
+    {
+        "fecha": "2022-05-02",
+        "municipio": "Negreira",
+        "habitantes": "6827",
+        "casos_14d": "38",
+        "casos_7d": "26"
+    },
+    {
+        "fecha": "2022-05-03",
+        "municipio": "Negreira",
+        "habitantes": "6827",
+        "casos_14d": "42",
+        "casos_7d": "29"
+    },
+    {
+        "fecha": "2022-05-04",
+        "municipio": "Negreira",
+        "habitantes": "6827",
+        "casos_14d": "43",
+        "casos_7d": "31"
+    },
+    {
+        "fecha": "2022-05-05",
+        "municipio": "Negreira",
+        "habitantes": "6827",
+        "casos_14d": "46",
+        "casos_7d": "30"
+    },
+    {
+        "fecha": "2022-05-06",
+        "municipio": "Negreira",
+        "habitantes": "6827",
+        "casos_14d": "52",
+        "casos_7d": "33"
+    },
+    {
+        "fecha": "2022-05-07",
+        "municipio": "Negreira",
+        "habitantes": "6827",
+        "casos_14d": "54",
+        "casos_7d": "33"
+    },
+    {
+        "fecha": "2022-05-09",
+        "municipio": "Negreira",
+        "habitantes": "6827",
+        "casos_14d": "56",
+        "casos_7d": "30"
+    },
+    {
+        "fecha": "2022-05-10",
+        "municipio": "Negreira",
+        "habitantes": "6827",
+        "casos_14d": "57",
+        "casos_7d": "28"
+    },
+    {
+        "fecha": "2022-05-11",
+        "municipio": "Negreira",
+        "habitantes": "6827",
+        "casos_14d": "55",
+        "casos_7d": "24"
+    },
+    {
+        "fecha": "2022-05-12",
+        "municipio": "Negreira",
+        "habitantes": "6827",
+        "casos_14d": "55",
+        "casos_7d": "25"
+    },
+    {
+        "fecha": "2022-05-13",
+        "municipio": "Negreira",
+        "habitantes": "6827",
+        "casos_14d": "53",
+        "casos_7d": "20"
+    },
+    {
+        "fecha": "2022-05-14",
+        "municipio": "Negreira",
+        "habitantes": "6827",
+        "casos_14d": "48",
+        "casos_7d": "15"
+    },
+    {
+        "fecha": "2022-05-16",
+        "municipio": "Negreira",
+        "habitantes": "6827",
+        "casos_14d": "43",
+        "casos_7d": "13"
+    },
+    {
+        "fecha": "2022-05-17",
+        "municipio": "Negreira",
+        "habitantes": "6827",
+        "casos_14d": "40",
+        "casos_7d": "12"
+    },
+    {
+        "fecha": "2022-05-18",
+        "municipio": "Negreira",
+        "habitantes": "6827",
+        "casos_14d": "36",
+        "casos_7d": "12"
+    },
+    {
+        "fecha": "2022-05-19",
+        "municipio": "Negreira",
+        "habitantes": "6827",
+        "casos_14d": "39",
+        "casos_7d": "14"
+    },
+    {
+        "fecha": "2022-05-20",
+        "municipio": "Negreira",
+        "habitantes": "6827",
+        "casos_14d": "35",
+        "casos_7d": "15"
+    },
+    {
+        "fecha": "2022-05-21",
+        "municipio": "Negreira",
+        "habitantes": "6827",
+        "casos_14d": "30",
+        "casos_7d": "15"
+    },
+    {
+        "fecha": "2022-05-23",
+        "municipio": "Negreira",
+        "habitantes": "6827",
+        "casos_14d": "29",
+        "casos_7d": "16"
+    },
+    {
+        "fecha": "2022-05-24",
+        "municipio": "Negreira",
+        "habitantes": "6827",
+        "casos_14d": "26",
+        "casos_7d": "14"
+    },
+    {
+        "fecha": "2022-05-25",
+        "municipio": "Negreira",
+        "habitantes": "6827",
+        "casos_14d": "25",
+        "casos_7d": "13"
+    },
+    {
+        "fecha": "2022-05-26",
+        "municipio": "Negreira",
+        "habitantes": "6827",
+        "casos_14d": "22",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-27",
+        "municipio": "Negreira",
+        "habitantes": "6827",
+        "casos_14d": "24",
+        "casos_7d": null
     }
 ]

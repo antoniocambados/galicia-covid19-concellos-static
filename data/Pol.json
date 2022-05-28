@@ -3589,5 +3589,194 @@
         "habitantes": "1609",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-27",
+        "municipio": "Pol",
+        "habitantes": "1609",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-28",
+        "municipio": "Pol",
+        "habitantes": "1609",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-29",
+        "municipio": "Pol",
+        "habitantes": "1609",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-04-30",
+        "municipio": "Pol",
+        "habitantes": "1609",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-02",
+        "municipio": "Pol",
+        "habitantes": "1609",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-03",
+        "municipio": "Pol",
+        "habitantes": "1609",
+        "casos_14d": "20",
+        "casos_7d": "16"
+    },
+    {
+        "fecha": "2022-05-04",
+        "municipio": "Pol",
+        "habitantes": "1609",
+        "casos_14d": "22",
+        "casos_7d": "19"
+    },
+    {
+        "fecha": "2022-05-05",
+        "municipio": "Pol",
+        "habitantes": "1609",
+        "casos_14d": "21",
+        "casos_7d": "19"
+    },
+    {
+        "fecha": "2022-05-06",
+        "municipio": "Pol",
+        "habitantes": "1609",
+        "casos_14d": "23",
+        "casos_7d": "21"
+    },
+    {
+        "fecha": "2022-05-07",
+        "municipio": "Pol",
+        "habitantes": "1609",
+        "casos_14d": "23",
+        "casos_7d": "21"
+    },
+    {
+        "fecha": "2022-05-09",
+        "municipio": "Pol",
+        "habitantes": "1609",
+        "casos_14d": "22",
+        "casos_7d": "18"
+    },
+    {
+        "fecha": "2022-05-10",
+        "municipio": "Pol",
+        "habitantes": "1609",
+        "casos_14d": "22",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-11",
+        "municipio": "Pol",
+        "habitantes": "1609",
+        "casos_14d": "23",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-12",
+        "municipio": "Pol",
+        "habitantes": "1609",
+        "casos_14d": "25",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-13",
+        "municipio": "Pol",
+        "habitantes": "1609",
+        "casos_14d": "26",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-14",
+        "municipio": "Pol",
+        "habitantes": "1609",
+        "casos_14d": "27",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-16",
+        "municipio": "Pol",
+        "habitantes": "1609",
+        "casos_14d": "25",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-17",
+        "municipio": "Pol",
+        "habitantes": "1609",
+        "casos_14d": "13",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-18",
+        "municipio": "Pol",
+        "habitantes": "1609",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-19",
+        "municipio": "Pol",
+        "habitantes": "1609",
+        "casos_14d": "10",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-20",
+        "municipio": "Pol",
+        "habitantes": "1609",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-21",
+        "municipio": "Pol",
+        "habitantes": "1609",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-23",
+        "municipio": "Pol",
+        "habitantes": "1609",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-24",
+        "municipio": "Pol",
+        "habitantes": "1609",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-25",
+        "municipio": "Pol",
+        "habitantes": "1609",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-26",
+        "municipio": "Pol",
+        "habitantes": "1609",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-27",
+        "municipio": "Pol",
+        "habitantes": "1609",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]

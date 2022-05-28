@@ -3589,5 +3589,194 @@
         "habitantes": "4314",
         "casos_14d": "88",
         "casos_7d": "63"
+    },
+    {
+        "fecha": "2022-04-27",
+        "municipio": "A R\u00faa",
+        "habitantes": "4314",
+        "casos_14d": "87",
+        "casos_7d": "60"
+    },
+    {
+        "fecha": "2022-04-28",
+        "municipio": "A R\u00faa",
+        "habitantes": "4314",
+        "casos_14d": "86",
+        "casos_7d": "61"
+    },
+    {
+        "fecha": "2022-04-29",
+        "municipio": "A R\u00faa",
+        "habitantes": "4314",
+        "casos_14d": "118",
+        "casos_7d": "54"
+    },
+    {
+        "fecha": "2022-04-30",
+        "municipio": "A R\u00faa",
+        "habitantes": "4314",
+        "casos_14d": "119",
+        "casos_7d": "54"
+    },
+    {
+        "fecha": "2022-05-02",
+        "municipio": "A R\u00faa",
+        "habitantes": "4314",
+        "casos_14d": "117",
+        "casos_7d": "48"
+    },
+    {
+        "fecha": "2022-05-03",
+        "municipio": "A R\u00faa",
+        "habitantes": "4314",
+        "casos_14d": "110",
+        "casos_7d": "47"
+    },
+    {
+        "fecha": "2022-05-04",
+        "municipio": "A R\u00faa",
+        "habitantes": "4314",
+        "casos_14d": "107",
+        "casos_7d": "47"
+    },
+    {
+        "fecha": "2022-05-05",
+        "municipio": "A R\u00faa",
+        "habitantes": "4314",
+        "casos_14d": "111",
+        "casos_7d": "50"
+    },
+    {
+        "fecha": "2022-05-06",
+        "municipio": "A R\u00faa",
+        "habitantes": "4314",
+        "casos_14d": "80",
+        "casos_7d": "26"
+    },
+    {
+        "fecha": "2022-05-07",
+        "municipio": "A R\u00faa",
+        "habitantes": "4314",
+        "casos_14d": "81",
+        "casos_7d": "27"
+    },
+    {
+        "fecha": "2022-05-09",
+        "municipio": "A R\u00faa",
+        "habitantes": "4314",
+        "casos_14d": "73",
+        "casos_7d": "25"
+    },
+    {
+        "fecha": "2022-05-10",
+        "municipio": "A R\u00faa",
+        "habitantes": "4314",
+        "casos_14d": "71",
+        "casos_7d": "24"
+    },
+    {
+        "fecha": "2022-05-11",
+        "municipio": "A R\u00faa",
+        "habitantes": "4314",
+        "casos_14d": "73",
+        "casos_7d": "26"
+    },
+    {
+        "fecha": "2022-05-12",
+        "municipio": "A R\u00faa",
+        "habitantes": "4314",
+        "casos_14d": "72",
+        "casos_7d": "22"
+    },
+    {
+        "fecha": "2022-05-13",
+        "municipio": "A R\u00faa",
+        "habitantes": "4314",
+        "casos_14d": "43",
+        "casos_7d": "17"
+    },
+    {
+        "fecha": "2022-05-14",
+        "municipio": "A R\u00faa",
+        "habitantes": "4314",
+        "casos_14d": "42",
+        "casos_7d": "15"
+    },
+    {
+        "fecha": "2022-05-16",
+        "municipio": "A R\u00faa",
+        "habitantes": "4314",
+        "casos_14d": "41",
+        "casos_7d": "16"
+    },
+    {
+        "fecha": "2022-05-17",
+        "municipio": "A R\u00faa",
+        "habitantes": "4314",
+        "casos_14d": "39",
+        "casos_7d": "15"
+    },
+    {
+        "fecha": "2022-05-18",
+        "municipio": "A R\u00faa",
+        "habitantes": "4314",
+        "casos_14d": "40",
+        "casos_7d": "14"
+    },
+    {
+        "fecha": "2022-05-19",
+        "municipio": "A R\u00faa",
+        "habitantes": "4314",
+        "casos_14d": "36",
+        "casos_7d": "14"
+    },
+    {
+        "fecha": "2022-05-20",
+        "municipio": "A R\u00faa",
+        "habitantes": "4314",
+        "casos_14d": "30",
+        "casos_7d": "13"
+    },
+    {
+        "fecha": "2022-05-21",
+        "municipio": "A R\u00faa",
+        "habitantes": "4314",
+        "casos_14d": "29",
+        "casos_7d": "14"
+    },
+    {
+        "fecha": "2022-05-23",
+        "municipio": "A R\u00faa",
+        "habitantes": "4314",
+        "casos_14d": "29",
+        "casos_7d": "13"
+    },
+    {
+        "fecha": "2022-05-24",
+        "municipio": "A R\u00faa",
+        "habitantes": "4314",
+        "casos_14d": "31",
+        "casos_7d": "16"
+    },
+    {
+        "fecha": "2022-05-25",
+        "municipio": "A R\u00faa",
+        "habitantes": "4314",
+        "casos_14d": "29",
+        "casos_7d": "15"
+    },
+    {
+        "fecha": "2022-05-26",
+        "municipio": "A R\u00faa",
+        "habitantes": "4314",
+        "casos_14d": "30",
+        "casos_7d": "16"
+    },
+    {
+        "fecha": "2022-05-27",
+        "municipio": "A R\u00faa",
+        "habitantes": "4314",
+        "casos_14d": "28",
+        "casos_7d": "15"
     }
 ]

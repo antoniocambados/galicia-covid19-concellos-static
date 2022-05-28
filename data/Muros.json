@@ -3589,5 +3589,194 @@
         "habitantes": "8556",
         "casos_14d": "61",
         "casos_7d": "34"
+    },
+    {
+        "fecha": "2022-04-27",
+        "municipio": "Muros",
+        "habitantes": "8556",
+        "casos_14d": "59",
+        "casos_7d": "36"
+    },
+    {
+        "fecha": "2022-04-28",
+        "municipio": "Muros",
+        "habitantes": "8556",
+        "casos_14d": "61",
+        "casos_7d": "37"
+    },
+    {
+        "fecha": "2022-04-29",
+        "municipio": "Muros",
+        "habitantes": "8556",
+        "casos_14d": "67",
+        "casos_7d": "39"
+    },
+    {
+        "fecha": "2022-04-30",
+        "municipio": "Muros",
+        "habitantes": "8556",
+        "casos_14d": "77",
+        "casos_7d": "47"
+    },
+    {
+        "fecha": "2022-05-02",
+        "municipio": "Muros",
+        "habitantes": "8556",
+        "casos_14d": "83",
+        "casos_7d": "56"
+    },
+    {
+        "fecha": "2022-05-03",
+        "municipio": "Muros",
+        "habitantes": "8556",
+        "casos_14d": "89",
+        "casos_7d": "55"
+    },
+    {
+        "fecha": "2022-05-04",
+        "municipio": "Muros",
+        "habitantes": "8556",
+        "casos_14d": "97",
+        "casos_7d": "61"
+    },
+    {
+        "fecha": "2022-05-05",
+        "municipio": "Muros",
+        "habitantes": "8556",
+        "casos_14d": "101",
+        "casos_7d": "64"
+    },
+    {
+        "fecha": "2022-05-06",
+        "municipio": "Muros",
+        "habitantes": "8556",
+        "casos_14d": "106",
+        "casos_7d": "67"
+    },
+    {
+        "fecha": "2022-05-07",
+        "municipio": "Muros",
+        "habitantes": "8556",
+        "casos_14d": "118",
+        "casos_7d": "71"
+    },
+    {
+        "fecha": "2022-05-09",
+        "municipio": "Muros",
+        "habitantes": "8556",
+        "casos_14d": "120",
+        "casos_7d": "64"
+    },
+    {
+        "fecha": "2022-05-10",
+        "municipio": "Muros",
+        "habitantes": "8556",
+        "casos_14d": "125",
+        "casos_7d": "70"
+    },
+    {
+        "fecha": "2022-05-11",
+        "municipio": "Muros",
+        "habitantes": "8556",
+        "casos_14d": "126",
+        "casos_7d": "65"
+    },
+    {
+        "fecha": "2022-05-12",
+        "municipio": "Muros",
+        "habitantes": "8556",
+        "casos_14d": "119",
+        "casos_7d": "55"
+    },
+    {
+        "fecha": "2022-05-13",
+        "municipio": "Muros",
+        "habitantes": "8556",
+        "casos_14d": "112",
+        "casos_7d": "45"
+    },
+    {
+        "fecha": "2022-05-14",
+        "municipio": "Muros",
+        "habitantes": "8556",
+        "casos_14d": "106",
+        "casos_7d": "35"
+    },
+    {
+        "fecha": "2022-05-16",
+        "municipio": "Muros",
+        "habitantes": "8556",
+        "casos_14d": "98",
+        "casos_7d": "34"
+    },
+    {
+        "fecha": "2022-05-17",
+        "municipio": "Muros",
+        "habitantes": "8556",
+        "casos_14d": "95",
+        "casos_7d": "25"
+    },
+    {
+        "fecha": "2022-05-18",
+        "municipio": "Muros",
+        "habitantes": "8556",
+        "casos_14d": "85",
+        "casos_7d": "20"
+    },
+    {
+        "fecha": "2022-05-19",
+        "municipio": "Muros",
+        "habitantes": "8556",
+        "casos_14d": "84",
+        "casos_7d": "29"
+    },
+    {
+        "fecha": "2022-05-20",
+        "municipio": "Muros",
+        "habitantes": "8556",
+        "casos_14d": "81",
+        "casos_7d": "36"
+    },
+    {
+        "fecha": "2022-05-21",
+        "municipio": "Muros",
+        "habitantes": "8556",
+        "casos_14d": "68",
+        "casos_7d": "33"
+    },
+    {
+        "fecha": "2022-05-23",
+        "municipio": "Muros",
+        "habitantes": "8556",
+        "casos_14d": "69",
+        "casos_7d": "35"
+    },
+    {
+        "fecha": "2022-05-24",
+        "municipio": "Muros",
+        "habitantes": "8556",
+        "casos_14d": "58",
+        "casos_7d": "33"
+    },
+    {
+        "fecha": "2022-05-25",
+        "municipio": "Muros",
+        "habitantes": "8556",
+        "casos_14d": "56",
+        "casos_7d": "36"
+    },
+    {
+        "fecha": "2022-05-26",
+        "municipio": "Muros",
+        "habitantes": "8556",
+        "casos_14d": "60",
+        "casos_7d": "31"
+    },
+    {
+        "fecha": "2022-05-27",
+        "municipio": "Muros",
+        "habitantes": "8556",
+        "casos_14d": "63",
+        "casos_7d": "27"
     }
 ]

@@ -3589,5 +3589,194 @@
         "habitantes": "14072",
         "casos_14d": "89",
         "casos_7d": "47"
+    },
+    {
+        "fecha": "2022-04-27",
+        "municipio": "Vilalba",
+        "habitantes": "14072",
+        "casos_14d": "91",
+        "casos_7d": "52"
+    },
+    {
+        "fecha": "2022-04-28",
+        "municipio": "Vilalba",
+        "habitantes": "14072",
+        "casos_14d": "89",
+        "casos_7d": "47"
+    },
+    {
+        "fecha": "2022-04-29",
+        "municipio": "Vilalba",
+        "habitantes": "14072",
+        "casos_14d": "89",
+        "casos_7d": "50"
+    },
+    {
+        "fecha": "2022-04-30",
+        "municipio": "Vilalba",
+        "habitantes": "14072",
+        "casos_14d": "89",
+        "casos_7d": "49"
+    },
+    {
+        "fecha": "2022-05-02",
+        "municipio": "Vilalba",
+        "habitantes": "14072",
+        "casos_14d": "91",
+        "casos_7d": "46"
+    },
+    {
+        "fecha": "2022-05-03",
+        "municipio": "Vilalba",
+        "habitantes": "14072",
+        "casos_14d": "89",
+        "casos_7d": "42"
+    },
+    {
+        "fecha": "2022-05-04",
+        "municipio": "Vilalba",
+        "habitantes": "14072",
+        "casos_14d": "86",
+        "casos_7d": "34"
+    },
+    {
+        "fecha": "2022-05-05",
+        "municipio": "Vilalba",
+        "habitantes": "14072",
+        "casos_14d": "78",
+        "casos_7d": "31"
+    },
+    {
+        "fecha": "2022-05-06",
+        "municipio": "Vilalba",
+        "habitantes": "14072",
+        "casos_14d": "82",
+        "casos_7d": "32"
+    },
+    {
+        "fecha": "2022-05-07",
+        "municipio": "Vilalba",
+        "habitantes": "14072",
+        "casos_14d": "83",
+        "casos_7d": "34"
+    },
+    {
+        "fecha": "2022-05-09",
+        "municipio": "Vilalba",
+        "habitantes": "14072",
+        "casos_14d": "81",
+        "casos_7d": "35"
+    },
+    {
+        "fecha": "2022-05-10",
+        "municipio": "Vilalba",
+        "habitantes": "14072",
+        "casos_14d": "76",
+        "casos_7d": "34"
+    },
+    {
+        "fecha": "2022-05-11",
+        "municipio": "Vilalba",
+        "habitantes": "14072",
+        "casos_14d": "77",
+        "casos_7d": "43"
+    },
+    {
+        "fecha": "2022-05-12",
+        "municipio": "Vilalba",
+        "habitantes": "14072",
+        "casos_14d": "76",
+        "casos_7d": "45"
+    },
+    {
+        "fecha": "2022-05-13",
+        "municipio": "Vilalba",
+        "habitantes": "14072",
+        "casos_14d": "75",
+        "casos_7d": "43"
+    },
+    {
+        "fecha": "2022-05-14",
+        "municipio": "Vilalba",
+        "habitantes": "14072",
+        "casos_14d": "75",
+        "casos_7d": "41"
+    },
+    {
+        "fecha": "2022-05-16",
+        "municipio": "Vilalba",
+        "habitantes": "14072",
+        "casos_14d": "72",
+        "casos_7d": "37"
+    },
+    {
+        "fecha": "2022-05-17",
+        "municipio": "Vilalba",
+        "habitantes": "14072",
+        "casos_14d": "75",
+        "casos_7d": "41"
+    },
+    {
+        "fecha": "2022-05-18",
+        "municipio": "Vilalba",
+        "habitantes": "14072",
+        "casos_14d": "75",
+        "casos_7d": "32"
+    },
+    {
+        "fecha": "2022-05-19",
+        "municipio": "Vilalba",
+        "habitantes": "14072",
+        "casos_14d": "74",
+        "casos_7d": "29"
+    },
+    {
+        "fecha": "2022-05-20",
+        "municipio": "Vilalba",
+        "habitantes": "14072",
+        "casos_14d": "71",
+        "casos_7d": "28"
+    },
+    {
+        "fecha": "2022-05-21",
+        "municipio": "Vilalba",
+        "habitantes": "14072",
+        "casos_14d": "66",
+        "casos_7d": "25"
+    },
+    {
+        "fecha": "2022-05-23",
+        "municipio": "Vilalba",
+        "habitantes": "14072",
+        "casos_14d": "65",
+        "casos_7d": "28"
+    },
+    {
+        "fecha": "2022-05-24",
+        "municipio": "Vilalba",
+        "habitantes": "14072",
+        "casos_14d": "64",
+        "casos_7d": "23"
+    },
+    {
+        "fecha": "2022-05-25",
+        "municipio": "Vilalba",
+        "habitantes": "14072",
+        "casos_14d": "54",
+        "casos_7d": "22"
+    },
+    {
+        "fecha": "2022-05-26",
+        "municipio": "Vilalba",
+        "habitantes": "14072",
+        "casos_14d": "48",
+        "casos_7d": "19"
+    },
+    {
+        "fecha": "2022-05-27",
+        "municipio": "Vilalba",
+        "habitantes": "14072",
+        "casos_14d": "48",
+        "casos_7d": "20"
     }
 ]
