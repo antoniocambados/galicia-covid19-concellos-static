@@ -3778,5 +3778,40 @@
         "habitantes": "4314",
         "casos_14d": "28",
         "casos_7d": "15"
+    },
+    {
+        "fecha": "2022-05-28",
+        "municipio": "A R\u00faa",
+        "habitantes": "4314",
+        "casos_14d": "29",
+        "casos_7d": "15"
+    },
+    {
+        "fecha": "2022-05-30",
+        "municipio": "A R\u00faa",
+        "habitantes": "4314",
+        "casos_14d": "28",
+        "casos_7d": "15"
+    },
+    {
+        "fecha": "2022-05-31",
+        "municipio": "A R\u00faa",
+        "habitantes": "4314",
+        "casos_14d": "27",
+        "casos_7d": "11"
+    },
+    {
+        "fecha": "2022-06-01",
+        "municipio": "A R\u00faa",
+        "habitantes": "4314",
+        "casos_14d": "25",
+        "casos_7d": "10"
+    },
+    {
+        "fecha": "2022-06-02",
+        "municipio": "A R\u00faa",
+        "habitantes": "4314",
+        "casos_14d": "22",
+        "casos_7d": null
     }
 ]

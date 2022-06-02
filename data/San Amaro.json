@@ -3778,5 +3778,40 @@
         "habitantes": "1089",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-28",
+        "municipio": "San Amaro",
+        "habitantes": "1089",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-30",
+        "municipio": "San Amaro",
+        "habitantes": "1089",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-31",
+        "municipio": "San Amaro",
+        "habitantes": "1089",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-01",
+        "municipio": "San Amaro",
+        "habitantes": "1089",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-02",
+        "municipio": "San Amaro",
+        "habitantes": "1089",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]

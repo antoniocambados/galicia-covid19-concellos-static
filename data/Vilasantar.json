@@ -3778,5 +3778,40 @@
         "habitantes": "1213",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-28",
+        "municipio": "Vilasantar",
+        "habitantes": "1213",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-30",
+        "municipio": "Vilasantar",
+        "habitantes": "1213",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-31",
+        "municipio": "Vilasantar",
+        "habitantes": "1213",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-01",
+        "municipio": "Vilasantar",
+        "habitantes": "1213",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-02",
+        "municipio": "Vilasantar",
+        "habitantes": "1213",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]

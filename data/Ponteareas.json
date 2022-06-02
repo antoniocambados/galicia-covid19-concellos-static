@@ -3778,5 +3778,40 @@
         "habitantes": "22877",
         "casos_14d": "62",
         "casos_7d": "26"
+    },
+    {
+        "fecha": "2022-05-28",
+        "municipio": "Ponteareas",
+        "habitantes": "22877",
+        "casos_14d": "55",
+        "casos_7d": "24"
+    },
+    {
+        "fecha": "2022-05-30",
+        "municipio": "Ponteareas",
+        "habitantes": "22877",
+        "casos_14d": "50",
+        "casos_7d": "19"
+    },
+    {
+        "fecha": "2022-05-31",
+        "municipio": "Ponteareas",
+        "habitantes": "22877",
+        "casos_14d": "52",
+        "casos_7d": "13"
+    },
+    {
+        "fecha": "2022-06-01",
+        "municipio": "Ponteareas",
+        "habitantes": "22877",
+        "casos_14d": "54",
+        "casos_7d": "16"
+    },
+    {
+        "fecha": "2022-06-02",
+        "municipio": "Ponteareas",
+        "habitantes": "22877",
+        "casos_14d": "50",
+        "casos_7d": "16"
     }
 ]

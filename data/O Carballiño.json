@@ -3778,5 +3778,40 @@
         "habitantes": "14027",
         "casos_14d": "110",
         "casos_7d": "64"
+    },
+    {
+        "fecha": "2022-05-28",
+        "municipio": "O Carballi\u00f1o",
+        "habitantes": "14027",
+        "casos_14d": "101",
+        "casos_7d": "60"
+    },
+    {
+        "fecha": "2022-05-30",
+        "municipio": "O Carballi\u00f1o",
+        "habitantes": "14027",
+        "casos_14d": "100",
+        "casos_7d": "59"
+    },
+    {
+        "fecha": "2022-05-31",
+        "municipio": "O Carballi\u00f1o",
+        "habitantes": "14027",
+        "casos_14d": "98",
+        "casos_7d": "57"
+    },
+    {
+        "fecha": "2022-06-01",
+        "municipio": "O Carballi\u00f1o",
+        "habitantes": "14027",
+        "casos_14d": "96",
+        "casos_7d": "58"
+    },
+    {
+        "fecha": "2022-06-02",
+        "municipio": "O Carballi\u00f1o",
+        "habitantes": "14027",
+        "casos_14d": "95",
+        "casos_7d": "26"
     }
 ]

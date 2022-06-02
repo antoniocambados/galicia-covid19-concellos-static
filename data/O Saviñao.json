@@ -3778,5 +3778,40 @@
         "habitantes": "3735",
         "casos_14d": "22",
         "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-28",
+        "municipio": "O Savi\u00f1ao",
+        "habitantes": "3735",
+        "casos_14d": "24",
+        "casos_7d": "10"
+    },
+    {
+        "fecha": "2022-05-30",
+        "municipio": "O Savi\u00f1ao",
+        "habitantes": "3735",
+        "casos_14d": "22",
+        "casos_7d": "11"
+    },
+    {
+        "fecha": "2022-05-31",
+        "municipio": "O Savi\u00f1ao",
+        "habitantes": "3735",
+        "casos_14d": "19",
+        "casos_7d": "12"
+    },
+    {
+        "fecha": "2022-06-01",
+        "municipio": "O Savi\u00f1ao",
+        "habitantes": "3735",
+        "casos_14d": "19",
+        "casos_7d": "12"
+    },
+    {
+        "fecha": "2022-06-02",
+        "municipio": "O Savi\u00f1ao",
+        "habitantes": "3735",
+        "casos_14d": "19",
+        "casos_7d": "12"
     }
 ]

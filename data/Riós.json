@@ -3778,5 +3778,40 @@
         "habitantes": "1516",
         "casos_14d": null,
         "casos_7d": "0"
+    },
+    {
+        "fecha": "2022-05-28",
+        "municipio": "Ri\u00f3s",
+        "habitantes": "1516",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2022-05-30",
+        "municipio": "Ri\u00f3s",
+        "habitantes": "1516",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-31",
+        "municipio": "Ri\u00f3s",
+        "habitantes": "1516",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-01",
+        "municipio": "Ri\u00f3s",
+        "habitantes": "1516",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-02",
+        "municipio": "Ri\u00f3s",
+        "habitantes": "1516",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]

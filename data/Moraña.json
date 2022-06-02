@@ -3778,5 +3778,40 @@
         "habitantes": "4179",
         "casos_14d": "13",
         "casos_7d": "10"
+    },
+    {
+        "fecha": "2022-05-28",
+        "municipio": "Mora\u00f1a",
+        "habitantes": "4179",
+        "casos_14d": "13",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-30",
+        "municipio": "Mora\u00f1a",
+        "habitantes": "4179",
+        "casos_14d": "14",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-31",
+        "municipio": "Mora\u00f1a",
+        "habitantes": "4179",
+        "casos_14d": "13",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-01",
+        "municipio": "Mora\u00f1a",
+        "habitantes": "4179",
+        "casos_14d": "12",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-02",
+        "municipio": "Mora\u00f1a",
+        "habitantes": "4179",
+        "casos_14d": "13",
+        "casos_7d": null
     }
 ]

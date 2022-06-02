@@ -3778,5 +3778,40 @@
         "habitantes": "9588",
         "casos_14d": "46",
         "casos_7d": "20"
+    },
+    {
+        "fecha": "2022-05-28",
+        "municipio": "Burela",
+        "habitantes": "9588",
+        "casos_14d": "46",
+        "casos_7d": "17"
+    },
+    {
+        "fecha": "2022-05-30",
+        "municipio": "Burela",
+        "habitantes": "9588",
+        "casos_14d": "46",
+        "casos_7d": "13"
+    },
+    {
+        "fecha": "2022-05-31",
+        "municipio": "Burela",
+        "habitantes": "9588",
+        "casos_14d": "48",
+        "casos_7d": "14"
+    },
+    {
+        "fecha": "2022-06-01",
+        "municipio": "Burela",
+        "habitantes": "9588",
+        "casos_14d": "30",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-02",
+        "municipio": "Burela",
+        "habitantes": "9588",
+        "casos_14d": "25",
+        "casos_7d": null
     }
 ]

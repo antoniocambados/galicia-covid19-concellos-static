@@ -3778,5 +3778,40 @@
         "habitantes": "2818",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-28",
+        "municipio": "Becerre\u00e1",
+        "habitantes": "2818",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-30",
+        "municipio": "Becerre\u00e1",
+        "habitantes": "2818",
+        "casos_14d": "11",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-31",
+        "municipio": "Becerre\u00e1",
+        "habitantes": "2818",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-01",
+        "municipio": "Becerre\u00e1",
+        "habitantes": "2818",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-02",
+        "municipio": "Becerre\u00e1",
+        "habitantes": "2818",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]

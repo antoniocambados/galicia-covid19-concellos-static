@@ -3778,5 +3778,40 @@
         "habitantes": "3744",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-28",
+        "municipio": "Friol",
+        "habitantes": "3744",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-30",
+        "municipio": "Friol",
+        "habitantes": "3744",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-05-31",
+        "municipio": "Friol",
+        "habitantes": "3744",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-01",
+        "municipio": "Friol",
+        "habitantes": "3744",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-02",
+        "municipio": "Friol",
+        "habitantes": "3744",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]

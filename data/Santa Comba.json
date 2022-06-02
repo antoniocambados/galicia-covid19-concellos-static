@@ -3778,5 +3778,40 @@
         "habitantes": "9426",
         "casos_14d": "35",
         "casos_7d": "14"
+    },
+    {
+        "fecha": "2022-05-28",
+        "municipio": "Santa Comba",
+        "habitantes": "9426",
+        "casos_14d": "34",
+        "casos_7d": "16"
+    },
+    {
+        "fecha": "2022-05-30",
+        "municipio": "Santa Comba",
+        "habitantes": "9426",
+        "casos_14d": "36",
+        "casos_7d": "18"
+    },
+    {
+        "fecha": "2022-05-31",
+        "municipio": "Santa Comba",
+        "habitantes": "9426",
+        "casos_14d": "34",
+        "casos_7d": "18"
+    },
+    {
+        "fecha": "2022-06-01",
+        "municipio": "Santa Comba",
+        "habitantes": "9426",
+        "casos_14d": "34",
+        "casos_7d": "19"
+    },
+    {
+        "fecha": "2022-06-02",
+        "municipio": "Santa Comba",
+        "habitantes": "9426",
+        "casos_14d": "30",
+        "casos_7d": "17"
     }
 ]

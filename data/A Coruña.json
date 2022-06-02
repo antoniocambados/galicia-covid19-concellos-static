@@ -3778,5 +3778,40 @@
         "habitantes": "245711",
         "casos_14d": "1196",
         "casos_7d": "611"
+    },
+    {
+        "fecha": "2022-05-28",
+        "municipio": "A Coru\u00f1a",
+        "habitantes": "245711",
+        "casos_14d": "1184",
+        "casos_7d": "590"
+    },
+    {
+        "fecha": "2022-05-30",
+        "municipio": "A Coru\u00f1a",
+        "habitantes": "245711",
+        "casos_14d": "1128",
+        "casos_7d": "529"
+    },
+    {
+        "fecha": "2022-05-31",
+        "municipio": "A Coru\u00f1a",
+        "habitantes": "245711",
+        "casos_14d": "1125",
+        "casos_7d": "538"
+    },
+    {
+        "fecha": "2022-06-01",
+        "municipio": "A Coru\u00f1a",
+        "habitantes": "245711",
+        "casos_14d": "1123",
+        "casos_7d": "504"
+    },
+    {
+        "fecha": "2022-06-02",
+        "municipio": "A Coru\u00f1a",
+        "habitantes": "245711",
+        "casos_14d": "1095",
+        "casos_7d": "505"
     }
 ]
