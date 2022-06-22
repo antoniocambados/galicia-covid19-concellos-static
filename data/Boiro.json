@@ -3813,5 +3813,117 @@
         "habitantes": "18838",
         "casos_14d": "73",
         "casos_7d": "41"
+    },
+    {
+        "fecha": "2022-06-03",
+        "municipio": "Boiro",
+        "habitantes": "18838",
+        "casos_14d": "68",
+        "casos_7d": "35"
+    },
+    {
+        "fecha": "2022-06-04",
+        "municipio": "Boiro",
+        "habitantes": "18838",
+        "casos_14d": "61",
+        "casos_7d": "31"
+    },
+    {
+        "fecha": "2022-06-06",
+        "municipio": "Boiro",
+        "habitantes": "18838",
+        "casos_14d": "63",
+        "casos_7d": "31"
+    },
+    {
+        "fecha": "2022-06-07",
+        "municipio": "Boiro",
+        "habitantes": "18838",
+        "casos_14d": "64",
+        "casos_7d": "35"
+    },
+    {
+        "fecha": "2022-06-08",
+        "municipio": "Boiro",
+        "habitantes": "18838",
+        "casos_14d": "65",
+        "casos_7d": "32"
+    },
+    {
+        "fecha": "2022-06-09",
+        "municipio": "Boiro",
+        "habitantes": "18838",
+        "casos_14d": "65",
+        "casos_7d": "32"
+    },
+    {
+        "fecha": "2022-06-10",
+        "municipio": "Boiro",
+        "habitantes": "18838",
+        "casos_14d": "69",
+        "casos_7d": "34"
+    },
+    {
+        "fecha": "2022-06-11",
+        "municipio": "Boiro",
+        "habitantes": "18838",
+        "casos_14d": "68",
+        "casos_7d": "37"
+    },
+    {
+        "fecha": "2022-06-13",
+        "municipio": "Boiro",
+        "habitantes": "18838",
+        "casos_14d": "67",
+        "casos_7d": "36"
+    },
+    {
+        "fecha": "2022-06-14",
+        "municipio": "Boiro",
+        "habitantes": "18838",
+        "casos_14d": "68",
+        "casos_7d": "33"
+    },
+    {
+        "fecha": "2022-06-15",
+        "municipio": "Boiro",
+        "habitantes": "18838",
+        "casos_14d": "67",
+        "casos_7d": "35"
+    },
+    {
+        "fecha": "2022-06-16",
+        "municipio": "Boiro",
+        "habitantes": "18838",
+        "casos_14d": "66",
+        "casos_7d": "39"
+    },
+    {
+        "fecha": "2022-06-17",
+        "municipio": "Boiro",
+        "habitantes": "18838",
+        "casos_14d": "68",
+        "casos_7d": "34"
+    },
+    {
+        "fecha": "2022-06-18",
+        "municipio": "Boiro",
+        "habitantes": "18838",
+        "casos_14d": "71",
+        "casos_7d": "34"
+    },
+    {
+        "fecha": "2022-06-20",
+        "municipio": "Boiro",
+        "habitantes": "18838",
+        "casos_14d": "72",
+        "casos_7d": "36"
+    },
+    {
+        "fecha": "2022-06-21",
+        "municipio": "Boiro",
+        "habitantes": "18838",
+        "casos_14d": "72",
+        "casos_7d": "39"
     }
 ]

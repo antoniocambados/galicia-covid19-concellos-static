@@ -3813,5 +3813,117 @@
         "habitantes": "2705",
         "casos_14d": "10",
         "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-03",
+        "municipio": "Maside",
+        "habitantes": "2705",
+        "casos_14d": "14",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-04",
+        "municipio": "Maside",
+        "habitantes": "2705",
+        "casos_14d": "14",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-06",
+        "municipio": "Maside",
+        "habitantes": "2705",
+        "casos_14d": "15",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-07",
+        "municipio": "Maside",
+        "habitantes": "2705",
+        "casos_14d": "16",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-08",
+        "municipio": "Maside",
+        "habitantes": "2705",
+        "casos_14d": "14",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-09",
+        "municipio": "Maside",
+        "habitantes": "2705",
+        "casos_14d": "14",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-10",
+        "municipio": "Maside",
+        "habitantes": "2705",
+        "casos_14d": "11",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-11",
+        "municipio": "Maside",
+        "habitantes": "2705",
+        "casos_14d": "11",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-13",
+        "municipio": "Maside",
+        "habitantes": "2705",
+        "casos_14d": "11",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-14",
+        "municipio": "Maside",
+        "habitantes": "2705",
+        "casos_14d": "12",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-15",
+        "municipio": "Maside",
+        "habitantes": "2705",
+        "casos_14d": "12",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-16",
+        "municipio": "Maside",
+        "habitantes": "2705",
+        "casos_14d": "11",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-17",
+        "municipio": "Maside",
+        "habitantes": "2705",
+        "casos_14d": "10",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-18",
+        "municipio": "Maside",
+        "habitantes": "2705",
+        "casos_14d": "10",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-20",
+        "municipio": "Maside",
+        "habitantes": "2705",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-21",
+        "municipio": "Maside",
+        "habitantes": "2705",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]

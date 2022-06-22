@@ -3813,5 +3813,117 @@
         "habitantes": "2580",
         "casos_14d": "17",
         "casos_7d": "10"
+    },
+    {
+        "fecha": "2022-06-03",
+        "municipio": "Arbo",
+        "habitantes": "2580",
+        "casos_14d": "16",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-04",
+        "municipio": "Arbo",
+        "habitantes": "2580",
+        "casos_14d": "16",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-06",
+        "municipio": "Arbo",
+        "habitantes": "2580",
+        "casos_14d": "16",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-07",
+        "municipio": "Arbo",
+        "habitantes": "2580",
+        "casos_14d": "16",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-08",
+        "municipio": "Arbo",
+        "habitantes": "2580",
+        "casos_14d": "16",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-09",
+        "municipio": "Arbo",
+        "habitantes": "2580",
+        "casos_14d": "16",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-10",
+        "municipio": "Arbo",
+        "habitantes": "2580",
+        "casos_14d": "13",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-11",
+        "municipio": "Arbo",
+        "habitantes": "2580",
+        "casos_14d": "12",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-13",
+        "municipio": "Arbo",
+        "habitantes": "2580",
+        "casos_14d": "15",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-14",
+        "municipio": "Arbo",
+        "habitantes": "2580",
+        "casos_14d": "12",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-15",
+        "municipio": "Arbo",
+        "habitantes": "2580",
+        "casos_14d": "12",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-16",
+        "municipio": "Arbo",
+        "habitantes": "2580",
+        "casos_14d": "10",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-17",
+        "municipio": "Arbo",
+        "habitantes": "2580",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-18",
+        "municipio": "Arbo",
+        "habitantes": "2580",
+        "casos_14d": "11",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-20",
+        "municipio": "Arbo",
+        "habitantes": "2580",
+        "casos_14d": "11",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-21",
+        "municipio": "Arbo",
+        "habitantes": "2580",
+        "casos_14d": "12",
+        "casos_7d": null
     }
 ]

@@ -3813,5 +3813,117 @@
         "habitantes": "5246",
         "casos_14d": "11",
         "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-03",
+        "municipio": "Vila de Cruces",
+        "habitantes": "5246",
+        "casos_14d": "11",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-04",
+        "municipio": "Vila de Cruces",
+        "habitantes": "5246",
+        "casos_14d": "13",
+        "casos_7d": "10"
+    },
+    {
+        "fecha": "2022-06-06",
+        "municipio": "Vila de Cruces",
+        "habitantes": "5246",
+        "casos_14d": "15",
+        "casos_7d": "12"
+    },
+    {
+        "fecha": "2022-06-07",
+        "municipio": "Vila de Cruces",
+        "habitantes": "5246",
+        "casos_14d": "17",
+        "casos_7d": "12"
+    },
+    {
+        "fecha": "2022-06-08",
+        "municipio": "Vila de Cruces",
+        "habitantes": "5246",
+        "casos_14d": "16",
+        "casos_7d": "11"
+    },
+    {
+        "fecha": "2022-06-09",
+        "municipio": "Vila de Cruces",
+        "habitantes": "5246",
+        "casos_14d": "16",
+        "casos_7d": "11"
+    },
+    {
+        "fecha": "2022-06-10",
+        "municipio": "Vila de Cruces",
+        "habitantes": "5246",
+        "casos_14d": "24",
+        "casos_7d": "17"
+    },
+    {
+        "fecha": "2022-06-11",
+        "municipio": "Vila de Cruces",
+        "habitantes": "5246",
+        "casos_14d": "30",
+        "casos_7d": "20"
+    },
+    {
+        "fecha": "2022-06-13",
+        "municipio": "Vila de Cruces",
+        "habitantes": "5246",
+        "casos_14d": "30",
+        "casos_7d": "18"
+    },
+    {
+        "fecha": "2022-06-14",
+        "municipio": "Vila de Cruces",
+        "habitantes": "5246",
+        "casos_14d": "28",
+        "casos_7d": "16"
+    },
+    {
+        "fecha": "2022-06-15",
+        "municipio": "Vila de Cruces",
+        "habitantes": "5246",
+        "casos_14d": "27",
+        "casos_7d": "16"
+    },
+    {
+        "fecha": "2022-06-16",
+        "municipio": "Vila de Cruces",
+        "habitantes": "5246",
+        "casos_14d": "28",
+        "casos_7d": "12"
+    },
+    {
+        "fecha": "2022-06-17",
+        "municipio": "Vila de Cruces",
+        "habitantes": "5246",
+        "casos_14d": "29",
+        "casos_7d": "12"
+    },
+    {
+        "fecha": "2022-06-18",
+        "municipio": "Vila de Cruces",
+        "habitantes": "5246",
+        "casos_14d": "28",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-20",
+        "municipio": "Vila de Cruces",
+        "habitantes": "5246",
+        "casos_14d": "29",
+        "casos_7d": "11"
+    },
+    {
+        "fecha": "2022-06-21",
+        "municipio": "Vila de Cruces",
+        "habitantes": "5246",
+        "casos_14d": "27",
+        "casos_7d": "11"
     }
 ]

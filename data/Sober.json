@@ -3813,5 +3813,117 @@
         "habitantes": "2312",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-03",
+        "municipio": "Sober",
+        "habitantes": "2312",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-04",
+        "municipio": "Sober",
+        "habitantes": "2312",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-06",
+        "municipio": "Sober",
+        "habitantes": "2312",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-07",
+        "municipio": "Sober",
+        "habitantes": "2312",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-08",
+        "municipio": "Sober",
+        "habitantes": "2312",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-09",
+        "municipio": "Sober",
+        "habitantes": "2312",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-10",
+        "municipio": "Sober",
+        "habitantes": "2312",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-11",
+        "municipio": "Sober",
+        "habitantes": "2312",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2022-06-13",
+        "municipio": "Sober",
+        "habitantes": "2312",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2022-06-14",
+        "municipio": "Sober",
+        "habitantes": "2312",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-15",
+        "municipio": "Sober",
+        "habitantes": "2312",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-16",
+        "municipio": "Sober",
+        "habitantes": "2312",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-17",
+        "municipio": "Sober",
+        "habitantes": "2312",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-18",
+        "municipio": "Sober",
+        "habitantes": "2312",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-20",
+        "municipio": "Sober",
+        "habitantes": "2312",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-21",
+        "municipio": "Sober",
+        "habitantes": "2312",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]

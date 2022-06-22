@@ -3813,5 +3813,117 @@
         "habitantes": "1278",
         "casos_14d": null,
         "casos_7d": "0"
+    },
+    {
+        "fecha": "2022-06-03",
+        "municipio": "Samos",
+        "habitantes": "1278",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-04",
+        "municipio": "Samos",
+        "habitantes": "1278",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-06",
+        "municipio": "Samos",
+        "habitantes": "1278",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-07",
+        "municipio": "Samos",
+        "habitantes": "1278",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-08",
+        "municipio": "Samos",
+        "habitantes": "1278",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-09",
+        "municipio": "Samos",
+        "habitantes": "1278",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-10",
+        "municipio": "Samos",
+        "habitantes": "1278",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-11",
+        "municipio": "Samos",
+        "habitantes": "1278",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-13",
+        "municipio": "Samos",
+        "habitantes": "1278",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-14",
+        "municipio": "Samos",
+        "habitantes": "1278",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-15",
+        "municipio": "Samos",
+        "habitantes": "1278",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-16",
+        "municipio": "Samos",
+        "habitantes": "1278",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-17",
+        "municipio": "Samos",
+        "habitantes": "1278",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-18",
+        "municipio": "Samos",
+        "habitantes": "1278",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-20",
+        "municipio": "Samos",
+        "habitantes": "1278",
+        "casos_14d": "12",
+        "casos_7d": "10"
+    },
+    {
+        "fecha": "2022-06-21",
+        "municipio": "Samos",
+        "habitantes": "1278",
+        "casos_14d": "14",
+        "casos_7d": "12"
     }
 ]

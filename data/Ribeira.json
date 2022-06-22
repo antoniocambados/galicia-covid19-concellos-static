@@ -3813,5 +3813,117 @@
         "habitantes": "26886",
         "casos_14d": "86",
         "casos_7d": "41"
+    },
+    {
+        "fecha": "2022-06-03",
+        "municipio": "Ribeira",
+        "habitantes": "26886",
+        "casos_14d": "76",
+        "casos_7d": "37"
+    },
+    {
+        "fecha": "2022-06-04",
+        "municipio": "Ribeira",
+        "habitantes": "26886",
+        "casos_14d": "71",
+        "casos_7d": "39"
+    },
+    {
+        "fecha": "2022-06-06",
+        "municipio": "Ribeira",
+        "habitantes": "26886",
+        "casos_14d": "67",
+        "casos_7d": "36"
+    },
+    {
+        "fecha": "2022-06-07",
+        "municipio": "Ribeira",
+        "habitantes": "26886",
+        "casos_14d": "67",
+        "casos_7d": "35"
+    },
+    {
+        "fecha": "2022-06-08",
+        "municipio": "Ribeira",
+        "habitantes": "26886",
+        "casos_14d": "72",
+        "casos_7d": "32"
+    },
+    {
+        "fecha": "2022-06-09",
+        "municipio": "Ribeira",
+        "habitantes": "26886",
+        "casos_14d": "72",
+        "casos_7d": "32"
+    },
+    {
+        "fecha": "2022-06-10",
+        "municipio": "Ribeira",
+        "habitantes": "26886",
+        "casos_14d": "79",
+        "casos_7d": "42"
+    },
+    {
+        "fecha": "2022-06-11",
+        "municipio": "Ribeira",
+        "habitantes": "26886",
+        "casos_14d": "91",
+        "casos_7d": "52"
+    },
+    {
+        "fecha": "2022-06-13",
+        "municipio": "Ribeira",
+        "habitantes": "26886",
+        "casos_14d": "90",
+        "casos_7d": "54"
+    },
+    {
+        "fecha": "2022-06-14",
+        "municipio": "Ribeira",
+        "habitantes": "26886",
+        "casos_14d": "95",
+        "casos_7d": "60"
+    },
+    {
+        "fecha": "2022-06-15",
+        "municipio": "Ribeira",
+        "habitantes": "26886",
+        "casos_14d": "92",
+        "casos_7d": "60"
+    },
+    {
+        "fecha": "2022-06-16",
+        "municipio": "Ribeira",
+        "habitantes": "26886",
+        "casos_14d": "98",
+        "casos_7d": "60"
+    },
+    {
+        "fecha": "2022-06-17",
+        "municipio": "Ribeira",
+        "habitantes": "26886",
+        "casos_14d": "107",
+        "casos_7d": "65"
+    },
+    {
+        "fecha": "2022-06-18",
+        "municipio": "Ribeira",
+        "habitantes": "26886",
+        "casos_14d": "110",
+        "casos_7d": "58"
+    },
+    {
+        "fecha": "2022-06-20",
+        "municipio": "Ribeira",
+        "habitantes": "26886",
+        "casos_14d": "111",
+        "casos_7d": "57"
+    },
+    {
+        "fecha": "2022-06-21",
+        "municipio": "Ribeira",
+        "habitantes": "26886",
+        "casos_14d": "123",
+        "casos_7d": "63"
     }
 ]

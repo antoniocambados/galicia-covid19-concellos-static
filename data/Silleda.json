@@ -3813,5 +3813,117 @@
         "habitantes": "8687",
         "casos_14d": "24",
         "casos_7d": "16"
+    },
+    {
+        "fecha": "2022-06-03",
+        "municipio": "Silleda",
+        "habitantes": "8687",
+        "casos_14d": "24",
+        "casos_7d": "16"
+    },
+    {
+        "fecha": "2022-06-04",
+        "municipio": "Silleda",
+        "habitantes": "8687",
+        "casos_14d": "23",
+        "casos_7d": "15"
+    },
+    {
+        "fecha": "2022-06-06",
+        "municipio": "Silleda",
+        "habitantes": "8687",
+        "casos_14d": "27",
+        "casos_7d": "16"
+    },
+    {
+        "fecha": "2022-06-07",
+        "municipio": "Silleda",
+        "habitantes": "8687",
+        "casos_14d": "34",
+        "casos_7d": "22"
+    },
+    {
+        "fecha": "2022-06-08",
+        "municipio": "Silleda",
+        "habitantes": "8687",
+        "casos_14d": "41",
+        "casos_7d": "27"
+    },
+    {
+        "fecha": "2022-06-09",
+        "municipio": "Silleda",
+        "habitantes": "8687",
+        "casos_14d": "41",
+        "casos_7d": "27"
+    },
+    {
+        "fecha": "2022-06-10",
+        "municipio": "Silleda",
+        "habitantes": "8687",
+        "casos_14d": "49",
+        "casos_7d": "33"
+    },
+    {
+        "fecha": "2022-06-11",
+        "municipio": "Silleda",
+        "habitantes": "8687",
+        "casos_14d": "51",
+        "casos_7d": "36"
+    },
+    {
+        "fecha": "2022-06-13",
+        "municipio": "Silleda",
+        "habitantes": "8687",
+        "casos_14d": "51",
+        "casos_7d": "35"
+    },
+    {
+        "fecha": "2022-06-14",
+        "municipio": "Silleda",
+        "habitantes": "8687",
+        "casos_14d": "49",
+        "casos_7d": "27"
+    },
+    {
+        "fecha": "2022-06-15",
+        "municipio": "Silleda",
+        "habitantes": "8687",
+        "casos_14d": "51",
+        "casos_7d": "24"
+    },
+    {
+        "fecha": "2022-06-16",
+        "municipio": "Silleda",
+        "habitantes": "8687",
+        "casos_14d": "51",
+        "casos_7d": "21"
+    },
+    {
+        "fecha": "2022-06-17",
+        "municipio": "Silleda",
+        "habitantes": "8687",
+        "casos_14d": "53",
+        "casos_7d": "20"
+    },
+    {
+        "fecha": "2022-06-18",
+        "municipio": "Silleda",
+        "habitantes": "8687",
+        "casos_14d": "51",
+        "casos_7d": "15"
+    },
+    {
+        "fecha": "2022-06-20",
+        "municipio": "Silleda",
+        "habitantes": "8687",
+        "casos_14d": "53",
+        "casos_7d": "18"
+    },
+    {
+        "fecha": "2022-06-21",
+        "municipio": "Silleda",
+        "habitantes": "8687",
+        "casos_14d": "49",
+        "casos_7d": "22"
     }
 ]

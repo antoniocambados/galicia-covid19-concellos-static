@@ -3813,5 +3813,117 @@
         "habitantes": "1124",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-03",
+        "municipio": "Toques",
+        "habitantes": "1124",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-04",
+        "municipio": "Toques",
+        "habitantes": "1124",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-06",
+        "municipio": "Toques",
+        "habitantes": "1124",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-07",
+        "municipio": "Toques",
+        "habitantes": "1124",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-08",
+        "municipio": "Toques",
+        "habitantes": "1124",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-09",
+        "municipio": "Toques",
+        "habitantes": "1124",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-10",
+        "municipio": "Toques",
+        "habitantes": "1124",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2022-06-11",
+        "municipio": "Toques",
+        "habitantes": "1124",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2022-06-13",
+        "municipio": "Toques",
+        "habitantes": "1124",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2022-06-14",
+        "municipio": "Toques",
+        "habitantes": "1124",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-15",
+        "municipio": "Toques",
+        "habitantes": "1124",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-16",
+        "municipio": "Toques",
+        "habitantes": "1124",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-17",
+        "municipio": "Toques",
+        "habitantes": "1124",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-18",
+        "municipio": "Toques",
+        "habitantes": "1124",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-20",
+        "municipio": "Toques",
+        "habitantes": "1124",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-21",
+        "municipio": "Toques",
+        "habitantes": "1124",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]

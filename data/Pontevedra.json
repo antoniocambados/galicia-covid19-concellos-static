@@ -3813,5 +3813,117 @@
         "habitantes": "83029",
         "casos_14d": "385",
         "casos_7d": "180"
+    },
+    {
+        "fecha": "2022-06-03",
+        "municipio": "Pontevedra",
+        "habitantes": "83029",
+        "casos_14d": "371",
+        "casos_7d": "182"
+    },
+    {
+        "fecha": "2022-06-04",
+        "municipio": "Pontevedra",
+        "habitantes": "83029",
+        "casos_14d": "367",
+        "casos_7d": "179"
+    },
+    {
+        "fecha": "2022-06-06",
+        "municipio": "Pontevedra",
+        "habitantes": "83029",
+        "casos_14d": "340",
+        "casos_7d": "173"
+    },
+    {
+        "fecha": "2022-06-07",
+        "municipio": "Pontevedra",
+        "habitantes": "83029",
+        "casos_14d": "340",
+        "casos_7d": "166"
+    },
+    {
+        "fecha": "2022-06-08",
+        "municipio": "Pontevedra",
+        "habitantes": "83029",
+        "casos_14d": "346",
+        "casos_7d": "165"
+    },
+    {
+        "fecha": "2022-06-09",
+        "municipio": "Pontevedra",
+        "habitantes": "83029",
+        "casos_14d": "346",
+        "casos_7d": "165"
+    },
+    {
+        "fecha": "2022-06-10",
+        "municipio": "Pontevedra",
+        "habitantes": "83029",
+        "casos_14d": "354",
+        "casos_7d": "174"
+    },
+    {
+        "fecha": "2022-06-11",
+        "municipio": "Pontevedra",
+        "habitantes": "83029",
+        "casos_14d": "362",
+        "casos_7d": "184"
+    },
+    {
+        "fecha": "2022-06-13",
+        "municipio": "Pontevedra",
+        "habitantes": "83029",
+        "casos_14d": "361",
+        "casos_7d": "189"
+    },
+    {
+        "fecha": "2022-06-14",
+        "municipio": "Pontevedra",
+        "habitantes": "83029",
+        "casos_14d": "363",
+        "casos_7d": "197"
+    },
+    {
+        "fecha": "2022-06-15",
+        "municipio": "Pontevedra",
+        "habitantes": "83029",
+        "casos_14d": "373",
+        "casos_7d": "208"
+    },
+    {
+        "fecha": "2022-06-16",
+        "municipio": "Pontevedra",
+        "habitantes": "83029",
+        "casos_14d": "400",
+        "casos_7d": "227"
+    },
+    {
+        "fecha": "2022-06-17",
+        "municipio": "Pontevedra",
+        "habitantes": "83029",
+        "casos_14d": "423",
+        "casos_7d": "249"
+    },
+    {
+        "fecha": "2022-06-18",
+        "municipio": "Pontevedra",
+        "habitantes": "83029",
+        "casos_14d": "428",
+        "casos_7d": "244"
+    },
+    {
+        "fecha": "2022-06-20",
+        "municipio": "Pontevedra",
+        "habitantes": "83029",
+        "casos_14d": "428",
+        "casos_7d": "239"
+    },
+    {
+        "fecha": "2022-06-21",
+        "municipio": "Pontevedra",
+        "habitantes": "83029",
+        "casos_14d": "447",
+        "casos_7d": "250"
     }
 ]

@@ -3813,5 +3813,117 @@
         "habitantes": "1089",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-03",
+        "municipio": "San Amaro",
+        "habitantes": "1089",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-04",
+        "municipio": "San Amaro",
+        "habitantes": "1089",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-06",
+        "municipio": "San Amaro",
+        "habitantes": "1089",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-07",
+        "municipio": "San Amaro",
+        "habitantes": "1089",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-08",
+        "municipio": "San Amaro",
+        "habitantes": "1089",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-09",
+        "municipio": "San Amaro",
+        "habitantes": "1089",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-10",
+        "municipio": "San Amaro",
+        "habitantes": "1089",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-11",
+        "municipio": "San Amaro",
+        "habitantes": "1089",
+        "casos_14d": "10",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-13",
+        "municipio": "San Amaro",
+        "habitantes": "1089",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-14",
+        "municipio": "San Amaro",
+        "habitantes": "1089",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-15",
+        "municipio": "San Amaro",
+        "habitantes": "1089",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-16",
+        "municipio": "San Amaro",
+        "habitantes": "1089",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-17",
+        "municipio": "San Amaro",
+        "habitantes": "1089",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-18",
+        "municipio": "San Amaro",
+        "habitantes": "1089",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-20",
+        "municipio": "San Amaro",
+        "habitantes": "1089",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-21",
+        "municipio": "San Amaro",
+        "habitantes": "1089",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]

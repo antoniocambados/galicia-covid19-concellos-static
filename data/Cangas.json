@@ -3813,5 +3813,117 @@
         "habitantes": "26542",
         "casos_14d": "75",
         "casos_7d": "32"
+    },
+    {
+        "fecha": "2022-06-03",
+        "municipio": "Cangas",
+        "habitantes": "26542",
+        "casos_14d": "72",
+        "casos_7d": "32"
+    },
+    {
+        "fecha": "2022-06-04",
+        "municipio": "Cangas",
+        "habitantes": "26542",
+        "casos_14d": "69",
+        "casos_7d": "35"
+    },
+    {
+        "fecha": "2022-06-06",
+        "municipio": "Cangas",
+        "habitantes": "26542",
+        "casos_14d": "71",
+        "casos_7d": "40"
+    },
+    {
+        "fecha": "2022-06-07",
+        "municipio": "Cangas",
+        "habitantes": "26542",
+        "casos_14d": "73",
+        "casos_7d": "42"
+    },
+    {
+        "fecha": "2022-06-08",
+        "municipio": "Cangas",
+        "habitantes": "26542",
+        "casos_14d": "68",
+        "casos_7d": "38"
+    },
+    {
+        "fecha": "2022-06-09",
+        "municipio": "Cangas",
+        "habitantes": "26542",
+        "casos_14d": "68",
+        "casos_7d": "38"
+    },
+    {
+        "fecha": "2022-06-10",
+        "municipio": "Cangas",
+        "habitantes": "26542",
+        "casos_14d": "78",
+        "casos_7d": "46"
+    },
+    {
+        "fecha": "2022-06-11",
+        "municipio": "Cangas",
+        "habitantes": "26542",
+        "casos_14d": "76",
+        "casos_7d": "41"
+    },
+    {
+        "fecha": "2022-06-13",
+        "municipio": "Cangas",
+        "habitantes": "26542",
+        "casos_14d": "77",
+        "casos_7d": "37"
+    },
+    {
+        "fecha": "2022-06-14",
+        "municipio": "Cangas",
+        "habitantes": "26542",
+        "casos_14d": "80",
+        "casos_7d": "38"
+    },
+    {
+        "fecha": "2022-06-15",
+        "municipio": "Cangas",
+        "habitantes": "26542",
+        "casos_14d": "79",
+        "casos_7d": "41"
+    },
+    {
+        "fecha": "2022-06-16",
+        "municipio": "Cangas",
+        "habitantes": "26542",
+        "casos_14d": "87",
+        "casos_7d": "46"
+    },
+    {
+        "fecha": "2022-06-17",
+        "municipio": "Cangas",
+        "habitantes": "26542",
+        "casos_14d": "96",
+        "casos_7d": "50"
+    },
+    {
+        "fecha": "2022-06-18",
+        "municipio": "Cangas",
+        "habitantes": "26542",
+        "casos_14d": "93",
+        "casos_7d": "52"
+    },
+    {
+        "fecha": "2022-06-20",
+        "municipio": "Cangas",
+        "habitantes": "26542",
+        "casos_14d": "92",
+        "casos_7d": "55"
+    },
+    {
+        "fecha": "2022-06-21",
+        "municipio": "Cangas",
+        "habitantes": "26542",
+        "casos_14d": "96",
+        "casos_7d": "58"
     }
 ]

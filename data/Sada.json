@@ -3813,5 +3813,117 @@
         "habitantes": "15841",
         "casos_14d": "67",
         "casos_7d": "32"
+    },
+    {
+        "fecha": "2022-06-03",
+        "municipio": "Sada",
+        "habitantes": "15841",
+        "casos_14d": "67",
+        "casos_7d": "31"
+    },
+    {
+        "fecha": "2022-06-04",
+        "municipio": "Sada",
+        "habitantes": "15841",
+        "casos_14d": "65",
+        "casos_7d": "30"
+    },
+    {
+        "fecha": "2022-06-06",
+        "municipio": "Sada",
+        "habitantes": "15841",
+        "casos_14d": "61",
+        "casos_7d": "31"
+    },
+    {
+        "fecha": "2022-06-07",
+        "municipio": "Sada",
+        "habitantes": "15841",
+        "casos_14d": "65",
+        "casos_7d": "33"
+    },
+    {
+        "fecha": "2022-06-08",
+        "municipio": "Sada",
+        "habitantes": "15841",
+        "casos_14d": "69",
+        "casos_7d": "36"
+    },
+    {
+        "fecha": "2022-06-09",
+        "municipio": "Sada",
+        "habitantes": "15841",
+        "casos_14d": "69",
+        "casos_7d": "36"
+    },
+    {
+        "fecha": "2022-06-10",
+        "municipio": "Sada",
+        "habitantes": "15841",
+        "casos_14d": "80",
+        "casos_7d": "48"
+    },
+    {
+        "fecha": "2022-06-11",
+        "municipio": "Sada",
+        "habitantes": "15841",
+        "casos_14d": "81",
+        "casos_7d": "51"
+    },
+    {
+        "fecha": "2022-06-13",
+        "municipio": "Sada",
+        "habitantes": "15841",
+        "casos_14d": "91",
+        "casos_7d": "60"
+    },
+    {
+        "fecha": "2022-06-14",
+        "municipio": "Sada",
+        "habitantes": "15841",
+        "casos_14d": "98",
+        "casos_7d": "65"
+    },
+    {
+        "fecha": "2022-06-15",
+        "municipio": "Sada",
+        "habitantes": "15841",
+        "casos_14d": "99",
+        "casos_7d": "63"
+    },
+    {
+        "fecha": "2022-06-16",
+        "municipio": "Sada",
+        "habitantes": "15841",
+        "casos_14d": "97",
+        "casos_7d": "58"
+    },
+    {
+        "fecha": "2022-06-17",
+        "municipio": "Sada",
+        "habitantes": "15841",
+        "casos_14d": "102",
+        "casos_7d": "54"
+    },
+    {
+        "fecha": "2022-06-18",
+        "municipio": "Sada",
+        "habitantes": "15841",
+        "casos_14d": "105",
+        "casos_7d": "54"
+    },
+    {
+        "fecha": "2022-06-20",
+        "municipio": "Sada",
+        "habitantes": "15841",
+        "casos_14d": "104",
+        "casos_7d": "44"
+    },
+    {
+        "fecha": "2022-06-21",
+        "municipio": "Sada",
+        "habitantes": "15841",
+        "casos_14d": "98",
+        "casos_7d": "33"
     }
 ]

@@ -3813,5 +3813,117 @@
         "habitantes": "5101",
         "casos_14d": "13",
         "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-03",
+        "municipio": "Oza-Cesuras",
+        "habitantes": "5101",
+        "casos_14d": "11",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-04",
+        "municipio": "Oza-Cesuras",
+        "habitantes": "5101",
+        "casos_14d": "14",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-06",
+        "municipio": "Oza-Cesuras",
+        "habitantes": "5101",
+        "casos_14d": "11",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-07",
+        "municipio": "Oza-Cesuras",
+        "habitantes": "5101",
+        "casos_14d": "11",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-08",
+        "municipio": "Oza-Cesuras",
+        "habitantes": "5101",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-09",
+        "municipio": "Oza-Cesuras",
+        "habitantes": "5101",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-10",
+        "municipio": "Oza-Cesuras",
+        "habitantes": "5101",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-11",
+        "municipio": "Oza-Cesuras",
+        "habitantes": "5101",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-13",
+        "municipio": "Oza-Cesuras",
+        "habitantes": "5101",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-14",
+        "municipio": "Oza-Cesuras",
+        "habitantes": "5101",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-15",
+        "municipio": "Oza-Cesuras",
+        "habitantes": "5101",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-16",
+        "municipio": "Oza-Cesuras",
+        "habitantes": "5101",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-17",
+        "municipio": "Oza-Cesuras",
+        "habitantes": "5101",
+        "casos_14d": "10",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-18",
+        "municipio": "Oza-Cesuras",
+        "habitantes": "5101",
+        "casos_14d": "11",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-20",
+        "municipio": "Oza-Cesuras",
+        "habitantes": "5101",
+        "casos_14d": "11",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-21",
+        "municipio": "Oza-Cesuras",
+        "habitantes": "5101",
+        "casos_14d": "11",
+        "casos_7d": null
     }
 ]

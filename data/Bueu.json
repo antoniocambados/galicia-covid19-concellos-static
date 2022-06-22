@@ -3813,5 +3813,117 @@
         "habitantes": "12009",
         "casos_14d": "63",
         "casos_7d": "29"
+    },
+    {
+        "fecha": "2022-06-03",
+        "municipio": "Bueu",
+        "habitantes": "12009",
+        "casos_14d": "66",
+        "casos_7d": "32"
+    },
+    {
+        "fecha": "2022-06-04",
+        "municipio": "Bueu",
+        "habitantes": "12009",
+        "casos_14d": "65",
+        "casos_7d": "32"
+    },
+    {
+        "fecha": "2022-06-06",
+        "municipio": "Bueu",
+        "habitantes": "12009",
+        "casos_14d": "57",
+        "casos_7d": "30"
+    },
+    {
+        "fecha": "2022-06-07",
+        "municipio": "Bueu",
+        "habitantes": "12009",
+        "casos_14d": "57",
+        "casos_7d": "34"
+    },
+    {
+        "fecha": "2022-06-08",
+        "municipio": "Bueu",
+        "habitantes": "12009",
+        "casos_14d": "55",
+        "casos_7d": "32"
+    },
+    {
+        "fecha": "2022-06-09",
+        "municipio": "Bueu",
+        "habitantes": "12009",
+        "casos_14d": "55",
+        "casos_7d": "32"
+    },
+    {
+        "fecha": "2022-06-10",
+        "municipio": "Bueu",
+        "habitantes": "12009",
+        "casos_14d": "54",
+        "casos_7d": "22"
+    },
+    {
+        "fecha": "2022-06-11",
+        "municipio": "Bueu",
+        "habitantes": "12009",
+        "casos_14d": "53",
+        "casos_7d": "21"
+    },
+    {
+        "fecha": "2022-06-13",
+        "municipio": "Bueu",
+        "habitantes": "12009",
+        "casos_14d": "50",
+        "casos_7d": "20"
+    },
+    {
+        "fecha": "2022-06-14",
+        "municipio": "Bueu",
+        "habitantes": "12009",
+        "casos_14d": "58",
+        "casos_7d": "24"
+    },
+    {
+        "fecha": "2022-06-15",
+        "municipio": "Bueu",
+        "habitantes": "12009",
+        "casos_14d": "62",
+        "casos_7d": "30"
+    },
+    {
+        "fecha": "2022-06-16",
+        "municipio": "Bueu",
+        "habitantes": "12009",
+        "casos_14d": "60",
+        "casos_7d": "32"
+    },
+    {
+        "fecha": "2022-06-17",
+        "municipio": "Bueu",
+        "habitantes": "12009",
+        "casos_14d": "58",
+        "casos_7d": "36"
+    },
+    {
+        "fecha": "2022-06-18",
+        "municipio": "Bueu",
+        "habitantes": "12009",
+        "casos_14d": "59",
+        "casos_7d": "38"
+    },
+    {
+        "fecha": "2022-06-20",
+        "municipio": "Bueu",
+        "habitantes": "12009",
+        "casos_14d": "59",
+        "casos_7d": "39"
+    },
+    {
+        "fecha": "2022-06-21",
+        "municipio": "Bueu",
+        "habitantes": "12009",
+        "casos_14d": "60",
+        "casos_7d": "36"
     }
 ]

@@ -3813,5 +3813,117 @@
         "habitantes": "295364",
         "casos_14d": "1245",
         "casos_7d": "617"
+    },
+    {
+        "fecha": "2022-06-03",
+        "municipio": "Vigo",
+        "habitantes": "295364",
+        "casos_14d": "1231",
+        "casos_7d": "633"
+    },
+    {
+        "fecha": "2022-06-04",
+        "municipio": "Vigo",
+        "habitantes": "295364",
+        "casos_14d": "1222",
+        "casos_7d": "655"
+    },
+    {
+        "fecha": "2022-06-06",
+        "municipio": "Vigo",
+        "habitantes": "295364",
+        "casos_14d": "1195",
+        "casos_7d": "640"
+    },
+    {
+        "fecha": "2022-06-07",
+        "municipio": "Vigo",
+        "habitantes": "295364",
+        "casos_14d": "1223",
+        "casos_7d": "677"
+    },
+    {
+        "fecha": "2022-06-08",
+        "municipio": "Vigo",
+        "habitantes": "295364",
+        "casos_14d": "1289",
+        "casos_7d": "686"
+    },
+    {
+        "fecha": "2022-06-09",
+        "municipio": "Vigo",
+        "habitantes": "295364",
+        "casos_14d": "1289",
+        "casos_7d": "686"
+    },
+    {
+        "fecha": "2022-06-10",
+        "municipio": "Vigo",
+        "habitantes": "295364",
+        "casos_14d": "1300",
+        "casos_7d": "668"
+    },
+    {
+        "fecha": "2022-06-11",
+        "municipio": "Vigo",
+        "habitantes": "295364",
+        "casos_14d": "1352",
+        "casos_7d": "697"
+    },
+    {
+        "fecha": "2022-06-13",
+        "municipio": "Vigo",
+        "habitantes": "295364",
+        "casos_14d": "1402",
+        "casos_7d": "762"
+    },
+    {
+        "fecha": "2022-06-14",
+        "municipio": "Vigo",
+        "habitantes": "295364",
+        "casos_14d": "1428",
+        "casos_7d": "751"
+    },
+    {
+        "fecha": "2022-06-15",
+        "municipio": "Vigo",
+        "habitantes": "295364",
+        "casos_14d": "1437",
+        "casos_7d": "751"
+    },
+    {
+        "fecha": "2022-06-16",
+        "municipio": "Vigo",
+        "habitantes": "295364",
+        "casos_14d": "1454",
+        "casos_7d": "790"
+    },
+    {
+        "fecha": "2022-06-17",
+        "municipio": "Vigo",
+        "habitantes": "295364",
+        "casos_14d": "1479",
+        "casos_7d": "810"
+    },
+    {
+        "fecha": "2022-06-18",
+        "municipio": "Vigo",
+        "habitantes": "295364",
+        "casos_14d": "1523",
+        "casos_7d": "825"
+    },
+    {
+        "fecha": "2022-06-20",
+        "municipio": "Vigo",
+        "habitantes": "295364",
+        "casos_14d": "1573",
+        "casos_7d": "809"
+    },
+    {
+        "fecha": "2022-06-21",
+        "municipio": "Vigo",
+        "habitantes": "295364",
+        "casos_14d": "1552",
+        "casos_7d": "799"
     }
 ]

@@ -3813,5 +3813,117 @@
         "habitantes": "1528",
         "casos_14d": "11",
         "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-03",
+        "municipio": "Bande",
+        "habitantes": "1528",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-04",
+        "municipio": "Bande",
+        "habitantes": "1528",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-06",
+        "municipio": "Bande",
+        "habitantes": "1528",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-07",
+        "municipio": "Bande",
+        "habitantes": "1528",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-08",
+        "municipio": "Bande",
+        "habitantes": "1528",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-09",
+        "municipio": "Bande",
+        "habitantes": "1528",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-10",
+        "municipio": "Bande",
+        "habitantes": "1528",
+        "casos_14d": "11",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-11",
+        "municipio": "Bande",
+        "habitantes": "1528",
+        "casos_14d": "11",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-13",
+        "municipio": "Bande",
+        "habitantes": "1528",
+        "casos_14d": "14",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-14",
+        "municipio": "Bande",
+        "habitantes": "1528",
+        "casos_14d": "10",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-15",
+        "municipio": "Bande",
+        "habitantes": "1528",
+        "casos_14d": "12",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-16",
+        "municipio": "Bande",
+        "habitantes": "1528",
+        "casos_14d": "15",
+        "casos_7d": "11"
+    },
+    {
+        "fecha": "2022-06-17",
+        "municipio": "Bande",
+        "habitantes": "1528",
+        "casos_14d": "16",
+        "casos_7d": "11"
+    },
+    {
+        "fecha": "2022-06-18",
+        "municipio": "Bande",
+        "habitantes": "1528",
+        "casos_14d": "15",
+        "casos_7d": "12"
+    },
+    {
+        "fecha": "2022-06-20",
+        "municipio": "Bande",
+        "habitantes": "1528",
+        "casos_14d": "17",
+        "casos_7d": "11"
+    },
+    {
+        "fecha": "2022-06-21",
+        "municipio": "Bande",
+        "habitantes": "1528",
+        "casos_14d": "18",
+        "casos_7d": "12"
     }
 ]

@@ -3813,5 +3813,117 @@
         "habitantes": "1985",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-03",
+        "municipio": "Boimorto",
+        "habitantes": "1985",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2022-06-04",
+        "municipio": "Boimorto",
+        "habitantes": "1985",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-06",
+        "municipio": "Boimorto",
+        "habitantes": "1985",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-07",
+        "municipio": "Boimorto",
+        "habitantes": "1985",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-08",
+        "municipio": "Boimorto",
+        "habitantes": "1985",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-09",
+        "municipio": "Boimorto",
+        "habitantes": "1985",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-10",
+        "municipio": "Boimorto",
+        "habitantes": "1985",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-11",
+        "municipio": "Boimorto",
+        "habitantes": "1985",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-13",
+        "municipio": "Boimorto",
+        "habitantes": "1985",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-14",
+        "municipio": "Boimorto",
+        "habitantes": "1985",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-15",
+        "municipio": "Boimorto",
+        "habitantes": "1985",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-16",
+        "municipio": "Boimorto",
+        "habitantes": "1985",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-17",
+        "municipio": "Boimorto",
+        "habitantes": "1985",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-18",
+        "municipio": "Boimorto",
+        "habitantes": "1985",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-20",
+        "municipio": "Boimorto",
+        "habitantes": "1985",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-21",
+        "municipio": "Boimorto",
+        "habitantes": "1985",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]

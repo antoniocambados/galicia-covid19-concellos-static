@@ -3813,5 +3813,117 @@
         "habitantes": "12944",
         "casos_14d": "50",
         "casos_7d": "18"
+    },
+    {
+        "fecha": "2022-06-03",
+        "municipio": "Fene",
+        "habitantes": "12944",
+        "casos_14d": "44",
+        "casos_7d": "19"
+    },
+    {
+        "fecha": "2022-06-04",
+        "municipio": "Fene",
+        "habitantes": "12944",
+        "casos_14d": "44",
+        "casos_7d": "24"
+    },
+    {
+        "fecha": "2022-06-06",
+        "municipio": "Fene",
+        "habitantes": "12944",
+        "casos_14d": "41",
+        "casos_7d": "17"
+    },
+    {
+        "fecha": "2022-06-07",
+        "municipio": "Fene",
+        "habitantes": "12944",
+        "casos_14d": "45",
+        "casos_7d": "19"
+    },
+    {
+        "fecha": "2022-06-08",
+        "municipio": "Fene",
+        "habitantes": "12944",
+        "casos_14d": "43",
+        "casos_7d": "20"
+    },
+    {
+        "fecha": "2022-06-09",
+        "municipio": "Fene",
+        "habitantes": "12944",
+        "casos_14d": "43",
+        "casos_7d": "20"
+    },
+    {
+        "fecha": "2022-06-10",
+        "municipio": "Fene",
+        "habitantes": "12944",
+        "casos_14d": "45",
+        "casos_7d": "26"
+    },
+    {
+        "fecha": "2022-06-11",
+        "municipio": "Fene",
+        "habitantes": "12944",
+        "casos_14d": "49",
+        "casos_7d": "25"
+    },
+    {
+        "fecha": "2022-06-13",
+        "municipio": "Fene",
+        "habitantes": "12944",
+        "casos_14d": "45",
+        "casos_7d": "28"
+    },
+    {
+        "fecha": "2022-06-14",
+        "municipio": "Fene",
+        "habitantes": "12944",
+        "casos_14d": "43",
+        "casos_7d": "24"
+    },
+    {
+        "fecha": "2022-06-15",
+        "municipio": "Fene",
+        "habitantes": "12944",
+        "casos_14d": "50",
+        "casos_7d": "30"
+    },
+    {
+        "fecha": "2022-06-16",
+        "municipio": "Fene",
+        "habitantes": "12944",
+        "casos_14d": "52",
+        "casos_7d": "29"
+    },
+    {
+        "fecha": "2022-06-17",
+        "municipio": "Fene",
+        "habitantes": "12944",
+        "casos_14d": "52",
+        "casos_7d": "26"
+    },
+    {
+        "fecha": "2022-06-18",
+        "municipio": "Fene",
+        "habitantes": "12944",
+        "casos_14d": "53",
+        "casos_7d": "28"
+    },
+    {
+        "fecha": "2022-06-20",
+        "municipio": "Fene",
+        "habitantes": "12944",
+        "casos_14d": "55",
+        "casos_7d": "27"
+    },
+    {
+        "fecha": "2022-06-21",
+        "municipio": "Fene",
+        "habitantes": "12944",
+        "casos_14d": "61",
+        "casos_7d": "37"
     }
 ]

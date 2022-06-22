@@ -3813,5 +3813,117 @@
         "habitantes": "1338",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-03",
+        "municipio": "Cervantes",
+        "habitantes": "1338",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-04",
+        "municipio": "Cervantes",
+        "habitantes": "1338",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2022-06-06",
+        "municipio": "Cervantes",
+        "habitantes": "1338",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2022-06-07",
+        "municipio": "Cervantes",
+        "habitantes": "1338",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-08",
+        "municipio": "Cervantes",
+        "habitantes": "1338",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-09",
+        "municipio": "Cervantes",
+        "habitantes": "1338",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-10",
+        "municipio": "Cervantes",
+        "habitantes": "1338",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-11",
+        "municipio": "Cervantes",
+        "habitantes": "1338",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-13",
+        "municipio": "Cervantes",
+        "habitantes": "1338",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-14",
+        "municipio": "Cervantes",
+        "habitantes": "1338",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-15",
+        "municipio": "Cervantes",
+        "habitantes": "1338",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-16",
+        "municipio": "Cervantes",
+        "habitantes": "1338",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-17",
+        "municipio": "Cervantes",
+        "habitantes": "1338",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-18",
+        "municipio": "Cervantes",
+        "habitantes": "1338",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-20",
+        "municipio": "Cervantes",
+        "habitantes": "1338",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-21",
+        "municipio": "Cervantes",
+        "habitantes": "1338",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]

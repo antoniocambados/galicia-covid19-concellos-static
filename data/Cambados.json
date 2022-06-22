@@ -3813,5 +3813,117 @@
         "habitantes": "13744",
         "casos_14d": "34",
         "casos_7d": "14"
+    },
+    {
+        "fecha": "2022-06-03",
+        "municipio": "Cambados",
+        "habitantes": "13744",
+        "casos_14d": "30",
+        "casos_7d": "15"
+    },
+    {
+        "fecha": "2022-06-04",
+        "municipio": "Cambados",
+        "habitantes": "13744",
+        "casos_14d": "27",
+        "casos_7d": "14"
+    },
+    {
+        "fecha": "2022-06-06",
+        "municipio": "Cambados",
+        "habitantes": "13744",
+        "casos_14d": "32",
+        "casos_7d": "18"
+    },
+    {
+        "fecha": "2022-06-07",
+        "municipio": "Cambados",
+        "habitantes": "13744",
+        "casos_14d": "36",
+        "casos_7d": "19"
+    },
+    {
+        "fecha": "2022-06-08",
+        "municipio": "Cambados",
+        "habitantes": "13744",
+        "casos_14d": "46",
+        "casos_7d": "29"
+    },
+    {
+        "fecha": "2022-06-09",
+        "municipio": "Cambados",
+        "habitantes": "13744",
+        "casos_14d": "46",
+        "casos_7d": "29"
+    },
+    {
+        "fecha": "2022-06-10",
+        "municipio": "Cambados",
+        "habitantes": "13744",
+        "casos_14d": "53",
+        "casos_7d": "38"
+    },
+    {
+        "fecha": "2022-06-11",
+        "municipio": "Cambados",
+        "habitantes": "13744",
+        "casos_14d": "58",
+        "casos_7d": "44"
+    },
+    {
+        "fecha": "2022-06-13",
+        "municipio": "Cambados",
+        "habitantes": "13744",
+        "casos_14d": "62",
+        "casos_7d": "44"
+    },
+    {
+        "fecha": "2022-06-14",
+        "municipio": "Cambados",
+        "habitantes": "13744",
+        "casos_14d": "66",
+        "casos_7d": "47"
+    },
+    {
+        "fecha": "2022-06-15",
+        "municipio": "Cambados",
+        "habitantes": "13744",
+        "casos_14d": "69",
+        "casos_7d": "40"
+    },
+    {
+        "fecha": "2022-06-16",
+        "municipio": "Cambados",
+        "habitantes": "13744",
+        "casos_14d": "72",
+        "casos_7d": "41"
+    },
+    {
+        "fecha": "2022-06-17",
+        "municipio": "Cambados",
+        "habitantes": "13744",
+        "casos_14d": "71",
+        "casos_7d": "33"
+    },
+    {
+        "fecha": "2022-06-18",
+        "municipio": "Cambados",
+        "habitantes": "13744",
+        "casos_14d": "71",
+        "casos_7d": "27"
+    },
+    {
+        "fecha": "2022-06-20",
+        "municipio": "Cambados",
+        "habitantes": "13744",
+        "casos_14d": "70",
+        "casos_7d": "26"
+    },
+    {
+        "fecha": "2022-06-21",
+        "municipio": "Cambados",
+        "habitantes": "13744",
+        "casos_14d": "66",
+        "casos_7d": "19"
     }
 ]

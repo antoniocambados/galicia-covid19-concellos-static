@@ -3813,5 +3813,117 @@
         "habitantes": "2605",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-03",
+        "municipio": "L\u00e1ncara",
+        "habitantes": "2605",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-04",
+        "municipio": "L\u00e1ncara",
+        "habitantes": "2605",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-06",
+        "municipio": "L\u00e1ncara",
+        "habitantes": "2605",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-07",
+        "municipio": "L\u00e1ncara",
+        "habitantes": "2605",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-08",
+        "municipio": "L\u00e1ncara",
+        "habitantes": "2605",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-09",
+        "municipio": "L\u00e1ncara",
+        "habitantes": "2605",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-10",
+        "municipio": "L\u00e1ncara",
+        "habitantes": "2605",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-11",
+        "municipio": "L\u00e1ncara",
+        "habitantes": "2605",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-13",
+        "municipio": "L\u00e1ncara",
+        "habitantes": "2605",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-14",
+        "municipio": "L\u00e1ncara",
+        "habitantes": "2605",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-15",
+        "municipio": "L\u00e1ncara",
+        "habitantes": "2605",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-16",
+        "municipio": "L\u00e1ncara",
+        "habitantes": "2605",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-17",
+        "municipio": "L\u00e1ncara",
+        "habitantes": "2605",
+        "casos_14d": "11",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-18",
+        "municipio": "L\u00e1ncara",
+        "habitantes": "2605",
+        "casos_14d": "12",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-20",
+        "municipio": "L\u00e1ncara",
+        "habitantes": "2605",
+        "casos_14d": "13",
+        "casos_7d": "10"
+    },
+    {
+        "fecha": "2022-06-21",
+        "municipio": "L\u00e1ncara",
+        "habitantes": "2605",
+        "casos_14d": "13",
+        "casos_7d": null
     }
 ]

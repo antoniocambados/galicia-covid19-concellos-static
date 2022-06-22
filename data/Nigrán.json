@@ -3813,5 +3813,117 @@
         "habitantes": "17675",
         "casos_14d": "60",
         "casos_7d": "32"
+    },
+    {
+        "fecha": "2022-06-03",
+        "municipio": "Nigr\u00e1n",
+        "habitantes": "17675",
+        "casos_14d": "58",
+        "casos_7d": "32"
+    },
+    {
+        "fecha": "2022-06-04",
+        "municipio": "Nigr\u00e1n",
+        "habitantes": "17675",
+        "casos_14d": "58",
+        "casos_7d": "27"
+    },
+    {
+        "fecha": "2022-06-06",
+        "municipio": "Nigr\u00e1n",
+        "habitantes": "17675",
+        "casos_14d": "63",
+        "casos_7d": "30"
+    },
+    {
+        "fecha": "2022-06-07",
+        "municipio": "Nigr\u00e1n",
+        "habitantes": "17675",
+        "casos_14d": "65",
+        "casos_7d": "30"
+    },
+    {
+        "fecha": "2022-06-08",
+        "municipio": "Nigr\u00e1n",
+        "habitantes": "17675",
+        "casos_14d": "60",
+        "casos_7d": "32"
+    },
+    {
+        "fecha": "2022-06-09",
+        "municipio": "Nigr\u00e1n",
+        "habitantes": "17675",
+        "casos_14d": "60",
+        "casos_7d": "32"
+    },
+    {
+        "fecha": "2022-06-10",
+        "municipio": "Nigr\u00e1n",
+        "habitantes": "17675",
+        "casos_14d": "65",
+        "casos_7d": "33"
+    },
+    {
+        "fecha": "2022-06-11",
+        "municipio": "Nigr\u00e1n",
+        "habitantes": "17675",
+        "casos_14d": "64",
+        "casos_7d": "37"
+    },
+    {
+        "fecha": "2022-06-13",
+        "municipio": "Nigr\u00e1n",
+        "habitantes": "17675",
+        "casos_14d": "67",
+        "casos_7d": "37"
+    },
+    {
+        "fecha": "2022-06-14",
+        "municipio": "Nigr\u00e1n",
+        "habitantes": "17675",
+        "casos_14d": "68",
+        "casos_7d": "38"
+    },
+    {
+        "fecha": "2022-06-15",
+        "municipio": "Nigr\u00e1n",
+        "habitantes": "17675",
+        "casos_14d": "74",
+        "casos_7d": "42"
+    },
+    {
+        "fecha": "2022-06-16",
+        "municipio": "Nigr\u00e1n",
+        "habitantes": "17675",
+        "casos_14d": "74",
+        "casos_7d": "44"
+    },
+    {
+        "fecha": "2022-06-17",
+        "municipio": "Nigr\u00e1n",
+        "habitantes": "17675",
+        "casos_14d": "76",
+        "casos_7d": "43"
+    },
+    {
+        "fecha": "2022-06-18",
+        "municipio": "Nigr\u00e1n",
+        "habitantes": "17675",
+        "casos_14d": "82",
+        "casos_7d": "45"
+    },
+    {
+        "fecha": "2022-06-20",
+        "municipio": "Nigr\u00e1n",
+        "habitantes": "17675",
+        "casos_14d": "85",
+        "casos_7d": "48"
+    },
+    {
+        "fecha": "2022-06-21",
+        "municipio": "Nigr\u00e1n",
+        "habitantes": "17675",
+        "casos_14d": "83",
+        "casos_7d": "45"
     }
 ]

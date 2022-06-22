@@ -3813,5 +3813,117 @@
         "habitantes": "5001",
         "casos_14d": "12",
         "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-03",
+        "municipio": "Cerceda",
+        "habitantes": "5001",
+        "casos_14d": "12",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-04",
+        "municipio": "Cerceda",
+        "habitantes": "5001",
+        "casos_14d": "11",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-06",
+        "municipio": "Cerceda",
+        "habitantes": "5001",
+        "casos_14d": "11",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-07",
+        "municipio": "Cerceda",
+        "habitantes": "5001",
+        "casos_14d": "17",
+        "casos_7d": "13"
+    },
+    {
+        "fecha": "2022-06-08",
+        "municipio": "Cerceda",
+        "habitantes": "5001",
+        "casos_14d": "19",
+        "casos_7d": "12"
+    },
+    {
+        "fecha": "2022-06-09",
+        "municipio": "Cerceda",
+        "habitantes": "5001",
+        "casos_14d": "19",
+        "casos_7d": "12"
+    },
+    {
+        "fecha": "2022-06-10",
+        "municipio": "Cerceda",
+        "habitantes": "5001",
+        "casos_14d": "20",
+        "casos_7d": "12"
+    },
+    {
+        "fecha": "2022-06-11",
+        "municipio": "Cerceda",
+        "habitantes": "5001",
+        "casos_14d": "22",
+        "casos_7d": "15"
+    },
+    {
+        "fecha": "2022-06-13",
+        "municipio": "Cerceda",
+        "habitantes": "5001",
+        "casos_14d": "24",
+        "casos_7d": "16"
+    },
+    {
+        "fecha": "2022-06-14",
+        "municipio": "Cerceda",
+        "habitantes": "5001",
+        "casos_14d": "29",
+        "casos_7d": "16"
+    },
+    {
+        "fecha": "2022-06-15",
+        "municipio": "Cerceda",
+        "habitantes": "5001",
+        "casos_14d": "28",
+        "casos_7d": "16"
+    },
+    {
+        "fecha": "2022-06-16",
+        "municipio": "Cerceda",
+        "habitantes": "5001",
+        "casos_14d": "31",
+        "casos_7d": "20"
+    },
+    {
+        "fecha": "2022-06-17",
+        "municipio": "Cerceda",
+        "habitantes": "5001",
+        "casos_14d": "34",
+        "casos_7d": "22"
+    },
+    {
+        "fecha": "2022-06-18",
+        "municipio": "Cerceda",
+        "habitantes": "5001",
+        "casos_14d": "40",
+        "casos_7d": "25"
+    },
+    {
+        "fecha": "2022-06-20",
+        "municipio": "Cerceda",
+        "habitantes": "5001",
+        "casos_14d": "40",
+        "casos_7d": "24"
+    },
+    {
+        "fecha": "2022-06-21",
+        "municipio": "Cerceda",
+        "habitantes": "5001",
+        "casos_14d": "34",
+        "casos_7d": "18"
     }
 ]

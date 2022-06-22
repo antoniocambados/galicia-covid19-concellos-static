@@ -3813,5 +3813,117 @@
         "habitantes": "9588",
         "casos_14d": "25",
         "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-03",
+        "municipio": "Burela",
+        "habitantes": "9588",
+        "casos_14d": "26",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-04",
+        "municipio": "Burela",
+        "habitantes": "9588",
+        "casos_14d": "24",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-06",
+        "municipio": "Burela",
+        "habitantes": "9588",
+        "casos_14d": "22",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-07",
+        "municipio": "Burela",
+        "habitantes": "9588",
+        "casos_14d": "19",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-08",
+        "municipio": "Burela",
+        "habitantes": "9588",
+        "casos_14d": "15",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-09",
+        "municipio": "Burela",
+        "habitantes": "9588",
+        "casos_14d": "15",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-10",
+        "municipio": "Burela",
+        "habitantes": "9588",
+        "casos_14d": "15",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-11",
+        "municipio": "Burela",
+        "habitantes": "9588",
+        "casos_14d": "26",
+        "casos_7d": "19"
+    },
+    {
+        "fecha": "2022-06-13",
+        "municipio": "Burela",
+        "habitantes": "9588",
+        "casos_14d": "31",
+        "casos_7d": "22"
+    },
+    {
+        "fecha": "2022-06-14",
+        "municipio": "Burela",
+        "habitantes": "9588",
+        "casos_14d": "32",
+        "casos_7d": "27"
+    },
+    {
+        "fecha": "2022-06-15",
+        "municipio": "Burela",
+        "habitantes": "9588",
+        "casos_14d": "37",
+        "casos_7d": "28"
+    },
+    {
+        "fecha": "2022-06-16",
+        "municipio": "Burela",
+        "habitantes": "9588",
+        "casos_14d": "42",
+        "casos_7d": "33"
+    },
+    {
+        "fecha": "2022-06-17",
+        "municipio": "Burela",
+        "habitantes": "9588",
+        "casos_14d": "43",
+        "casos_7d": "34"
+    },
+    {
+        "fecha": "2022-06-18",
+        "municipio": "Burela",
+        "habitantes": "9588",
+        "casos_14d": "46",
+        "casos_7d": "27"
+    },
+    {
+        "fecha": "2022-06-20",
+        "municipio": "Burela",
+        "habitantes": "9588",
+        "casos_14d": "46",
+        "casos_7d": "24"
+    },
+    {
+        "fecha": "2022-06-21",
+        "municipio": "Burela",
+        "habitantes": "9588",
+        "casos_14d": "54",
+        "casos_7d": "27"
     }
 ]

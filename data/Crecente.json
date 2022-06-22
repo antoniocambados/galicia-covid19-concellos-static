@@ -3813,5 +3813,117 @@
         "habitantes": "2012",
         "casos_14d": "13",
         "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-03",
+        "municipio": "Crecente",
+        "habitantes": "2012",
+        "casos_14d": "14",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-04",
+        "municipio": "Crecente",
+        "habitantes": "2012",
+        "casos_14d": "12",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-06",
+        "municipio": "Crecente",
+        "habitantes": "2012",
+        "casos_14d": "17",
+        "casos_7d": "11"
+    },
+    {
+        "fecha": "2022-06-07",
+        "municipio": "Crecente",
+        "habitantes": "2012",
+        "casos_14d": "18",
+        "casos_7d": "11"
+    },
+    {
+        "fecha": "2022-06-08",
+        "municipio": "Crecente",
+        "habitantes": "2012",
+        "casos_14d": "20",
+        "casos_7d": "11"
+    },
+    {
+        "fecha": "2022-06-09",
+        "municipio": "Crecente",
+        "habitantes": "2012",
+        "casos_14d": "20",
+        "casos_7d": "11"
+    },
+    {
+        "fecha": "2022-06-10",
+        "municipio": "Crecente",
+        "habitantes": "2012",
+        "casos_14d": "19",
+        "casos_7d": "11"
+    },
+    {
+        "fecha": "2022-06-11",
+        "municipio": "Crecente",
+        "habitantes": "2012",
+        "casos_14d": "17",
+        "casos_7d": "11"
+    },
+    {
+        "fecha": "2022-06-13",
+        "municipio": "Crecente",
+        "habitantes": "2012",
+        "casos_14d": "17",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-14",
+        "municipio": "Crecente",
+        "habitantes": "2012",
+        "casos_14d": "17",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-15",
+        "municipio": "Crecente",
+        "habitantes": "2012",
+        "casos_14d": "15",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-16",
+        "municipio": "Crecente",
+        "habitantes": "2012",
+        "casos_14d": "14",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-17",
+        "municipio": "Crecente",
+        "habitantes": "2012",
+        "casos_14d": "13",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-18",
+        "municipio": "Crecente",
+        "habitantes": "2012",
+        "casos_14d": "13",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-20",
+        "municipio": "Crecente",
+        "habitantes": "2012",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-21",
+        "municipio": "Crecente",
+        "habitantes": "2012",
+        "casos_14d": null,
+        "casos_7d": "0"
     }
 ]

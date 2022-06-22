@@ -3813,5 +3813,117 @@
         "habitantes": "37456",
         "casos_14d": "191",
         "casos_7d": "81"
+    },
+    {
+        "fecha": "2022-06-03",
+        "municipio": "Vilagarc\u00eda de Arousa",
+        "habitantes": "37456",
+        "casos_14d": "185",
+        "casos_7d": "78"
+    },
+    {
+        "fecha": "2022-06-04",
+        "municipio": "Vilagarc\u00eda de Arousa",
+        "habitantes": "37456",
+        "casos_14d": "186",
+        "casos_7d": "84"
+    },
+    {
+        "fecha": "2022-06-06",
+        "municipio": "Vilagarc\u00eda de Arousa",
+        "habitantes": "37456",
+        "casos_14d": "179",
+        "casos_7d": "81"
+    },
+    {
+        "fecha": "2022-06-07",
+        "municipio": "Vilagarc\u00eda de Arousa",
+        "habitantes": "37456",
+        "casos_14d": "184",
+        "casos_7d": "91"
+    },
+    {
+        "fecha": "2022-06-08",
+        "municipio": "Vilagarc\u00eda de Arousa",
+        "habitantes": "37456",
+        "casos_14d": "177",
+        "casos_7d": "93"
+    },
+    {
+        "fecha": "2022-06-09",
+        "municipio": "Vilagarc\u00eda de Arousa",
+        "habitantes": "37456",
+        "casos_14d": "177",
+        "casos_7d": "93"
+    },
+    {
+        "fecha": "2022-06-10",
+        "municipio": "Vilagarc\u00eda de Arousa",
+        "habitantes": "37456",
+        "casos_14d": "176",
+        "casos_7d": "98"
+    },
+    {
+        "fecha": "2022-06-11",
+        "municipio": "Vilagarc\u00eda de Arousa",
+        "habitantes": "37456",
+        "casos_14d": "171",
+        "casos_7d": "87"
+    },
+    {
+        "fecha": "2022-06-13",
+        "municipio": "Vilagarc\u00eda de Arousa",
+        "habitantes": "37456",
+        "casos_14d": "169",
+        "casos_7d": "88"
+    },
+    {
+        "fecha": "2022-06-14",
+        "municipio": "Vilagarc\u00eda de Arousa",
+        "habitantes": "37456",
+        "casos_14d": "174",
+        "casos_7d": "83"
+    },
+    {
+        "fecha": "2022-06-15",
+        "municipio": "Vilagarc\u00eda de Arousa",
+        "habitantes": "37456",
+        "casos_14d": "174",
+        "casos_7d": "81"
+    },
+    {
+        "fecha": "2022-06-16",
+        "municipio": "Vilagarc\u00eda de Arousa",
+        "habitantes": "37456",
+        "casos_14d": "173",
+        "casos_7d": "71"
+    },
+    {
+        "fecha": "2022-06-17",
+        "municipio": "Vilagarc\u00eda de Arousa",
+        "habitantes": "37456",
+        "casos_14d": "179",
+        "casos_7d": "81"
+    },
+    {
+        "fecha": "2022-06-18",
+        "municipio": "Vilagarc\u00eda de Arousa",
+        "habitantes": "37456",
+        "casos_14d": "174",
+        "casos_7d": "87"
+    },
+    {
+        "fecha": "2022-06-20",
+        "municipio": "Vilagarc\u00eda de Arousa",
+        "habitantes": "37456",
+        "casos_14d": "171",
+        "casos_7d": "83"
+    },
+    {
+        "fecha": "2022-06-21",
+        "municipio": "Vilagarc\u00eda de Arousa",
+        "habitantes": "37456",
+        "casos_14d": "163",
+        "casos_7d": "80"
     }
 ]

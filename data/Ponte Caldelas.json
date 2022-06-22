@@ -3813,5 +3813,117 @@
         "habitantes": "5494",
         "casos_14d": "18",
         "casos_7d": "10"
+    },
+    {
+        "fecha": "2022-06-03",
+        "municipio": "Ponte Caldelas",
+        "habitantes": "5494",
+        "casos_14d": "16",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-04",
+        "municipio": "Ponte Caldelas",
+        "habitantes": "5494",
+        "casos_14d": "17",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-06",
+        "municipio": "Ponte Caldelas",
+        "habitantes": "5494",
+        "casos_14d": "14",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-07",
+        "municipio": "Ponte Caldelas",
+        "habitantes": "5494",
+        "casos_14d": "13",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-08",
+        "municipio": "Ponte Caldelas",
+        "habitantes": "5494",
+        "casos_14d": "13",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-09",
+        "municipio": "Ponte Caldelas",
+        "habitantes": "5494",
+        "casos_14d": "13",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-10",
+        "municipio": "Ponte Caldelas",
+        "habitantes": "5494",
+        "casos_14d": "17",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-11",
+        "municipio": "Ponte Caldelas",
+        "habitantes": "5494",
+        "casos_14d": "16",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-13",
+        "municipio": "Ponte Caldelas",
+        "habitantes": "5494",
+        "casos_14d": "17",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-14",
+        "municipio": "Ponte Caldelas",
+        "habitantes": "5494",
+        "casos_14d": "18",
+        "casos_7d": "11"
+    },
+    {
+        "fecha": "2022-06-15",
+        "municipio": "Ponte Caldelas",
+        "habitantes": "5494",
+        "casos_14d": "18",
+        "casos_7d": "13"
+    },
+    {
+        "fecha": "2022-06-16",
+        "municipio": "Ponte Caldelas",
+        "habitantes": "5494",
+        "casos_14d": "18",
+        "casos_7d": "13"
+    },
+    {
+        "fecha": "2022-06-17",
+        "municipio": "Ponte Caldelas",
+        "habitantes": "5494",
+        "casos_14d": "20",
+        "casos_7d": "12"
+    },
+    {
+        "fecha": "2022-06-18",
+        "municipio": "Ponte Caldelas",
+        "habitantes": "5494",
+        "casos_14d": "21",
+        "casos_7d": "14"
+    },
+    {
+        "fecha": "2022-06-20",
+        "municipio": "Ponte Caldelas",
+        "habitantes": "5494",
+        "casos_14d": "21",
+        "casos_7d": "12"
+    },
+    {
+        "fecha": "2022-06-21",
+        "municipio": "Ponte Caldelas",
+        "habitantes": "5494",
+        "casos_14d": "22",
+        "casos_7d": "11"
     }
 ]

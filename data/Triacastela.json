@@ -3813,5 +3813,117 @@
         "habitantes": "641",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-03",
+        "municipio": "Triacastela",
+        "habitantes": "641",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-04",
+        "municipio": "Triacastela",
+        "habitantes": "641",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-06",
+        "municipio": "Triacastela",
+        "habitantes": "641",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-07",
+        "municipio": "Triacastela",
+        "habitantes": "641",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-08",
+        "municipio": "Triacastela",
+        "habitantes": "641",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-09",
+        "municipio": "Triacastela",
+        "habitantes": "641",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-10",
+        "municipio": "Triacastela",
+        "habitantes": "641",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2022-06-11",
+        "municipio": "Triacastela",
+        "habitantes": "641",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2022-06-13",
+        "municipio": "Triacastela",
+        "habitantes": "641",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2022-06-14",
+        "municipio": "Triacastela",
+        "habitantes": "641",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2022-06-15",
+        "municipio": "Triacastela",
+        "habitantes": "641",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2022-06-16",
+        "municipio": "Triacastela",
+        "habitantes": "641",
+        "casos_14d": "0",
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2022-06-17",
+        "municipio": "Triacastela",
+        "habitantes": "641",
+        "casos_14d": "0",
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2022-06-18",
+        "municipio": "Triacastela",
+        "habitantes": "641",
+        "casos_14d": "0",
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2022-06-20",
+        "municipio": "Triacastela",
+        "habitantes": "641",
+        "casos_14d": "0",
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2022-06-21",
+        "municipio": "Triacastela",
+        "habitantes": "641",
+        "casos_14d": "0",
+        "casos_7d": "0"
     }
 ]

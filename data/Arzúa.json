@@ -3813,5 +3813,117 @@
         "habitantes": "6041",
         "casos_14d": "27",
         "casos_7d": "15"
+    },
+    {
+        "fecha": "2022-06-03",
+        "municipio": "Arz\u00faa",
+        "habitantes": "6041",
+        "casos_14d": "24",
+        "casos_7d": "17"
+    },
+    {
+        "fecha": "2022-06-04",
+        "municipio": "Arz\u00faa",
+        "habitantes": "6041",
+        "casos_14d": "23",
+        "casos_7d": "17"
+    },
+    {
+        "fecha": "2022-06-06",
+        "municipio": "Arz\u00faa",
+        "habitantes": "6041",
+        "casos_14d": "28",
+        "casos_7d": "17"
+    },
+    {
+        "fecha": "2022-06-07",
+        "municipio": "Arz\u00faa",
+        "habitantes": "6041",
+        "casos_14d": "28",
+        "casos_7d": "16"
+    },
+    {
+        "fecha": "2022-06-08",
+        "municipio": "Arz\u00faa",
+        "habitantes": "6041",
+        "casos_14d": "30",
+        "casos_7d": "15"
+    },
+    {
+        "fecha": "2022-06-09",
+        "municipio": "Arz\u00faa",
+        "habitantes": "6041",
+        "casos_14d": "30",
+        "casos_7d": "15"
+    },
+    {
+        "fecha": "2022-06-10",
+        "municipio": "Arz\u00faa",
+        "habitantes": "6041",
+        "casos_14d": "34",
+        "casos_7d": "17"
+    },
+    {
+        "fecha": "2022-06-11",
+        "municipio": "Arz\u00faa",
+        "habitantes": "6041",
+        "casos_14d": "35",
+        "casos_7d": "18"
+    },
+    {
+        "fecha": "2022-06-13",
+        "municipio": "Arz\u00faa",
+        "habitantes": "6041",
+        "casos_14d": "33",
+        "casos_7d": "16"
+    },
+    {
+        "fecha": "2022-06-14",
+        "municipio": "Arz\u00faa",
+        "habitantes": "6041",
+        "casos_14d": "34",
+        "casos_7d": "18"
+    },
+    {
+        "fecha": "2022-06-15",
+        "municipio": "Arz\u00faa",
+        "habitantes": "6041",
+        "casos_14d": "34",
+        "casos_7d": "19"
+    },
+    {
+        "fecha": "2022-06-16",
+        "municipio": "Arz\u00faa",
+        "habitantes": "6041",
+        "casos_14d": "36",
+        "casos_7d": "19"
+    },
+    {
+        "fecha": "2022-06-17",
+        "municipio": "Arz\u00faa",
+        "habitantes": "6041",
+        "casos_14d": "35",
+        "casos_7d": "18"
+    },
+    {
+        "fecha": "2022-06-18",
+        "municipio": "Arz\u00faa",
+        "habitantes": "6041",
+        "casos_14d": "35",
+        "casos_7d": "17"
+    },
+    {
+        "fecha": "2022-06-20",
+        "municipio": "Arz\u00faa",
+        "habitantes": "6041",
+        "casos_14d": "33",
+        "casos_7d": "17"
+    },
+    {
+        "fecha": "2022-06-21",
+        "municipio": "Arz\u00faa",
+        "habitantes": "6041",
+        "casos_14d": "33",
+        "casos_7d": "15"
     }
 ]

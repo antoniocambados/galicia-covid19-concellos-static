@@ -3813,5 +3813,117 @@
         "habitantes": "538",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-03",
+        "municipio": "Parada de Sil",
+        "habitantes": "538",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-04",
+        "municipio": "Parada de Sil",
+        "habitantes": "538",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-06",
+        "municipio": "Parada de Sil",
+        "habitantes": "538",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-07",
+        "municipio": "Parada de Sil",
+        "habitantes": "538",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2022-06-08",
+        "municipio": "Parada de Sil",
+        "habitantes": "538",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2022-06-09",
+        "municipio": "Parada de Sil",
+        "habitantes": "538",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2022-06-10",
+        "municipio": "Parada de Sil",
+        "habitantes": "538",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2022-06-11",
+        "municipio": "Parada de Sil",
+        "habitantes": "538",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2022-06-13",
+        "municipio": "Parada de Sil",
+        "habitantes": "538",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-14",
+        "municipio": "Parada de Sil",
+        "habitantes": "538",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-15",
+        "municipio": "Parada de Sil",
+        "habitantes": "538",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-16",
+        "municipio": "Parada de Sil",
+        "habitantes": "538",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-17",
+        "municipio": "Parada de Sil",
+        "habitantes": "538",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-18",
+        "municipio": "Parada de Sil",
+        "habitantes": "538",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-20",
+        "municipio": "Parada de Sil",
+        "habitantes": "538",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-21",
+        "municipio": "Parada de Sil",
+        "habitantes": "538",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]

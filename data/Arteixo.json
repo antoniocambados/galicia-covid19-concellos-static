@@ -3813,5 +3813,117 @@
         "habitantes": "32262",
         "casos_14d": "123",
         "casos_7d": "44"
+    },
+    {
+        "fecha": "2022-06-03",
+        "municipio": "Arteixo",
+        "habitantes": "32262",
+        "casos_14d": "116",
+        "casos_7d": "44"
+    },
+    {
+        "fecha": "2022-06-04",
+        "municipio": "Arteixo",
+        "habitantes": "32262",
+        "casos_14d": "116",
+        "casos_7d": "48"
+    },
+    {
+        "fecha": "2022-06-06",
+        "municipio": "Arteixo",
+        "habitantes": "32262",
+        "casos_14d": "106",
+        "casos_7d": "50"
+    },
+    {
+        "fecha": "2022-06-07",
+        "municipio": "Arteixo",
+        "habitantes": "32262",
+        "casos_14d": "100",
+        "casos_7d": "49"
+    },
+    {
+        "fecha": "2022-06-08",
+        "municipio": "Arteixo",
+        "habitantes": "32262",
+        "casos_14d": "104",
+        "casos_7d": "56"
+    },
+    {
+        "fecha": "2022-06-09",
+        "municipio": "Arteixo",
+        "habitantes": "32262",
+        "casos_14d": "104",
+        "casos_7d": "56"
+    },
+    {
+        "fecha": "2022-06-10",
+        "municipio": "Arteixo",
+        "habitantes": "32262",
+        "casos_14d": "103",
+        "casos_7d": "59"
+    },
+    {
+        "fecha": "2022-06-11",
+        "municipio": "Arteixo",
+        "habitantes": "32262",
+        "casos_14d": "101",
+        "casos_7d": "53"
+    },
+    {
+        "fecha": "2022-06-13",
+        "municipio": "Arteixo",
+        "habitantes": "32262",
+        "casos_14d": "99",
+        "casos_7d": "49"
+    },
+    {
+        "fecha": "2022-06-14",
+        "municipio": "Arteixo",
+        "habitantes": "32262",
+        "casos_14d": "98",
+        "casos_7d": "49"
+    },
+    {
+        "fecha": "2022-06-15",
+        "municipio": "Arteixo",
+        "habitantes": "32262",
+        "casos_14d": "104",
+        "casos_7d": "48"
+    },
+    {
+        "fecha": "2022-06-16",
+        "municipio": "Arteixo",
+        "habitantes": "32262",
+        "casos_14d": "109",
+        "casos_7d": "55"
+    },
+    {
+        "fecha": "2022-06-17",
+        "municipio": "Arteixo",
+        "habitantes": "32262",
+        "casos_14d": "112",
+        "casos_7d": "52"
+    },
+    {
+        "fecha": "2022-06-18",
+        "municipio": "Arteixo",
+        "habitantes": "32262",
+        "casos_14d": "108",
+        "casos_7d": "54"
+    },
+    {
+        "fecha": "2022-06-20",
+        "municipio": "Arteixo",
+        "habitantes": "32262",
+        "casos_14d": "107",
+        "casos_7d": "58"
+    },
+    {
+        "fecha": "2022-06-21",
+        "municipio": "Arteixo",
+        "habitantes": "32262",
+        "casos_14d": "108",
+        "casos_7d": "59"
     }
 ]

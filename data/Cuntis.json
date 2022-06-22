@@ -3813,5 +3813,117 @@
         "habitantes": "4677",
         "casos_14d": "12",
         "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-03",
+        "municipio": "Cuntis",
+        "habitantes": "4677",
+        "casos_14d": "12",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-04",
+        "municipio": "Cuntis",
+        "habitantes": "4677",
+        "casos_14d": "10",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-06",
+        "municipio": "Cuntis",
+        "habitantes": "4677",
+        "casos_14d": "10",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-07",
+        "municipio": "Cuntis",
+        "habitantes": "4677",
+        "casos_14d": "10",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-08",
+        "municipio": "Cuntis",
+        "habitantes": "4677",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-09",
+        "municipio": "Cuntis",
+        "habitantes": "4677",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-10",
+        "municipio": "Cuntis",
+        "habitantes": "4677",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-11",
+        "municipio": "Cuntis",
+        "habitantes": "4677",
+        "casos_14d": "10",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-13",
+        "municipio": "Cuntis",
+        "habitantes": "4677",
+        "casos_14d": "12",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-14",
+        "municipio": "Cuntis",
+        "habitantes": "4677",
+        "casos_14d": "14",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-15",
+        "municipio": "Cuntis",
+        "habitantes": "4677",
+        "casos_14d": "15",
+        "casos_7d": "10"
+    },
+    {
+        "fecha": "2022-06-16",
+        "municipio": "Cuntis",
+        "habitantes": "4677",
+        "casos_14d": "19",
+        "casos_7d": "14"
+    },
+    {
+        "fecha": "2022-06-17",
+        "municipio": "Cuntis",
+        "habitantes": "4677",
+        "casos_14d": "21",
+        "casos_7d": "15"
+    },
+    {
+        "fecha": "2022-06-18",
+        "municipio": "Cuntis",
+        "habitantes": "4677",
+        "casos_14d": "21",
+        "casos_7d": "14"
+    },
+    {
+        "fecha": "2022-06-20",
+        "municipio": "Cuntis",
+        "habitantes": "4677",
+        "casos_14d": "27",
+        "casos_7d": "19"
+    },
+    {
+        "fecha": "2022-06-21",
+        "municipio": "Cuntis",
+        "habitantes": "4677",
+        "casos_14d": "27",
+        "casos_7d": "18"
     }
 ]

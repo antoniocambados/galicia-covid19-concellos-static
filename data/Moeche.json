@@ -3813,5 +3813,117 @@
         "habitantes": "1226",
         "casos_14d": "0",
         "casos_7d": "0"
+    },
+    {
+        "fecha": "2022-06-03",
+        "municipio": "Moeche",
+        "habitantes": "1226",
+        "casos_14d": "0",
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2022-06-04",
+        "municipio": "Moeche",
+        "habitantes": "1226",
+        "casos_14d": "0",
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2022-06-06",
+        "municipio": "Moeche",
+        "habitantes": "1226",
+        "casos_14d": "0",
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2022-06-07",
+        "municipio": "Moeche",
+        "habitantes": "1226",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-08",
+        "municipio": "Moeche",
+        "habitantes": "1226",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-09",
+        "municipio": "Moeche",
+        "habitantes": "1226",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-10",
+        "municipio": "Moeche",
+        "habitantes": "1226",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2022-06-11",
+        "municipio": "Moeche",
+        "habitantes": "1226",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-13",
+        "municipio": "Moeche",
+        "habitantes": "1226",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-14",
+        "municipio": "Moeche",
+        "habitantes": "1226",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-15",
+        "municipio": "Moeche",
+        "habitantes": "1226",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-16",
+        "municipio": "Moeche",
+        "habitantes": "1226",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-17",
+        "municipio": "Moeche",
+        "habitantes": "1226",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-18",
+        "municipio": "Moeche",
+        "habitantes": "1226",
+        "casos_14d": null,
+        "casos_7d": "0"
+    },
+    {
+        "fecha": "2022-06-20",
+        "municipio": "Moeche",
+        "habitantes": "1226",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-21",
+        "municipio": "Moeche",
+        "habitantes": "1226",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]

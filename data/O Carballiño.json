@@ -3813,5 +3813,117 @@
         "habitantes": "14027",
         "casos_14d": "95",
         "casos_7d": "26"
+    },
+    {
+        "fecha": "2022-06-03",
+        "municipio": "O Carballi\u00f1o",
+        "habitantes": "14027",
+        "casos_14d": "87",
+        "casos_7d": "25"
+    },
+    {
+        "fecha": "2022-06-04",
+        "municipio": "O Carballi\u00f1o",
+        "habitantes": "14027",
+        "casos_14d": "88",
+        "casos_7d": "30"
+    },
+    {
+        "fecha": "2022-06-06",
+        "municipio": "O Carballi\u00f1o",
+        "habitantes": "14027",
+        "casos_14d": "85",
+        "casos_7d": "28"
+    },
+    {
+        "fecha": "2022-06-07",
+        "municipio": "O Carballi\u00f1o",
+        "habitantes": "14027",
+        "casos_14d": "80",
+        "casos_7d": "25"
+    },
+    {
+        "fecha": "2022-06-08",
+        "municipio": "O Carballi\u00f1o",
+        "habitantes": "14027",
+        "casos_14d": "82",
+        "casos_7d": "26"
+    },
+    {
+        "fecha": "2022-06-09",
+        "municipio": "O Carballi\u00f1o",
+        "habitantes": "14027",
+        "casos_14d": "82",
+        "casos_7d": "26"
+    },
+    {
+        "fecha": "2022-06-10",
+        "municipio": "O Carballi\u00f1o",
+        "habitantes": "14027",
+        "casos_14d": "51",
+        "casos_7d": "26"
+    },
+    {
+        "fecha": "2022-06-11",
+        "municipio": "O Carballi\u00f1o",
+        "habitantes": "14027",
+        "casos_14d": "51",
+        "casos_7d": "21"
+    },
+    {
+        "fecha": "2022-06-13",
+        "municipio": "O Carballi\u00f1o",
+        "habitantes": "14027",
+        "casos_14d": "52",
+        "casos_7d": "24"
+    },
+    {
+        "fecha": "2022-06-14",
+        "municipio": "O Carballi\u00f1o",
+        "habitantes": "14027",
+        "casos_14d": "47",
+        "casos_7d": "22"
+    },
+    {
+        "fecha": "2022-06-15",
+        "municipio": "O Carballi\u00f1o",
+        "habitantes": "14027",
+        "casos_14d": "51",
+        "casos_7d": "25"
+    },
+    {
+        "fecha": "2022-06-16",
+        "municipio": "O Carballi\u00f1o",
+        "habitantes": "14027",
+        "casos_14d": "48",
+        "casos_7d": "24"
+    },
+    {
+        "fecha": "2022-06-17",
+        "municipio": "O Carballi\u00f1o",
+        "habitantes": "14027",
+        "casos_14d": "50",
+        "casos_7d": "24"
+    },
+    {
+        "fecha": "2022-06-18",
+        "municipio": "O Carballi\u00f1o",
+        "habitantes": "14027",
+        "casos_14d": "46",
+        "casos_7d": "25"
+    },
+    {
+        "fecha": "2022-06-20",
+        "municipio": "O Carballi\u00f1o",
+        "habitantes": "14027",
+        "casos_14d": "50",
+        "casos_7d": "27"
+    },
+    {
+        "fecha": "2022-06-21",
+        "municipio": "O Carballi\u00f1o",
+        "habitantes": "14027",
+        "casos_14d": "52",
+        "casos_7d": "30"
     }
 ]

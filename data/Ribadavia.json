@@ -3813,5 +3813,117 @@
         "habitantes": "5024",
         "casos_14d": "35",
         "casos_7d": "17"
+    },
+    {
+        "fecha": "2022-06-03",
+        "municipio": "Ribadavia",
+        "habitantes": "5024",
+        "casos_14d": "36",
+        "casos_7d": "15"
+    },
+    {
+        "fecha": "2022-06-04",
+        "municipio": "Ribadavia",
+        "habitantes": "5024",
+        "casos_14d": "37",
+        "casos_7d": "17"
+    },
+    {
+        "fecha": "2022-06-06",
+        "municipio": "Ribadavia",
+        "habitantes": "5024",
+        "casos_14d": "39",
+        "casos_7d": "16"
+    },
+    {
+        "fecha": "2022-06-07",
+        "municipio": "Ribadavia",
+        "habitantes": "5024",
+        "casos_14d": "36",
+        "casos_7d": "14"
+    },
+    {
+        "fecha": "2022-06-08",
+        "municipio": "Ribadavia",
+        "habitantes": "5024",
+        "casos_14d": "33",
+        "casos_7d": "12"
+    },
+    {
+        "fecha": "2022-06-09",
+        "municipio": "Ribadavia",
+        "habitantes": "5024",
+        "casos_14d": "33",
+        "casos_7d": "12"
+    },
+    {
+        "fecha": "2022-06-10",
+        "municipio": "Ribadavia",
+        "habitantes": "5024",
+        "casos_14d": "28",
+        "casos_7d": "13"
+    },
+    {
+        "fecha": "2022-06-11",
+        "municipio": "Ribadavia",
+        "habitantes": "5024",
+        "casos_14d": "25",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-13",
+        "municipio": "Ribadavia",
+        "habitantes": "5024",
+        "casos_14d": "24",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-14",
+        "municipio": "Ribadavia",
+        "habitantes": "5024",
+        "casos_14d": "21",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-15",
+        "municipio": "Ribadavia",
+        "habitantes": "5024",
+        "casos_14d": "19",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-16",
+        "municipio": "Ribadavia",
+        "habitantes": "5024",
+        "casos_14d": "24",
+        "casos_7d": "11"
+    },
+    {
+        "fecha": "2022-06-17",
+        "municipio": "Ribadavia",
+        "habitantes": "5024",
+        "casos_14d": "25",
+        "casos_7d": "12"
+    },
+    {
+        "fecha": "2022-06-18",
+        "municipio": "Ribadavia",
+        "habitantes": "5024",
+        "casos_14d": "25",
+        "casos_7d": "17"
+    },
+    {
+        "fecha": "2022-06-20",
+        "municipio": "Ribadavia",
+        "habitantes": "5024",
+        "casos_14d": "26",
+        "casos_7d": "18"
+    },
+    {
+        "fecha": "2022-06-21",
+        "municipio": "Ribadavia",
+        "habitantes": "5024",
+        "casos_14d": "26",
+        "casos_7d": "19"
     }
 ]

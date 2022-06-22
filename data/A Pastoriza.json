@@ -3813,5 +3813,117 @@
         "habitantes": "3002",
         "casos_14d": null,
         "casos_7d": "0"
+    },
+    {
+        "fecha": "2022-06-03",
+        "municipio": "A Pastoriza",
+        "habitantes": "3002",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-04",
+        "municipio": "A Pastoriza",
+        "habitantes": "3002",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-06",
+        "municipio": "A Pastoriza",
+        "habitantes": "3002",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-07",
+        "municipio": "A Pastoriza",
+        "habitantes": "3002",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-08",
+        "municipio": "A Pastoriza",
+        "habitantes": "3002",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-09",
+        "municipio": "A Pastoriza",
+        "habitantes": "3002",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-10",
+        "municipio": "A Pastoriza",
+        "habitantes": "3002",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-11",
+        "municipio": "A Pastoriza",
+        "habitantes": "3002",
+        "casos_14d": "11",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-13",
+        "municipio": "A Pastoriza",
+        "habitantes": "3002",
+        "casos_14d": "13",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-14",
+        "municipio": "A Pastoriza",
+        "habitantes": "3002",
+        "casos_14d": "17",
+        "casos_7d": "12"
+    },
+    {
+        "fecha": "2022-06-15",
+        "municipio": "A Pastoriza",
+        "habitantes": "3002",
+        "casos_14d": "16",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-16",
+        "municipio": "A Pastoriza",
+        "habitantes": "3002",
+        "casos_14d": "16",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-17",
+        "municipio": "A Pastoriza",
+        "habitantes": "3002",
+        "casos_14d": "15",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-18",
+        "municipio": "A Pastoriza",
+        "habitantes": "3002",
+        "casos_14d": "14",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-20",
+        "municipio": "A Pastoriza",
+        "habitantes": "3002",
+        "casos_14d": "16",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-21",
+        "municipio": "A Pastoriza",
+        "habitantes": "3002",
+        "casos_14d": "19",
+        "casos_7d": null
     }
 ]

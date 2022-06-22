@@ -3813,5 +3813,117 @@
         "habitantes": "13330",
         "casos_14d": "33",
         "casos_7d": "14"
+    },
+    {
+        "fecha": "2022-06-03",
+        "municipio": "Sarria",
+        "habitantes": "13330",
+        "casos_14d": "32",
+        "casos_7d": "16"
+    },
+    {
+        "fecha": "2022-06-04",
+        "municipio": "Sarria",
+        "habitantes": "13330",
+        "casos_14d": "27",
+        "casos_7d": "15"
+    },
+    {
+        "fecha": "2022-06-06",
+        "municipio": "Sarria",
+        "habitantes": "13330",
+        "casos_14d": "26",
+        "casos_7d": "18"
+    },
+    {
+        "fecha": "2022-06-07",
+        "municipio": "Sarria",
+        "habitantes": "13330",
+        "casos_14d": "30",
+        "casos_7d": "19"
+    },
+    {
+        "fecha": "2022-06-08",
+        "municipio": "Sarria",
+        "habitantes": "13330",
+        "casos_14d": "31",
+        "casos_7d": "16"
+    },
+    {
+        "fecha": "2022-06-09",
+        "municipio": "Sarria",
+        "habitantes": "13330",
+        "casos_14d": "31",
+        "casos_7d": "16"
+    },
+    {
+        "fecha": "2022-06-10",
+        "municipio": "Sarria",
+        "habitantes": "13330",
+        "casos_14d": "36",
+        "casos_7d": "20"
+    },
+    {
+        "fecha": "2022-06-11",
+        "municipio": "Sarria",
+        "habitantes": "13330",
+        "casos_14d": "37",
+        "casos_7d": "22"
+    },
+    {
+        "fecha": "2022-06-13",
+        "municipio": "Sarria",
+        "habitantes": "13330",
+        "casos_14d": "39",
+        "casos_7d": "21"
+    },
+    {
+        "fecha": "2022-06-14",
+        "municipio": "Sarria",
+        "habitantes": "13330",
+        "casos_14d": "40",
+        "casos_7d": "21"
+    },
+    {
+        "fecha": "2022-06-15",
+        "municipio": "Sarria",
+        "habitantes": "13330",
+        "casos_14d": "37",
+        "casos_7d": "21"
+    },
+    {
+        "fecha": "2022-06-16",
+        "municipio": "Sarria",
+        "habitantes": "13330",
+        "casos_14d": "42",
+        "casos_7d": "24"
+    },
+    {
+        "fecha": "2022-06-17",
+        "municipio": "Sarria",
+        "habitantes": "13330",
+        "casos_14d": "49",
+        "casos_7d": "29"
+    },
+    {
+        "fecha": "2022-06-18",
+        "municipio": "Sarria",
+        "habitantes": "13330",
+        "casos_14d": "55",
+        "casos_7d": "33"
+    },
+    {
+        "fecha": "2022-06-20",
+        "municipio": "Sarria",
+        "habitantes": "13330",
+        "casos_14d": "56",
+        "casos_7d": "35"
+    },
+    {
+        "fecha": "2022-06-21",
+        "municipio": "Sarria",
+        "habitantes": "13330",
+        "casos_14d": "57",
+        "casos_7d": "36"
     }
 ]

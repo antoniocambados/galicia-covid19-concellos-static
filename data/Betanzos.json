@@ -3813,5 +3813,117 @@
         "habitantes": "12959",
         "casos_14d": "95",
         "casos_7d": "41"
+    },
+    {
+        "fecha": "2022-06-03",
+        "municipio": "Betanzos",
+        "habitantes": "12959",
+        "casos_14d": "96",
+        "casos_7d": "37"
+    },
+    {
+        "fecha": "2022-06-04",
+        "municipio": "Betanzos",
+        "habitantes": "12959",
+        "casos_14d": "82",
+        "casos_7d": "31"
+    },
+    {
+        "fecha": "2022-06-06",
+        "municipio": "Betanzos",
+        "habitantes": "12959",
+        "casos_14d": "75",
+        "casos_7d": "30"
+    },
+    {
+        "fecha": "2022-06-07",
+        "municipio": "Betanzos",
+        "habitantes": "12959",
+        "casos_14d": "77",
+        "casos_7d": "36"
+    },
+    {
+        "fecha": "2022-06-08",
+        "municipio": "Betanzos",
+        "habitantes": "12959",
+        "casos_14d": "74",
+        "casos_7d": "29"
+    },
+    {
+        "fecha": "2022-06-09",
+        "municipio": "Betanzos",
+        "habitantes": "12959",
+        "casos_14d": "74",
+        "casos_7d": "29"
+    },
+    {
+        "fecha": "2022-06-10",
+        "municipio": "Betanzos",
+        "habitantes": "12959",
+        "casos_14d": "68",
+        "casos_7d": "31"
+    },
+    {
+        "fecha": "2022-06-11",
+        "municipio": "Betanzos",
+        "habitantes": "12959",
+        "casos_14d": "62",
+        "casos_7d": "31"
+    },
+    {
+        "fecha": "2022-06-13",
+        "municipio": "Betanzos",
+        "habitantes": "12959",
+        "casos_14d": "63",
+        "casos_7d": "33"
+    },
+    {
+        "fecha": "2022-06-14",
+        "municipio": "Betanzos",
+        "habitantes": "12959",
+        "casos_14d": "66",
+        "casos_7d": "30"
+    },
+    {
+        "fecha": "2022-06-15",
+        "municipio": "Betanzos",
+        "habitantes": "12959",
+        "casos_14d": "62",
+        "casos_7d": "33"
+    },
+    {
+        "fecha": "2022-06-16",
+        "municipio": "Betanzos",
+        "habitantes": "12959",
+        "casos_14d": "65",
+        "casos_7d": "29"
+    },
+    {
+        "fecha": "2022-06-17",
+        "municipio": "Betanzos",
+        "habitantes": "12959",
+        "casos_14d": "65",
+        "casos_7d": "34"
+    },
+    {
+        "fecha": "2022-06-18",
+        "municipio": "Betanzos",
+        "habitantes": "12959",
+        "casos_14d": "69",
+        "casos_7d": "38"
+    },
+    {
+        "fecha": "2022-06-20",
+        "municipio": "Betanzos",
+        "habitantes": "12959",
+        "casos_14d": "72",
+        "casos_7d": "39"
+    },
+    {
+        "fecha": "2022-06-21",
+        "municipio": "Betanzos",
+        "habitantes": "12959",
+        "casos_14d": "65",
+        "casos_7d": "35"
     }
 ]

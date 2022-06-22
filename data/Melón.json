@@ -3813,5 +3813,117 @@
         "habitantes": "1184",
         "casos_14d": null,
         "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-03",
+        "municipio": "Mel\u00f3n",
+        "habitantes": "1184",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-04",
+        "municipio": "Mel\u00f3n",
+        "habitantes": "1184",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-06",
+        "municipio": "Mel\u00f3n",
+        "habitantes": "1184",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-07",
+        "municipio": "Mel\u00f3n",
+        "habitantes": "1184",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-08",
+        "municipio": "Mel\u00f3n",
+        "habitantes": "1184",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-09",
+        "municipio": "Mel\u00f3n",
+        "habitantes": "1184",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-10",
+        "municipio": "Mel\u00f3n",
+        "habitantes": "1184",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-11",
+        "municipio": "Mel\u00f3n",
+        "habitantes": "1184",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-13",
+        "municipio": "Mel\u00f3n",
+        "habitantes": "1184",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-14",
+        "municipio": "Mel\u00f3n",
+        "habitantes": "1184",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-15",
+        "municipio": "Mel\u00f3n",
+        "habitantes": "1184",
+        "casos_14d": "11",
+        "casos_7d": "10"
+    },
+    {
+        "fecha": "2022-06-16",
+        "municipio": "Mel\u00f3n",
+        "habitantes": "1184",
+        "casos_14d": "20",
+        "casos_7d": "19"
+    },
+    {
+        "fecha": "2022-06-17",
+        "municipio": "Mel\u00f3n",
+        "habitantes": "1184",
+        "casos_14d": "36",
+        "casos_7d": "35"
+    },
+    {
+        "fecha": "2022-06-18",
+        "municipio": "Mel\u00f3n",
+        "habitantes": "1184",
+        "casos_14d": "37",
+        "casos_7d": "36"
+    },
+    {
+        "fecha": "2022-06-20",
+        "municipio": "Mel\u00f3n",
+        "habitantes": "1184",
+        "casos_14d": "36",
+        "casos_7d": "30"
+    },
+    {
+        "fecha": "2022-06-21",
+        "municipio": "Mel\u00f3n",
+        "habitantes": "1184",
+        "casos_14d": "40",
+        "casos_7d": "34"
     }
 ]

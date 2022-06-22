@@ -3813,5 +3813,117 @@
         "habitantes": "5272",
         "casos_14d": "19",
         "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-03",
+        "municipio": "Mea\u00f1o",
+        "habitantes": "5272",
+        "casos_14d": "17",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-04",
+        "municipio": "Mea\u00f1o",
+        "habitantes": "5272",
+        "casos_14d": "16",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-06",
+        "municipio": "Mea\u00f1o",
+        "habitantes": "5272",
+        "casos_14d": "14",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-07",
+        "municipio": "Mea\u00f1o",
+        "habitantes": "5272",
+        "casos_14d": "16",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-08",
+        "municipio": "Mea\u00f1o",
+        "habitantes": "5272",
+        "casos_14d": "15",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-09",
+        "municipio": "Mea\u00f1o",
+        "habitantes": "5272",
+        "casos_14d": "15",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-10",
+        "municipio": "Mea\u00f1o",
+        "habitantes": "5272",
+        "casos_14d": "17",
+        "casos_7d": "12"
+    },
+    {
+        "fecha": "2022-06-11",
+        "municipio": "Mea\u00f1o",
+        "habitantes": "5272",
+        "casos_14d": "19",
+        "casos_7d": "13"
+    },
+    {
+        "fecha": "2022-06-13",
+        "municipio": "Mea\u00f1o",
+        "habitantes": "5272",
+        "casos_14d": "19",
+        "casos_7d": "14"
+    },
+    {
+        "fecha": "2022-06-14",
+        "municipio": "Mea\u00f1o",
+        "habitantes": "5272",
+        "casos_14d": "23",
+        "casos_7d": "17"
+    },
+    {
+        "fecha": "2022-06-15",
+        "municipio": "Mea\u00f1o",
+        "habitantes": "5272",
+        "casos_14d": "22",
+        "casos_7d": "16"
+    },
+    {
+        "fecha": "2022-06-16",
+        "municipio": "Mea\u00f1o",
+        "habitantes": "5272",
+        "casos_14d": "21",
+        "casos_7d": "15"
+    },
+    {
+        "fecha": "2022-06-17",
+        "municipio": "Mea\u00f1o",
+        "habitantes": "5272",
+        "casos_14d": "22",
+        "casos_7d": "10"
+    },
+    {
+        "fecha": "2022-06-18",
+        "municipio": "Mea\u00f1o",
+        "habitantes": "5272",
+        "casos_14d": "21",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-20",
+        "municipio": "Mea\u00f1o",
+        "habitantes": "5272",
+        "casos_14d": "24",
+        "casos_7d": "10"
+    },
+    {
+        "fecha": "2022-06-21",
+        "municipio": "Mea\u00f1o",
+        "habitantes": "5272",
+        "casos_14d": "22",
+        "casos_7d": null
     }
 ]

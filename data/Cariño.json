@@ -3813,5 +3813,117 @@
         "habitantes": "3838",
         "casos_14d": "14",
         "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-03",
+        "municipio": "Cari\u00f1o",
+        "habitantes": "3838",
+        "casos_14d": "14",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-04",
+        "municipio": "Cari\u00f1o",
+        "habitantes": "3838",
+        "casos_14d": "11",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-06",
+        "municipio": "Cari\u00f1o",
+        "habitantes": "3838",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-07",
+        "municipio": "Cari\u00f1o",
+        "habitantes": "3838",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-08",
+        "municipio": "Cari\u00f1o",
+        "habitantes": "3838",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-09",
+        "municipio": "Cari\u00f1o",
+        "habitantes": "3838",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-10",
+        "municipio": "Cari\u00f1o",
+        "habitantes": "3838",
+        "casos_14d": "11",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-11",
+        "municipio": "Cari\u00f1o",
+        "habitantes": "3838",
+        "casos_14d": "10",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-13",
+        "municipio": "Cari\u00f1o",
+        "habitantes": "3838",
+        "casos_14d": "11",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-14",
+        "municipio": "Cari\u00f1o",
+        "habitantes": "3838",
+        "casos_14d": "10",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-15",
+        "municipio": "Cari\u00f1o",
+        "habitantes": "3838",
+        "casos_14d": "13",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-16",
+        "municipio": "Cari\u00f1o",
+        "habitantes": "3838",
+        "casos_14d": "16",
+        "casos_7d": "10"
+    },
+    {
+        "fecha": "2022-06-17",
+        "municipio": "Cari\u00f1o",
+        "habitantes": "3838",
+        "casos_14d": "18",
+        "casos_7d": "12"
+    },
+    {
+        "fecha": "2022-06-18",
+        "municipio": "Cari\u00f1o",
+        "habitantes": "3838",
+        "casos_14d": "23",
+        "casos_7d": "17"
+    },
+    {
+        "fecha": "2022-06-20",
+        "municipio": "Cari\u00f1o",
+        "habitantes": "3838",
+        "casos_14d": "25",
+        "casos_7d": "17"
+    },
+    {
+        "fecha": "2022-06-21",
+        "municipio": "Cari\u00f1o",
+        "habitantes": "3838",
+        "casos_14d": "26",
+        "casos_7d": "18"
     }
 ]
