@@ -3925,5 +3925,194 @@
         "habitantes": "5671",
         "casos_14d": "31",
         "casos_7d": "26"
+    },
+    {
+        "fecha": "2022-06-22",
+        "municipio": "Ortigueira",
+        "habitantes": "5671",
+        "casos_14d": "31",
+        "casos_7d": "21"
+    },
+    {
+        "fecha": "2022-06-23",
+        "municipio": "Ortigueira",
+        "habitantes": "5671",
+        "casos_14d": "33",
+        "casos_7d": "21"
+    },
+    {
+        "fecha": "2022-06-24",
+        "municipio": "Ortigueira",
+        "habitantes": "5671",
+        "casos_14d": "37",
+        "casos_7d": "23"
+    },
+    {
+        "fecha": "2022-06-27",
+        "municipio": "Ortigueira",
+        "habitantes": "5671",
+        "casos_14d": "45",
+        "casos_7d": "27"
+    },
+    {
+        "fecha": "2022-06-28",
+        "municipio": "Ortigueira",
+        "habitantes": "5671",
+        "casos_14d": "50",
+        "casos_7d": "24"
+    },
+    {
+        "fecha": "2022-06-29",
+        "municipio": "Ortigueira",
+        "habitantes": "5671",
+        "casos_14d": "47",
+        "casos_7d": "26"
+    },
+    {
+        "fecha": "2022-06-30",
+        "municipio": "Ortigueira",
+        "habitantes": "5671",
+        "casos_14d": "47",
+        "casos_7d": "26"
+    },
+    {
+        "fecha": "2022-07-01",
+        "municipio": "Ortigueira",
+        "habitantes": "5671",
+        "casos_14d": "51",
+        "casos_7d": "28"
+    },
+    {
+        "fecha": "2022-07-02",
+        "municipio": "Ortigueira",
+        "habitantes": "5671",
+        "casos_14d": "51",
+        "casos_7d": "27"
+    },
+    {
+        "fecha": "2022-07-04",
+        "municipio": "Ortigueira",
+        "habitantes": "5671",
+        "casos_14d": "53",
+        "casos_7d": "26"
+    },
+    {
+        "fecha": "2022-07-05",
+        "municipio": "Ortigueira",
+        "habitantes": "5671",
+        "casos_14d": "51",
+        "casos_7d": "27"
+    },
+    {
+        "fecha": "2022-07-06",
+        "municipio": "Ortigueira",
+        "habitantes": "5671",
+        "casos_14d": "55",
+        "casos_7d": "29"
+    },
+    {
+        "fecha": "2022-07-07",
+        "municipio": "Ortigueira",
+        "habitantes": "5671",
+        "casos_14d": "55",
+        "casos_7d": "29"
+    },
+    {
+        "fecha": "2022-07-08",
+        "municipio": "Ortigueira",
+        "habitantes": "5671",
+        "casos_14d": "51",
+        "casos_7d": "23"
+    },
+    {
+        "fecha": "2022-07-09",
+        "municipio": "Ortigueira",
+        "habitantes": "5671",
+        "casos_14d": "48",
+        "casos_7d": "21"
+    },
+    {
+        "fecha": "2022-07-11",
+        "municipio": "Ortigueira",
+        "habitantes": "5671",
+        "casos_14d": "45",
+        "casos_7d": "19"
+    },
+    {
+        "fecha": "2022-07-12",
+        "municipio": "Ortigueira",
+        "habitantes": "5671",
+        "casos_14d": "41",
+        "casos_7d": "14"
+    },
+    {
+        "fecha": "2022-07-13",
+        "municipio": "Ortigueira",
+        "habitantes": "5671",
+        "casos_14d": "39",
+        "casos_7d": "10"
+    },
+    {
+        "fecha": "2022-07-14",
+        "municipio": "Ortigueira",
+        "habitantes": "5671",
+        "casos_14d": "37",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-07-15",
+        "municipio": "Ortigueira",
+        "habitantes": "5671",
+        "casos_14d": "32",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-07-16",
+        "municipio": "Ortigueira",
+        "habitantes": "5671",
+        "casos_14d": "32",
+        "casos_7d": "11"
+    },
+    {
+        "fecha": "2022-07-18",
+        "municipio": "Ortigueira",
+        "habitantes": "5671",
+        "casos_14d": "28",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-07-19",
+        "municipio": "Ortigueira",
+        "habitantes": "5671",
+        "casos_14d": "23",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-07-20",
+        "municipio": "Ortigueira",
+        "habitantes": "5671",
+        "casos_14d": "19",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-07-21",
+        "municipio": "Ortigueira",
+        "habitantes": "5671",
+        "casos_14d": "16",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-07-22",
+        "municipio": "Ortigueira",
+        "habitantes": "5671",
+        "casos_14d": "19",
+        "casos_7d": "10"
+    },
+    {
+        "fecha": "2022-07-23",
+        "municipio": "Ortigueira",
+        "habitantes": "5671",
+        "casos_14d": "22",
+        "casos_7d": "11"
     }
 ]

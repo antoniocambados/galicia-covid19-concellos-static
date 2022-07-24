@@ -3925,5 +3925,194 @@
         "habitantes": "1584",
         "casos_14d": "11",
         "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-22",
+        "municipio": "Santiso",
+        "habitantes": "1584",
+        "casos_14d": "11",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-23",
+        "municipio": "Santiso",
+        "habitantes": "1584",
+        "casos_14d": "13",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-24",
+        "municipio": "Santiso",
+        "habitantes": "1584",
+        "casos_14d": "12",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-27",
+        "municipio": "Santiso",
+        "habitantes": "1584",
+        "casos_14d": "13",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-28",
+        "municipio": "Santiso",
+        "habitantes": "1584",
+        "casos_14d": "14",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-29",
+        "municipio": "Santiso",
+        "habitantes": "1584",
+        "casos_14d": "16",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-30",
+        "municipio": "Santiso",
+        "habitantes": "1584",
+        "casos_14d": "14",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-07-01",
+        "municipio": "Santiso",
+        "habitantes": "1584",
+        "casos_14d": "16",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-07-02",
+        "municipio": "Santiso",
+        "habitantes": "1584",
+        "casos_14d": "15",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-07-04",
+        "municipio": "Santiso",
+        "habitantes": "1584",
+        "casos_14d": "18",
+        "casos_7d": "13"
+    },
+    {
+        "fecha": "2022-07-05",
+        "municipio": "Santiso",
+        "habitantes": "1584",
+        "casos_14d": "19",
+        "casos_7d": "13"
+    },
+    {
+        "fecha": "2022-07-06",
+        "municipio": "Santiso",
+        "habitantes": "1584",
+        "casos_14d": "21",
+        "casos_7d": "13"
+    },
+    {
+        "fecha": "2022-07-07",
+        "municipio": "Santiso",
+        "habitantes": "1584",
+        "casos_14d": "19",
+        "casos_7d": "12"
+    },
+    {
+        "fecha": "2022-07-08",
+        "municipio": "Santiso",
+        "habitantes": "1584",
+        "casos_14d": "19",
+        "casos_7d": "10"
+    },
+    {
+        "fecha": "2022-07-09",
+        "municipio": "Santiso",
+        "habitantes": "1584",
+        "casos_14d": "18",
+        "casos_7d": "10"
+    },
+    {
+        "fecha": "2022-07-11",
+        "municipio": "Santiso",
+        "habitantes": "1584",
+        "casos_14d": "17",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-07-12",
+        "municipio": "Santiso",
+        "habitantes": "1584",
+        "casos_14d": "16",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-07-13",
+        "municipio": "Santiso",
+        "habitantes": "1584",
+        "casos_14d": "14",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-07-14",
+        "municipio": "Santiso",
+        "habitantes": "1584",
+        "casos_14d": "14",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-07-15",
+        "municipio": "Santiso",
+        "habitantes": "1584",
+        "casos_14d": "13",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-07-16",
+        "municipio": "Santiso",
+        "habitantes": "1584",
+        "casos_14d": "12",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-07-18",
+        "municipio": "Santiso",
+        "habitantes": "1584",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-07-19",
+        "municipio": "Santiso",
+        "habitantes": "1584",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-07-20",
+        "municipio": "Santiso",
+        "habitantes": "1584",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-07-21",
+        "municipio": "Santiso",
+        "habitantes": "1584",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-07-22",
+        "municipio": "Santiso",
+        "habitantes": "1584",
+        "casos_14d": null,
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-07-23",
+        "municipio": "Santiso",
+        "habitantes": "1584",
+        "casos_14d": null,
+        "casos_7d": null
     }
 ]

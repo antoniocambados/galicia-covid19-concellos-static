@@ -3925,5 +3925,194 @@
         "habitantes": "18433",
         "casos_14d": "80",
         "casos_7d": "47"
+    },
+    {
+        "fecha": "2022-06-22",
+        "municipio": "Monforte de Lemos",
+        "habitantes": "18433",
+        "casos_14d": "86",
+        "casos_7d": "46"
+    },
+    {
+        "fecha": "2022-06-23",
+        "municipio": "Monforte de Lemos",
+        "habitantes": "18433",
+        "casos_14d": "85",
+        "casos_7d": "47"
+    },
+    {
+        "fecha": "2022-06-24",
+        "municipio": "Monforte de Lemos",
+        "habitantes": "18433",
+        "casos_14d": "98",
+        "casos_7d": "60"
+    },
+    {
+        "fecha": "2022-06-27",
+        "municipio": "Monforte de Lemos",
+        "habitantes": "18433",
+        "casos_14d": "97",
+        "casos_7d": "55"
+    },
+    {
+        "fecha": "2022-06-28",
+        "municipio": "Monforte de Lemos",
+        "habitantes": "18433",
+        "casos_14d": "103",
+        "casos_7d": "56"
+    },
+    {
+        "fecha": "2022-06-29",
+        "municipio": "Monforte de Lemos",
+        "habitantes": "18433",
+        "casos_14d": "103",
+        "casos_7d": "57"
+    },
+    {
+        "fecha": "2022-06-30",
+        "municipio": "Monforte de Lemos",
+        "habitantes": "18433",
+        "casos_14d": "115",
+        "casos_7d": "68"
+    },
+    {
+        "fecha": "2022-07-01",
+        "municipio": "Monforte de Lemos",
+        "habitantes": "18433",
+        "casos_14d": "130",
+        "casos_7d": "70"
+    },
+    {
+        "fecha": "2022-07-02",
+        "municipio": "Monforte de Lemos",
+        "habitantes": "18433",
+        "casos_14d": "134",
+        "casos_7d": "73"
+    },
+    {
+        "fecha": "2022-07-04",
+        "municipio": "Monforte de Lemos",
+        "habitantes": "18433",
+        "casos_14d": "129",
+        "casos_7d": "74"
+    },
+    {
+        "fecha": "2022-07-05",
+        "municipio": "Monforte de Lemos",
+        "habitantes": "18433",
+        "casos_14d": "128",
+        "casos_7d": "72"
+    },
+    {
+        "fecha": "2022-07-06",
+        "municipio": "Monforte de Lemos",
+        "habitantes": "18433",
+        "casos_14d": "126",
+        "casos_7d": "69"
+    },
+    {
+        "fecha": "2022-07-07",
+        "municipio": "Monforte de Lemos",
+        "habitantes": "18433",
+        "casos_14d": "128",
+        "casos_7d": "60"
+    },
+    {
+        "fecha": "2022-07-08",
+        "municipio": "Monforte de Lemos",
+        "habitantes": "18433",
+        "casos_14d": "118",
+        "casos_7d": "48"
+    },
+    {
+        "fecha": "2022-07-09",
+        "municipio": "Monforte de Lemos",
+        "habitantes": "18433",
+        "casos_14d": "125",
+        "casos_7d": "52"
+    },
+    {
+        "fecha": "2022-07-11",
+        "municipio": "Monforte de Lemos",
+        "habitantes": "18433",
+        "casos_14d": "125",
+        "casos_7d": "51"
+    },
+    {
+        "fecha": "2022-07-12",
+        "municipio": "Monforte de Lemos",
+        "habitantes": "18433",
+        "casos_14d": "117",
+        "casos_7d": "46"
+    },
+    {
+        "fecha": "2022-07-13",
+        "municipio": "Monforte de Lemos",
+        "habitantes": "18433",
+        "casos_14d": "117",
+        "casos_7d": "49"
+    },
+    {
+        "fecha": "2022-07-14",
+        "municipio": "Monforte de Lemos",
+        "habitantes": "18433",
+        "casos_14d": "108",
+        "casos_7d": "49"
+    },
+    {
+        "fecha": "2022-07-15",
+        "municipio": "Monforte de Lemos",
+        "habitantes": "18433",
+        "casos_14d": "96",
+        "casos_7d": "48"
+    },
+    {
+        "fecha": "2022-07-16",
+        "municipio": "Monforte de Lemos",
+        "habitantes": "18433",
+        "casos_14d": "104",
+        "casos_7d": "53"
+    },
+    {
+        "fecha": "2022-07-18",
+        "municipio": "Monforte de Lemos",
+        "habitantes": "18433",
+        "casos_14d": "102",
+        "casos_7d": "52"
+    },
+    {
+        "fecha": "2022-07-19",
+        "municipio": "Monforte de Lemos",
+        "habitantes": "18433",
+        "casos_14d": "99",
+        "casos_7d": "53"
+    },
+    {
+        "fecha": "2022-07-20",
+        "municipio": "Monforte de Lemos",
+        "habitantes": "18433",
+        "casos_14d": "97",
+        "casos_7d": "48"
+    },
+    {
+        "fecha": "2022-07-21",
+        "municipio": "Monforte de Lemos",
+        "habitantes": "18433",
+        "casos_14d": "93",
+        "casos_7d": "44"
+    },
+    {
+        "fecha": "2022-07-22",
+        "municipio": "Monforte de Lemos",
+        "habitantes": "18433",
+        "casos_14d": "94",
+        "casos_7d": "46"
+    },
+    {
+        "fecha": "2022-07-23",
+        "municipio": "Monforte de Lemos",
+        "habitantes": "18433",
+        "casos_14d": "84",
+        "casos_7d": "31"
     }
 ]

@@ -3925,5 +3925,194 @@
         "habitantes": "5272",
         "casos_14d": "32",
         "casos_7d": "15"
+    },
+    {
+        "fecha": "2022-06-22",
+        "municipio": "Camari\u00f1as",
+        "habitantes": "5272",
+        "casos_14d": "33",
+        "casos_7d": "12"
+    },
+    {
+        "fecha": "2022-06-23",
+        "municipio": "Camari\u00f1as",
+        "habitantes": "5272",
+        "casos_14d": "31",
+        "casos_7d": "11"
+    },
+    {
+        "fecha": "2022-06-24",
+        "municipio": "Camari\u00f1as",
+        "habitantes": "5272",
+        "casos_14d": "28",
+        "casos_7d": "11"
+    },
+    {
+        "fecha": "2022-06-27",
+        "municipio": "Camari\u00f1as",
+        "habitantes": "5272",
+        "casos_14d": "24",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-28",
+        "municipio": "Camari\u00f1as",
+        "habitantes": "5272",
+        "casos_14d": "22",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-29",
+        "municipio": "Camari\u00f1as",
+        "habitantes": "5272",
+        "casos_14d": "17",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-30",
+        "municipio": "Camari\u00f1as",
+        "habitantes": "5272",
+        "casos_14d": "17",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-07-01",
+        "municipio": "Camari\u00f1as",
+        "habitantes": "5272",
+        "casos_14d": "16",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-07-02",
+        "municipio": "Camari\u00f1as",
+        "habitantes": "5272",
+        "casos_14d": "14",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-07-04",
+        "municipio": "Camari\u00f1as",
+        "habitantes": "5272",
+        "casos_14d": "14",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-07-05",
+        "municipio": "Camari\u00f1as",
+        "habitantes": "5272",
+        "casos_14d": "16",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-07-06",
+        "municipio": "Camari\u00f1as",
+        "habitantes": "5272",
+        "casos_14d": "16",
+        "casos_7d": "11"
+    },
+    {
+        "fecha": "2022-07-07",
+        "municipio": "Camari\u00f1as",
+        "habitantes": "5272",
+        "casos_14d": "18",
+        "casos_7d": "12"
+    },
+    {
+        "fecha": "2022-07-08",
+        "municipio": "Camari\u00f1as",
+        "habitantes": "5272",
+        "casos_14d": "20",
+        "casos_7d": "15"
+    },
+    {
+        "fecha": "2022-07-09",
+        "municipio": "Camari\u00f1as",
+        "habitantes": "5272",
+        "casos_14d": "21",
+        "casos_7d": "17"
+    },
+    {
+        "fecha": "2022-07-11",
+        "municipio": "Camari\u00f1as",
+        "habitantes": "5272",
+        "casos_14d": "21",
+        "casos_7d": "16"
+    },
+    {
+        "fecha": "2022-07-12",
+        "municipio": "Camari\u00f1as",
+        "habitantes": "5272",
+        "casos_14d": "25",
+        "casos_7d": "16"
+    },
+    {
+        "fecha": "2022-07-13",
+        "municipio": "Camari\u00f1as",
+        "habitantes": "5272",
+        "casos_14d": "29",
+        "casos_7d": "18"
+    },
+    {
+        "fecha": "2022-07-14",
+        "municipio": "Camari\u00f1as",
+        "habitantes": "5272",
+        "casos_14d": "32",
+        "casos_7d": "20"
+    },
+    {
+        "fecha": "2022-07-15",
+        "municipio": "Camari\u00f1as",
+        "habitantes": "5272",
+        "casos_14d": "35",
+        "casos_7d": "20"
+    },
+    {
+        "fecha": "2022-07-16",
+        "municipio": "Camari\u00f1as",
+        "habitantes": "5272",
+        "casos_14d": "38",
+        "casos_7d": "21"
+    },
+    {
+        "fecha": "2022-07-18",
+        "municipio": "Camari\u00f1as",
+        "habitantes": "5272",
+        "casos_14d": "36",
+        "casos_7d": "20"
+    },
+    {
+        "fecha": "2022-07-19",
+        "municipio": "Camari\u00f1as",
+        "habitantes": "5272",
+        "casos_14d": "35",
+        "casos_7d": "19"
+    },
+    {
+        "fecha": "2022-07-20",
+        "municipio": "Camari\u00f1as",
+        "habitantes": "5272",
+        "casos_14d": "33",
+        "casos_7d": "15"
+    },
+    {
+        "fecha": "2022-07-21",
+        "municipio": "Camari\u00f1as",
+        "habitantes": "5272",
+        "casos_14d": "32",
+        "casos_7d": "12"
+    },
+    {
+        "fecha": "2022-07-22",
+        "municipio": "Camari\u00f1as",
+        "habitantes": "5272",
+        "casos_14d": "29",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-07-23",
+        "municipio": "Camari\u00f1as",
+        "habitantes": "5272",
+        "casos_14d": "27",
+        "casos_7d": null
     }
 ]

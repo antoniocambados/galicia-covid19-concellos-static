@@ -3925,5 +3925,194 @@
         "habitantes": "3885",
         "casos_14d": "12",
         "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-22",
+        "municipio": "Mazaricos",
+        "habitantes": "3885",
+        "casos_14d": "13",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-23",
+        "municipio": "Mazaricos",
+        "habitantes": "3885",
+        "casos_14d": "16",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-24",
+        "municipio": "Mazaricos",
+        "habitantes": "3885",
+        "casos_14d": "16",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-27",
+        "municipio": "Mazaricos",
+        "habitantes": "3885",
+        "casos_14d": "18",
+        "casos_7d": "10"
+    },
+    {
+        "fecha": "2022-06-28",
+        "municipio": "Mazaricos",
+        "habitantes": "3885",
+        "casos_14d": "20",
+        "casos_7d": "13"
+    },
+    {
+        "fecha": "2022-06-29",
+        "municipio": "Mazaricos",
+        "habitantes": "3885",
+        "casos_14d": "21",
+        "casos_7d": "13"
+    },
+    {
+        "fecha": "2022-06-30",
+        "municipio": "Mazaricos",
+        "habitantes": "3885",
+        "casos_14d": "21",
+        "casos_7d": "12"
+    },
+    {
+        "fecha": "2022-07-01",
+        "municipio": "Mazaricos",
+        "habitantes": "3885",
+        "casos_14d": "26",
+        "casos_7d": "20"
+    },
+    {
+        "fecha": "2022-07-02",
+        "municipio": "Mazaricos",
+        "habitantes": "3885",
+        "casos_14d": "27",
+        "casos_7d": "22"
+    },
+    {
+        "fecha": "2022-07-04",
+        "municipio": "Mazaricos",
+        "habitantes": "3885",
+        "casos_14d": "27",
+        "casos_7d": "17"
+    },
+    {
+        "fecha": "2022-07-05",
+        "municipio": "Mazaricos",
+        "habitantes": "3885",
+        "casos_14d": "33",
+        "casos_7d": "20"
+    },
+    {
+        "fecha": "2022-07-06",
+        "municipio": "Mazaricos",
+        "habitantes": "3885",
+        "casos_14d": "38",
+        "casos_7d": "25"
+    },
+    {
+        "fecha": "2022-07-07",
+        "municipio": "Mazaricos",
+        "habitantes": "3885",
+        "casos_14d": "37",
+        "casos_7d": "25"
+    },
+    {
+        "fecha": "2022-07-08",
+        "municipio": "Mazaricos",
+        "habitantes": "3885",
+        "casos_14d": "43",
+        "casos_7d": "23"
+    },
+    {
+        "fecha": "2022-07-09",
+        "municipio": "Mazaricos",
+        "habitantes": "3885",
+        "casos_14d": "44",
+        "casos_7d": "22"
+    },
+    {
+        "fecha": "2022-07-11",
+        "municipio": "Mazaricos",
+        "habitantes": "3885",
+        "casos_14d": "41",
+        "casos_7d": "24"
+    },
+    {
+        "fecha": "2022-07-12",
+        "municipio": "Mazaricos",
+        "habitantes": "3885",
+        "casos_14d": "41",
+        "casos_7d": "21"
+    },
+    {
+        "fecha": "2022-07-13",
+        "municipio": "Mazaricos",
+        "habitantes": "3885",
+        "casos_14d": "45",
+        "casos_7d": "20"
+    },
+    {
+        "fecha": "2022-07-14",
+        "municipio": "Mazaricos",
+        "habitantes": "3885",
+        "casos_14d": "45",
+        "casos_7d": "20"
+    },
+    {
+        "fecha": "2022-07-15",
+        "municipio": "Mazaricos",
+        "habitantes": "3885",
+        "casos_14d": "39",
+        "casos_7d": "16"
+    },
+    {
+        "fecha": "2022-07-16",
+        "municipio": "Mazaricos",
+        "habitantes": "3885",
+        "casos_14d": "38",
+        "casos_7d": "16"
+    },
+    {
+        "fecha": "2022-07-18",
+        "municipio": "Mazaricos",
+        "habitantes": "3885",
+        "casos_14d": "38",
+        "casos_7d": "14"
+    },
+    {
+        "fecha": "2022-07-19",
+        "municipio": "Mazaricos",
+        "habitantes": "3885",
+        "casos_14d": "32",
+        "casos_7d": "11"
+    },
+    {
+        "fecha": "2022-07-20",
+        "municipio": "Mazaricos",
+        "habitantes": "3885",
+        "casos_14d": "26",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-07-21",
+        "municipio": "Mazaricos",
+        "habitantes": "3885",
+        "casos_14d": "26",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-07-22",
+        "municipio": "Mazaricos",
+        "habitantes": "3885",
+        "casos_14d": "20",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-07-23",
+        "municipio": "Mazaricos",
+        "habitantes": "3885",
+        "casos_14d": "20",
+        "casos_7d": null
     }
 ]

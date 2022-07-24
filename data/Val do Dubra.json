@@ -3925,5 +3925,194 @@
         "habitantes": "3876",
         "casos_14d": "25",
         "casos_7d": "13"
+    },
+    {
+        "fecha": "2022-06-22",
+        "municipio": "Val do Dubra",
+        "habitantes": "3876",
+        "casos_14d": "21",
+        "casos_7d": "11"
+    },
+    {
+        "fecha": "2022-06-23",
+        "municipio": "Val do Dubra",
+        "habitantes": "3876",
+        "casos_14d": "19",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-24",
+        "municipio": "Val do Dubra",
+        "habitantes": "3876",
+        "casos_14d": "19",
+        "casos_7d": "10"
+    },
+    {
+        "fecha": "2022-06-27",
+        "municipio": "Val do Dubra",
+        "habitantes": "3876",
+        "casos_14d": "21",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-06-28",
+        "municipio": "Val do Dubra",
+        "habitantes": "3876",
+        "casos_14d": "25",
+        "casos_7d": "12"
+    },
+    {
+        "fecha": "2022-06-29",
+        "municipio": "Val do Dubra",
+        "habitantes": "3876",
+        "casos_14d": "29",
+        "casos_7d": "18"
+    },
+    {
+        "fecha": "2022-06-30",
+        "municipio": "Val do Dubra",
+        "habitantes": "3876",
+        "casos_14d": "37",
+        "casos_7d": "28"
+    },
+    {
+        "fecha": "2022-07-01",
+        "municipio": "Val do Dubra",
+        "habitantes": "3876",
+        "casos_14d": "43",
+        "casos_7d": "33"
+    },
+    {
+        "fecha": "2022-07-02",
+        "municipio": "Val do Dubra",
+        "habitantes": "3876",
+        "casos_14d": "45",
+        "casos_7d": "37"
+    },
+    {
+        "fecha": "2022-07-04",
+        "municipio": "Val do Dubra",
+        "habitantes": "3876",
+        "casos_14d": "47",
+        "casos_7d": "38"
+    },
+    {
+        "fecha": "2022-07-05",
+        "municipio": "Val do Dubra",
+        "habitantes": "3876",
+        "casos_14d": "47",
+        "casos_7d": "35"
+    },
+    {
+        "fecha": "2022-07-06",
+        "municipio": "Val do Dubra",
+        "habitantes": "3876",
+        "casos_14d": "52",
+        "casos_7d": "34"
+    },
+    {
+        "fecha": "2022-07-07",
+        "municipio": "Val do Dubra",
+        "habitantes": "3876",
+        "casos_14d": "54",
+        "casos_7d": "26"
+    },
+    {
+        "fecha": "2022-07-08",
+        "municipio": "Val do Dubra",
+        "habitantes": "3876",
+        "casos_14d": "56",
+        "casos_7d": "23"
+    },
+    {
+        "fecha": "2022-07-09",
+        "municipio": "Val do Dubra",
+        "habitantes": "3876",
+        "casos_14d": "54",
+        "casos_7d": "17"
+    },
+    {
+        "fecha": "2022-07-11",
+        "municipio": "Val do Dubra",
+        "habitantes": "3876",
+        "casos_14d": "51",
+        "casos_7d": "13"
+    },
+    {
+        "fecha": "2022-07-12",
+        "municipio": "Val do Dubra",
+        "habitantes": "3876",
+        "casos_14d": "48",
+        "casos_7d": "13"
+    },
+    {
+        "fecha": "2022-07-13",
+        "municipio": "Val do Dubra",
+        "habitantes": "3876",
+        "casos_14d": "45",
+        "casos_7d": "11"
+    },
+    {
+        "fecha": "2022-07-14",
+        "municipio": "Val do Dubra",
+        "habitantes": "3876",
+        "casos_14d": "35",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-07-15",
+        "municipio": "Val do Dubra",
+        "habitantes": "3876",
+        "casos_14d": "29",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-07-16",
+        "municipio": "Val do Dubra",
+        "habitantes": "3876",
+        "casos_14d": "23",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-07-18",
+        "municipio": "Val do Dubra",
+        "habitantes": "3876",
+        "casos_14d": "20",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-07-19",
+        "municipio": "Val do Dubra",
+        "habitantes": "3876",
+        "casos_14d": "19",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-07-20",
+        "municipio": "Val do Dubra",
+        "habitantes": "3876",
+        "casos_14d": "16",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-07-21",
+        "municipio": "Val do Dubra",
+        "habitantes": "3876",
+        "casos_14d": "15",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-07-22",
+        "municipio": "Val do Dubra",
+        "habitantes": "3876",
+        "casos_14d": "12",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-07-23",
+        "municipio": "Val do Dubra",
+        "habitantes": "3876",
+        "casos_14d": "13",
+        "casos_7d": null
     }
 ]

@@ -3925,5 +3925,194 @@
         "habitantes": "245711",
         "casos_14d": "1263",
         "casos_7d": "622"
+    },
+    {
+        "fecha": "2022-06-22",
+        "municipio": "A Coru\u00f1a",
+        "habitantes": "245711",
+        "casos_14d": "1297",
+        "casos_7d": "677"
+    },
+    {
+        "fecha": "2022-06-23",
+        "municipio": "A Coru\u00f1a",
+        "habitantes": "245711",
+        "casos_14d": "1333",
+        "casos_7d": "691"
+    },
+    {
+        "fecha": "2022-06-24",
+        "municipio": "A Coru\u00f1a",
+        "habitantes": "245711",
+        "casos_14d": "1351",
+        "casos_7d": "707"
+    },
+    {
+        "fecha": "2022-06-27",
+        "municipio": "A Coru\u00f1a",
+        "habitantes": "245711",
+        "casos_14d": "1354",
+        "casos_7d": "694"
+    },
+    {
+        "fecha": "2022-06-28",
+        "municipio": "A Coru\u00f1a",
+        "habitantes": "245711",
+        "casos_14d": "1383",
+        "casos_7d": "761"
+    },
+    {
+        "fecha": "2022-06-29",
+        "municipio": "A Coru\u00f1a",
+        "habitantes": "245711",
+        "casos_14d": "1435",
+        "casos_7d": "761"
+    },
+    {
+        "fecha": "2022-06-30",
+        "municipio": "A Coru\u00f1a",
+        "habitantes": "245711",
+        "casos_14d": "1508",
+        "casos_7d": "821"
+    },
+    {
+        "fecha": "2022-07-01",
+        "municipio": "A Coru\u00f1a",
+        "habitantes": "245711",
+        "casos_14d": "1576",
+        "casos_7d": "871"
+    },
+    {
+        "fecha": "2022-07-02",
+        "municipio": "A Coru\u00f1a",
+        "habitantes": "245711",
+        "casos_14d": "1646",
+        "casos_7d": "930"
+    },
+    {
+        "fecha": "2022-07-04",
+        "municipio": "A Coru\u00f1a",
+        "habitantes": "245711",
+        "casos_14d": "1658",
+        "casos_7d": "965"
+    },
+    {
+        "fecha": "2022-07-05",
+        "municipio": "A Coru\u00f1a",
+        "habitantes": "245711",
+        "casos_14d": "1722",
+        "casos_7d": "960"
+    },
+    {
+        "fecha": "2022-07-06",
+        "municipio": "A Coru\u00f1a",
+        "habitantes": "245711",
+        "casos_14d": "1715",
+        "casos_7d": "952"
+    },
+    {
+        "fecha": "2022-07-07",
+        "municipio": "A Coru\u00f1a",
+        "habitantes": "245711",
+        "casos_14d": "1721",
+        "casos_7d": "898"
+    },
+    {
+        "fecha": "2022-07-08",
+        "municipio": "A Coru\u00f1a",
+        "habitantes": "245711",
+        "casos_14d": "1749",
+        "casos_7d": "875"
+    },
+    {
+        "fecha": "2022-07-09",
+        "municipio": "A Coru\u00f1a",
+        "habitantes": "245711",
+        "casos_14d": "1773",
+        "casos_7d": "840"
+    },
+    {
+        "fecha": "2022-07-11",
+        "municipio": "A Coru\u00f1a",
+        "habitantes": "245711",
+        "casos_14d": "1804",
+        "casos_7d": "837"
+    },
+    {
+        "fecha": "2022-07-12",
+        "municipio": "A Coru\u00f1a",
+        "habitantes": "245711",
+        "casos_14d": "1749",
+        "casos_7d": "787"
+    },
+    {
+        "fecha": "2022-07-13",
+        "municipio": "A Coru\u00f1a",
+        "habitantes": "245711",
+        "casos_14d": "1690",
+        "casos_7d": "737"
+    },
+    {
+        "fecha": "2022-07-14",
+        "municipio": "A Coru\u00f1a",
+        "habitantes": "245711",
+        "casos_14d": "1578",
+        "casos_7d": "679"
+    },
+    {
+        "fecha": "2022-07-15",
+        "municipio": "A Coru\u00f1a",
+        "habitantes": "245711",
+        "casos_14d": "1488",
+        "casos_7d": "611"
+    },
+    {
+        "fecha": "2022-07-16",
+        "municipio": "A Coru\u00f1a",
+        "habitantes": "245711",
+        "casos_14d": "1399",
+        "casos_7d": "557"
+    },
+    {
+        "fecha": "2022-07-18",
+        "municipio": "A Coru\u00f1a",
+        "habitantes": "245711",
+        "casos_14d": "1318",
+        "casos_7d": "480"
+    },
+    {
+        "fecha": "2022-07-19",
+        "municipio": "A Coru\u00f1a",
+        "habitantes": "245711",
+        "casos_14d": "1270",
+        "casos_7d": "483"
+    },
+    {
+        "fecha": "2022-07-20",
+        "municipio": "A Coru\u00f1a",
+        "habitantes": "245711",
+        "casos_14d": "1175",
+        "casos_7d": "438"
+    },
+    {
+        "fecha": "2022-07-21",
+        "municipio": "A Coru\u00f1a",
+        "habitantes": "245711",
+        "casos_14d": "1068",
+        "casos_7d": "389"
+    },
+    {
+        "fecha": "2022-07-22",
+        "municipio": "A Coru\u00f1a",
+        "habitantes": "245711",
+        "casos_14d": "977",
+        "casos_7d": "366"
+    },
+    {
+        "fecha": "2022-07-23",
+        "municipio": "A Coru\u00f1a",
+        "habitantes": "245711",
+        "casos_14d": "890",
+        "casos_7d": "333"
     }
 ]

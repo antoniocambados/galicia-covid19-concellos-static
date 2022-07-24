@@ -3925,5 +3925,194 @@
         "habitantes": "6282",
         "casos_14d": "32",
         "casos_7d": "23"
+    },
+    {
+        "fecha": "2022-06-22",
+        "municipio": "Outes",
+        "habitantes": "6282",
+        "casos_14d": "36",
+        "casos_7d": "25"
+    },
+    {
+        "fecha": "2022-06-23",
+        "municipio": "Outes",
+        "habitantes": "6282",
+        "casos_14d": "35",
+        "casos_7d": "24"
+    },
+    {
+        "fecha": "2022-06-24",
+        "municipio": "Outes",
+        "habitantes": "6282",
+        "casos_14d": "36",
+        "casos_7d": "23"
+    },
+    {
+        "fecha": "2022-06-27",
+        "municipio": "Outes",
+        "habitantes": "6282",
+        "casos_14d": "41",
+        "casos_7d": "21"
+    },
+    {
+        "fecha": "2022-06-28",
+        "municipio": "Outes",
+        "habitantes": "6282",
+        "casos_14d": "42",
+        "casos_7d": "19"
+    },
+    {
+        "fecha": "2022-06-29",
+        "municipio": "Outes",
+        "habitantes": "6282",
+        "casos_14d": "41",
+        "casos_7d": "16"
+    },
+    {
+        "fecha": "2022-06-30",
+        "municipio": "Outes",
+        "habitantes": "6282",
+        "casos_14d": "41",
+        "casos_7d": "17"
+    },
+    {
+        "fecha": "2022-07-01",
+        "municipio": "Outes",
+        "habitantes": "6282",
+        "casos_14d": "45",
+        "casos_7d": "22"
+    },
+    {
+        "fecha": "2022-07-02",
+        "municipio": "Outes",
+        "habitantes": "6282",
+        "casos_14d": "46",
+        "casos_7d": "27"
+    },
+    {
+        "fecha": "2022-07-04",
+        "municipio": "Outes",
+        "habitantes": "6282",
+        "casos_14d": "45",
+        "casos_7d": "24"
+    },
+    {
+        "fecha": "2022-07-05",
+        "municipio": "Outes",
+        "habitantes": "6282",
+        "casos_14d": "46",
+        "casos_7d": "27"
+    },
+    {
+        "fecha": "2022-07-06",
+        "municipio": "Outes",
+        "habitantes": "6282",
+        "casos_14d": "49",
+        "casos_7d": "33"
+    },
+    {
+        "fecha": "2022-07-07",
+        "municipio": "Outes",
+        "habitantes": "6282",
+        "casos_14d": "49",
+        "casos_7d": "32"
+    },
+    {
+        "fecha": "2022-07-08",
+        "municipio": "Outes",
+        "habitantes": "6282",
+        "casos_14d": "48",
+        "casos_7d": "26"
+    },
+    {
+        "fecha": "2022-07-09",
+        "municipio": "Outes",
+        "habitantes": "6282",
+        "casos_14d": "49",
+        "casos_7d": "22"
+    },
+    {
+        "fecha": "2022-07-11",
+        "municipio": "Outes",
+        "habitantes": "6282",
+        "casos_14d": "46",
+        "casos_7d": "22"
+    },
+    {
+        "fecha": "2022-07-12",
+        "municipio": "Outes",
+        "habitantes": "6282",
+        "casos_14d": "45",
+        "casos_7d": "18"
+    },
+    {
+        "fecha": "2022-07-13",
+        "municipio": "Outes",
+        "habitantes": "6282",
+        "casos_14d": "43",
+        "casos_7d": "10"
+    },
+    {
+        "fecha": "2022-07-14",
+        "municipio": "Outes",
+        "habitantes": "6282",
+        "casos_14d": "40",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-07-15",
+        "municipio": "Outes",
+        "habitantes": "6282",
+        "casos_14d": "36",
+        "casos_7d": "10"
+    },
+    {
+        "fecha": "2022-07-16",
+        "municipio": "Outes",
+        "habitantes": "6282",
+        "casos_14d": "31",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-07-18",
+        "municipio": "Outes",
+        "habitantes": "6282",
+        "casos_14d": "28",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-07-19",
+        "municipio": "Outes",
+        "habitantes": "6282",
+        "casos_14d": "25",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-07-20",
+        "municipio": "Outes",
+        "habitantes": "6282",
+        "casos_14d": "18",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-07-21",
+        "municipio": "Outes",
+        "habitantes": "6282",
+        "casos_14d": "17",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-07-22",
+        "municipio": "Outes",
+        "habitantes": "6282",
+        "casos_14d": "16",
+        "casos_7d": null
+    },
+    {
+        "fecha": "2022-07-23",
+        "municipio": "Outes",
+        "habitantes": "6282",
+        "casos_14d": "16",
+        "casos_7d": null
     }
 ]

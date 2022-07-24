@@ -3925,5 +3925,194 @@
         "habitantes": "31349",
         "casos_14d": "97",
         "casos_7d": "60"
+    },
+    {
+        "fecha": "2022-06-22",
+        "municipio": "Carballo",
+        "habitantes": "31349",
+        "casos_14d": "103",
+        "casos_7d": "62"
+    },
+    {
+        "fecha": "2022-06-23",
+        "municipio": "Carballo",
+        "habitantes": "31349",
+        "casos_14d": "112",
+        "casos_7d": "72"
+    },
+    {
+        "fecha": "2022-06-24",
+        "municipio": "Carballo",
+        "habitantes": "31349",
+        "casos_14d": "115",
+        "casos_7d": "75"
+    },
+    {
+        "fecha": "2022-06-27",
+        "municipio": "Carballo",
+        "habitantes": "31349",
+        "casos_14d": "132",
+        "casos_7d": "71"
+    },
+    {
+        "fecha": "2022-06-28",
+        "municipio": "Carballo",
+        "habitantes": "31349",
+        "casos_14d": "135",
+        "casos_7d": "75"
+    },
+    {
+        "fecha": "2022-06-29",
+        "municipio": "Carballo",
+        "habitantes": "31349",
+        "casos_14d": "136",
+        "casos_7d": "74"
+    },
+    {
+        "fecha": "2022-06-30",
+        "municipio": "Carballo",
+        "habitantes": "31349",
+        "casos_14d": "147",
+        "casos_7d": "75"
+    },
+    {
+        "fecha": "2022-07-01",
+        "municipio": "Carballo",
+        "habitantes": "31349",
+        "casos_14d": "156",
+        "casos_7d": "81"
+    },
+    {
+        "fecha": "2022-07-02",
+        "municipio": "Carballo",
+        "habitantes": "31349",
+        "casos_14d": "161",
+        "casos_7d": "90"
+    },
+    {
+        "fecha": "2022-07-04",
+        "municipio": "Carballo",
+        "habitantes": "31349",
+        "casos_14d": "179",
+        "casos_7d": "108"
+    },
+    {
+        "fecha": "2022-07-05",
+        "municipio": "Carballo",
+        "habitantes": "31349",
+        "casos_14d": "196",
+        "casos_7d": "121"
+    },
+    {
+        "fecha": "2022-07-06",
+        "municipio": "Carballo",
+        "habitantes": "31349",
+        "casos_14d": "200",
+        "casos_7d": "126"
+    },
+    {
+        "fecha": "2022-07-07",
+        "municipio": "Carballo",
+        "habitantes": "31349",
+        "casos_14d": "201",
+        "casos_7d": "126"
+    },
+    {
+        "fecha": "2022-07-08",
+        "municipio": "Carballo",
+        "habitantes": "31349",
+        "casos_14d": "198",
+        "casos_7d": "117"
+    },
+    {
+        "fecha": "2022-07-09",
+        "municipio": "Carballo",
+        "habitantes": "31349",
+        "casos_14d": "209",
+        "casos_7d": "119"
+    },
+    {
+        "fecha": "2022-07-11",
+        "municipio": "Carballo",
+        "habitantes": "31349",
+        "casos_14d": "215",
+        "casos_7d": "107"
+    },
+    {
+        "fecha": "2022-07-12",
+        "municipio": "Carballo",
+        "habitantes": "31349",
+        "casos_14d": "216",
+        "casos_7d": "95"
+    },
+    {
+        "fecha": "2022-07-13",
+        "municipio": "Carballo",
+        "habitantes": "31349",
+        "casos_14d": "210",
+        "casos_7d": "83"
+    },
+    {
+        "fecha": "2022-07-14",
+        "municipio": "Carballo",
+        "habitantes": "31349",
+        "casos_14d": "204",
+        "casos_7d": "77"
+    },
+    {
+        "fecha": "2022-07-15",
+        "municipio": "Carballo",
+        "habitantes": "31349",
+        "casos_14d": "191",
+        "casos_7d": "74"
+    },
+    {
+        "fecha": "2022-07-16",
+        "municipio": "Carballo",
+        "habitantes": "31349",
+        "casos_14d": "178",
+        "casos_7d": "59"
+    },
+    {
+        "fecha": "2022-07-18",
+        "municipio": "Carballo",
+        "habitantes": "31349",
+        "casos_14d": "153",
+        "casos_7d": "45"
+    },
+    {
+        "fecha": "2022-07-19",
+        "municipio": "Carballo",
+        "habitantes": "31349",
+        "casos_14d": "131",
+        "casos_7d": "36"
+    },
+    {
+        "fecha": "2022-07-20",
+        "municipio": "Carballo",
+        "habitantes": "31349",
+        "casos_14d": "122",
+        "casos_7d": "39"
+    },
+    {
+        "fecha": "2022-07-21",
+        "municipio": "Carballo",
+        "habitantes": "31349",
+        "casos_14d": "114",
+        "casos_7d": "37"
+    },
+    {
+        "fecha": "2022-07-22",
+        "municipio": "Carballo",
+        "habitantes": "31349",
+        "casos_14d": "108",
+        "casos_7d": "34"
+    },
+    {
+        "fecha": "2022-07-23",
+        "municipio": "Carballo",
+        "habitantes": "31349",
+        "casos_14d": "91",
+        "casos_7d": "32"
     }
 ]
